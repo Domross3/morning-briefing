@@ -2,6 +2,118 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "section": "github",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "github:open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "section": "github",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "github:shareAI-lab/learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "section": "github",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "github:zhayujie/CowAgent",
+      "title": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "section": "github",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "github:HKUDS/nanobot",
+      "title": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "section": "github",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-donating-open-source-petri",
+      "title": "Donating our open",
+      "url": "https://www.anthropic.com/research/donating-open-source-petri",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-natural-language-autoencoders",
+      "title": "Natural Language Autoencoders",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-teaching-claude-why",
+      "title": "Teaching Claude why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-project-vend-2",
+      "title": "Project Vend 2",
+      "url": "https://www.anthropic.com/research/project-vend-2",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-2028-ai-leadership",
+      "title": "2028: Two scenarios for global AI leadership",
+      "url": "https://www.anthropic.com/research/2028-ai-leadership",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-anthropic-institute-agenda",
+      "title": "Focus areas for The Anthropic Institute",
+      "url": "https://www.anthropic.com/research/anthropic-institute-agenda",
+      "section": "ai",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "Hacker News:electrek-co-2026-05-16-fisker-ocean-open-source-ev-story-after-bankruptcy",
+      "title": "Fisker went bankrupt and owners built open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "section": "tech",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "Hacker News:www-sfgate-com-national-parks-article-exploding-bear-spray-yellowstone-22244713-php",
+      "title": "Client Challenge",
+      "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
+      "section": "tech",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "Hacker News:maurycyz-com-projects-mcusite",
+      "title": "Hosting a website on an 8-bit microcontroller. (Maurycy's blog)",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "section": "tech",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "Hacker News:arxiv-org-abs-2601-19897",
+      "title": "Self-Distillation Enables Continual Learning",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "section": "tech",
+      "sentAt": "2026-05-16"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmizkfvx3lxte1wz1jfc24yv0d0z09fduf1ztluawjvvmzwy3i3snfjb01gt3dubk5zemy1ofazeuu5afvnnhq3mlz0mvlps0hsvgv5efzjwgr",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZ1JFc24yV0d0Z09fdUF1ZTluaWJVVmZwY3I3SnFjb01GT3dUbk5zemY1OFAzeUU5aFVNNHQ3MlZ0MVlPS0hSVGV5eFZJWGRTdmFpNS1ueUVsbjQzUVoxWjRycmo0UQ?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-16"
+    },
+    {
       "key": "github:langgenius/dify",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
