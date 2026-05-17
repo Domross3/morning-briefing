@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:login?return_to=%2FLight-Heart-Labs%2FDreamServer",
+      "title": "login?return_to=%2FLight-Heart-Labs%2FDreamServer",
+      "url": "https://github.com/login?return_to=%2FLight-Heart-Labs%2FDreamServer",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:login?return_to=%2FHKUDS%2FCLI-Anything",
+      "title": "login?return_to=%2FHKUDS%2FCLI-Anything",
+      "url": "https://github.com/login?return_to=%2FHKUDS%2FCLI-Anything",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:login?return_to=%2Ftech-leads-club%2Fagent-skills",
+      "title": "login?return_to=%2Ftech-leads-club%2Fagent-skills",
+      "url": "https://github.com/login?return_to=%2Ftech-leads-club%2Fagent-skills",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:sponsors/NirDiamant",
+      "title": "sponsors/NirDiamant",
+      "url": "https://github.com/sponsors/NirDiamant",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-pwc-expanded-partnership",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-gates-foundation-partnership",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-for-small-business",
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-higher-limits-spacex",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-chatgpt-recognize-context-in-sensitive-conversations",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-nvidia",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "Hacker News:www-techspot-com-news-112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases-html",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "section": "tech",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "Hacker News:www-nytimes-com-2026-05-17-world-africa-ebola-congo-uganda-who-public-health-emergency-html",
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "section": "tech",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "Hacker News:daringfireball-net-2026-05-ai-is-technology-not-a-product",
+      "title": "AI Is Technology, Not a Product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "section": "tech",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "Hacker News:frederickvanbrabant-com-blog-2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster",
+      "title": "I don",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "section": "tech",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi0afbvv95cuxoynvhz3fqagdmd1qydll4rtvfv2wtddnywgndumvuqlnaqxhdsetrx1y4wfrkwvnsagvidgnsvvp3d3jrnhzlqtriukjucej",
+      "title": "X.AI sues, DOJ intervenes, enforcement of Colorado’s AI Act suspended",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnVhZ3FqaGdMd1Qydll4RTVFV2wtdDNyWGNDUmVuQlNaQXhDSEtRX1Y4WFRkWVNsaGVidGNsVVp3d3JRNHZlQTRiUkJucEJsbDg0WmlKZ2pISEM1M2Uwb3hZd2JGcHg5SXgzS1c0MXk2Q1JhX2k1MXpvdm5vWWlSU045dlgzZEdSbkJZWkVOVjVsWFNSak9yb1kwTXYxNW5TZVNMaXJFX3BPcDFSbzA5Y2x5TUFjOWF1ZzdXWkhhLXpxRmFXSXA5eFBwM2FJdFU3?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiowfbvv95cuxowgdzzehmthned0jnx2m2qi1fowpwqndbtlhonkzmmtdwqm1cvdjjwndnwhbbzenvwvvgx1fqmmt1shlwd0f5ym1lwhh0evb",
+      "title": "China’s AI IPO Boom Leaves US in the Dust",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGdZZEhMTHNEd0JNX2M2Qi1FOWpwQndBTlhoNkZmMTdwQm1CVDJJWndNWHBBZENVWVVGX1FQMmt1SHlWd0F5Ym1LWHh0eVBwNEhqYnBBSzdEOElQYm1JNm5JajlYdERLeTdLeEF0bFFvM0EwQWxMWEFFUk54dGZSNlNTRmdiSVZGeWJuUEtNQnlxekpfWXBSbTdEZzJtcXBCSnVj?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-17"
+    },
+    {
       "key": "github:puppeteer/puppeteer",
       "title": "puppeteer/puppeteer",
       "url": "https://github.com/puppeteer/puppeteer",
