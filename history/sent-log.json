@@ -2,6 +2,90 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:puppeteer/puppeteer",
+      "title": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:hoppscotch/hoppscotch",
+      "title": "hoppscotch/hoppscotch",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:CherryHQ/cherry-studio",
+      "title": "CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "section": "github",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-claude-personal-guidance",
+      "title": "How people ask Claude for personal guidance",
+      "url": "https://www.anthropic.com/research/claude-personal-guidance",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-economic-index-survey-announcement",
+      "title": "Announcing the Anthropic Economic Index Survey",
+      "url": "https://www.anthropic.com/research/economic-index-survey-announcement",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-finance-agents",
+      "title": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-opus-4-7",
+      "title": "Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-design-anthropic-labs",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-is-a-space-to-think",
+      "title": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "section": "ai",
+      "sentAt": "2026-05-17"
+    },
+    {
+      "key": "Hacker News:openai-com-index-malta-chatgpt-plus-partnership",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "section": "tech",
+      "sentAt": "2026-05-17"
+    },
+    {
       "key": "github:NousResearch/hermes-agent",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
