@@ -1,0 +1,64 @@
+name: Morning Briefing
+
+# GitHub Actions cron is UTC. 13:30 UTC = 9:30 AM Eastern in EDT (mid-Mar–Nov).
+# During EST (Nov–mid-Mar) this fires at 8:30 AM ET — change to "30 14 * * *"
+# if you want 9:30 ET year-round, or accept the ±1hr DST drift.
+# GH Actions scheduled workflows can be delayed up to ~15 min during high load.
+on:
+  schedule:
+    - cron: '30 13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # required for the dedup-history commit-back step
+
+concurrency:
+  group: morning-briefing
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Send brief
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: npm run brief
+
+      - name: Upload rendered HTML on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: brief-html-${{ github.run_id }}
+          path: out/latest-brief.html
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Commit updated dedup history
+        if: success()
+        run: |
+          if git diff --quiet history/sent-log.json; then
+            echo "No history changes to commit."
+            exit 0
+          fi
+          git config user.name "morning-briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add history/sent-log.json
+          git commit -m "chore(history): dedup log $(date -u +%Y-%m-%d)"
+          git push

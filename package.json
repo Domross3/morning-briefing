@@ -1,0 +1,19 @@
+{
+  "name": "morning-briefing",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily AI, builder, policy, finance, and climate briefing email via Resend.",
+  "scripts": {
+    "brief": "node src/brief.js",
+    "brief:dry": "node src/brief.js --dry-run",
+    "brief:sample": "node src/brief.js --sample --dry-run",
+    "init-history": "node src/brief.js --init-history"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.8.0"
+  }
+}

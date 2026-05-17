@@ -1,0 +1,111 @@
+import { escapeHtml } from "./lib/text.js";
+
+const SECTION_LABELS = {
+  github: "GitHub",
+  ai: "AI Research",
+  tech: "Tech News",
+  legislation: "AI Legislation",
+  finance: "Finance",
+  sustainability: "Sustainability",
+};
+
+export function renderBrief({ items, dateLabel, degradedSources }) {
+  const grouped = groupBySection(items);
+  // TL;DR = the single top card from each section (in section order), capped
+  // at 3. Gives a genuine cross-section "what mattered today" rather than
+  // dumping the first section's items.
+  const tldrItems = Object.keys(SECTION_LABELS)
+    .map((section) => grouped[section]?.[0])
+    .filter(Boolean)
+    .slice(0, 3);
+  const tldr = tldrItems
+    .map(
+      (item) =>
+        `<li><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a> <span class="tldr-tag">${escapeHtml(SECTION_LABELS[item.section])}</span></li>`,
+    )
+    .join("");
+
+  const sections = Object.keys(SECTION_LABELS)
+    .filter((section) => grouped[section]?.length)
+    .map((section) => renderSection(section, grouped[section]))
+    .join("");
+
+  const degraded = degradedSources.length
+    ? `<p class="degraded">Some sources were unavailable today: ${escapeHtml(degradedSources.join(", "))}.</p>`
+    : "";
+
+  return `<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning Briefing - ${escapeHtml(dateLabel)}</title>
+  <style>
+    body { margin:0; padding:0; background:#f5f7f8; color:#1d2529; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif; }
+    .wrap { max-width:760px; margin:0 auto; padding:28px 18px 40px; }
+    .preheader { color:#62717a; font-size:13px; margin:0 0 8px; }
+    h1 { font-size:28px; line-height:1.15; margin:0 0 18px; letter-spacing:0; }
+    h2 { font-size:17px; margin:28px 0 10px; color:#253238; }
+    .tldr, .card { background:#ffffff; border:1px solid #dde5e8; border-radius:8px; }
+    .tldr { padding:16px 18px; margin-bottom:22px; }
+    .tldr h2 { margin:0 0 8px; }
+    ul { margin:0; padding-left:20px; }
+    li { margin:6px 0; }
+    a { color:#0b5cad; text-decoration:none; }
+    .card { padding:16px 18px; margin:10px 0; }
+    .meta { color:#687982; font-size:12px; margin-bottom:5px; }
+    .title { font-size:16px; font-weight:700; margin:0 0 8px; }
+    .summary, .why { font-size:14px; line-height:1.45; margin:8px 0; }
+    .why { color:#334247; }
+    .chips { margin-top:11px; }
+    .chip { display:inline-block; border:1px solid #cfd9de; border-radius:999px; padding:4px 8px; font-size:12px; color:#38494f; margin:0 6px 6px 0; background:#f8fafb; }
+    .tldr-tag { display:inline-block; font-size:11px; color:#62717a; padding:1px 6px; border:1px solid #dde5e8; border-radius:4px; margin-left:6px; vertical-align:middle; }
+    .footer { color:#718189; font-size:12px; margin-top:6px; }
+    .degraded { color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:8px; padding:10px 12px; font-size:13px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <p class="preheader">~5-minute briefing for ${escapeHtml(dateLabel)}</p>
+    <h1>Morning Briefing</h1>
+    ${degraded}
+    <div class="tldr">
+      <h2>TL;DR</h2>
+      <ul>${tldr || "<li>No high-signal items cleared the filters today.</li>"}</ul>
+    </div>
+    ${sections || renderEmpty()}
+  </div>
+</body>
+</html>`;
+}
+
+function groupBySection(items) {
+  return items.reduce((groups, item) => {
+    groups[item.section] ||= [];
+    groups[item.section].push(item);
+    return groups;
+  }, {});
+}
+
+function renderSection(section, items) {
+  return `<h2>${SECTION_LABELS[section]}</h2>${items.map(renderCard).join("")}`;
+}
+
+function renderCard(item) {
+  const chips = (item.chips || [])
+    .map((chip) => `<span class="chip">${escapeHtml(chip)}</span>`)
+    .join("");
+  const footer = item.section === "github" ? `<div class="footer">rough estimate</div>` : "";
+
+  return `<div class="card">
+    <div class="meta">${escapeHtml(item.source || SECTION_LABELS[item.section] || "Source")}</div>
+    <p class="title"><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></p>
+    <p class="summary">${escapeHtml(item.summary || "")}</p>
+    ${item.why ? `<p class="why"><strong>Why this matters to you:</strong> ${escapeHtml(item.why)}</p>` : ""}
+    ${chips ? `<div class="chips">${chips}</div>${footer}` : ""}
+  </div>`;
+}
+
+function renderEmpty() {
+  return `<div class="card"><p class="summary">No fresh items survived deduplication today, but the routine ran successfully.</p></div>`;
+}
