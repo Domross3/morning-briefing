@@ -39,6 +39,7 @@ jobs:
       - name: Send brief
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BRIEF_TO_EMAIL: ${{ vars.BRIEF_TO_EMAIL }}
         run: npm run brief
 
       - name: Upload rendered HTML on failure

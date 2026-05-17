@@ -4,7 +4,7 @@ export const ROOT = process.cwd();
 
 export function getConfig() {
   return {
-    toEmail: process.env.BRIEF_TO_EMAIL || "mdrosss02@gmail.com",
+    toEmail: process.env.BRIEF_TO_EMAIL || "michros@umich.edu",
     fromEmail:
       process.env.BRIEF_FROM_EMAIL ||
       "Morning Briefing <onboarding@resend.dev>",
