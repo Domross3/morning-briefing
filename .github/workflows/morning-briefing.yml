@@ -1,12 +1,14 @@
 name: Morning Briefing
 
-# GitHub Actions cron is UTC. 13:30 UTC = 9:30 AM Eastern in EDT (mid-Mar–Nov).
-# During EST (Nov–mid-Mar) this fires at 8:30 AM ET — change to "30 14 * * *"
-# if you want 9:30 ET year-round, or accept the ±1hr DST drift.
-# GH Actions scheduled workflows can be delayed up to ~15 min during high load.
+# GitHub Actions cron is UTC. 13:23 UTC = 9:23 AM Eastern in EDT (mid-Mar–Nov).
+# Scheduled at :23 instead of :00 / :15 / :30 / :45 because those round
+# minutes are GH Actions' busiest dispatch slots — off-peak minutes typically
+# fire within 1–3 min of the scheduled time, vs. 10–15 min drift on the marks.
+# During EST (Nov–mid-Mar) this fires at 8:23 AM ET — change to "23 14 * * *"
+# if you want ~9:23 ET year-round, or accept the ±1hr DST drift.
 on:
   schedule:
-    - cron: '30 13 * * *'
+    - cron: '23 13 * * *'
   workflow_dispatch: {}
 
 permissions:
