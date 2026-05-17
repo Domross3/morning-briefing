@@ -24,25 +24,36 @@ export async function hydrateItems(items, { userAgent }) {
 }
 
 async function hydrateArticle(item, userAgent) {
-  const body = await extractArticleBody(item.url, { userAgent });
+  // Google News URLs are JS-only redirects — fetching them returns Google's
+  // own interstitial (og:title="Google News", boilerplate description), not
+  // the destination article. Skip body extraction; trust the RSS title.
+  // Destination URL is opaquely encoded so we can't follow without their
+  // internal batchexecute API.
+  const isGoogleNews = /(^|\.)news\.google\.com$/i.test(safeHost(item.url));
 
-  // Real title beats a slug-derived placeholder (used for React-rendered
-  // listings like Anthropic's where the listing HTML has no titles).
-  if (body?.title && body.title.length > 4 && body.title.length < 200) {
+  const body = isGoogleNews ? null : await extractArticleBody(item.url, { userAgent });
+
+  // Sanity check: if hydration returned Google News's interstitial title (can
+  // happen for any URL that ultimately redirects through gnews), reject it.
+  const isInterstitial =
+    body?.title && /^google news$/i.test(body.title.trim());
+
+  if (!isInterstitial && body?.title && body.title.length > 4 && body.title.length < 200) {
     item.title = body.title;
   }
 
-  if (body?.summary && body.summary.length > 40) {
+  if (!isInterstitial && body?.summary && body.summary.length > 40) {
     item.summary = body.summary;
     item.hydrated = true;
   }
 
-  // Read-time estimate uses the ACTUAL linked article's word count when we
-  // have it (post-hydration). Falls back to the in-email summary, then to
-  // the title, when extraction failed entirely.
+  // Read-time estimate: actual full-article words when hydration succeeded,
+  // RSS-provided default (~4 min) for Google News items, fallback otherwise.
   let wordCountSource;
-  if (body?.fullWordCount && body.fullWordCount > 50) {
+  if (!isInterstitial && body?.fullWordCount && body.fullWordCount > 50) {
     wordCountSource = body.fullWordCount;
+  } else if (isGoogleNews) {
+    wordCountSource = 800; // ~4 min — typical news-article length
   } else {
     wordCountSource = (item.summary || item.title || "")
       .trim()
@@ -54,6 +65,14 @@ async function hydrateArticle(item, userAgent) {
   const chips = (item.chips || []).filter((c) => !/^read:/i.test(c));
   chips.unshift(`Read: ~${minutes} min`);
   item.chips = chips;
+}
+
+function safeHost(url) {
+  try {
+    return new URL(url).hostname;
+  } catch {
+    return "";
+  }
 }
 
 function readMinutesFromWords(words) {

@@ -14,6 +14,7 @@ import { applyHistory, initHistory, readHistory, updateHistory } from "./history
 import { scoreAndSelect } from "./select.js";
 import { hydrateItems } from "./hydrate.js";
 import { synthesizeSection } from "./synthesize.js";
+import { itemIsLikelyEnglish } from "./lib/language.js";
 import { renderBrief } from "./render.js";
 import { sendEmail } from "./email.js";
 
@@ -39,7 +40,16 @@ async function main() {
     ? { items: sampleItems(), degradedSources: [] }
     : await collectAll(config);
 
-  const freshItems = dryRun ? items : applyHistory(items, history);
+  // Drop items that are non-English by heuristic. Heuristic-only because we
+  // have no translation API in the loop (would require LLM). Filter runs on
+  // raw candidates so we don't waste hydration cycles on items we'll drop.
+  // Sample items are excluded so dev/sample mode still demos the layout.
+  const englishItems = sample
+    ? items
+    : items.filter((item) => itemIsLikelyEnglish(item));
+  const droppedNonEnglish = items.length - englishItems.length;
+
+  const freshItems = dryRun ? englishItems : applyHistory(englishItems, history);
   const selected = scoreAndSelect(freshItems, profileText);
   const finalItems = selected.length ? selected : fallbackItems(degradedSources);
 
@@ -66,6 +76,9 @@ async function main() {
   if (dryRun) {
     console.log(`Dry run complete. Wrote ${config.outputPath}`);
     console.log(`Selected ${finalItems.length} cards from ${items.length} candidates.`);
+    if (droppedNonEnglish > 0) {
+      console.log(`Dropped ${droppedNonEnglish} non-English candidates.`);
+    }
     if (degradedSources.length) {
       console.log(`Degraded sources: ${degradedSources.join(", ")}`);
     }

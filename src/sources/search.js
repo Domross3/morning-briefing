@@ -55,17 +55,20 @@ export async function collectSearch({ userAgent }) {
         .map((item) => {
           const title = cleanTitle(item.title);
           const url = item.link;
-          // Google News description = "title&nbsp;&nbsp;Publisher" — useless
-          // as a summary. Leave thin; hydrateSummaries() fetches the real body.
-          const thinSummary = sentenceSummary(
-            stripPublisherByline(stripHtml(item.description || "")) || title,
-            210,
-          );
+          // Google News description structure is "<a>title</a>&nbsp;&nbsp;<font>publisher</font>".
+          // Hydration doesn't work on news.google.com URLs (JS interstitial),
+          // so we surface the publisher in the card's meta line and put a
+          // pithier note in the summary instead of repeating the title.
+          const publisher = extractGooglePublisher(item.description || "");
+          const thinSummary = publisher
+            ? `Coverage from ${publisher} — click through for the full piece.`
+            : `Click through for the full piece.`;
+          const sourceLabel = publisher ? `${query.source} · ${publisher}` : query.source;
           return {
             id: `${query.section}:${slugId(url || title)}`,
             dedupeKey: `${query.section}:${slugId(url || title)}`,
             section: query.section,
-            source: query.source,
+            source: sourceLabel,
             title,
             url,
             summary: thinSummary,
@@ -96,4 +99,13 @@ function cleanTitle(raw) {
     return text.slice(0, lastDash).trim();
   }
   return text;
+}
+
+// Pull the publisher name from Google News's description HTML. Structure is:
+//   <a href="...">Title</a>&nbsp;&nbsp;<font color="#6f6f6f">Publisher Name</font>
+// Returns just the publisher string, or null if the structure isn't there.
+function extractGooglePublisher(descriptionHtml) {
+  const m = descriptionHtml.match(/<font[^>]*>([^<]+)<\/font>/i);
+  if (m && m[1]) return stripHtml(m[1]).trim();
+  return null;
 }
