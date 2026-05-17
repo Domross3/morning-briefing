@@ -3,13 +3,38 @@ export function stripHtml(value = "") {
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&#160;/g, " ")
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
+    .replace(/&hellip;/g, "…")
+    .replace(/&mdash;/g, "—")
+    .replace(/&ndash;/g, "–")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
     .replace(/\s+/g, " ")
     .trim();
+}
+
+// Strip trailing "Publisher Name" bylines that Google News tacks onto
+// descriptions. Pattern: 2+ spaces (post-&nbsp;-decode) followed by a
+// capitalized name run to end of string.
+export function stripPublisherByline(value = "") {
+  let result = value;
+  result = result.replace(/\s{2,}[A-Z][A-Za-z0-9.&'’\-()\s]{1,60}$/, "");
+  result = result.replace(/\s+[-–—]\s+[A-Z][A-Za-z0-9.&'’\-()\s]{2,60}$/, "");
+  return result.trim();
+}
+
+// 220wpm is a common modern benchmark for online prose. Returns at least 1
+// so we never render "~0 min".
+export function readMinutes(text = "", wpm = 220) {
+  const words = String(text).trim().split(/\s+/).filter(Boolean).length;
+  if (!words) return 1;
+  return Math.max(1, Math.round(words / wpm));
 }
 
 export function escapeHtml(value = "") {

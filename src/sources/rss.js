@@ -68,11 +68,7 @@ function normalizeFeedItem(item, feed) {
     source: feed.source,
     title,
     url: link,
-    summary: summary || "New item from a priority source.",
-    why:
-      feed.section === "ai"
-        ? "Priority AI source; likely worth checking for model, research, or agent implications."
-        : undefined,
+    summary: summary || "",
     score: feed.section === "ai" ? 16 : 8,
   };
 }

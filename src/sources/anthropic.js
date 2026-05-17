@@ -1,47 +1,49 @@
 import { fetchText } from "../lib/fetch.js";
-import { sentenceSummary, slugId, stripHtml } from "../lib/text.js";
+import { slugId } from "../lib/text.js";
 
+// Anthropic's listing pages are React-rendered. Static HTML contains the
+// article slugs but not the displayed titles. We extract slugs here and
+// rely on hydration to fetch each article page and pull the real title +
+// summary from its <title> / og:title / meta description.
 const PAGES = [
-  { url: "https://www.anthropic.com/research", source: "Anthropic Research" },
-  { url: "https://www.anthropic.com/news", source: "Anthropic News" },
+  { url: "https://www.anthropic.com/research", source: "Anthropic Research", path: "research" },
+  { url: "https://www.anthropic.com/news", source: "Anthropic News", path: "news" },
 ];
 
 export async function collectAnthropic({ userAgent }) {
   const settled = await Promise.allSettled(
     PAGES.map(async (page) => {
       const html = await fetchText(page.url, { userAgent });
-      const links = [...html.matchAll(/href="(\/(?:research|news)\/[^"]+)"[^>]*>([\s\S]{0,260}?)<\/a>/g)];
-      const seen = new Set();
+      // Match /research/<slug> or /news/<slug> where slug is reasonable.
+      const re = new RegExp(`"/${page.path}/([a-z0-9][a-z0-9-]{4,80})"`, "g");
+      const slugs = [...new Set([...html.matchAll(re)].map((m) => m[1]))]
+        .filter((slug) => !slug.startsWith("team/") && slug !== "policy")
+        .slice(0, 8);
 
-      return links
-        .map((match) => ({
-          url: `https://www.anthropic.com${match[1]}`,
-          title: stripHtml(match[2]),
-        }))
-        .filter((item) => {
-          if (!item.title || item.title.length < 8 || seen.has(item.url)) return false;
-          if (/\/team(?:\/|$)/.test(item.url)) return false;
-          if (/^(research|news|careers|policy|alignment|interpretability|societal impacts|economic research)$/i.test(item.title)) {
-            return false;
-          }
-          seen.add(item.url);
-          return true;
-        })
-        .slice(0, 8)
-        .map((item) => ({
-          id: `anthropic:${slugId(item.url)}`,
-          dedupeKey: `anthropic:${slugId(item.url)}`,
+      return slugs.map((slug) => {
+        const url = `https://www.anthropic.com/${page.path}/${slug}`;
+        const fallbackTitle = slugToTitle(slug);
+        return {
+          id: `anthropic:${slugId(url)}`,
+          dedupeKey: `anthropic:${slugId(url)}`,
           section: "ai",
           source: page.source,
-          title: item.title,
-          url: item.url,
-          summary: sentenceSummary(`${item.title}. New Anthropic item from a priority source.`, 220),
-          why: "Anthropic is a priority source for agent, safety, and frontier-model direction.",
-          chips: ["Read: ~6 min"],
+          title: fallbackTitle, // hydration replaces with real <title>
+          url,
+          summary: fallbackTitle, // hydration replaces with meta description
           score: 20,
-        }));
+          priority: true,
+        };
+      });
     }),
   );
 
   return settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
+}
+
+function slugToTitle(slug) {
+  return slug
+    .split("-")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
 }

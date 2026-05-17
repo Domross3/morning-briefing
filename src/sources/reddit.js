@@ -19,7 +19,10 @@ export async function collectReddit({ userAgent }) {
         url: post.url?.startsWith("http")
           ? post.url
           : `https://www.reddit.com${post.permalink}`,
-        summary: sentenceSummary(post.selftext || `${post.ups || 0} upvotes and active discussion.`, 210),
+        // If post has selftext, use it. Otherwise leave thin — hydration fetches
+        // the external article (or thread) for a real summary.
+        summary: post.selftext ? sentenceSummary(post.selftext, 210) : "",
+        upvotes: post.ups || 0,
         score: Math.min(14, 5 + Math.log10(Math.max(post.ups || 1, 1)) * 3),
       }));
     }),

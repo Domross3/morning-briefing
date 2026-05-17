@@ -9,11 +9,9 @@ const SECTION_LABELS = {
   sustainability: "Sustainability",
 };
 
-export function renderBrief({ items, dateLabel, degradedSources }) {
+export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {} }) {
   const grouped = groupBySection(items);
-  // TL;DR = the single top card from each section (in section order), capped
-  // at 3. Gives a genuine cross-section "what mattered today" rather than
-  // dumping the first section's items.
+  // TL;DR = the single top card from each section, capped at 3.
   const tldrItems = Object.keys(SECTION_LABELS)
     .map((section) => grouped[section]?.[0])
     .filter(Boolean)
@@ -27,7 +25,9 @@ export function renderBrief({ items, dateLabel, degradedSources }) {
 
   const sections = Object.keys(SECTION_LABELS)
     .filter((section) => grouped[section]?.length)
-    .map((section) => renderSection(section, grouped[section]))
+    .map((section) =>
+      renderSection(section, grouped[section], sectionSyntheses[section]),
+    )
     .join("");
 
   const degraded = degradedSources.length
@@ -46,7 +46,7 @@ export function renderBrief({ items, dateLabel, degradedSources }) {
     .preheader { color:#62717a; font-size:13px; margin:0 0 8px; }
     h1 { font-size:28px; line-height:1.15; margin:0 0 18px; letter-spacing:0; }
     h2 { font-size:17px; margin:28px 0 10px; color:#253238; }
-    .tldr, .card { background:#ffffff; border:1px solid #dde5e8; border-radius:8px; }
+    .tldr, .card, .synthesis, .compare { background:#ffffff; border:1px solid #dde5e8; border-radius:8px; }
     .tldr { padding:16px 18px; margin-bottom:22px; }
     .tldr h2 { margin:0 0 8px; }
     ul { margin:0; padding-left:20px; }
@@ -55,12 +55,22 @@ export function renderBrief({ items, dateLabel, degradedSources }) {
     .card { padding:16px 18px; margin:10px 0; }
     .meta { color:#687982; font-size:12px; margin-bottom:5px; }
     .title { font-size:16px; font-weight:700; margin:0 0 8px; }
-    .summary, .why { font-size:14px; line-height:1.45; margin:8px 0; }
-    .why { color:#334247; }
+    .summary { font-size:14px; line-height:1.5; margin:8px 0; color:#1d2529; }
+    .tryit { font-size:13px; line-height:1.4; margin:10px 0 4px; color:#334247; }
+    .tryit code { background:#f1f5f7; border:1px solid #dce5e8; border-radius:4px; padding:1px 6px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px; word-break:break-all; }
     .chips { margin-top:11px; }
     .chip { display:inline-block; border:1px solid #cfd9de; border-radius:999px; padding:4px 8px; font-size:12px; color:#38494f; margin:0 6px 6px 0; background:#f8fafb; }
     .tldr-tag { display:inline-block; font-size:11px; color:#62717a; padding:1px 6px; border:1px solid #dde5e8; border-radius:4px; margin-left:6px; vertical-align:middle; }
     .footer { color:#718189; font-size:12px; margin-top:6px; }
+    .synthesis { padding:14px 18px; margin:8px 0 6px; background:#f4f7f8; border-color:#dce4e7; }
+    .synthesis .label { font-size:11px; text-transform:uppercase; letter-spacing:0.4px; color:#62717a; font-weight:600; margin-bottom:6px; }
+    .synthesis .body { font-size:13.5px; line-height:1.5; color:#253238; }
+    .compare { padding:14px 18px; margin:8px 0 14px; }
+    .compare .label { font-size:11px; text-transform:uppercase; letter-spacing:0.4px; color:#62717a; font-weight:600; margin-bottom:8px; }
+    .compare table { border-collapse:collapse; width:100%; font-size:13px; }
+    .compare th, .compare td { text-align:left; padding:6px 8px; border-bottom:1px solid #eaeff1; vertical-align:top; }
+    .compare th { color:#62717a; font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:0.3px; }
+    .compare td:first-child { white-space:nowrap; }
     .degraded { color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:8px; padding:10px 12px; font-size:13px; }
   </style>
 </head>
@@ -87,23 +97,74 @@ function groupBySection(items) {
   }, {});
 }
 
-function renderSection(section, items) {
-  return `<h2>${SECTION_LABELS[section]}</h2>${items.map(renderCard).join("")}`;
+function renderSection(section, items, synthesis) {
+  const cards = items.map(renderCard).join("");
+  const compare = section === "github" ? renderGithubCompare(items) : "";
+  const footer = synthesis
+    ? `<div class="synthesis"><div class="label">Why this matters to you</div><div class="body">${escapeHtml(synthesis)}</div></div>`
+    : "";
+  return `<h2>${SECTION_LABELS[section]}</h2>${cards}${compare}${footer}`;
 }
 
 function renderCard(item) {
   const chips = (item.chips || [])
     .map((chip) => `<span class="chip">${escapeHtml(chip)}</span>`)
     .join("");
-  const footer = item.section === "github" ? `<div class="footer">rough estimate</div>` : "";
+  const footer = item.section === "github" && item.chips?.some((c) => /difficulty:/i.test(c))
+    ? `<div class="footer">rough estimate</div>`
+    : "";
+
+  // Try-it line for GitHub repos with an extracted install snippet.
+  const tryit =
+    item.section === "github" && item.installSnippet
+      ? `<p class="tryit"><strong>Try it:</strong> <code>${escapeHtml(item.installSnippet)}</code></p>`
+      : "";
 
   return `<div class="card">
     <div class="meta">${escapeHtml(item.source || SECTION_LABELS[item.section] || "Source")}</div>
     <p class="title"><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></p>
     <p class="summary">${escapeHtml(item.summary || "")}</p>
-    ${item.why ? `<p class="why"><strong>Why this matters to you:</strong> ${escapeHtml(item.why)}</p>` : ""}
+    ${tryit}
     ${chips ? `<div class="chips">${chips}</div>${footer}` : ""}
   </div>`;
+}
+
+// GitHub comparison block: a small table that gives a glance-level read on
+// how today's picks differ on the dimensions the user cares about
+// (language, stars, what they do).
+function renderGithubCompare(items) {
+  if (items.length < 2) return "";
+  const rows = items
+    .map(
+      (i) => `
+      <tr>
+        <td><a href="${escapeHtml(i.url)}">${escapeHtml(i.title)}</a></td>
+        <td>${escapeHtml(i.language || "—")}</td>
+        <td>${i.stars ? formatStars(i.stars) : "—"}</td>
+        <td>${escapeHtml(shortPitch(i.summary || ""))}</td>
+      </tr>`,
+    )
+    .join("");
+
+  return `<div class="compare">
+    <div class="label">At a glance — comparison</div>
+    <table>
+      <thead><tr><th>Repo</th><th>Lang</th><th>Stars</th><th>What it does</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
+}
+
+function formatStars(n) {
+  if (n >= 1000) return `${(n / 1000).toFixed(n >= 10000 ? 0 : 1)}k`;
+  return String(n);
+}
+
+// First ~14 words of the summary — table-cell sized.
+function shortPitch(summary) {
+  const words = summary.trim().split(/\s+/);
+  if (words.length <= 14) return summary.trim();
+  return `${words.slice(0, 14).join(" ")}…`;
 }
 
 function renderEmpty() {

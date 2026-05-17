@@ -27,9 +27,11 @@ export async function collectGitHub({ userAgent }) {
         source: "GitHub",
         rawScore: repo.stargazers_count || 0,
         summary: sentenceSummary(repo.description || "No description provided.", 180),
-        why: whyGitHub(repo),
         chips: estimateGitHubChips(repo),
         tags: repo.topics || [],
+        stars: repo.stargazers_count || 0,
+        language: repo.language || null,
+        repoFullName: repo.full_name,
       });
     }
   }
@@ -47,6 +49,7 @@ async function collectTrending(userAgent) {
   return articles.slice(0, 12).map((article) => {
     const href = article.match(/href="([^"]+)"[\s\S]*?<span/);
     const description = article.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+    const langMatch = article.match(/itemprop="programmingLanguage"[^>]*>([^<]+)</);
     const repoPath = href?.[1]?.replace(/^\/+/, "") || "unknown/repo";
     const summary = sentenceSummary(description?.[1] || "", 180);
 
@@ -58,9 +61,11 @@ async function collectTrending(userAgent) {
       source: "GitHub Trending",
       rawScore: 500,
       summary: summary || "Trending repository on GitHub today.",
-      why: "Worth a quick scan because it is getting fresh builder attention today.",
       chips: estimateGitHubChips({ description: summary, topics: [] }),
       tags: ["trending"],
+      stars: null,
+      language: langMatch ? langMatch[1].trim() : null,
+      repoFullName: repoPath,
     };
   });
 }
@@ -73,20 +78,6 @@ function dedupeRepos(items) {
     seen.add(key);
     return true;
   });
-}
-
-function whyGitHub(repo) {
-  const text = `${repo.description || ""} ${(repo.topics || []).join(" ")}`.toLowerCase();
-  if (text.includes("agent")) {
-    return "Agent tooling is directly relevant to autonomous workflows and Aspera-style product surfaces.";
-  }
-  if (text.includes("local") || text.includes("self-host")) {
-    return "Local or self-hosted leverage fits your preference for durable, lower-friction automation.";
-  }
-  if (text.includes("developer") || text.includes("cli")) {
-    return "This may save builder time if it slots into an existing dev loop without ceremony.";
-  }
-  return "Potentially useful builder leverage; inspect the README before investing deeper time.";
 }
 
 function estimateGitHubChips(repo) {

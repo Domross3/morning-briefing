@@ -12,6 +12,8 @@ import { collectRss } from "./sources/rss.js";
 import { collectSearch } from "./sources/search.js";
 import { applyHistory, initHistory, readHistory, updateHistory } from "./history.js";
 import { scoreAndSelect } from "./select.js";
+import { hydrateItems } from "./hydrate.js";
+import { synthesizeSection } from "./synthesize.js";
 import { renderBrief } from "./render.js";
 import { sendEmail } from "./email.js";
 
@@ -40,7 +42,23 @@ async function main() {
   const freshItems = dryRun ? items : applyHistory(items, history);
   const selected = scoreAndSelect(freshItems, profileText);
   const finalItems = selected.length ? selected : fallbackItems(degradedSources);
-  const html = renderBrief({ items: finalItems, dateLabel, degradedSources });
+
+  // Hydrate selected items with real article bodies / READMEs. All parallel,
+  // failures are non-fatal — items just keep their thin RSS summary.
+  if (!sample) {
+    await hydrateItems(finalItems, { userAgent: config.userAgent });
+  }
+
+  // Per-section synthesis (templated, but content-aware — not boilerplate).
+  const sectionSyntheses = {};
+  for (const section of ["github", "ai", "tech", "legislation", "finance", "sustainability"]) {
+    const itemsInSection = finalItems.filter((i) => i.section === section);
+    if (itemsInSection.length) {
+      sectionSyntheses[section] = synthesizeSection(section, itemsInSection, profileText);
+    }
+  }
+
+  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses });
 
   await fs.mkdir(path.dirname(config.outputPath), { recursive: true });
   await fs.writeFile(config.outputPath, html, "utf8");

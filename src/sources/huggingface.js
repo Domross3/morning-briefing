@@ -25,9 +25,8 @@ export async function collectHuggingFace({ userAgent }) {
       source: "HF Daily Papers",
       title: paper.title,
       url: paper.url,
-      summary: sentenceSummary(`${paper.title}. Daily paper pick on Hugging Face.`, 220),
-      why: "Daily paper signal; scan for agent, tooling, or product implications.",
-      chips: ["Read: ~8 min"],
+      // Summary placeholder; replaced by hydrateSummaries() before render.
+      summary: sentenceSummary(paper.title, 220),
       score: 13,
     }));
 }

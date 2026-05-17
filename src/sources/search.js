@@ -1,6 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 import { fetchText } from "../lib/fetch.js";
-import { sentenceSummary, slugId, stripHtml } from "../lib/text.js";
+import { sentenceSummary, slugId, stripHtml, stripPublisherByline } from "../lib/text.js";
 
 // Google News RSS gives much higher hit rates than HN Algolia for legislation,
 // finance, and climate topics — most of these stories never reach HN's front
@@ -13,7 +13,6 @@ const QUERIES = [
       '("AI legislation" OR "AI regulation" OR "AI policy" OR "AI Act" OR "AI bill") when:7d',
     cap: 3,
     score: 12,
-    why: "Policy moves that could shape what builders are allowed to ship.",
   },
   {
     section: "finance",
@@ -22,7 +21,6 @@ const QUERIES = [
       '("AI funding" OR "AI startup raises" OR "AI acquisition" OR "AI IPO") when:7d',
     cap: 2,
     score: 8,
-    why: "Notable AI/tech money moves — pattern signal for where the field is going.",
   },
   {
     section: "sustainability",
@@ -31,7 +29,6 @@ const QUERIES = [
       '("climate tech" OR "clean energy" OR "carbon removal" OR "grid battery") when:7d',
     cap: 2,
     score: 8,
-    why: "Climate / energy stories that meet a notability bar this week.",
   },
 ];
 
@@ -58,6 +55,12 @@ export async function collectSearch({ userAgent }) {
         .map((item) => {
           const title = cleanTitle(item.title);
           const url = item.link;
+          // Google News description = "title&nbsp;&nbsp;Publisher" — useless
+          // as a summary. Leave thin; hydrateSummaries() fetches the real body.
+          const thinSummary = sentenceSummary(
+            stripPublisherByline(stripHtml(item.description || "")) || title,
+            210,
+          );
           return {
             id: `${query.section}:${slugId(url || title)}`,
             dedupeKey: `${query.section}:${slugId(url || title)}`,
@@ -65,11 +68,7 @@ export async function collectSearch({ userAgent }) {
             source: query.source,
             title,
             url,
-            summary: sentenceSummary(
-              stripHtml(item.description || "") || title,
-              210,
-            ),
-            why: query.why,
+            summary: thinSummary,
             score: query.score,
           };
         });
