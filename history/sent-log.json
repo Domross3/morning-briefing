@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:login?return_to=%2Fhumanlayer%2F12-factor-agents",
+      "title": "login?return_to=%2Fhumanlayer%2F12-factor-agents",
+      "url": "https://github.com/login?return_to=%2Fhumanlayer%2F12-factor-agents",
+      "section": "github",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "github:login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills",
+      "title": "login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills",
+      "url": "https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills",
+      "section": "github",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "github:login?return_to=%2Fggml-org%2Fllama.cpp",
+      "title": "login?return_to=%2Fggml-org%2Fllama.cpp",
+      "url": "https://github.com/login?return_to=%2Fggml-org%2Fllama.cpp",
+      "section": "github",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "github:login?return_to=%2Ftinyhumansai%2Fopenhuman",
+      "title": "login?return_to=%2Ftinyhumansai%2Fopenhuman",
+      "url": "https://github.com/login?return_to=%2Ftinyhumansai%2Fopenhuman",
+      "section": "github",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "github:login?return_to=%2FImbad0202%2Facademic-research-skills",
+      "title": "login?return_to=%2FImbad0202%2Facademic-research-skills",
+      "url": "https://github.com/login?return_to=%2FImbad0202%2Facademic-research-skills",
+      "section": "github",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-13527",
+      "title": "Paper page - MMSkills: Towards Multimodal Skills for General Visual Agents",
+      "url": "https://huggingface.co/papers/2605.13527",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-11739",
+      "title": "Paper page - Learning to Foresee: Unveiling the Unlocking Efficiency of On",
+      "url": "https://huggingface.co/papers/2605.11739",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-15980",
+      "title": "Paper page - Flash-GRPO: Efficient Alignment for Video Diffusion via One",
+      "url": "https://huggingface.co/papers/2605.15980",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-15298",
+      "title": "Paper page",
+      "url": "https://huggingface.co/papers/2605.15298",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-12882",
+      "title": "Paper page - CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
+      "url": "https://huggingface.co/papers/2605.12882",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-15824",
+      "title": "Paper page - FashionChameleon: Towards Real-Time and Interactive Human",
+      "url": "https://huggingface.co/papers/2605.15824",
+      "section": "ai",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "Hacker News:blog-cloudflare-com-cyber-frontier-models",
+      "title": "Project Glasswing: what Mythos showed us",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "section": "tech",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "Hacker News:www-404media-co-researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai",
+      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+      "section": "tech",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "Hacker News:github-com-kevinkenya-nairobi-connector-open-source",
+      "title": "GitHub - KevinKenya/nairobi-connector-open",
+      "url": "https://github.com/KevinKenya/nairobi-connector-open-source",
+      "section": "tech",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "Hacker News:archestra-ai-blog-only-responsible-ai",
+      "title": "Let&#x27;s talk about AI slop",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "section": "tech",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiwafbvv95cuxoc21hq0tsvktzmwtqd2hnvfztrkfkvve4alewneu0rmhebudzy2hycvbozhnvuvvzm0vwzfituwtwynhkx0xrvzvkvxvuqwi",
+      "title": "10M $10 units: inside Starlink AI's $100M blank-check IPO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc21HQ0tSVktzMWtqd2hnVFZTRkFKVVE4alEwNEU0RmhEbUdZY2hYcVBOZHNVUVVZM0VWZFItUWtWYnhkX0xrVzVkVXVuQWI4cUlBNjNQc2hkRkRUb1F3UWd5ZllCaDdmcXF2MS1rSEp5V05Hdm90bml1dnlDaVZES2hSUTFRT2dWT05SXzNGckQ5MDFDQzhiV205bEZtdmo1Tm9zQ0lxSDB6aGV1UXFsYnZGRlpJT0VmOTdoeFhYZWU?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-18"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmijafbvv95cuxns3bpvtdbywozs0qzbfdjakhbcultuhd6t3rdq0zjz3vyzjfnejewwlr6mulldklgdlmycxpqbkhgchbxrvfivdhsq3j1dwd",
+      "title": "Clean Energy Resources to Meet Data Center Electricity Demand",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-18"
+    },
+    {
       "key": "github:login?return_to=%2FLight-Heart-Labs%2FDreamServer",
       "title": "login?return_to=%2FLight-Heart-Labs%2FDreamServer",
       "url": "https://github.com/login?return_to=%2FLight-Heart-Labs%2FDreamServer",
