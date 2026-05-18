@@ -158,17 +158,38 @@ function extractReadmeIntro(markdown) {
     .filter((line) => line.length > 0)
     .filter((line) => !/^#+\s/.test(line)) // headers
     .filter((line) => !/^>\s/.test(line)) // blockquotes
-    .filter((line) => !/^[-*]\s/.test(line)) // list items (usually TOC)
+    // List items: keep SUBSTANTIVE bullets (feature lists, capability
+    // summaries) but drop short ones and anchor-link TOCs.
+    .filter((line) => {
+      if (!/^[-*]\s/.test(line)) return true;
+      if (line.length < 40) return false; // too short to be informative
+      if (/\[[^\]]+\]\(#[^)]+\)/.test(line)) return false; // TOC anchor
+      return true;
+    })
     .filter((line) => !/^[-—–=*_]{3,}\s*$/.test(line)) // horizontal rules
     // Lone markdown link, with optional trailing pipe/comma (locale link rows
     // where each translation lives on its own line).
     .filter((line) => !/^\[[^\]]+\]\([^)]+\)\s*[|,]?\s*$/.test(line))
+    // Markdown table rows (any line starting with a pipe). Covers both the
+    // header/separator (|---|---|) and data rows (| A | B |). Real prose
+    // never starts with a pipe.
+    .filter((line) => !/^\s*\|/.test(line))
     .filter((line) => !isNoiseLine(line));
 
   // Strip a leading "Locale | " or "Locale - " from EACH surviving line
   // (a locale-tagged sentence can appear mid-paragraph in some READMEs).
   const LOCALE_PREFIX = /^[\p{Lu}\p{Lo}][\p{L}\s()]{1,30}\s*[|\-–—]\s+/u;
-  const cleaned = keptLines.slice(0, 6).map((line) => line.replace(LOCALE_PREFIX, ""));
+
+  // Keep up to 12 lines; format substantive bullets with a separator so they
+  // remain readable when joined into a single paragraph block.
+  const cleaned = keptLines.slice(0, 12).map((line) => {
+    const stripped = line.replace(LOCALE_PREFIX, "");
+    // Convert "- Feature description" into " · Feature description" so it
+    // reads as a continuation rather than a stray dash.
+    return /^[-*]\s/.test(stripped)
+      ? ` · ${stripped.replace(/^[-*]\s+/, "")}`
+      : stripped;
+  });
 
   let prose = cleaned
     .join(" ")
@@ -177,7 +198,9 @@ function extractReadmeIntro(markdown) {
     .replace(/\*([^*]+)\*/g, "$1") // *italic* → italic
     .replace(/`([^`]+)`/g, "$1"); // `code` → code
 
-  return clip(compactWhitespace(stripHtml(prose)), 480);
+  // Target ~1100 chars (~180 words, ~1 minute read) — enough for a real
+  // paragraph-plus-feature-bullets summary, not just a single sentence.
+  return clip(compactWhitespace(stripHtml(prose)), 1100);
 }
 
 // A "noise line" is something a human reader would skip: locale link tables,
