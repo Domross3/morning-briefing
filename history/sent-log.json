@@ -2,6 +2,104 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:login?return_to=%2Fcolbymchenry%2Fcodegraph",
+      "title": "login?return_to=%2Fcolbymchenry%2Fcodegraph",
+      "url": "https://github.com/login?return_to=%2Fcolbymchenry%2Fcodegraph",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:login?return_to=%2Fmultica-ai%2Fandrej-karpathy-skills",
+      "title": "login?return_to=%2Fmultica-ai%2Fandrej-karpathy-skills",
+      "url": "https://github.com/login?return_to=%2Fmultica-ai%2Fandrej-karpathy-skills",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:login?return_to=%2Fanthropics%2Fclaude-plugins-official",
+      "title": "login?return_to=%2Fanthropics%2Fclaude-plugins-official",
+      "url": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-plugins-official",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:login?return_to=%2FCloakHQ%2FCloakBrowser",
+      "title": "login?return_to=%2FCloakHQ%2FCloakBrowser",
+      "url": "https://github.com/login?return_to=%2FCloakHQ%2FCloakBrowser",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18661",
+      "title": "Paper page - AI for Auto-Research: Roadmap & User Guide",
+      "url": "https://huggingface.co/papers/2605.18661",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18451",
+      "title": "Paper page - Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis",
+      "url": "https://huggingface.co/papers/2605.18451",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-17283",
+      "title": "Paper page - OProver: A Unified Framework for Agentic Formal Theorem Proving",
+      "url": "https://huggingface.co/papers/2605.17283",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18739",
+      "title": "Paper page - LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
+      "url": "https://huggingface.co/papers/2605.18739",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-14278",
+      "title": "Paper page - KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration",
+      "url": "https://huggingface.co/papers/2605.14278",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18643",
+      "title": "Paper page - Post-Trained MoE Can Skip Half Experts via Self",
+      "url": "https://huggingface.co/papers/2605.18643",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:github-com-ruvnet-ruview",
+      "title": "GitHub - ruvnet/RuView: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:twitter-com-karpathy-status-2056753169888334312",
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:www-ox-ac-uk-news-2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "title": "Why are most humans right-handed? The answer may lie in how we learned to walk",
+      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:setpose-com",
+      "title": "SetPose: Free 3D Pose Maker — Mannequin Drawing Poses",
+      "url": "https://setpose.com/",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
       "key": "github:affaan-m/ECC",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
