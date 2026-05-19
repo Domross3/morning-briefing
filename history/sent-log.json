@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:login?return_to=%2Frtk-ai%2Frtk",
+      "title": "login?return_to=%2Frtk-ai%2Frtk",
+      "url": "https://github.com/login?return_to=%2Frtk-ai%2Frtk",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:sponsors/obra",
+      "title": "sponsors/obra",
+      "url": "https://github.com/sponsors/obra",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:sponsors/rohitg00",
+      "title": "sponsors/rohitg00",
+      "url": "https://github.com/sponsors/rohitg00",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "github:sponsors/msitarzewski",
+      "title": "sponsors/msitarzewski",
+      "url": "https://github.com/sponsors/msitarzewski",
+      "section": "github",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-dell-codex-enterprise-partnership",
+      "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-16679",
+      "title": "Paper page - CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+      "url": "https://huggingface.co/papers/2605.16679",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-anthropic-kpmg",
+      "title": "Anthropic Kpmg",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-anthropic-acquires-stainless",
+      "title": "Anthropic Acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18401",
+      "title": "Paper page - SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
+      "url": "https://huggingface.co/papers/2605.18401",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18678",
+      "title": "Paper page - Lance: Unified Multimodal Modeling by Multi",
+      "url": "https://huggingface.co/papers/2605.18678",
+      "section": "ai",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:www-wheresyoured-at-ai-is-too-expensive",
+      "title": "AI Is Too Expensive",
+      "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:superlog-sh",
+      "title": "superlog",
+      "url": "https://superlog.sh/",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:virtualosmuseum-org",
+      "title": "The Virtual OS Museum",
+      "url": "https://virtualosmuseum.org/",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "Hacker News:www-gentoo-org-news-2026-05-19-copy-fail-fragnesia-vulnerabilities-html",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "section": "tech",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmimafbvv95cuxot0nzcxbcnwqxrthtskdhseradnvwwljosvvhd0hud1u0cjctanq4a0sxa1lfotvqrzjswnnqzm5ov2pbs1rhm2dszgprazr",
+      "title": "AI Act Update: EU Resolves to Change Rules and Extend Deadlines",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0NzcXBCNWQxRThTSkdHSERadnVwWlJoSVVHd0hud1U0cjctanQ4a0sxa1lfOTVQRzJSWnNQZm5OV2pBS1RhM2dSZGpRazRmdldQOEZhUVkxXy05eFZaSTZOZE10cy1STG1fbXQzU3prN3pQbDlLcXZqUjFabnhZR2RCa0lNUWsteGRZV2NzczJDX2xicG5mcA?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmimwfbvv95cuxox0rrdelfyxnjv2vyohvhb2dreutxcgfrvfmtbwnjmgwztwq2b1dlr0p5bjzbnlrjqxptt0h1djjit0jsy1hcd1rhtghmbmf",
+      "title": "Cerebras: Why I'm Selling The Biggest AI IPO Of The Year (NASDAQ:CBRS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0RRdElfYXNJV2VyOHVHb2dreUtxcGFrVFMtbWNJMGwzTWQ2b1dLR0p5bjZBNlRjQXptT0h1djJIT0JsY1hCd1RhTGhMbmFIendyMG00bFhsYzRiOGU1bFZDVEJ1RF9RaC03NmFidXlMaXQ5cHdZZGZlWnd1WnN3NFFWS2RJU2FhNGMxUHBqVEZSdG9zOFlMQTN4VQ?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-19"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmioafbvv95cuxnag1kdxbwc1ncymzvwfvdrjvyyxpnchjtbezlqxdirc1rvu5vs1nistvpc3zpowq4slptshjjqzfxeehrvk5ubxbxalvgslz",
+      "title": "Cerebras Jumps 69% in Nasdaq Debut as AI IPO Market Roars Back (CBRS)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaG1kdXBwc1NCYmZvWFVDRjVyYXpNcHJtbEZLQXdiRC1RVU5vS1NiSTVpc3ZPOWQ4SlpTSHJjQzFxeEhRVk5UbXBXalVGSlZ0cTVaWjVOWGNHcTE5Wm1oZHcyTGExbloyN2VDb2JGSWpGV3l6dDNoUnRIa1Myc2lxZU42TGU1TGhTRjZRZTB4d0FhNzdmV3hHbUZIWHQ3MmNk?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-19"
+    },
+    {
       "key": "github:login?return_to=%2Fhumanlayer%2F12-factor-agents",
       "title": "login?return_to=%2Fhumanlayer%2F12-factor-agents",
       "url": "https://github.com/login?return_to=%2Fhumanlayer%2F12-factor-agents",
