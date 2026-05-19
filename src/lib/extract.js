@@ -145,6 +145,12 @@ function extractReadmeIntro(markdown) {
     .replace(/<a[^>]*>\s*<img[\s\S]*?<\/a>/gi, "") // anchored-image badges
     .replace(/```[\s\S]*?```/g, "") // fenced code
     .replace(/<table[\s\S]*?<\/table>/gi, "") // raw HTML tables
+    // Convert HTML block-level tags into line boundaries so multi-line
+    // <p align="center"> ... </p> blocks don't eat 30+ "lines" of chrome
+    // before we reach substantive prose (e.g. Dify's README starts with
+    // 40+ lines of badge/language-switcher HTML).
+    .replace(/<\/?(p|div|section|article|header|footer|nav|aside|center)[^>]*>/gi, "\n")
+    .replace(/<br\s*\/?>/gi, "\n")
     // Decode HTML entities that appear in markdown source (not real HTML).
     .replace(/&ensp;/gi, " ")
     .replace(/&emsp;/gi, " ")
@@ -156,6 +162,9 @@ function extractReadmeIntro(markdown) {
     .split(/\r?\n/)
     .map((line) => line.trim())
     .filter((line) => line.length > 0)
+    // After stripping inline HTML, is there real text content? Drops lines
+    // that are pure HTML chrome (e.g. <a href="...">·</a> separator dots).
+    .filter((line) => stripHtml(line).trim().length >= 3)
     .filter((line) => !/^#+\s/.test(line)) // headers
     .filter((line) => !/^>\s/.test(line)) // blockquotes
     // List items: keep SUBSTANTIVE bullets (feature lists, capability
@@ -180,9 +189,10 @@ function extractReadmeIntro(markdown) {
   // (a locale-tagged sentence can appear mid-paragraph in some READMEs).
   const LOCALE_PREFIX = /^[\p{Lu}\p{Lo}][\p{L}\s()]{1,30}\s*[|\-–—]\s+/u;
 
-  // Keep up to 12 lines; format substantive bullets with a separator so they
-  // remain readable when joined into a single paragraph block.
-  const cleaned = keptLines.slice(0, 12).map((line) => {
+  // Keep up to 25 lines (headroom for READMEs with heavy header chrome that
+  // pushes substantive prose deep); format substantive bullets with a
+  // separator so they remain readable when joined into a paragraph block.
+  const cleaned = keptLines.slice(0, 25).map((line) => {
     const stripped = line.replace(LOCALE_PREFIX, "");
     // Convert "- Feature description" into " · Feature description" so it
     // reads as a continuation rather than a stray dash.

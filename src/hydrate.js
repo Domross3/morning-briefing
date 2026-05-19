@@ -85,7 +85,12 @@ async function hydrateGithub(item, userAgent) {
   const readme = await extractGithubReadme(item.repoFullName, { userAgent });
   if (!readme) return;
 
-  if (readme.intro && readme.intro.length > item.summary.length * 0.8) {
+  // Prefer README intro whenever it has real paragraph-length content —
+  // GitHub's API description is usually a tagline (60-100 chars) and the
+  // README intro almost always carries more useful detail. Old gate
+  // (intro >= 80% of description length) made us keep the short tagline
+  // even when the README had a full paragraph.
+  if (readme.intro && (readme.intro.length >= 200 || readme.intro.length > item.summary.length)) {
     item.summary = readme.intro;
     item.hydrated = true;
   }
