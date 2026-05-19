@@ -9,7 +9,7 @@ const SECTION_LABELS = {
   sustainability: "Sustainability",
 };
 
-export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {} }) {
+export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {}, weather = null }) {
   const grouped = groupBySection(items);
   // TL;DR = the single top card from each section, capped at 3.
   const tldrItems = Object.keys(SECTION_LABELS)
@@ -33,6 +33,8 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
   const degraded = degradedSources.length
     ? `<p class="degraded">Some sources were unavailable today: ${escapeHtml(degradedSources.join(", "))}.</p>`
     : "";
+
+  const weatherBlock = renderWeather(weather);
 
   return `<!doctype html>
 <html>
@@ -72,6 +74,11 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     .compare th { color:#62717a; font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:0.3px; }
     .compare td:first-child { white-space:nowrap; }
     .degraded { color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:8px; padding:10px 12px; font-size:13px; }
+    .weather { background:#eef4f8; border:1px solid #cfdde3; border-radius:8px; padding:14px 18px; margin-bottom:18px; }
+    .weather .place { font-size:11px; text-transform:uppercase; letter-spacing:0.5px; color:#62717a; font-weight:600; margin-bottom:6px; }
+    .weather .line { font-size:14px; line-height:1.55; color:#1d2529; }
+    .weather .stat { display:inline-block; margin-right:14px; }
+    .weather .stat b { font-weight:600; }
   </style>
 </head>
 <body>
@@ -79,6 +86,7 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     <p class="preheader">~5-minute briefing for ${escapeHtml(dateLabel)}</p>
     <h1>Morning Briefing</h1>
     ${degraded}
+    ${weatherBlock}
     <div class="tldr">
       <h2>TL;DR</h2>
       <ul>${tldr || "<li>No high-signal items cleared the filters today.</li>"}</ul>
@@ -169,4 +177,51 @@ function shortPitch(summary) {
 
 function renderEmpty() {
   return `<div class="card"><p class="summary">No fresh items survived deduplication today, but the routine ran successfully.</p></div>`;
+}
+
+// Ann Arbor weather block at the top of the brief — high, wind, rain
+// window, and 11 PM walk-home temp. Returns "" if the weather source
+// failed (graceful degradation; brief still renders).
+function renderWeather(weather) {
+  if (!weather) return "";
+
+  const stats = [];
+  if (weather.high != null) {
+    stats.push(`<span class="stat"><b>High</b> ${escapeHtml(String(weather.high))}°F</span>`);
+  }
+  if (weather.elevenPmTemp != null) {
+    stats.push(
+      `<span class="stat"><b>11 PM</b> ${escapeHtml(String(weather.elevenPmTemp))}°F</span>`,
+    );
+  }
+  if (weather.peakWind != null) {
+    const gustNote =
+      weather.peakGust && weather.peakGust > weather.peakWind + 3
+        ? ` (gusts ${weather.peakGust})`
+        : "";
+    stats.push(
+      `<span class="stat"><b>Wind</b> up to ${escapeHtml(String(weather.peakWind))} mph${escapeHtml(gustNote)}</span>`,
+    );
+  }
+  if (weather.rain) {
+    const peak = weather.rain.peak;
+    let rainText;
+    if (peak < 20) {
+      rainText = "<b>Rain</b> none expected";
+    } else if (weather.rain.window) {
+      rainText = `<b>Rain</b> ${peak}% peak (${escapeHtml(weather.rain.window.label)})`;
+    } else {
+      rainText = `<b>Rain</b> ${peak}% peak (no clear window)`;
+    }
+    stats.push(`<span class="stat">${rainText}</span>`);
+  }
+
+  const conditions = weather.conditions
+    ? `<div class="place">Ann Arbor · ${escapeHtml(weather.conditions)}</div>`
+    : `<div class="place">Ann Arbor</div>`;
+
+  return `<div class="weather">
+    ${conditions}
+    <div class="line">${stats.join("")}</div>
+  </div>`;
 }

@@ -10,6 +10,7 @@ import { collectHuggingFace } from "./sources/huggingface.js";
 import { collectReddit } from "./sources/reddit.js";
 import { collectRss } from "./sources/rss.js";
 import { collectSearch } from "./sources/search.js";
+import { collectWeather } from "./sources/weather.js";
 import { applyHistory, initHistory, readHistory, updateHistory } from "./history.js";
 import { scoreAndSelect } from "./select.js";
 import { hydrateItems } from "./hydrate.js";
@@ -36,9 +37,15 @@ async function main() {
   const stamp = todayStamp(config.timezone);
   const dateLabel = displayDate(config.timezone);
 
-  const { items, degradedSources } = sample
-    ? { items: sampleItems(), degradedSources: [] }
-    : await collectAll(config);
+  // Weather header runs in parallel with the main collect — its failure is
+  // non-fatal (we just skip the weather block).
+  const [collectResult, weather] = await Promise.all([
+    sample
+      ? Promise.resolve({ items: sampleItems(), degradedSources: [] })
+      : collectAll(config),
+    sample ? Promise.resolve(sampleWeather()) : collectWeather({ userAgent: config.userAgent }),
+  ]);
+  const { items, degradedSources } = collectResult;
 
   // Drop items that are non-English by heuristic. Heuristic-only because we
   // have no translation API in the loop (would require LLM). Filter runs on
@@ -68,7 +75,7 @@ async function main() {
     }
   }
 
-  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses });
+  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses, weather });
 
   await fs.mkdir(path.dirname(config.outputPath), { recursive: true });
   await fs.writeFile(config.outputPath, html, "utf8");
@@ -198,6 +205,17 @@ function sampleItems() {
       score: 12,
     },
   ];
+}
+
+function sampleWeather() {
+  return {
+    high: 72,
+    peakWind: 14,
+    peakGust: 22,
+    elevenPmTemp: 58,
+    rain: { peak: 60, window: { startHour: 14, endHour: 18, label: "2 PM–6 PM" } },
+    conditions: "Partly cloudy",
+  };
 }
 
 main().catch((error) => {
