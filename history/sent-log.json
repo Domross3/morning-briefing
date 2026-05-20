@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:HKUDS/CLI-Anything",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:rohitg00/agentmemory",
+      "title": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-model-disproves-discrete-geometry-conjecture",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-17734",
+      "title": "Paper page - Harnessing LLM Agents with Skill Programs",
+      "url": "https://huggingface.co/papers/2605.17734",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-14236",
+      "title": "Paper page - Active Learners as Efficient PRP Rerankers",
+      "url": "https://huggingface.co/papers/2605.14236",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-19577",
+      "title": "Paper page - GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment",
+      "url": "https://huggingface.co/papers/2605.19577",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-15529",
+      "title": "Paper page - Process Rewards with Learned Reliability",
+      "url": "https://huggingface.co/papers/2605.15529",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-19995",
+      "title": "Paper page - CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition",
+      "url": "https://huggingface.co/papers/2605.19995",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:github-blog-news-insights-policy-news-and-insights-why-age-assurance-laws-matter-for-developers",
+      "title": "Why age assurance laws matter for developers",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:legiscan-com-co-bill-sb051-2026",
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:www-spacex-com-launches-starship-flight-12",
+      "title": "SpaceX",
+      "url": "https://www.spacex.com/launches/starship-flight-12",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:dos-zone",
+      "title": "DOS Zone",
+      "url": "https://dos.zone/",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi1gfbvv95cuxqzndqvfdudkdtadm3sjywvkzmee1wszfwvfitogdidkfvsnrfvjewmnc4dfjmqxjcvmned2eyweszztq3mepvtzl0wlv5ckv",
+      "title": "European Commission Releases Draft Guidelines on High-Risk AI Under the EU AI Act",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZndQVFdUdkdtaDM3SjYwVkZMeE1WSzFwVFItOGdidkFVSnRFVjEwMnc4dFJmQXJCVmNEd2EyWEszZTQ3MEpvTzl0WlV5ckVKSG90UXhKZUVqSVdoOGpjTEV2TUZvbTJLN3ZBV3JIUDZRczRkYWEycWJzX2ZIcDNGUUdCXzNJYWx1UkREUFZfQXZacXoxZU1MWkhfS2NscEQ2QlhYQXFUTEhvcjBwT01ZWnhfM0xXWnloR2g5b2JHZVJKc3ZlZVZyaWQxQk1HQmJfalRyVW13?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiyafbvv95cuxquvn6cwnqajcyevj3ylzucmpynurpau5ltxzwm3zkrvnjqlnzzhpgy1zhelfmvvhrx2dgemzddtntszcwevlpwgdnymo2rfz",
+      "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVN6cWNQajcyeVJ3YlZucmpYNURPaU5LTXZwM3ZKRVNjQlNZZHpGY1ZhelFmVVhRX2dGemZDdTNtSzcweVlPWGdnYmo2RFZHcFhpRUhobjhXSHlvNDV3bjc4ZjdNN0E5bTlJVDg2cDBSbUpGaTZ4S296OF9GVVdKSmhreVhMVTBqejM3SkdaczVvMjBLTVlIQTV0WnNqMVotWHlxUzlBWnNwNmxyNjJpaGxIVTY2SUxOd2dsQlZjZjBWU2xvYzhrYtIBzgFBVV95cUxPbnFwZm9YTW5QSGtpSXNsWTV3WUVQTmxaN2x5b1NOcEI0a013U1FKMTN6YWF3NDNOaFZudThmRWpZUk9tdF9fbzdjRkVGWjh6Wms0LUtHZjVTWGZRQURjdkhLOFVTbjNZR2NwQURCbWtWdkJyeDJVX3VPLXBwOXZQaG9PYXVsNVpZdmg1RV9Kemp3ZjBIX2F6NUJoVmw2TVR5Yi1YOFllZjNjQnNYdkRwcGFCMmVXTW5Qc2FpN0x3ZnhvTEU4dUpIX3g2RVdmQQ?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-20"
+    },
+    {
       "key": "github:login?return_to=%2Fcan1357%2Foh-my-pi",
       "title": "login?return_to=%2Fcan1357%2Foh-my-pi",
       "url": "https://github.com/login?return_to=%2Fcan1357%2Foh-my-pi",
