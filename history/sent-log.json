@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:login?return_to=%2Fcan1357%2Foh-my-pi",
+      "title": "login?return_to=%2Fcan1357%2Foh-my-pi",
+      "url": "https://github.com/login?return_to=%2Fcan1357%2Foh-my-pi",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:login?return_to=%2Frmyndharis%2FOpenWA",
+      "title": "login?return_to=%2Frmyndharis%2FOpenWA",
+      "url": "https://github.com/login?return_to=%2Frmyndharis%2FOpenWA",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:login?return_to=%2Ftruelockmc%2Fstreambert",
+      "title": "login?return_to=%2Ftruelockmc%2Fstreambert",
+      "url": "https://github.com/login?return_to=%2Ftruelockmc%2Fstreambert",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-widening-conversation-ai",
+      "title": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-19769",
+      "title": "Paper page - OpenComputer: Verifiable Software Worlds for Computer",
+      "url": "https://huggingface.co/papers/2605.19769",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-20025",
+      "title": "Paper page - AutoResearchClaw: Self-Reinforcing Autonomous Research with Human",
+      "url": "https://huggingface.co/papers/2605.20025",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-18703",
+      "title": "Paper page - EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+      "url": "https://huggingface.co/papers/2605.18703",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-11609",
+      "title": "Paper page - Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
+      "url": "https://huggingface.co/papers/2605.11609",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-16403",
+      "title": "Paper page",
+      "url": "https://huggingface.co/papers/2605.16403",
+      "section": "ai",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:reubenbrooks-dev-blog-structural-backpressure-beats-smarter-agents",
+      "title": "Structural Backpressure Beats Smarter Agents",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:github-com-shenli-distributed-system-testing",
+      "title": "GitHub - shenli/distributed-system-testing: AI-agent skills for distributed",
+      "url": "https://github.com/shenli/distributed-system-testing",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:appleinsider-com-articles-26-05-20-google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc",
+      "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
+      "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:pvk-ca-blog-2014-03-15-sbcl-the-ultimate-assembly-code-breadboard",
+      "title": "SBCL: the ultimate assembly code breadboard - Paul Khuong: some Lisp",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmifefvx3lxte1onxled2xjyjl0n0nnnnixvmg4mu1mx0rtyuprtudivnjnmk0wvgy1wee3wvd1zlvpbm9tqmk5tvbrqwzddnrmznu0dtnhzxh",
+      "title": "Opinion | AI Regulation Needs a ‘Bank Examiner’",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ONXlEd2xjYjl0N0NNNnIxVmg4MU1MX0RtYUpRTUdIVnJNMk0wVGY1WEE3WVd1ZlVPbm9TQmk5TVBRQWZDdnRMZnU0dTNHZXh5NHVUNXUyMHNyLVlOS1FOR0xKMWl3UmFwZG96VHNwN1BQcDNwQjdxNzEwdUI?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiqafbvv95cuxqd0fuefgwywzhrepdy0nunlq0nez1qxvlejy2tji3yxp0x1nbsfuzltk5unjwszh3c0vmrk1zm3b4a1pomehgdmtfzunkdez",
+      "title": "US IPO Weekly Recap: Cerebras Raises $5.6 Billion In The Largest AI IPO Ever And Jumps 68%",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0FUeFgwYWZhREpDY0NUNlQ0NEZ1QXVLejY2TjI3YXp0X1NBSFUzLTk5UnJwSzh3c0VmRk1zM3B4a1pOMEhGdmtfZUNkdEZ0UDBSNjhqdUs3aTVYd19nRzhMelNfajhlRWs3dzEzTVJvQ19ZUE9OTnN3c01NODU0OGNhMXdrcmFvdGJqd25PV0pSX2dCZnF1WEFVZUxIbmx0WElWVHYxV04?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmijgfbvv95cuxnadryqs02lvdzdgznv1zwsmdfvdztnmt0qkjnblnhv1u3vencc211d0lobdeydw5tvzh2q21jvvrjdhrwelczrfzrd1pxrfr",
+      "title": "Cathie Wood Is Buying the Year’s Hottest AI IPO. Why ARK Is Betting on Cerebras Systems.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDRyQS02LVdZdGZnV1ZwSmdFVDZtNmt0QkJnblNHV1U3VENCc211d0lobDEydW5tVzh2Q21JVVRJdHRWelczRFZrd1pXRFR5emFOMWtacjdsaGVpRzVIYzZLV0sxcngxNkx6SXcxbF9kOWsyaHFfSllwbHdSZ0FUS2tMY3V4c2Fzc0NKMmNR?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmipafbvv95cuxoutj3d2ftbdjscmdsrej5qulzwhv6ywdmzdluwkzhdvl6enrtdhz2y0pflvb5sfzwcjlzagt0r3lhndn6ulvbvulcrzn5bvf",
+      "title": "Cleanup to Clean Energy - Expanding Clean Energy Generation on DOE Lands",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTJ3d2FtbDJscmdSREJ5QUlzWHV6YWdmZDluWkZhdVl6enRtdHZ2Y0pFLVB5SFZWcjlzaGt0R3lHNDN6UlVBVUlCRzN5bVFWQkxmcGNJR2RMdmdxaGNuQm9wdG00amstbWw5akJVSEVtZDYtVWJ0TG9peWpoemFaYVY2ZjVWcVJpT2pSNDF3NVJhdTIwc3dLR2pseDd6eFVVbDhEZw?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-20"
+    },
+    {
       "key": "github:login?return_to=%2Fcolbymchenry%2Fcodegraph",
       "title": "login?return_to=%2Fcolbymchenry%2Fcodegraph",
       "url": "https://github.com/login?return_to=%2Fcolbymchenry%2Fcodegraph",
