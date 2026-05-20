@@ -2,6 +2,69 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:can1357/oh-my-pi",
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:rmyndharis/OpenWA",
+      "title": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:Imbad0202/academic-research-skills",
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "section": "github",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:tante-cc-2026-05-20-on-google-declaring-war-on-the-web",
+      "title": "On Google declaring war on the Web",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:github-com-kouhxp-yapsnap",
+      "title": "GitHub - kouhxp/yapsnap: Snap any video URL or audio file into plaintext. No GPU. No cloud. One command.",
+      "url": "https://github.com/kouhxp/yapsnap",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:vmax-ai-team-populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-⁠Play",
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
+      "key": "Hacker News:www-sec-gov-archives-edgar-data-1181412-000162828026036936-spaceexplorationtechnologi-htm",
+      "title": "Space Exploration Technologies - S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "section": "tech",
+      "sentAt": "2026-05-20"
+    },
+    {
       "key": "github:HKUDS/CLI-Anything",
       "title": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
