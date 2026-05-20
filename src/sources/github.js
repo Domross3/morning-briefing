@@ -46,28 +46,65 @@ async function collectTrending(userAgent) {
   });
   const articles = html.match(/<article[\s\S]*?<\/article>/g) || [];
 
-  return articles.slice(0, 12).map((article) => {
-    const href = article.match(/href="([^"]+)"[\s\S]*?<span/);
-    const description = article.match(/<p[^>]*>([\s\S]*?)<\/p>/);
-    const langMatch = article.match(/itemprop="programmingLanguage"[^>]*>([^<]+)</);
-    const repoPath = href?.[1]?.replace(/^\/+/, "") || "unknown/repo";
-    const summary = sentenceSummary(description?.[1] || "", 180);
+  return articles
+    .slice(0, 15)
+    .map((article) => {
+      // The FIRST href in a trending <article> is the star-button login
+      // redirect (/login?return_to=%2Fowner%2Frepo). The actual repo link is
+      // the first href with exactly two clean path segments. Skip known
+      // non-repo paths.
+      const hrefs = [...article.matchAll(/href="([^"]+)"/g)].map((m) => m[1]);
+      const repoHref = hrefs.find(
+        (h) =>
+          /^\/[^/?#]+\/[^/?#]+$/.test(h) &&
+          !/^\/(login|sponsors|topics|collections|trending|features|about|pricing|marketplace)\b/.test(h),
+      );
+      if (!repoHref) return null;
+      const repoPath = repoHref.replace(/^\/+/, "");
 
-    return {
-      id: `github:${repoPath}`,
-      section: "github",
-      title: repoPath,
-      url: `https://github.com/${repoPath}`,
-      source: "GitHub Trending",
-      rawScore: 500,
-      summary: summary || "Trending repository on GitHub today.",
-      chips: estimateGitHubChips({ description: summary, topics: [] }),
-      tags: ["trending"],
-      stars: null,
-      language: langMatch ? langMatch[1].trim() : null,
-      repoFullName: repoPath,
-    };
-  });
+      // Description: GitHub styles it with color-fg-muted. Fall back to the
+      // longest <p> if the class changes.
+      let descriptionHtml = "";
+      const byClass = article.match(/<p[^>]*color-fg-muted[^>]*>([\s\S]*?)<\/p>/);
+      if (byClass) {
+        descriptionHtml = byClass[1];
+      } else {
+        const ps = [...article.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)].map((m) => m[1]);
+        descriptionHtml = ps.sort((a, b) => b.length - a.length)[0] || "";
+      }
+      let summary = sentenceSummary(descriptionHtml, 200);
+      // Safety net: strip a leading "Star owner / repo" label if it leaked in.
+      summary = summary.replace(/^Star\s+\S+\s*\/\s*\S+\s*/i, "").trim();
+
+      const langMatch = article.match(/itemprop="programmingLanguage"[^>]*>([^<]+)</);
+      // Stars: the stargazers <a> wraps an <svg> (whose path "d" attribute is
+      // full of digits) followed by the count text. Strip tags FIRST, then
+      // grab the comma-formatted number — otherwise SVG path digits get
+      // concatenated into the count (e.g. 1.6e+293).
+      const starsMatch = article.match(/\/stargazers"[^>]*>([\s\S]*?)<\/a>/);
+      let stars = null;
+      if (starsMatch) {
+        const text = starsMatch[1].replace(/<[^>]+>/g, " ");
+        const numMatch = text.match(/([\d,]+)/);
+        if (numMatch) stars = parseInt(numMatch[1].replace(/,/g, ""), 10) || null;
+      }
+
+      return {
+        id: `github:${repoPath}`,
+        section: "github",
+        title: repoPath,
+        url: `https://github.com/${repoPath}`,
+        source: "GitHub Trending",
+        rawScore: stars || 500,
+        summary: summary || "Trending repository on GitHub today.",
+        chips: estimateGitHubChips({ description: summary, topics: [] }),
+        tags: ["trending"],
+        stars,
+        language: langMatch ? langMatch[1].trim() : null,
+        repoFullName: repoPath,
+      };
+    })
+    .filter(Boolean);
 }
 
 function dedupeRepos(items) {
