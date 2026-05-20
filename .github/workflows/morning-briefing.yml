@@ -1,14 +1,16 @@
 name: Morning Briefing
 
-# GitHub Actions cron is UTC. 13:23 UTC = 9:23 AM Eastern in EDT (mid-Mar–Nov).
-# Scheduled at :23 instead of :00 / :15 / :30 / :45 because those round
-# minutes are GH Actions' busiest dispatch slots — off-peak minutes typically
-# fire within 1–3 min of the scheduled time, vs. 10–15 min drift on the marks.
-# During EST (Nov–mid-Mar) this fires at 8:23 AM ET — change to "23 14 * * *"
-# if you want ~9:23 ET year-round, or accept the ±1hr DST drift.
+# Timing is driven by an EXTERNAL trigger (cron-job.org), not GitHub's own
+# scheduler. GitHub Actions scheduled workflows on free/public repos were
+# firing 1–3 HOURS late (e.g. a 9:23 target landing at 12:32). cron-job.org
+# hits the workflow_dispatch API at 9:23 AM America/Detroit and GitHub runs
+# it within seconds — reliable to-the-minute delivery.
+#
+# The `schedule:` trigger was intentionally REMOVED so we don't get a second,
+# late-afternoon duplicate brief. To re-add a native fallback, restore:
+#   schedule:
+#     - cron: '23 13 * * *'   # 13:23 UTC ≈ 9:23 ET (EDT)
 on:
-  schedule:
-    - cron: '23 13 * * *'
   workflow_dispatch: {}
 
 permissions:

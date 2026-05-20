@@ -1,57 +1,70 @@
 # Morning Briefing
 
-A zero-cost daily briefing routine that runs on Claude Code's scheduled tasks. It reads `profile.md`, gathers candidates from a curated set of sources, scores and dedupes them against `history/sent-log.json`, renders a compact HTML brief, and sends it via Resend's free tier.
+A zero-cost daily briefing email. It reads `profile.md`, gathers candidates from a curated set of sources, scores and dedupes them against `history/sent-log.json`, renders a compact HTML brief, and sends it via Resend's free tier.
 
-## How it runs
+## How it runs (current architecture)
 
-**Scheduled tasks execute on your local Claude Code, not in the cloud.** Two implications:
+**Runs on GitHub Actions, triggered externally by cron-job.org for reliable timing.**
 
-- The Resend API key just lives in a local `.env` file (gitignored). No secrets-vault gymnastics.
-- If Claude Code is closed at 9:30 AM, the task fires on next launch — fine for personal use.
+```
+cron-job.org (9:23 AM America/Detroit, daily)
+   │  POST workflow_dispatch  (PAT: Actions read+write)
+   ▼
+GitHub Actions: .github/workflows/morning-briefing.yml
+   │  npm ci → npm run brief
+   ▼
+Resend API → michros@umich.edu inbox
+   │
+   └─ commits updated history/sent-log.json back to the repo (dedup memory)
+```
 
-## One-time setup
+**Why cron-job.org instead of GitHub's own `schedule:`?** GitHub Actions scheduled
+workflows on free/public repos fire 1–3 *hours* late (a 9:23 target was landing
+at 12:32). cron-job.org calls the `workflow_dispatch` API at the exact minute and
+GitHub runs it within seconds. The native `schedule:` trigger has been removed
+from the workflow so there's no late-afternoon duplicate.
+
+## Configuration (lives in GitHub, not local)
+
+- **Secret `RESEND_API_KEY`** — Repo → Settings → Secrets and variables → Actions
+- **Variable `BRIEF_TO_EMAIL`** — currently `michros@umich.edu` (Resend free tier only
+  delivers to the address tied to your Resend account)
+- **cron-job.org job** — POSTs to
+  `https://api.github.com/repos/Domross3/morning-briefing/actions/workflows/morning-briefing.yml/dispatches`
+  with body `{"ref":"main"}` and header `Authorization: Bearer <fine-grained PAT>`.
+  The PAT needs **Actions: Read and write** scoped to this repo.
+
+## Local development
 
 ```bash
 npm install
-cp .env.example .env
+cp .env.example .env          # put RESEND_API_KEY here for local sends
+npm run brief:dry             # hits live sources, renders HTML, NO email send
+open out/latest-brief.html    # eyeball today's brief
+npm run brief                 # real send (needs RESEND_API_KEY)
 ```
 
-Then:
+## Changing the delivery time
 
-1. Make a free Resend account at <https://resend.com>.
-2. In Resend, verify the recipient address (`mdrosss02@gmail.com`) — the free `onboarding@resend.dev` sender will only deliver to verified emails.
-3. Create an API key and paste it into `.env`:
-   ```
-   RESEND_API_KEY=re_xxxxxxxxxxxxxxxxxxxxxxxxx
-   ```
-4. (Optional) Set a low monthly send cap in Resend to bound blast radius.
-
-Verify everything wires up:
-
-```bash
-npm run brief:dry           # hits live sources, renders HTML, NO email send
-open out/latest-brief.html  # eyeball today's brief
-```
-
-When you're happy, run for real:
-
-```bash
-npm run brief
-```
-
-## Scheduling
-
-After confirming a dry run looks good, create a Claude Code scheduled task that fires at 9:30 AM ET daily. See `scheduled-task.md` for the exact prompt body. The setup CLAUDE block can create it for you via `mcp__scheduled-tasks__create_scheduled_task`.
+Edit the cron-job.org job's schedule (it speaks `America/Detroit`, so no UTC math).
+The GitHub workflow no longer has its own schedule — timing is entirely cron-job.org's job.
 
 ## On-demand trigger
 
-In Claude Code, run `/brief` (defined in `.claude/commands/brief.md`) to fire a brief whenever you want. From a shell:
+Fire a brief any time without waiting for 9:23 AM:
 
 ```bash
+# From the GitHub CLI (dispatches the same workflow cron-job.org uses):
+gh workflow run "Morning Briefing" --repo Domross3/morning-briefing
+
+# Or locally (needs RESEND_API_KEY in .env):
 npm run brief              # send a real email
 npm run brief:dry          # render only, no send, no history update
 npm run brief:sample       # offline render with sample data
 ```
+
+You can also hit **TEST RUN** on the cron-job.org job, or "Run workflow" from
+the repo's Actions tab.
 
 ## Files
 
@@ -69,6 +82,7 @@ The bot fans out to these every run; each is wrapped in `Promise.allSettled` so 
 
 | Section | Sources |
 |---|---|
+| Weather | Open-Meteo (Ann Arbor) — high, peak wind, rain window, 11 PM temp; rendered at the top of the email |
 | GitHub | github.com/trending (HTML) + GitHub Search API (topics: llm, ai-agent, developer-tools, local-first, machine-learning) |
 | AI Research | anthropic.com/{research,news} (priority), OpenAI RSS, DeepMind RSS, Meta AI RSS, huggingface.co/papers |
 | Tech News | Hacker News frontpage RSS, r/LocalLLaMA, r/MachineLearning |
