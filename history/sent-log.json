@@ -2,6 +2,118 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:antoinezambelli/forge",
+      "title": "antoinezambelli/forge",
+      "url": "https://github.com/antoinezambelli/forge",
+      "section": "github",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "github:teng-lin/notebooklm-py",
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "section": "github",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "github:ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "section": "github",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "github:multica-ai/multica",
+      "title": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "section": "github",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "github:trimstray/the-book-of-secret-knowledge",
+      "title": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "section": "github",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-14747",
+      "title": "Paper page - Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "url": "https://huggingface.co/papers/2605.14747",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-20682",
+      "title": "Paper page - IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
+      "url": "https://huggingface.co/papers/2605.20682",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-20266",
+      "title": "Paper page - A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook",
+      "url": "https://huggingface.co/papers/2605.20266",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-19484",
+      "title": "Paper page - CutVerse: A Compositional GUI Agents Benchmark for Media Post",
+      "url": "https://huggingface.co/papers/2605.19484",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-21487",
+      "title": "Paper page - Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning",
+      "url": "https://huggingface.co/papers/2605.21487",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-19833",
+      "title": "Paper page - Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real",
+      "url": "https://huggingface.co/papers/2605.19833",
+      "section": "ai",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "Hacker News:spectrum-ieee-org-semiconductor-fabrication",
+      "title": "The Forgotten Story of How IBM Invented the Automated Fab",
+      "url": "https://spectrum.ieee.org/semiconductor-fabrication",
+      "section": "tech",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "Hacker News:blog-google-products-ads-commerce-google-marketing-live-search-ads",
+      "title": "A new generation of ads for the AI era of Search",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "section": "tech",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "Hacker News:gist-github-com-mkaramuk-44a44d83178e632ec0dd1f02186d822c",
+      "title": "Gemini System Prompt",
+      "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
+      "section": "tech",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-cekura-ai-jobs-aiwwuxi-forward-deployed-engineer-us",
+      "title": "Forward Deployed Engineer (US) at Cekura",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "section": "tech",
+      "sentAt": "2026-05-21"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiykfvx3lxte5rotq2mkm0qk5utku3ny1femvubupjb3h3udrbmluwuhzvmlzrufpxa3bkrxdvzddbzfziaknja3hpshq1y3rheunvczhyunp",
+      "title": "Carbon Dioxide Removal",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rOTQ2MkM0Qk5UTkU3Ny1femVUbUpJb3h3UDRBMlUwUHZVMlZrUFpxa3BkRXdVZDdBZFZIakNja3hPSHQ1Y3RheUNVczhYUnp4SHdQNjlqSzVveUFEeEg4S0Zn?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-21"
+    },
+    {
       "key": "github:colbymchenry/codegraph",
       "title": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
