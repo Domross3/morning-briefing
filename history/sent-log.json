@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:dotnet/skills",
+      "title": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "section": "github",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "github:anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "section": "github",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "github:rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "section": "github",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "github:Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "section": "github",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "github:odoo/odoo",
+      "title": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "section": "github",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22642",
+      "title": "Paper page - Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.22642",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-21850",
+      "title": "Paper page - ACC: Compiling Agent Trajectories for Long",
+      "url": "https://huggingface.co/papers/2605.21850",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22355",
+      "title": "Paper page - TransitLM: A Large-Scale Dataset and Benchmark for Map",
+      "url": "https://huggingface.co/papers/2605.22355",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-21467",
+      "title": "Paper page - DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "url": "https://huggingface.co/papers/2605.21467",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-16928",
+      "title": "Paper page - Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+      "url": "https://huggingface.co/papers/2605.16928",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22109",
+      "title": "Paper page - Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
+      "url": "https://huggingface.co/papers/2605.22109",
+      "section": "ai",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "Hacker News:modelrift-com-blog-openscad-llm-benchmark",
+      "title": "OpenSCAD LLM Benchmark: Building the Pantheon",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "section": "tech",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "Hacker News:www-pcguide-com-news-valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data",
+      "title": "Valve removes free horror game from Steam after players discover it contains malware that steals your data",
+      "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "section": "tech",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-circle-medical-jobs-onmkag9-mobile-engineer-android",
+      "title": "Mobile Engineer (Android) at Circle Medical",
+      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "section": "tech",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "Hacker News:libertas-software-en-knowledge-hub-19-the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "section": "tech",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi1afbvv95cuxqafi0rzfjchpqawg2uepza080afg5aeftexpmnzzpmlc3mgwzt0v2wg44ngjuzenibvbxeln5wmtvqtvmbkk1vs1wr00tbnd",
+      "title": "California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFI0RzFJcHpQaWg2UEpza080aFg5aEFTeXpmNzZpMlc3MGwzT0V2WG44NGJUZENibVBxelN5WmtVQTVMbkk1VS1wR00tbndjN3FUbTkzN1lRbW9aTm4zbUlKVXlLYjBiNTg4ZzA1V2E2dGxMLTU3S3dZVHp2X0EyQXZOV3RLb3N0akR1TEd2Y3FMaFpPd0lIdzI3LTB5RlZuUWJFZ3BSTmJXTFJmZkFjQ05wTFBaSVZ1elNCYktnbkoyZm9vR0JNZnphejU5bG5QZUlfNdIB2gFBVV95cUxNWnl3Y1UxNUxXaFdfblNlNDhNNkl4RllDWWtxZG9HNXZHSmF4ajNSWWo3ZTEyaEhlTGExQXN1aTQyN2hncEVOR3VSY0xwQ2Y5c3lpRHJOOVlPeFFjYmhrWVExSUd3SF96ZlVhQVdOcWdkOG0yX2c1Q1NhUUdMYkhqQktPNEU4Ykk4X3hTYWZONG9FbjBXeGhDM1RtRWtuVDZNbzZLck5lQ0lXQWo4NV9YYlZGM25zc0pFeDZ4NEtVN3Y4cjVtNkpDTTJ4WndsZFU3WVc0WDdYU3BYQQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmisefvx3lxte42dtnfwuqynhjpbk1atznnuvvveujeetn4exq0teiyef84luzhqxrny2rirf9hv1fxstf5etlon0vlr2vstmhftw-oc-5",
+      "title": "The Great AI IPO Race",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42dTNFWUQyNHJPbk1aTzNNUVVVeUJEeTN4eXQ0TEIyeF84LUZHQXRNY2RIRF9hV1FxSTF5eTlON0VlR2VSTmhfTw?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmirafbvv95cuxqmwfkvy1ruvpfoedjlvdztddgde5mcgu2egu4dllgtjezau40r0t0dtu3lwx4znlmnndjzk5julzrbzhjltnru3bsy2dvukx",
+      "title": "Governor Moore Calls for Developers to Partner on \"Megawatts for Maryland\" Clean Energy Auction Program to Lower Energy Costs, Promote Local Energy Generation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWFKVy1RUVpFOEdJLVdZTDdGdE5McGU2eGU4dllGTjEzaU40R0t0dTU3LWx4ZnlmNndJZk5JUlZRbzhJLTNrU3BSY2dVUkxHNHVnZ3Y2UlJTYUFoM1NhUGZZdnpGVXVjSzZQWUpScVdGck5VU1NVS240WFBqWFBWdEkyTGh6QXRvU3EtVVpPRDdNQmtoUGh1VFJUN3lGd2o3X3gyelZlT2p4U2Vk?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-22"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmivgfbvv95cuxpewrjuknsqzzmelzmy3d4sgwzmmrkstnid3p1cexuunb6rnexq3nrsc1zvjb1quw5ughvullrsells3j6yznocex0n0poeth",
+      "title": "Commerce awards more than $60 million for clean energy and grid resilience projects statewide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWRJUkNSQzZMelZmY3d4SGwzMmRkSTNid3p1cExuUnB6RnExQ3NRSC1ZVjB1QUw5UGhVUllRSEllS3J6YzNOcEx0N0poeThSZG5OR0xQaWxyTkw3Q09PRm5qaGxpVjNCdEVsU0pLWi1heEpRMjk1Q2MtdFY2VDd6NUdJd196dEltMHNUQ2NjcnNib203ZC1JVVJKU3VoQ2V5dnh4bkh4LVdZZC0wSFlFeGlpemFCeS1hcnBVQnNn?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-22"
+    },
+    {
       "key": "github:antoinezambelli/forge",
       "title": "antoinezambelli/forge",
       "url": "https://github.com/antoinezambelli/forge",
