@@ -2,6 +2,111 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "section": "github",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "github:Fincept-Corporation/FinceptTerminal",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "section": "github",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "github:yt-dlp/yt-dlp",
+      "title": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "section": "github",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "github:presenton/presenton",
+      "title": "presenton/presenton",
+      "url": "https://github.com/presenton/presenton",
+      "section": "github",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "github:NVlabs/LongLive",
+      "title": "NVlabs/LongLive",
+      "url": "https://github.com/NVlabs/LongLive",
+      "section": "github",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-glasswing-initial-update",
+      "title": "Project Glasswing: An initial update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-21572",
+      "title": "Paper page - PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
+      "url": "https://huggingface.co/papers/2605.21572",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22012",
+      "title": "Paper page - LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio",
+      "url": "https://huggingface.co/papers/2605.22012",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22681",
+      "title": "Paper page - Forecasting Scientific Progress with Artificial Intelligence",
+      "url": "https://huggingface.co/papers/2605.22681",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:www-mahl-me-blog-the-spell-that-wouldnt-leave",
+      "title": "The spell that wouldn",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:www-reenigne-org-blog-80386-microcode-disassembled",
+      "title": "80386 microcode disassembled &laquo; Reenigne blog",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:horace-io-brrr-intro-html",
+      "title": "Making Deep Learning go Brrrr From First Principles",
+      "url": "https://horace.io/brrr_intro.html",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:www-cato-org-blog-dhs-quits-granting-green-cards-almost-entirely",
+      "title": "DHS Quits Granting Green Cards",
+      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiigfbvv95cuxnevlwr1vjafuwr3bdevctb2rar0zzy2pzwhm4zehuanzbrhqwwm9pvi1vuljuylrknjbqq09zzzbotzlcsxqwmzhpcwttykl",
+      "title": "Coupa adds Tonkean in latest AI acquisition push",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeVlwR1VjaFUwR3BDeVctb2RaR0ZzY2pzWHM4ZEhUanZBRHQwWm9PVi1vUlJUYlRKNjBQQ09ZZzBoTzlCSXQwMzhpcWtTYkltOXg1QlhtcjVRQzFJNjlVNnUwTDdFTFZ6UGdMUklrN1d5MlR1U0VSVnc2REc1TFdCWkdETllFc2RuRGc?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-23"
+    },
+    {
       "key": "github:dotnet/skills",
       "title": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
