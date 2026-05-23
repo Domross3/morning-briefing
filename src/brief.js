@@ -10,6 +10,7 @@ import { collectHuggingFace } from "./sources/huggingface.js";
 import { collectReddit } from "./sources/reddit.js";
 import { collectRss } from "./sources/rss.js";
 import { collectSearch } from "./sources/search.js";
+import { collectOpportunities } from "./sources/opportunities.js";
 import { collectWeather } from "./sources/weather.js";
 import { applyHistory, initHistory, readHistory, updateHistory } from "./history.js";
 import { scoreAndSelect } from "./select.js";
@@ -68,7 +69,7 @@ async function main() {
 
   // Per-section synthesis (templated, but content-aware — not boilerplate).
   const sectionSyntheses = {};
-  for (const section of ["github", "ai", "tech", "legislation", "finance", "sustainability"]) {
+  for (const section of ["opportunities", "github", "ai", "tech", "legislation", "finance", "sustainability"]) {
     const itemsInSection = finalItems.filter((i) => i.section === section);
     if (itemsInSection.length) {
       sectionSyntheses[section] = synthesizeSection(section, itemsInSection, profileText);
@@ -118,6 +119,7 @@ async function collectAll(config) {
     ["RSS", collectRss],
     ["Reddit", collectReddit],
     ["Search", collectSearch],
+    ["Opportunities", collectOpportunities],
   ];
 
   const settled = await Promise.allSettled(
@@ -170,6 +172,28 @@ function fallbackItems(degradedSources) {
 
 function sampleItems() {
   return [
+    {
+      id: "sample:opportunity",
+      dedupeKey: "sample:opportunity",
+      section: "opportunities",
+      source: "Opportunity · TechCrunch",
+      title: "Applications open: fully-funded AI research fellowship for undergraduates",
+      url: "https://example.com/fellowship",
+      summary: "Coverage from TechCrunch — click through for details and eligibility.",
+      eligibilityNote: null,
+      score: 22,
+    },
+    {
+      id: "sample:opportunity2",
+      dedupeKey: "sample:opportunity2",
+      section: "opportunities",
+      source: "Opportunity · EU Research",
+      title: "Oxford summer school on machine learning offers student scholarships",
+      url: "https://example.com/oxford",
+      summary: "Coverage from EU Research — click through for details and eligibility.",
+      eligibilityNote: "Europe-based — verify US-citizen eligibility before applying.",
+      score: 18,
+    },
     {
       id: "sample:github",
       dedupeKey: "sample:github",

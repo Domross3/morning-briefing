@@ -1,6 +1,7 @@
 import { escapeHtml } from "./lib/text.js";
 
 const SECTION_LABELS = {
+  opportunities: "Unique Opportunities",
   github: "GitHub",
   ai: "AI Research",
   tech: "Tech News",
@@ -64,6 +65,7 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     .chip { display:inline-block; border:1px solid #cfd9de; border-radius:999px; padding:4px 8px; font-size:12px; color:#38494f; margin:0 6px 6px 0; background:#f8fafb; }
     .tldr-tag { display:inline-block; font-size:11px; color:#62717a; padding:1px 6px; border:1px solid #dde5e8; border-radius:4px; margin-left:6px; vertical-align:middle; }
     .footer { color:#718189; font-size:12px; margin-top:6px; }
+    .flag { font-size:12.5px; color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:6px; padding:6px 10px; margin:8px 0 0; }
     .synthesis { padding:14px 18px; margin:8px 0 6px; background:#f4f7f8; border-color:#dce4e7; }
     .synthesis .label { font-size:11px; text-transform:uppercase; letter-spacing:0.4px; color:#62717a; font-weight:600; margin-bottom:6px; }
     .synthesis .body { font-size:13.5px; line-height:1.5; color:#253238; }
@@ -128,10 +130,16 @@ function renderCard(item) {
       ? `<p class="tryit"><strong>Try it:</strong> <code>${escapeHtml(item.installSnippet)}</code></p>`
       : "";
 
+  // Eligibility flag for Europe-based opportunities (verify US eligibility).
+  const eligibility = item.eligibilityNote
+    ? `<p class="flag">${escapeHtml(item.eligibilityNote)}</p>`
+    : "";
+
   return `<div class="card">
     <div class="meta">${escapeHtml(item.source || SECTION_LABELS[item.section] || "Source")}</div>
     <p class="title"><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></p>
     <p class="summary">${escapeHtml(item.summary || "")}</p>
+    ${eligibility}
     ${tryit}
     ${chips ? `<div class="chips">${chips}</div>${footer}` : ""}
   </div>`;

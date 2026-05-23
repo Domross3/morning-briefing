@@ -1,6 +1,7 @@
 import { scoreGitHub } from "./sources/github.js";
 
 const SECTION_CAPS = {
+  opportunities: 4,
   github: 5,
   ai: 6,
   tech: 4,
@@ -14,6 +15,11 @@ export function scoreAndSelect(items, profileText) {
     .filter((item) => item.title && item.url)
     .map((item) => {
       if (item.section === "github") return scoreGitHub(item, profileText);
+      // Opportunities carry a purpose-built score (actionable vs. news-about);
+      // don't dilute it with the generic keyword scorer.
+      if (item.section === "opportunities") {
+        return { ...item, dedupeKey: item.dedupeKey || item.id };
+      }
       return {
         ...item,
         score: scoreGeneric(item, profileText),
@@ -22,6 +28,9 @@ export function scoreAndSelect(items, profileText) {
     });
 
   const selected = [
+    // Opportunities get a score floor: better to show nothing than to surface
+    // low-quality "news about a program" items on a quiet day.
+    ...selectSection(scored, "opportunities", 14),
     ...selectGithub(scored.filter((item) => item.section === "github")),
     ...selectSection(scored, "ai"),
     ...selectSection(scored, "tech"),
@@ -45,9 +54,9 @@ function selectGithub(items) {
   return [...relevant, ...wildcards].slice(0, SECTION_CAPS.github);
 }
 
-function selectSection(items, section) {
+function selectSection(items, section, minScore = -Infinity) {
   return items
-    .filter((item) => item.section === section)
+    .filter((item) => item.section === section && item.score >= minScore)
     .sort((a, b) => b.score - a.score)
     .slice(0, SECTION_CAPS[section]);
 }

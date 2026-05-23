@@ -60,6 +60,9 @@ async function hydrateArticle(item, userAgent) {
       .split(/\s+/)
       .filter(Boolean).length;
   }
+  // Opportunities are actions, not reads — a "Read: ~N min" chip is misleading.
+  if (item.section === "opportunities") return;
+
   const minutes = readMinutesFromWords(wordCountSource);
 
   const chips = (item.chips || []).filter((c) => !/^read:/i.test(c));

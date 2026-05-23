@@ -37,6 +37,8 @@ export function synthesizeSection(section, items, profileText = "") {
   const aligned = topicHits.filter((t) => profileTopics.has(t.name));
 
   switch (section) {
+    case "opportunities":
+      return synthesizeOpportunities(items);
     case "github":
       return synthesizeGithub(items, topicHits, aligned);
     case "ai":
@@ -52,6 +54,33 @@ export function synthesizeSection(section, items, profileText = "") {
     default:
       return null;
   }
+}
+
+function synthesizeOpportunities(items) {
+  const n = items.length;
+  const europe = items.filter((i) => i.eligibilityNote);
+  const blob = items.map((i) => i.title).join(" ").toLowerCase();
+
+  const kinds = [];
+  if (/fellowship/.test(blob)) kinds.push("fellowships");
+  if (/research|reu/.test(blob)) kinds.push("research programs");
+  if (/conference|summit/.test(blob)) kinds.push("conferences");
+  if (/accelerator|startup/.test(blob)) kinds.push("startup programs");
+  if (/scholarship|grant|funded/.test(blob)) kinds.push("funded awards");
+
+  const parts = [];
+  parts.push(
+    kinds.length
+      ? `${n} candidate${n === 1 ? "" : "s"} today, spanning ${joinAnd(kinds.slice(0, 3))}.`
+      : `${n} candidate${n === 1 ? "" : "s"} surfaced today.`,
+  );
+  parts.push(
+    `These are keyword-matched, not vetted — confirm cost (must be free), class-year eligibility, and deadlines before investing time.`,
+  );
+  if (europe.length) {
+    parts.push(`${europe.length} ${europe.length === 1 ? "is" : "are"} Europe-based; check US-citizen eligibility (flagged on the card).`);
+  }
+  return parts.join(" ");
 }
 
 function synthesizeGithub(items, topicHits, aligned) {

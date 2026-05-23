@@ -2,6 +2,26 @@
 
 This is the relevance compass for the briefing. The bot reads it each run and uses it to score items, match topics, and choose which "wildcard" repos to surface. Keep it specific. If something feels generic ("I like AI tools"), the bot can't act on it.
 
+## Who I am (drives the Unique Opportunities section)
+
+- **Rising senior** at the **University of Michigan**, double-majoring in **Computer Science** and **Cognitive Science**.
+- Heavy interest in **AI and LLMs** — research, applications, agents, products.
+- **Pell-Grant eligible** — qualifies for many fully-funded / diversity / access / first-gen / low-income programs.
+- US citizen, based in Ann Arbor, Michigan.
+
+**What I'm hunting for (Unique Opportunities):** out-of-the-box activities that build skills, expand my network, or open career paths — conferences, research programs (REUs), fellowships, accelerators, pre-professional / access programs, hackathons, summits. Cast the net WIDE.
+
+**Hard requirements for opportunities:**
+- Must be **free / fully funded** — no out-of-pocket cost. Travel-funded or virtual both fine.
+- Not limited to the US — global is welcome. **But for Europe-based programs, flag whether Americans are eligible (or preferred).**
+- Open to undergraduates / rising seniors / early-career.
+
+**Examples of opportunities I'm already doing (the target vibe):**
+- Harvard SVMP (Summer Venture in Management Program, via HBS) — access/pre-professional program.
+- Y Combinator Startup School — free startup education.
+
+So: think fully-funded fellowships, diversity/first-gen tech programs, AI research summer programs, conference student scholarships & travel grants, equity-free accelerators, and similar.
+
 ## Current Projects
 
 ### Aspera — primary build (current focus)
