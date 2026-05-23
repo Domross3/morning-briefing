@@ -2,6 +2,83 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxprjfydvdpevvxbgvut3lludjzvdf6ajflyzm2t2nhx3jiaddfczy0aml6bfm0uzfiagnvy1nwzmvzznnzx1bndvlty1vesjr",
+      "title": "Call For Applications: Microsoft Research Fellowship 2026 (Up $17,000 Stipend)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjFYdVdPeVVxbGVUT3llUDJzVDF6ajFlYzM2T2NhX3JiaDdFczY0aml6bFM0UzFiaGNvY1NWZmVZZnNZX1BndVlTY1VESjRDcHhSdG9fZ1JkOXh5YmhydXBtaXZuU2tiVXVScUFfNlNVMmpGY2tUaGJ2cWVGN015S1k1MElOMDlabnlELU5HMFJ5dTFuXzJJNG5jb21rbnBuYjVia0Vn?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivwfbvv95cuxomwe3a1jjwtb5c0jonxlxstdnrg5uluswamt6mu5twmrntvq0sgq1ueppumpstnrzdldovtlhodr3tllvzgjpahvxymxhzlp",
+      "title": "Montana Technological University reminds students of approaching scholarship deadlines",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWE3a1JJWTB5c0JONXlxSTdNRG5uLUswamt6MU5TWmRnTVQ0SGQ1UEpPUmpsTnRzdldoVTlHODR3TllvZGJpaHVxYmxhZlp4cmpwUGtONjA5NU45M3VxRjBjOHdYcWk0WlJFZjJIcUZiV1hhS2N6eUUzTFNjazVvSEFsS1N1cnJkWDAyRlpnb1hLcG5FcjhLUnBqVVEwdF9mX2FpRVZwMGp4UEVXN015cWpvM1dFaWtlNEtGUUg0SQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmie0fvx3lxte42bf9jzlrpbmtpztbrz3jxcfrsblhjdnj5odmwythvzly3quvob19hal94avnjci1qcvlhavrvrw5hzdf0qno5ahf3du9xakj",
+      "title": "Division of Engineering Programs, Department of Computer Science join forces to bring AI tools into ongoing clean energy research",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42bF9jZlRPbmtpZTBRZ3JXcFRsblhjdnJ5ODMwYThvZlY3QUVOb19Hal94aVNJci1QcVlHaVRVRW5hZDF0Qno5aHF3dU9XakJVZjNnbVdwTkUxVFZvQ2R3c0trSGx6YlhjaDFzaWJ0RXlQdlR3XzZ4RXVpWQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmizafbvv95cuxpwgm2afdvsefwrgndtm5xy3lfn0fsaeddehpaq2fhqjuzawhmc19gzlnfukjicxfzc0d5rglmn1nhx3rjb0nzbxzymtjvekx",
+      "title": "250 No-Cost Passes to SaaStr AI Annual for the Next Generation of Underrepresented Revenue Leaders. Apply Now.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGM2aFdVSEFwRGNDTm5XY3lFN0FsaEdDeHpaQ2FHQjUzaWhMc19GZlNFUkJIcXFZc0d5RGlMN1NHX3Rjb0NzbXZyMTJVekxZV0EtLVJXeGNaTGRfMVloc09MeHVJT2lJcHhHcEVUa2hPRnhVa3dsaXcySjlocXVtRndzNjU2YlN2N3Exa0hmMlEtcFFvemNhWWdkMWxmc01yS1M1VXFYSjg1UEdERm9iT2lZNnRhTGh0Q01tb2t4WHRYV2I5OWdKOXdGMmc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22718",
+      "title": "Paper page - WorldKV: Efficient World Memory with World Retrieval and Compression",
+      "url": "https://huggingface.co/papers/2605.22718",
+      "section": "ai",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:old-reddit-com-r-electronics-comments-1td7yxl-i-built-a-fully-selfpowered-computer-in-actual",
+      "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+      "url": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:zero-arr-vercel-app",
+      "title": "$30M for AISLOP — the \"autonomous AI company\" that",
+      "url": "https://zero-arr.vercel.app",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:susam-net-do-not-roll-your-own-html",
+      "title": "Don't Roll Your Own ...",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "Hacker News:www-c82-net-euclid",
+      "title": "Byrne",
+      "url": "https://www.c82.net/euclid/",
+      "section": "tech",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmisgfbvv95cuxqrvbievlssurnnfrqvk9elxbunnnatgv6vs1knznha0nrykdvx09ytxzrazzabwfyetg1uxnjs05iqklneuldwku5sueynjz",
+      "title": "Five Reasons Every California Employer Needs an AI Policy",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVBIeVlSSURNNFRqVk9ELXBUNnNaTGV6VS1kNzNHa0NrYkdvX09yTXZrazZabWFyeTg1UXNjS05IQklNeUlDWkU5SUEyNjZaeUhQejM4MXZVR1JPZjZfNVJpd21uSGg4VTUyMnBPRjJNSUt4cm85Vl9jSVZGbDhWR0J2S3p1YTNwcUdia3FoUDZuWmZ2RnZRVjhOcGdoZ1B4em54OG5wVERtZjdmS3QydVVB?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-23"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmickfvx3lxte41nvaxmlg3vm9jtm1dqk9ttgsyruxxrkjjd0qxotjsqu5fdng3quo1mu1dudbddv9oanfhtfmycvvfefbtwkveymlioulrstv",
+      "title": "15 Climate Tech Startups to Watch in 2026",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41NVAxMlg3Vm9jTm1DQk9tTGsyRUxXRkJjd0QxOTJSQU5fdng3QUo1MU1DUDBDdV9OanFHTFMycVVfeFBTWkVEYmliOUlRSTV3QlFyU2tqbGJ4VFl1eEpuLWYyY28xbWN6dllmcl9sNDJGZw?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-23"
+    },
+    {
       "key": "github:mukul975/Anthropic-Cybersecurity-Skills",
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
