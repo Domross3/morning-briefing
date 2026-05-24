@@ -2,6 +2,97 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxpd1jjtnpzt2h6qw9cvur3r2hwuwdpss1yz3fncdvxckl3em8tm0hbshfqlvdlsvgyrvnrrgludwt4mzrzdhrpd0n2uk9knwi",
+      "title": "Free Grants and Programs for Small Business",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1JjTnpZT2h6QW9CVUR3R2hwUWdpSS1yZ3FNcDVxckl3em8tM0hBSHFqLVdlSVgyRVNRRGludWt4MzRZdHRPd0N2Uk9kNWIxcTdQaS1vT1J1TEpyTWcyMFFxaHNuQVQwTEdrQ0t6TVBxMlRsaWFDYzRoQ3lLZE1jS0ExQ1Y2OUNocXQzLVhnMA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmihwfbvv95cuxna3jowllyqmrssudbauxlsmw1cvhhevfuou5odjq3m2gtckpsumhnweljdvjzr2nfvmntuk9cuhhqbmc5rzhqaenfzur1q0z",
+      "title": "Applications Now Open for $60,000 NVIDIA Graduate Fellowship Awards",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3JoWllyQmRsSUdBaUxLSmw1cVhheVFUOU5OdjQ3M2gtckpsUmhnWEljdVJzR2NfVmNTUk9CUHhqbmc5RzhqaENfZUR1Q0Z4bFlybUFDdlRrRkpSY0UxemsyanIxNWh6S01UQVZqbHZxZ201ZUw1Wmlmd0k4ZnFXWDJtTzc4Ulk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivwfbvv95cuxosgi4sl9hckgxewpsn3eztfzjnkdtvmg2oerqotb2ejfkd0q4ovrirdnjdwhoenpbmvlvqwdddgxktk4wrf9xwjvfvelrnfa",
+      "title": "Call for projects “UNESCO-Aschberg Programme for Artists and Cultural Professionals”",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGI4Sl9hckgxeWpSN3EzTFZjNkdTVmg2OERQOTB2ejFkd0Q4OVRiRDNJdWhOenpBMVlvQWdDdGxKTk4wRF9XWjVfVElrNFAwQ296VGpVRWt4X0FRU2ZHSWM4WklsV3RsQWY5MUFOSlljbWFCUmpxcmcyLUg5d3hFZlVHdEZYeWFJWFhRNGxXYnJFOFotb2J0QUp4VjZQcDc1U2NKajFPUzJZZTdfbXJUWExHSWdpZl83elRDWGllUQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "github:earendil-works/pi",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "section": "github",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "github:manaflow-ai/cmux",
+      "title": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "section": "github",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "github:blakeblackshear/frigate",
+      "title": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "section": "github",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "github:anthropics/knowledge-work-plugins",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "section": "github",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "github:Alishahryar1/free-claude-code",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "section": "github",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22668",
+      "title": "Paper page - SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.22668",
+      "section": "ai",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "Hacker News:susam-net-childhood-computing-html",
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "section": "tech",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "Hacker News:mastering-dyalog-com-readme-html",
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "section": "tech",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "Hacker News:fs-blog-knowledge-project-podcast-greg-brockman",
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "section": "tech",
+      "sentAt": "2026-05-24"
+    },
+    {
+      "key": "Hacker News:www-adventuresinoss-com-aws-four-years",
+      "title": "Amazon Web Services",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "section": "tech",
+      "sentAt": "2026-05-24"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxprjfydvdpevvxbgvut3lludjzvdf6ajflyzm2t2nhx3jiaddfczy0aml6bfm0uzfiagnvy1nwzmvzznnzx1bndvlty1vesjr",
       "title": "Call For Applications: Microsoft Research Fellowship 2026 (Up $17,000 Stipend)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjFYdVdPeVVxbGVUT3llUDJzVDF6ajFlYzM2T2NhX3JiaDdFczY0aml6bFM0UzFiaGNvY1NWZmVZZnNZX1BndVlTY1VESjRDcHhSdG9fZ1JkOXh5YmhydXBtaXZuU2tiVXVScUFfNlNVMmpGY2tUaGJ2cWVGN015S1k1MElOMDlabnlELU5HMFJ5dTFuXzJJNG5jb21rbnBuYjVia0Vn?oc=5",
