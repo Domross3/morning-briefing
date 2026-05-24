@@ -10,7 +10,7 @@ const SECTION_LABELS = {
   sustainability: "Sustainability",
 };
 
-export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {}, weather = null }) {
+export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {}, weather = null, intro = null }) {
   const grouped = groupBySection(items);
   // TL;DR = the single top card from each section, capped at 3.
   const tldrItems = Object.keys(SECTION_LABELS)
@@ -36,6 +36,9 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     : "";
 
   const weatherBlock = renderWeather(weather);
+  const introBlock = intro && intro.trim()
+    ? `<div class="intro">${escapeHtml(intro.trim())}</div>`
+    : "";
 
   return `<!doctype html>
 <html>
@@ -64,6 +67,7 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     .chips { margin-top:11px; }
     .chip { display:inline-block; border:1px solid #cfd9de; border-radius:999px; padding:4px 8px; font-size:12px; color:#38494f; margin:0 6px 6px 0; background:#f8fafb; }
     .tldr-tag { display:inline-block; font-size:11px; color:#62717a; padding:1px 6px; border:1px solid #dde5e8; border-radius:4px; margin-left:6px; vertical-align:middle; }
+    .intro { font-size:15px; line-height:1.55; color:#253238; background:#ffffff; border:1px solid #dde5e8; border-left:3px solid #0b5cad; border-radius:8px; padding:16px 18px; margin-bottom:20px; }
     .footer { color:#718189; font-size:12px; margin-top:6px; }
     .flag { font-size:12.5px; color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:6px; padding:6px 10px; margin:8px 0 0; }
     .synthesis { padding:14px 18px; margin:8px 0 6px; background:#f4f7f8; border-color:#dce4e7; }
@@ -89,6 +93,7 @@ export function renderBrief({ items, dateLabel, degradedSources, sectionSynthese
     <h1>Morning Briefing</h1>
     ${degraded}
     ${weatherBlock}
+    ${introBlock}
     <div class="tldr">
       <h2>TL;DR</h2>
       <ul>${tldr || "<li>No high-signal items cleared the filters today.</li>"}</ul>

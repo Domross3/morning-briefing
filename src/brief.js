@@ -16,6 +16,7 @@ import { applyHistory, initHistory, readHistory, updateHistory } from "./history
 import { scoreAndSelect } from "./select.js";
 import { hydrateItems } from "./hydrate.js";
 import { synthesizeSection } from "./synthesize.js";
+import { enhanceBrief } from "./llm.js";
 import { itemIsLikelyEnglish } from "./lib/language.js";
 import { renderBrief } from "./render.js";
 import { sendEmail } from "./email.js";
@@ -67,7 +68,7 @@ async function main() {
     await hydrateItems(finalItems, { userAgent: config.userAgent });
   }
 
-  // Per-section synthesis (templated, but content-aware — not boilerplate).
+  // Per-section synthesis (templated, content-aware) — the baseline / fallback.
   const sectionSyntheses = {};
   for (const section of ["opportunities", "github", "ai", "tech", "legislation", "finance", "sustainability"]) {
     const itemsInSection = finalItems.filter((i) => i.section === section);
@@ -76,7 +77,32 @@ async function main() {
     }
   }
 
-  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses, weather });
+  // Optional LLM enhancement: real synthesis, editorial intro, opportunity
+  // vetting. Returns null without an API key or on failure → templated stays.
+  let intro = null;
+  const llm = sample ? null : await enhanceBrief({ items: finalItems, profileText, dateLabel });
+  if (llm) {
+    for (const [section, text] of Object.entries(llm.sections)) {
+      if (text && text.trim()) sectionSyntheses[section] = text.trim();
+    }
+    const byId = new Map(finalItems.map((i) => [i.id, i]));
+    for (const opp of llm.opportunities) {
+      const item = byId.get(opp.id);
+      if (!item) continue;
+      if (opp.summary && opp.summary.trim()) item.summary = opp.summary.trim();
+      if (opp.fit) {
+        item.chips = [`Fit: ${opp.fit}`, ...(item.chips || [])];
+      }
+    }
+    intro = llm.intro;
+    if (llm.usage) {
+      console.log(
+        `LLM (${llm.model}): ${llm.usage.input_tokens} in / ${llm.usage.output_tokens} out tokens.`,
+      );
+    }
+  }
+
+  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses, weather, intro });
 
   await fs.mkdir(path.dirname(config.outputPath), { recursive: true });
   await fs.writeFile(config.outputPath, html, "utf8");

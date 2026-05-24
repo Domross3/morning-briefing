@@ -44,6 +44,10 @@ jobs:
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           BRIEF_TO_EMAIL: ${{ vars.BRIEF_TO_EMAIL }}
+          # Optional LLM enhancement. If ANTHROPIC_API_KEY is unset, the brief
+          # falls back to templated synthesis (still ships, just less sharp).
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRIEF_LLM_MODEL: ${{ vars.BRIEF_LLM_MODEL }}
         run: npm run brief
 
       - name: Upload rendered HTML on failure
