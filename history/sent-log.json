@@ -2,6 +2,153 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte0wa0dmcklmqmpbqlbsu2jfd05btle0b2w5vjjkx3piu3oyczvxwtzoethiafnpsvmtz29bv2k2wu00ltzyehjrz2pbzxlqz3r",
+      "title": "Call for Applications: CBAI Summer Research Fellowship 2026",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wa0dmcklMQmpBQlBSU2Jfd05BTlE0b2w5VjJKX3piU3oyczVxWTZOeThIaFNPSVMtZ29BV2k2WU00LTZyeHJRZ2pBZXlQZ3RpVEpPU0hZT1g3blhXcGtkMkFCNnE3UHRmVUtYRERYV20yTnlk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxnveptc0jkeddsa1dfymxxbnfxatu0ugpszhzozjc0thjjvknnd3dsdla5v3ywako0ogfnm09vmu5on05ksxb2d3gyz2nicgf",
+      "title": "Students apply AI to real-world challenges in summer program.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEpTc0JkeDdsa1dfYmxxbnFXaTU0UGpsZHZoZjc0THJjVkNnd3dSdlA5V3Ywako0OGFNM09VMU5oN05KSXB2d3gyZ2NIcGFnSlJ3dy1aTXpLVDM3WGRMQWUtREl6VzV0NmZKcV95MDJRVFdNYjhfU0thSF9zRTVTRE9lUjVLY0NxTEszQUdJQ2EtM0dES005MzhhS0tIV0lfbERLckkzZzVxdw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmieefvx3lxtfbpuuxrx0i5ulk3mug3cjfmcjzbmdzvv2noa3pvdu5yr3hzwhlqanvsofzrrvz4djn5ndlucgppzlzxak5sd2oyrlnwrwmtoex",
+      "title": "10 Scholarships And Grants For Adults Going Back To School",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUUxrX0I5Ulk3MUg3cjFMcjZBMDZvV2Noa3pvdU5YR3hZWHlQanVsOFZRRVZ4djN5NDlUcGppZlZXak5Sd2oyRlNwRWMtOExuS1NBY182ek5odVRsWGotQVJDOUhzWV9iQ2tOMnJTR0VZdWNHMThlMg?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxnd0dxexj2btz2z0jyylnedzhwwtbrwvjtv2qxrgu3ehgztzbwtthdajfxatfhbe8yodjstlfqcgvmzmhwalrwnfitvnu4bzn",
+      "title": "NYCEDC Announces Applications for 2026 Founder Fellowship Program, Addressing Inequities in Tech Ecosystem and Launch of Founder Alumni Program",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dXeXJ2bTZ2Z0JyYlNEdzhWWTBrWVJTV2QxRGU3eHgzTzBWTThDajFxaTFhbE8yODJsTlFQcGVmZmhWalRwNFItVnU4bzN3a2RveVpSX0haZEUtMERDU2Z0ck9zbzNpQk5OWTJ2bnpUdEU0Y1EtYkRxYmtvOFQzdjN2a2lRY1JLNWJULTEwTW5Oc1Y4clE?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "github:paperless-ngx/paperless-ngx",
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "section": "github",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "github:anthropics/claude-cookbooks",
+      "title": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "section": "github",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "github:Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "section": "github",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "github:moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "section": "github",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "section": "github",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-23899",
+      "title": "Paper page - From Raw Experience to Skill Consumption: A Systematic Study of Model",
+      "url": "https://huggingface.co/papers/2605.23899",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-23904",
+      "title": "Paper page - SkillOpt: Executive Strategy for Self",
+      "url": "https://huggingface.co/papers/2605.23904",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-21573",
+      "title": "Paper page - Lens: Rethinking Training Efficiency for Foundational Text-to",
+      "url": "https://huggingface.co/papers/2605.21573",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-22878",
+      "title": "Paper page - SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "url": "https://huggingface.co/papers/2605.22878",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-23771",
+      "title": "Paper page - PhotoFlow: Agentic 3D Virtual Photography Missions",
+      "url": "https://huggingface.co/papers/2605.23771",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-20708",
+      "title": "Paper page - Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.20708",
+      "section": "ai",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "Hacker News:github-com-exmergo-research-chatgpt-guesses-between-1-and-100",
+      "title": "GitHub - exmergo/research-chatgpt-guesses-between-1-and-100: When asked to pick a random number between 1 and 100, ChatGPT does not follow a random uniform distribution",
+      "url": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100",
+      "section": "tech",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "Hacker News:futurumgroup-com-insights-2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon",
+      "title": "$2 Billion CHIPS Act Investment in Quantum Bets on IBM's 300mm Superconducting Silicon",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "section": "tech",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "Hacker News:www-cnn-com-2026-05-25-climate-new-orleans-sea-level-rise-relocation",
+      "title": "Rising seas will swallow New Orleans. People need to start relocating now, scientists say",
+      "url": "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation",
+      "section": "tech",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "Hacker News:techcrunch-com-2026-05-21-six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "section": "tech",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqgfbvv95cuxnbjveaxz1d0vrrkrtdklonnbjsw0xmfnjthc0ls1fvl9hcfpndxc3mjnju3hbb29udwfdr1z4euhhuwrltefswktuqk1gamr",
+      "title": "Budd Leads Group of Bipartisan Senators in Introducing FARM AI Act to Expand Access to Technology for American Farmers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjVEaXZ1d0VRRkRtdkloNnBJSW0xMFNJTHc0LS1fVl9HcFpNdXc3MjNjU3hBb29udWFDR1Z4eUhhUWRLTEFsWktUQk1GamRmOEN4eUJjNTdacWM3TXRFZXVXXzROLWZDTHJCcWVfakQzeGRhQmVGVE1YZk81VFNLMTdnbWRteDcxOFo3cUZYN1hqMnRLSWtINmM4Qk9LTTIwaTdZZUFRUmZlQQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-25"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmirafbvv95cuxnnkvmaxnmue4zrdr0mujnc2vjzwv3njhxylvioeu2ekfbmzjfdne3uwdkuudgenrpvnfjuw9id1dmmdnjcjbyawz0ak1fa0n",
+      "title": "Colorado AI Act Amended and Effective Date Delayed",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkVmaXNMUE4zRDR0MUJnc2VjZWV3NjhXYlViOEU2ekFBMzJFdnE3UWdkUUdGenRPVnFJUW9id1dMMDNJcjByaWZ0ak1fa0N6c05VV2I0cnR5ekRJMGJ0UzdBMmxtT3NhWWxlRTVIZVNKdVAwNUl6eUlOdTNGclNGYXl2Tm9BRDRGUy00bEJOUzBYcGVrTTRQZk5QMnNZNjZJSHZfMTduaXJORzhY?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-25"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxpd1jjtnpzt2h6qw9cvur3r2hwuwdpss1yz3fncdvxckl3em8tm0hbshfqlvdlsvgyrvnrrgludwt4mzrzdhrpd0n2uk9knwi",
       "title": "Free Grants and Programs for Small Business",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1JjTnpZT2h6QW9CVUR3R2hwUWdpSS1yZ3FNcDVxckl3em8tM0hBSHFqLVdlSVgyRVNRRGludWt4MzRZdHRPd0N2Uk9kNWIxcTdQaS1vT1J1TEpyTWcyMFFxaHNuQVQwTEdrQ0t6TVBxMlRsaWFDYzRoQ3lLZE1jS0ExQ1Y2OUNocXQzLVhnMA?oc=5",
