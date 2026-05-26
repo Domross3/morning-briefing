@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmitwfbvv95cuxpn0rvdkotzkdba21iyzzudnl6bxzrcmk0us1oylflruzzcnbzswz4nmxqukzpehfimudgvxn5b09vu1izymexd3d4s2nxnel",
+      "title": "Grad Student and Undergrad Win National Science Foundation Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RvdkotZkdBa21IYzZudnl6bXZrcmk0US1OYlFlRUZZcnBZSWZ4NmxQUkZPeHFIMUdGVXN5b09VU1IzYmExd3d4S2NxNElobHUtQWhhV0wyWTdtSVhvUWlHS0gzZktRQlFHYnBXcW9RSjFtb2dpbXd1RkhEVWVkZWlXZllwbkxLMGt0czdma08yZlJHNEpHQk5GVjB2LVI3bFlfOW9LREpvQlRWendTWlZRMnJRMEU?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi6afbvv95cuxpwfu3znbxbu5lyut3ee5yngu1zxp4tw9qcejibfddwjvdamhuexjzdjblwutxnnphvfu5qznoq1v3cerkuvlwbmfothfzbhp",
+      "title": "Grand Valley Power Expands Access to CMU Tech Electric Lineworker Program Through Scholarship Support",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFU3ZnBxbU5lYUt3eE5YNGU1ZXp4TW9qcEJIbFdDWjVDamhUeXJzdjBLWUtxNnpHVFU5QzNOQ1V3cERkUVlwbmFoTHFzbHpKRVhneXR1MkxPSDRvbTc4TmFfdTc1eGhnMXM4ZGZZMXBZLXR0VE1ZQ2tHMlRubFFxMXloVS1JOUd1SGdHY2gzcU5sZVVjMFhlS3JNN1d6eF90ZEhqak9vdjRUV1ZCSTVTdmEzTERWNGFOSHY2RDZXSG81OFlpbGVraVlOOFRONEhONnN0b2h4MS0zaDBCa2hzR2lTbnFFVEg3?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxptg5hsglqyju1cldzzmd2wg5pvezhzeqtre82v0xny2w2m19iruq5wvnds2qtytzwmvvjcvhtx1o0ekppukvsqwlzr2y1r3p",
+      "title": "28 Fully Funded Ph.D. Programs",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG5HSGlQYjU1cldZZmd2WG5pVEZHZEQtRE82V0xNY2w2M19iRUQ5WVNDS2QtYTZwMVVjcVhtX1o0ekpPUkVSQWlzR2Y1R3pEeVJQVUJTeEhNYzFsSG5SampjOEZubHBvZllQSVdWaWdHdnZVYUQ5eFU4RUgzbWJZYnZtYWl0QVBKZkpvbWZlb2NscVV0ZmJRSU1lTHpDVTQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmihafbvv95cuxnaejyzwxts1drou1yrm5rvelnev9ptgnfyxvzmli2cefnm3fom2rtt3lkcznsmetnbup1ck12rjh3vf9qm1fjchdwce9mm29",
+      "title": "A Massive List of Winter 2025 Grants, Labs & Fellowships",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEJYZWxTS1drOU1yRm5RVElNeV9pTGNfYXVZMlI2cEFnM3FoM2RtT3lkczNsMEtnbUp1ck12Rjh3VF9qM1FjcHdwcE9mM29tNW1GOXRVYk9KX3Jfb1Q1S3M4V0o0Q29tYmpla0VYa1FlSW83UEFVc1B1NENPRmJIMWJsVXQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "github:thedotmack/claude-mem",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "section": "github",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "github:DigitalPlatDev/FreeDomain",
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "section": "github",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "github:jellyfin/jellyfin",
+      "title": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "section": "github",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "github:twentyhq/twenty",
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "section": "github",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "github:Open-Dev-Society/OpenStock",
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "section": "github",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-24830",
+      "title": "Paper page - Macaron-A2UI: A Model for Generative UI in Personal Agents",
+      "url": "https://huggingface.co/papers/2605.24830",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-24218",
+      "title": "Paper page - QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://huggingface.co/papers/2605.24218",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-chris-olah-pope-leo-encyclical",
+      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-25874",
+      "title": "Paper page - WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+      "url": "https://huggingface.co/papers/2605.25874",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-23218",
+      "title": "Paper page - Foundation Protocol: A Coordination Layer for Agentic Society",
+      "url": "https://huggingface.co/papers/2605.23218",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-20342",
+      "title": "Paper page - ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.20342",
+      "section": "ai",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "Hacker News:www-githubstatus-com-today",
+      "title": "GitHub Status",
+      "url": "https://www.githubstatus.com/?today",
+      "section": "tech",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "Hacker News:www-githubstatus-com-incidents-gnftqj9htp0g",
+      "title": "Incident with Actions and Pages",
+      "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
+      "section": "tech",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "Hacker News:vllm-ai-blog-2026-05-26-eagle-3-1",
+      "title": "EAGLE 3.1: Advancing Speculative Decoding Through Collaboration Between the EAGLE Team, vLLM, and TorchSpec",
+      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "section": "tech",
+      "sentAt": "2026-05-26"
+    },
+    {
+      "key": "Hacker News:www-politico-eu-article-netherlands-blocks-us-takeover-vital-digital-supplier",
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "section": "tech",
+      "sentAt": "2026-05-26"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte0wa0dmcklmqmpbqlbsu2jfd05btle0b2w5vjjkx3piu3oyczvxwtzoethiafnpsvmtz29bv2k2wu00ltzyehjrz2pbzxlqz3r",
       "title": "Call for Applications: CBAI Summer Research Fellowship 2026",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wa0dmcklMQmpBQlBSU2Jfd05BTlE0b2w5VjJKX3piU3oyczVxWTZOeThIaFNPSVMtZ29BV2k2WU00LTZyeHJRZ2pBZXlQZ3RpVEpPU0hZT1g3blhXcGtkMkFCNnE3UHRmVUtYRERYV20yTnlk?oc=5",
