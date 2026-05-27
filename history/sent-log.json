@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
+      "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxns0vtvm9kyvzxv2f0qvlrcgpesgxax0twwg5hswjvbxfxzffiq2xuqu1pvzjlwe5adl9yoglumzfrvg5lc0reevdta0fuznv",
+      "title": "Call For Applications: Bridge Leadership Bootcamp 2026 for Nigerian Students( Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0VTVm9kYVZxV2F0QVlRcGpESGxaX0twWG5HSWJVbXFxZFFiQ2xuQU1pVzJlWE5adl9YOGluMzFRVG5Lc0REeVdTa0FUZnVTWVUyQU9SbnNSN3AyTzAtMzFNQW4yNl9mdTlxTC1OWnVvajNDTmRPU29hcGF0SldIS1EzckcyOF9zYnZfcVFsdjdfUzVwck5kNGlvSW4wc1JvZHdldUNqUDZmMnNVUnk3bmpQb01heERXZ3c?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "github:p-e-w/heretic",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "section": "github",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "github:iii-hq/iii",
+      "title": "iii-hq/iii",
+      "url": "https://github.com/iii-hq/iii",
+      "section": "github",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "github:hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "section": "github",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "github:Axorax/awesome-free-apps",
+      "title": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "section": "github",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-26114",
+      "title": "Paper page - MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "https://huggingface.co/papers/2605.26114",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-kiyoung-choi-representative-director-anthropic-korea",
+      "title": "Kiyoung Choi Representative Director Anthropic Korea",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-27367",
+      "title": "Paper page - SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
+      "url": "https://huggingface.co/papers/2605.27367",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-17423",
+      "title": "Paper page - Soap2Soap: Long Cinematic Video Remaking via Multi",
+      "url": "https://huggingface.co/papers/2605.17423",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-27365",
+      "title": "Paper page - LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "url": "https://huggingface.co/papers/2605.27365",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-26230",
+      "title": "Paper page - Geometry-Aware Representation Denoising for Robust Multi",
+      "url": "https://huggingface.co/papers/2605.26230",
+      "section": "ai",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "Hacker News:arps18-github-io-posts-claude-code-mastery",
+      "title": "Beyond the Prompt: Claude Code",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "section": "tech",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "Hacker News:www-githubstatus-com-incidents-xy1tt3hs572m",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "section": "tech",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "Hacker News:github-com-williamsmithedward-xlide-vscode",
+      "title": "GitHub - WilliamSmithEdward/xlide_vscode: Excel VBA integration for VS Code - Tree View / Full Direct VBA Read+Write / LiveShare Compatible / Direct Agentic AI Integrations",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "section": "tech",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "Hacker News:rubbishtalk-com-economy-how-private-equity-bought-americas-essential-services",
+      "title": "How Private Equity Bought America’s Essential Services",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "section": "tech",
+      "sentAt": "2026-05-27"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiggfbvv95cuxqcnhmsgtewki0zm1euud1ws1ytddtov9oa1diafzqd3zknnr3blpbdzvhvdz4v2zkrlb6m3jdbhzfruxxuve4oe5ssfvvyxh",
+      "title": "Who will win the AI IPO race between SpaceX, Anthropic and OpenAI?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnhmSGtEWkI0Zm1EUUd1WS1YTDdtOV9Oa1dIaFZQd3ZkNnR3blpBdzVhVDZ4V2ZkRlB6M3JDbHZFRUxXUVE4OE5sSFVvYXhRLVlnLUg2OVBPXy14V0w1VGs5WW00OGxJVmJyaWpja1ZKVDgyQXBUT1dMdmZxcGUxdG1B?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-27"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmitwfbvv95cuxpn0rvdkotzkdba21iyzzudnl6bxzrcmk0us1oylflruzzcnbzswz4nmxqukzpehfimudgvxn5b09vu1izymexd3d4s2nxnel",
       "title": "Grad Student and Undergrad Win National Science Foundation Research Fellowship",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RvdkotZkdBa21IYzZudnl6bXZrcmk0US1OYlFlRUZZcnBZSWZ4NmxQUkZPeHFIMUdGVXN5b09VU1IzYmExd3d4S2NxNElobHUtQWhhV0wyWTdtSVhvUWlHS0gzZktRQlFHYnBXcW9RSjFtb2dpbXd1RkhEVWVkZWlXZllwbkxLMGt0czdma08yZlJHNEpHQk5GVjB2LVI3bFlfOW9LREpvQlRWendTWlZRMnJRMEU?oc=5",
