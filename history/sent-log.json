@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxqmk5bee4zqxnuajnkvhfrsxyytlh2rfg3y0xkwkpxeha3bvhetf8wagy1mzhpmtvhww1dltdfvfzcawtmthristnqnersegr",
+      "title": "Ellucian Foundation’s 2026 PATH Scholarship Program to Provide Funding for Student Success",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk5BeE4zQXNuajNKVHFrSXYyTlh2RFg3Y0xKWkpXeHA3bVhETF8waGY1MzhPMTVhWW1DLTdFVFZCaWtmTHRiSTNQNERSeGRjWlozeENzLUdVSldFM0ZyanNaUVRxMHcwSmtWU0hyeXNETzBCUFBqd255dFEyR0tuZ3AtTVRZa0NiQnh1ZkRQNVMwTVFQUjlkeVdNbF9QMU5Zd01WaTZpUmdNTURyZHIwcGhZZ0FVTkRYYlE?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxpwxlksxniznpqoexnbtvwu1zrzc04xzntvnzpwxo3sm9lven1zla5edfmevpyrzrybmrrvfhinmpgvlbidtfusmjfwwe5u0f",
+      "title": "Student Research Takes Center Stage at the Mathias Student Research Conference",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXlKSXNiZnpQOExNbTVwU1ZrZC04XzNTVnZpWXo3Sm9LVEN1ZlA5eDFMeVpYRzRybmRRVFhINmpGVlBidTFUSmJFWWE5U0FudkNTYl8tNW9PR3p0LUVvc2dKNEdYV3hNVXl3dk1TZThHbXF0Y0Q1MkU1SFlrWlRhaWFmWWIzVzJoNHplYnJxdFo1d01fSGJvYXptMENzcDdYQm0tYnFISFo4Nl9VVHhSakl2dDFKQ001U3RKNmdR?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxoagpfdxhszgjjcthpb1prd0iydmrvy00wvzzvmmy3lwjougdatudlne1px1lerkztcjdxtu0xzvvmn3noehdkqjlzt0dcsmk",
+      "title": "15 Fully Funded and Travel Abroad Fellowship Opportunities Currently Open – April 20, 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGpfdXhsZGJJcThpb1pRd0IydmRVY00wVzZvMmY3LWJoUGdaTUdLNE1pX1lERkZTcjdxTU0xZVVMN3NOeHdKQjlZT0dCSmk2eGtCeVJvZlFsWlJrSUF3cV9aVlRmZjNheElFTmlxVkJzY05QdHBFdmZ2cFJraTJwQ0N1X0FVSXF4cndza2xzZDV0ZVA0UkwtRWtpYUt0end0bno5OF9BeDdyVGFOZDdRVlZPei1HTG9fLXZneVdfdEEwUWFJU1ow?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "github:unclecode/crawl4ai",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "section": "github",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "github:revfactory/harness",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "section": "github",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "section": "github",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "section": "github",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "github:EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "section": "github",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-warp",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-coding-agents-social-sciences",
+      "title": "Coding agents in the social sciences",
+      "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-building-self-improving-tax-agents-with-codex",
+      "title": "Building self",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-28816",
+      "title": "Paper page - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+      "url": "https://huggingface.co/papers/2605.28816",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-28774",
+      "title": "Paper page - Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+      "url": "https://huggingface.co/papers/2605.28774",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-28003",
+      "title": "Paper page - ResearchMath-14K: Scaling Research",
+      "url": "https://huggingface.co/papers/2605.28003",
+      "section": "ai",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "Hacker News:lenz-io-research-llm-disagreement",
+      "title": "Beyond Benchmarks: Frontier LLM Disagreement on Fact",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "section": "tech",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "Hacker News:ec-europa-eu-commission-presscorner-home-en",
+      "title": "Press corner",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "section": "tech",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "Hacker News:itsfoss-com-news-amd-vivado-bait-and-switch-on-linux-users",
+      "title": "AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "section": "tech",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "Hacker News:www-axios-com-2026-05-28-ai-spending-roi-enterprise-costs",
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "section": "tech",
+      "sentAt": "2026-05-28"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi0wfbvv95cuxozwzqrdrsrmr0dvdqdknqs3jrb1hsz0xxallstknkatu4m3pfznbwz052tzdxtfrhn1dwatjalxp4wutzajjnci1yrguyvtz",
+      "title": "Colorado Hits Reset on AI Regulation: SB 26-189 Repeals and Reenacts the Colorado AI Act",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZWZqRDRsRmR0dVdqdkNqS3Jrb1hSZ0xXallSTkNKaTU4M3pFZnBWZ052TzdXTFRHN1dwaTJaLXp4WUtzajJNci1YRGUyVTZkVzF6MmMwSE1oVEI3bEsxSDNldGF1VTlkbUxKaWJ3VU9Id3RtaUpmak1jRzlzMUltMEtSWWVnRU1Bdm1nWS05RUdrOGNHUU1HTDV1Qi1Gclg2NDFlZUJFRGlmRS1OMHBfNUZNMlZMY1dVTjZCQXc5QXB3NElJOUxyVjAwOHNMU09USHZv?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-28"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
       "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
