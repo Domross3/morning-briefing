@@ -2,6 +2,160 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte1kt1jldwxvyxnds0vluejmukq5vddyrhlmzlowtxr2utnba3jxahhyvgpbauh4twrrcmduykxnbgl4b0o5a1v6bhl2z3izvjv",
+      "title": "Call for Proposals: The Collective Intelligence Project (CIP) Research Fellowship - Apply By 15 May 2026",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kT1JLdWxvYXNDS0VLUEJmUkQ5VDdYRHlMZlowTXR2UTNBa3JXaHhyVGpBaUh4TWRrcmduYkxnbGl4b0o5a1V6bHl2Z3IzVjV4amlrTi1XYUd5dWdyWUUwWldZSHdNNU9Nanc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxqr1rgvvhtukg4dxhqafzitunjx1bdx2nubnlov0xyzgy0x0zxq2z6y2lsd3g0lxzlc3biv3z2nxnly0z3wupldzbbcfjnnm5",
+      "title": "Applications are now open for the Spärck AI Scholarship at UCL | UCL News - UCL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1RGVVhTUkg4dXhQaFZITUNJX1BDX2NUbnlOV0xyZGY0X0ZxQ2Z6Y2lSd3g0LXZlc3BiV3Z2NXNlY0Z3WUpLdzBBcFJnNm5kaWJSaXI4aDh5TW1iVXVlQ2tHU2V3MnVFOEh1Z3R2U2Uxa3JKN1lILXE1Z3Zxcjk1R25sS3F6NHAxY2RuY0NQbGc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxon1vnze9gr3rqynnrm0lrmc1odzzzcxjeugnkrwdrbveyu2zguhgzekzqm3ptwelkbvnftm96yjvkbgjsr2lxdlg1zezbd3d",
+      "title": "Reporters Without Borders Berlin Fellowship Program 2026: Empowering Journalists in the Digital Field (Fully Funded to Berlin, Germany)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1VNZE9GR3RqYnNrM0lRMC1OdzZZcXJEUGNKRWdRbVEyU2ZGUHgzekZqM3ptWElkbVNFTm96YjVkbGJSR2lxdlg1ZEZBd3dNZFY2V3M4emxia3dBaDhDRXppaEFiMUpHbkl4dnZXWTZoeGtDNGZCclduenNvdldLaG9rNmFGOEtDMDU0cUs4c1NmeU1DX0JDUGhNenBPZFk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte9mu1zgbw94eedzrevhrwqyy0lez1zjyzfkm1n1tmvnx2fov2tivfdyd0hvzvffr1j2wfvlnujlmkpez2publnrwmr0y1bhag9",
+      "title": "Calling Undergraduate Leaders: Apply for the Fully Funded Millennium Fellowship Class of 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MU1ZGbW94eEdzREVHRWQyY0lEZ1ZjYzFkM1N1TmVnX2FOV2tIVFdyd0hVZVFFR1J2WFVLNUJlMkpEZ2publNrWmR0Y1BHaG9jaXhtbks1clF0dEZBNVNNUmY0WWZFRHFtNzh0SnlfdEM?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "github:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "section": "github",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "github:Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "section": "github",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "github:cursor/plugins",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "section": "github",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "github:run-llama/liteparse",
+      "title": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "section": "github",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "github:galilai-group/stable-worldmodel",
+      "title": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "section": "github",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-strengthening-societal-resilience-with-rosalind-biodefense",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-openai-frontier-governance-framework",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-endava",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-opus-4-8",
+      "title": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-series-h",
+      "title": "Anthropic raises $65B in Series H funding at $965B post",
+      "url": "https://www.anthropic.com/news/series-h",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-milan-office-opening",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "url": "https://www.anthropic.com/news/milan-office-opening",
+      "section": "ai",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "Hacker News:vickiboykis-com-2026-05-28-we-should-be-more-tired-than-the-model",
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "section": "tech",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "Hacker News:www-uio-no-english-research-research-news-articles-2026-digital-id-management-is-a-catastrophe-html",
+      "title": "Digital Identity Management in Norway is a Success but also a Disaster",
+      "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
+      "section": "tech",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "Hacker News:www-theverge-com-report-939442-wikipedia-editors-protest-wikimedia-layoffs-strike",
+      "title": "Hundreds of prolific Wikipedia editors are threatening to go on strike",
+      "url": "https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike",
+      "section": "tech",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "Hacker News:shkspr-mobi-blog-2026-05-the-uk-governments-low-value-purchase-system-is-a-waste-of-time",
+      "title": "The UK Government’s Low Value Purchase System is a Waste of Time",
+      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "section": "tech",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmigafbvv95cuxot0ztwg5odeltzze2anvsouczwdvnuzrotxzoru9iutdlzex5qtbvy3d1t2rgdgnhnw96ww1ywnb4mxdrver2nnfhd29auf9",
+      "title": "The Most Overlooked Risk in the EU AI Act: Misunderstanding Your Role",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0ZTWG5odElTZzE2anVsOUczWDVNUzROTXZoRU9iUTdlZEx5QTBVY3d1T2RGdGNhNW96WW1YWnB4MXdRVER2NnFhd29aUF9yWmxsRzFpclRxQmZmLTNvWlNzRU95T0g3Q0hHT0ROVzc3Q1NyMXN2b1liRXdmOEoxUQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmikwfbvv95cuxoeflvnf8yzc1hugrzaf9hddblemd4yzjrq1ziuk4wzhhqsdhhyuzjdvppawu2eutsb2pxogf0axj1ahpxnho3bnzodjvksul",
+      "title": "Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce Despite AI Funding Boom",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFlVNF8yZC1hUGRZaF9HdDBLemd4YzJrQ1ZIUk4wZHhQSDhhYUZjdVppaWU2eUtSb2pxOGF0aXJ1aHpxNHo3bnZodjVkSUlyS1VNVFpwb0UzdjdUSEVpcnVwS2Q0SWlRUmZKcTVzZkhybXBGTWRoc1N4R1ZZZndIVWhXWndLZUc2aDdUajlXQjlyMkk?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-29"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmipgfbvv95cuxqte5kyng1zdz2zzbgevpitxhnnghfc3g4d3m0uu42tfhzqzvnu0rdrjnrv1hjuzrmq3rgq25rbkjtm205mepjywv1yxftumz",
+      "title": "How Utility Companies and States Shaped America’s Clean Energy Transition",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTE5kYng1ZDZ2ZzBGeVpiTXhNNGhFc3g4d3M0UU42TFhzQzVnU0RDRjNRV1hJUzRmQ3RGQ25RbkJTM205MEpJYWV1YXFTUmZZdXNVSEZ2LS01RlFrVWpoTHlOVnNNVjF4OHpWQmUwVWRmOGJOM0oteXI5WlJBN1FlUUFNT19CLVhMX1k2S1hnVldWd0d5b3NoUFkyc20zMkVmWlFnaHB3?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-29"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxqmk5bee4zqxnuajnkvhfrsxyytlh2rfg3y0xkwkpxeha3bvhetf8wagy1mzhpmtvhww1dltdfvfzcawtmthristnqnersegr",
       "title": "Ellucian Foundation’s 2026 PATH Scholarship Program to Provide Funding for Student Success",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk5BeE4zQXNuajNKVHFrSXYyTlh2RFg3Y0xKWkpXeHA3bVhETF8waGY1MzhPMTVhWW1DLTdFVFZCaWtmTHRiSTNQNERSeGRjWlozeENzLUdVSldFM0ZyanNaUVRxMHcwSmtWU0hyeXNETzBCUFBqd255dFEyR0tuZ3AtTVRZa0NiQnh1ZkRQNVMwTVFQUjlkeVdNbF9QMU5Zd01WaTZpUmdNTURyZHIwcGhZZ0FVTkRYYlE?oc=5",
