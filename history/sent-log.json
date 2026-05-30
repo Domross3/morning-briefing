@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:thedaviddias/Front-End-Checklist",
+      "title": "thedaviddias/Front-End-Checklist",
+      "url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "section": "github",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "github:chen08209/FlClash",
+      "title": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "section": "github",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "github:FareedKhan-dev/train-llm-from-scratch",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "section": "github",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "github:OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "section": "github",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "github:DataTalksClub/data-engineering-zoomcamp",
+      "title": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "section": "github",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-trustworthy-third-party-evaluations-foundations",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-29801",
+      "title": "Paper page - AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+      "url": "https://huggingface.co/papers/2605.29801",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30280",
+      "title": "Paper page - Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
+      "url": "https://huggingface.co/papers/2605.30280",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-25378",
+      "title": "Paper page - CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On",
+      "url": "https://huggingface.co/papers/2605.25378",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30263",
+      "title": "Paper page - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models",
+      "url": "https://huggingface.co/papers/2605.30263",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30346",
+      "title": "Paper page - YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
+      "url": "https://huggingface.co/papers/2605.30346",
+      "section": "ai",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "Hacker News:arstechnica-com-science-2026-05-the-office-of-management-and-budget-tries-again-to-cripple-us-science",
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "section": "tech",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "Hacker News:adaptivesupport-amd-com-s-question-0d5pd00001at5ickak-adding-linux-support-back-for-the-basic-free-version-of-vivado-language-en-us",
+      "title": "AMD Customer Community",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US",
+      "section": "tech",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "Hacker News:www-wsj-com-tech-ai-corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "section": "tech",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "Hacker News:helios-southlondonscientific-com",
+      "title": "Helios. Is plug-in solar worth it?",
+      "url": "https://helios.southlondonscientific.com/",
+      "section": "tech",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivwfbvv95cuxpclbxqupln280curcrfbsqxn0ru1jnwgtmmdwdfbdwgvvntbsctznsmotetvbdvu5as1iwgnfu2pqee9pdll2qm5wagpixy0",
+      "title": "EU AI Act Update: Timeline Relief, Targeted Simplification, and New Prohibitions",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclBXQUplN280cURCRFBsQXN0RU1JNWgtMmdWdFBDWGVvNTBScTZNSmoteTVBdVU5aS1IWGNfU2pqeE9Pdll2Qm5waGpIXy05a0c3SzdjNlBKdHlMcW9ZRTZpbm1GcGhpenJkajlkaWp0NWw4NTI4MUQ0S0ozR3hsY0xOWERGQmlHQ292b0xqYWlKa0hVbk1mQnJwSXVhcnMtT1JqZTNlRkZxeVdmN1JrTmVIUlVCRkQzRlhicE5pRQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiwwfbvv95cuxnb1pyymw0vfm4rfq0cuvzd20taeuxx3nlruxjq29jwuu2mxrivgzia2zgzec0m0vubdzdovi5mklys051vxrmcdvhmedfsdf",
+      "title": "Anthropic Soars to a $965-Billion Valuation, Overtaking OpenAI in the AI Funding Race",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1pYYmw0VFM4RFQ0cUVZd20taEUxX3NLRUxjQ29jWUU2MXRiVGZIa2ZGZEc0M0VUbDZDOVI5MklyS051VXRmcDVHMEdfSDFRWFY0akU5cEpMYUJfODUzbjJQYWY4RVdtY0JRTzM5aWpNTTk2blE1bDNWTi1fVGdkSE9fVVlBVlJpOUljV3VEYUlHZnVLcUJhTVlzWE93R0ZpRTZ5WDRmblFsTlRiVUhlUFo3RmFqZlNEWlVhTjMtR3BLMEU?oc=5",
+      "section": "finance",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmisafbvv95cuxovwcxzmr2d1pnsujtsezjukzaamxzvfjpvtviwndhb3a4cgk3wxrswezlykhkmtdhsc1ycghbyjq5nlpfsfndy1otqulonld",
+      "title": "Clean energy advocates facing red tape in Washington look for answers in Texas",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWcxZmR2d1pNSUJtSEZjUkZaamxzVFJpVTVIWndhb3A4cGk3WXRSWEZlYkhkMTdhSC1YcGhBYjQ5NlpfSFNDY1otQUlONldydm5NLVQyT3Vyenh2eGdWcDdOblNMVi1UY0hPelc2c09UMHBoT0xwZ2R3THlQS1B5RlpnRFA2NmRLZDI2eXhOSHdCRnZGTHIyS2FPOVRoc0o0clBTYXpoVW9uT0FpYWw3Qg?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-30"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmimwfbvv95cuxpq1ljtxjxudvxz0n0ouu3wvdwvjvmexd3ovr1wdngzuhgbgdcylvxb1pbrtlfthltblnzuuk5z2zosextemn5nlrds09szzn",
+      "title": "The Carbon Removal Market Can Work—If We Build It Right",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1lJTXJxUDVxZ0N0OUU3WVdWVjVMeXd3OVR1WDNGZUhGbGdCYlVxb1pBRTlFTHlTblNzUUk5Z2ZOSExTemN5NlRDS09SZzNJdG1mZjU3VUNxNUZUSEw1WXdhY01UWkRjaGk5Z0xLZVFMY2VRMmxYXzQyT0JuQmFQNkw0YnZKbnNzQzVuYTU0aGNGSmMwMTdJalF6UQ?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-05-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte1kt1jldwxvyxnds0vluejmukq5vddyrhlmzlowtxr2utnba3jxahhyvgpbauh4twrrcmduykxnbgl4b0o5a1v6bhl2z3izvjv",
       "title": "Call for Proposals: The Collective Intelligence Project (CIP) Research Fellowship - Apply By 15 May 2026",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kT1JLdWxvYXNDS0VLUEJmUkQ5VDdYRHlMZlowTXR2UTNBa3JXaHhyVGpBaUh4TWRrcmduYkxnbGl4b0o5a1V6bHl2Z3IzVjV4amlrTi1XYUd5dWdyWUUwWldZSHdNNU9Nanc?oc=5",
