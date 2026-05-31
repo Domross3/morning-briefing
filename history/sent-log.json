@@ -2,6 +2,118 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:emmabostian/developer-portfolios",
+      "title": "emmabostian/developer-portfolios",
+      "url": "https://github.com/emmabostian/developer-portfolios",
+      "section": "github",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "github:nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "section": "github",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "github:nicobailon/pi-subagents",
+      "title": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "section": "github",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "github:D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "section": "github",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "github:github/docs",
+      "title": "github/docs",
+      "url": "https://github.com/github/docs",
+      "section": "github",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30161",
+      "title": "Paper page - Why Far Looks Up: Probing Spatial Representation in Vision",
+      "url": "https://huggingface.co/papers/2605.30161",
+      "section": "ai",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30248",
+      "title": "Paper page - GenClaw: Code",
+      "url": "https://huggingface.co/papers/2605.30248",
+      "section": "ai",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-29250",
+      "title": "Paper page - OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
+      "url": "https://huggingface.co/papers/2605.29250",
+      "section": "ai",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30260",
+      "title": "Paper page - How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
+      "url": "https://huggingface.co/papers/2605.30260",
+      "section": "ai",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30010",
+      "title": "Paper page - EarlyTom: Early Token Compression Completes Fast Video Understanding",
+      "url": "https://huggingface.co/papers/2605.30010",
+      "section": "ai",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "Hacker News:www-lucasfcosta-com-blog-backpressure-is-all-you-need",
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "section": "tech",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "Hacker News:jbkempf-com-blog-2026-dav2d",
+      "title": "Let dav2d be — Jean",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "section": "tech",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "Hacker News:diamondgeezer-blogspot-com-2026-05-londons-free-roof-terraces-html",
+      "title": "diamond geezer",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "section": "tech",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "Hacker News:specification-website",
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "section": "tech",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmizwfbvv95cuxnztdxu0l2t3piswdtnhfoa25pq05hy0rislczs1fpvwzoszzndvdyz3jhtlrntfdnyulnv3h1c25urndvzmvrsk9rt1lonmd",
+      "title": "Colorado’s New AI Act Targets Automated Decision-Making for Consequential Decisions",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTdXU0l2T3pISWdTNHFOa25pQ05HY0RiSlczS1FPVWZOSzZndVdYZ3JHTlRnTFdNYUlnV3h1c25URndVZmVRSk9RT1lONmdiSmpGd3l6UUpHNUxIX1VqTnlJeGNrNVluN0MyTHNBWklBYmNPV2R3Nk1aMUFib1dQSjVENk5rbmpYc1FOMFhzODNWS1JxRGFqUzFiVWlWMjNnTkhTQWJhV1BxX29RUzdrSzNFYWFYNm9ZZHpnRmNvckpva3FSd3psUUM2ZUVpUVk?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-31"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiggfbvv95cuxnemx1a051ulfwvni5ofhdv0i5ytvmdxzitfgxrvpjrm5hnxhazm1ov28xejbbehu5tdzjwezhexyyndremgvvoxb1vjbrtfp",
+      "title": "AI Act Update – European Commission Publishes New Guidelines on Classification of High-Risk AI Systems",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemx1a051UlFWVnI5OFhDV0I5YTVmdXZITFgxRVpjRm5hNXhaZm1OV28xejBBeHU5TDZjWEZHeXYyNDREMGVvOXB1VjBrTFpBSEFBV1BJZ0RzTGJicENSdHljVE9UOFFiZ2RKUUotNHdHQ1dWM0p4SnRBWkV2ellOeGp3?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-05-31"
+    },
+    {
       "key": "github:thedaviddias/Front-End-Checklist",
       "title": "thedaviddias/Front-End-Checklist",
       "url": "https://github.com/thedaviddias/Front-End-Checklist",
