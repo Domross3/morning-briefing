@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmihafbvv95cuxpltlsohbaelk5zvnry1lhweeyukxfc1bsy05nnmrslunrd255y1lxmkh1x2lpd3vnrgu3bedfx21rem1mmm9od2jyb3nplug",
+      "title": "A Massive List of Spring 2026 Grants, Labs & Fellowships",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTlsOHBaelk5ZVNRY1lhWEEyUkxfc1BSY05nNmRSLUNrd255Y1lXMkh1X2lpd3VnRGU3bEdfX21rem1MMm9Od2JYb3NpLUg1eWdFT3ZiQlBQUno1TFUyVFJ5VVhmc2xBX05qTUtQYzBSZ0tWQlc5UjN0VnNCeGJTZEZsODY?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "section": "github",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "github:supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "section": "github",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "github:pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "section": "github",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "github:godotengine/godot",
+      "title": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "section": "github",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "github:stefan-jansen/machine-learning-for-trading",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "section": "github",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-29307",
+      "title": "Paper page - GrepSeek: Training Search Agents for Direct Corpus Interaction",
+      "url": "https://huggingface.co/papers/2605.29307",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-31604",
+      "title": "Paper page - Representation Forcing for Bottleneck",
+      "url": "https://huggingface.co/papers/2605.31604",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-31584",
+      "title": "Paper page - LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
+      "url": "https://huggingface.co/papers/2605.31584",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-31159",
+      "title": "Paper page - Trust-Region Behavior Blending for On",
+      "url": "https://huggingface.co/papers/2605.31159",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-31264",
+      "title": "Paper page - COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+      "url": "https://huggingface.co/papers/2605.31264",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-30993",
+      "title": "Paper page - SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
+      "url": "https://huggingface.co/papers/2605.30993",
+      "section": "ai",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "Hacker News:members-sigmazero-cc-posts-when-ai-crosses-159174096-postid-when-ai-crosses-159174096",
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "section": "tech",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "Hacker News:www-windowslatest-com-2026-06-01-microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra",
+      "title": "Microsoft builds its ultimate MacBook Pro rival with the NVIDIA powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "section": "tech",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "Hacker News:www-theregister-com-ai-ml-2026-06-01-llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way-5248189",
+      "title": "LLMs are closer to religion than they appear. Watch out for those who like it that way",
+      "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+      "section": "tech",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "Hacker News:kefir-protopopov-lv-posts-announce2-html",
+      "title": "Cessation of public development of Kefir C compiler",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "section": "tech",
+      "sentAt": "2026-06-01"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmidefvx3lxte9zn0jhzjjvcgfqmzjblwpkwmhhs05bty1fdlj1s2t5wnpemxcyb1c4lvlkt3vorle3nw5em19rbg1zetr4uhnhtuhpmdrxcgv",
+      "title": "What Is an AI Bill of Materials?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZN0JhZjJVcGFqMzJBLWpkWmhhS05BTy1fdlJ1S2t5WnpEMXcyb1c4LVlKT3VORlE3NW5EM19RbG1zeTR4UHNhTUhpMDRXcGVVeGNIZndRejBQOEhMUHA5dHpUU25ETEc4TlB3Q3k3SWtfaG5E?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-01"
+    },
+    {
       "key": "github:emmabostian/developer-portfolios",
       "title": "emmabostian/developer-portfolios",
       "url": "https://github.com/emmabostian/developer-portfolios",
