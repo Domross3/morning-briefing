@@ -2,6 +2,118 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpohatr1jqt3forfpvqxnwzvvuagxftzdezelrn1iwbnrbuwrlaxreu25rwmk1qufpngzkceffdhlfoxj5ce9neuvqunfoltl",
+      "title": "The Airtel Africa Foundation University Tech Scholarship 2026 for young Ugandans (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHAtR1JQT3FoRFpVQXNWZVVUaGxfTzdEZElrN1IwbnRBUWRlaXREU25RWmk1QUFPNGZkcEFFdHlfOXJ5cE9NeUVqUnFOLTlId2FLMVQtNVNFNngzLTZoSENVd3NRVGFVWWVWakNNLTk4dnhfSW9XbHBjb3pqZUpnWGdZR2xISUxMY19zOXV4QTF4bi0xZHl4OVI5OHZ2Ulp5SGJHMk9R?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "github:Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "section": "github",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "github:chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "section": "github",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "github:jamwithai/production-agentic-rag-course",
+      "title": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "section": "github",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "github:reconurge/flowsint",
+      "title": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "section": "github",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-our-views-on-ai-policy-and-political-advocacy",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-29343",
+      "title": "Paper page - Draft-OPD: On-Policy Distillation for Speculative Draft Models",
+      "url": "https://huggingface.co/papers/2605.29343",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-expanding-project-glasswing",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-confidential-draft-s1-sec",
+      "title": "Confidential Draft S1 Sec",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-codex-for-knowledge-work",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "section": "ai",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-great-question-jobs-j5tnvqh-ai-engineer-intern",
+      "title": "AI Engineer Intern at Great Question",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "section": "tech",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "Hacker News:www-mitmllc-com-blog-apple-rejected-my-dictation-app",
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "section": "tech",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "Hacker News:dan-webnotes-com-posts-2026-06-02-css-native-parallax-effect",
+      "title": "Utils | CSS",
+      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+      "section": "tech",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "Hacker News:blog-adafruit-com",
+      "title": "Adafruit Industries - Makers, hackers, artists, designers and engineers!",
+      "url": "https://blog.adafruit.com/",
+      "section": "tech",
+      "sentAt": "2026-06-02"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmikafbvv95cuxpmfm4dldac3vju3vmvu5hnkf0efpwszlmdy1qu3h4ne5jc3fdtxpobefqatlwzupnsw1pzlviehrqcvzamxdtqxczdet4bnz",
+      "title": "The Stock Market Should Be More Worried About Google’s AI Funding Plan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFM4dldac3VJU3VMVU5HNkF0eFpWSzlMdy1qU3h4NE5jc3FDTXpObEFqaTlwZUpNSW1PZlVieHRqcVZaMXdtQXczdEt4bnZyLU03ZldydUo2ZENnQXIyTEJnR2NJaHVtVHY2V1lZOUtEV09vTmcyZ25fT1AzRU5uWTJONllscTF1dzNhT19wdkg?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-02"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmihafbvv95cuxpltlsohbaelk5zvnry1lhweeyukxfc1bsy05nnmrslunrd255y1lxmkh1x2lpd3vnrgu3bedfx21rem1mmm9od2jyb3nplug",
       "title": "A Massive List of Spring 2026 Grants, Labs & Fellowships",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTlsOHBaelk5ZVNRY1lhWEEyUkxfc1BSY05nNmRSLUNrd255Y1lXMkh1X2lpd3VnRGU3bEdfX21rem1MMm9Od2JYb3NpLUg1eWdFT3ZiQlBQUno1TFUyVFJ5VVhmc2xBX05qTUtQYzBSZ0tWQlc5UjN0VnNCeGJTZEZsODY?oc=5",
