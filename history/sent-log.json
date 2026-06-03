@@ -2,6 +2,111 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxomxhhlu5jnwxtvfjfcjvxskvuwujkt3r1vvvyr3zswgpuymhfofdxnudkvzromlv6z2ewvgh4su9vnufasjm5aexuewpvy3u",
+      "title": "AIFOD Bangkok Summit opens with call for AI sovereignty for the Global South",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXhhLU5jNWxtVFJFcjVxSkVuWUJkT3R1VVVyR3ZsWGpuYmhFOFdXNUdKVzRoMlV6Z2EwVGh4SU9vNUFaSjM5aExueWpVY3U3aHBfei1RLVo3WEZ2cUdTMW11bG1fNHZXQnlKNVFGeDNLb1FUWmlRREdqSUhZT3lHc2Njd1lzR1hmZ2RYVFNmWmJwWFZ3Y3dzYkFtYVVpaUMxUVNENUV1Rm5aUkk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxoltkyd293t0rlv1fsmjhuzmtimmflsmnkahuxqknvr01hctflowddsfdrejm2bzfttme3z09pzgv3vmnhnekttzfnbgfpajr",
+      "title": "Computer science major explores undergraduate research",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTkyd293T0RLV1FSMjhuZmtIMmFLSmNKaHUxQkNVR01hcTFlOWdDSFdrejM2bzFtTmE3Z09pZGV3VmNhNEktTzFnbGFpajRlbVdFYW5LNGFqQ0Z6a2tCRWtBSWxsYkFrZjNWeWVldG94bFVGU0hsS01WN3RXUW5SSDNDa2NWSl8yZXp6WFhCa3FmQQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuafbvv95cuxosdbhqk03cdfcr29mrfq0be1dufytqwzeq3n4tvfoouf2oedpcxjrrkxkswuyexzenw9ftuvxwhrtzfdyewlhx3jrwurmnmz",
+      "title": "LINGUA Africa Open Call for Inclusive AI Language Projects",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDBhQk03cDFCR29MRFQ0bE1DUFYtQWZEQ3N4TVFOOUF2OEdPcXJrRkxkSWUyeXZENW9FTUVXWHRtZFdyeWlhX3JrWURMNmZkY3A4cTVkbWxrOHZqUGZaY1pkOXFqUjEtalY2aUc1aEswTzBtWEVtMVRBT2ZqQmhLUzV6M1I5VkI1OWhVN3laNWJhLXZ4Zk9LcmdSMmR2VnZPS252ck8tS1VmTzdITDF5UWdZdllVQ1RW?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-01961",
+      "title": "Paper page - AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
+      "url": "https://huggingface.co/papers/2606.01961",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-advancing-youth-safety-and-opportunity-through-global-leadership",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-services-track-partner-hub",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-01249",
+      "title": "Paper page - Trust Region On",
+      "url": "https://huggingface.co/papers/2606.01249",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-02398",
+      "title": "Paper page - A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi",
+      "url": "https://huggingface.co/papers/2606.02398",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-03603",
+      "title": "Paper page - World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning",
+      "url": "https://huggingface.co/papers/2606.03603",
+      "section": "ai",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "Hacker News:www-maximevidal-com-sparkling-water",
+      "title": "The Sparkling Water Report",
+      "url": "https://www.maximevidal.com/sparkling-water",
+      "section": "tech",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "Hacker News:www-tomshardware-com-pc-components-ddr5-32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "title": "32GB of DDR5 now costs $375 minimum — AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "section": "tech",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "Hacker News:www-bbc-com-news-articles-c93x0k194yno",
+      "title": "Meta scales back plan to track workers&#x27; clicks and keystrokes to train AI",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "section": "tech",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "Hacker News:simonwillison-net-2026-jun-3-uber-caps-usage",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "section": "tech",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiekfvx3lxte1fatfwcvh2etfkmuu0otdpaevolw9kmm9tzm93czdodjbrekrqcm1kwu9badzwuwhyzwxkugv6n0pjmg1aeee5shllzerpvtf",
+      "title": "Alphabet Sets $80B AI Funding Goal",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FaTFwcVh2eTFKMUU0OTdpaEVOLW9KMm9TZm93czdodjBrekRqcm1KWU9BaDZwUWhYZWxKUGV6N0pJMG1aeEE5SHllZERpVTF1MXdEbnpEaWZFNW1aUW03WWhmTE9sdU9mUkktblR5b0FIR2h2d0c0WGdB?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-03"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmihwfbvv95cuxnrzdnev9hykzybvp2b3vxuhb6tujnmdjkylhxsgtsvtnlulh5twzyatjmu19syud6nm43wffoegzrmf8xckdlehrzzlvfz1z",
+      "title": "Harnessing Carbon Removal Opportunities in Wastewater Treatment",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRzdneV9hYkZYbVp2b3VxUHB6TUJnMDJkYlhXSGtsVTNlUlh5TWZyaTJMU19SYUd6Nm43WFFOeGZrMF8xckdLeHRzZlVfZ1ZHam5OcG00NWM0SnRMckhGZTFETERYMGFtRmtJaWwyUEk3cXdITy0xOEpKOGFURFhHclZsSWpINlk?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-03"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpohatr1jqt3forfpvqxnwzvvuagxftzdezelrn1iwbnrbuwrlaxreu25rwmk1qufpngzkceffdhlfoxj5ce9neuvqunfoltl",
       "title": "The Airtel Africa Foundation University Tech Scholarship 2026 for young Ugandans (Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHAtR1JQT3FoRFpVQXNWZVVUaGxfTzdEZElrN1IwbnRBUWRlaXREU25RWmk1QUFPNGZkcEFFdHlfOXJ5cE9NeUVqUnFOLTlId2FLMVQtNVNFNngzLTZoSENVd3NRVGFVWWVWakNNLTk4dnhfSW9XbHBjb3pqZUpnWGdZR2xISUxMY19zOXV4QTF4bi0xZHl4OVI5OHZ2Ulp5SGJHMk9R?oc=5",
