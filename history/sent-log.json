@@ -2,6 +2,174 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpbvpmmxoxcm5vuenyujcxvwcwq2wztzz2rdzqoxf5elvwduhzzgrjcxhzrjjjqwtkuy1yzl9fu3ptou1vnxljyzlru2hjdef",
+      "title": "Applications open for Northeast India AI Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVpmMXoxcm5VUENyUjcxVWcwQ2wzTzZ2RDZqOXF5elVwdUhzZGRJcXhZRjJJQWtkUy1YZl9fU3pTOU1vNXlJYzlRU2hJdEFkYnNvSk5tX3hRamVIc2R0OUtaczNBVTByNFE2Y1NUZGp4OXdiYk9vOFp3WkZmaEVnbXI2d01KQjI1OXNMaTZnYlBXT0w0aDFJMXpMbXc1V0JTZFQzR2dR0gGmAUFVX3lxTE9tWmYxejFyblVQQ3JSNzFVZzBDbDNPNnZENmo5cXl6VXB1SHNkZElxeFlGMklBa2RTLVhmX19TelM5TW81eUljOVFTaEl0QWRic29KTm1feFFqZUhzZHQ5S1pzM0FVMHI0UTZjU1Rkang5d2JiT284WndaRmZoRWdtcjZ3TUpCMjU5c0xpNmdiUFdPTDRoMUkxekxtdzVXQlNkVDNHZ1E?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxouhhtujvfcy1dwnvcrlr4vuxvwtzouge3vw9syzfqrg1gmi1hvnbvzfdcaglgztroc2x3av8zajdkewhfoufpzwtpq0fln3r",
+      "title": "Funding available for undergraduate research employment",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHhTUjVfcy1DWnVCRlR4VUxVWTZoUGE3VW9sYzFqRG1GMi1hVnBvZFdCaGlGZTROc2x3aV8zajdkeWhFOUFpZWtpQ0FLN3RiNWlvdFpTTW1oS3JBQldtb0R0QlJySTFjOElUX01lXzNrYkZVci13UTRZT1p5WWR6Zi1PaFZMcXJPMjdWTnJySFctenBHWjliVQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "github:Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "section": "github",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "github:CopilotKit/CopilotKit",
+      "title": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "section": "github",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "github:lfnovo/open-notebook",
+      "title": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "section": "github",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "github:MemPalace/mempalace",
+      "title": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "section": "github",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "github:aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "section": "github",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05622",
+      "title": "Paper page - AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
+      "url": "https://huggingface.co/papers/2606.05622",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05553",
+      "title": "Paper page - ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+      "url": "https://huggingface.co/papers/2606.05553",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05275",
+      "title": "Paper page - Personal AI Agent for Camera Roll VQA",
+      "url": "https://huggingface.co/papers/2606.05275",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-04703",
+      "title": "Paper page - Rethinking Continual Experience Internalization for Self",
+      "url": "https://huggingface.co/papers/2606.04703",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-04743",
+      "title": "Paper page - TIDE: Proactive Multi-Problem Discovery via Template",
+      "url": "https://huggingface.co/papers/2606.04743",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05259",
+      "title": "Paper page - VideoKR: Towards Knowledge- and Reasoning",
+      "url": "https://huggingface.co/papers/2606.05259",
+      "section": "ai",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "Hacker News:nango-dev-careers",
+      "title": "Careers",
+      "url": "https://nango.dev/careers",
+      "section": "tech",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "Hacker News:ajph-aphapublications-org-doi-10-2105-ajph-2026-308501",
+      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+      "section": "tech",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "Hacker News:digital-strategy-ec-europa-eu-en-library-communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "title": "Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "section": "tech",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "Hacker News:github-com-zdk-lowfat",
+      "title": "GitHub - zdk/lowfat: lowfat - slim your command output. strips noise, saves tokens.",
+      "url": "https://github.com/zdk/lowfat",
+      "section": "tech",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmimgfbvv95cuxqafhsnnlusm5pmxfqn3hwz0p6ekxgqujawk02me1cs0lvbgvsdwfmrvrly3libhzuzxrqnklfmvjhvflprnmwcej2nzr5ac1",
+      "title": "Illinois House Speaker on AI Regulation, Bears Stadium Incentives",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFhSNnlUSm5PMXFqN3hwZ0p6ekxGQUJaWk02ME1CS0lVbGVSdWFMRVRLY3lIbHZUZXRQNklfMVJHVFlPRnMwcEJ2NzR5aC1Md0FtS3lWbEhYRGNlNUYzSHVuZFliVVBTRTRuTlJLQkxibDJJd2FrS2U0R3l5TmZXdUVmS1F3UjlQYXptZE52NE8tUWhrdVM2WkZB?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmirgfbvv95cuxnvgfcykzwy0r4ovlrnlfmdujyalnkcxvgz25ovepps2t5n1rmrunuuzblrvvkvflir3hdehzbuul3tnjsoxfna1zilvfpynj",
+      "title": "AI, Regulation, Risk & Resilience: A Life Sciences Leadership Forum – Events",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGFCYkZwY0R4OVlrNlFmdUJyalNkcXVGZ25OVEppS2t5N1RmRUNUUzBlRVVkVFliR3hDeHZBUUl3TnJSOXFNa1ZiLVFPYnJiM3JtQWtDWmVYU0phN21yZHBhM1djeHQ1MUJvbldBX2xTX3BFa1d0UWh3dDBkUmRPZWY0Vmk2eDBGTWlxaTBaMjRjdkNGQ0NCRGM1Qm1VYkFKS0hrc1M5c1l2NTd5QUE?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmitgfbvv95cuxqctfmzwx6ytdlswnadtvodw1lwwxxmc1iwjzdztnbzudmnxdvwgxksmnyvjltzmtqnwczduvxx2lnddh2t0zunudwehvewkr",
+      "title": "How is LFUCG using artificial intelligence? Council will review city's AI policy this week",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTFMZWx6YTdLSWNadTVOdW1LWWxXMC1IWjZDZTNBZUdMNXdVWGxkSmNyVjltZmtqNWczdUVXX2lNdDh2T0ZUNUdWeHVEWkR5UGFNQVVGWUhERXhWY1dnT2hnSmdJVHE4Q3dwZHVIT1VtbExodHJjVlZjY1dENVVWT0p6X0cybmo1SWpSNDN6cWdXeUI1Ym9VaThHMmpsaWI5R3pSTDRNRHNfUUtuUkJnbHc2NzZqQQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmisafbvv95cuxolwldwtg1uktdafcyr0pfn0ftdkznwfllzmxrudgzmmjdejc1rkywnetst1f5mlf1rdhtv3vrwljgmtm2mlmwmlu5rkphug1",
+      "title": "Making Sense Of The AI IPO Tsunami Heading For Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWlDWTg1UktDaFcyR0pFN0FtdkZnWFlLZmxRUDgzMmJDejc1RkYwNEtsT1F5MlF1RDhTV3VrWlJGMTM2MlMwMlU5RkphUG1ZczR6cFgyYWV4VG5YUzg5NnpyT3J1ODNhNHVsY215bUttQXJvZkVpaVpDUEpKRWFKZGtOSHhlc2hya1RrdjEydVpKVmpUeWNRckc5dXBnWDBaZmtLZEdOdEdyYnlfYzFaQw?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiuwfbvv95cuxoenm1a2f4vmtbzdrfzdbzajjvzknlwvvneeu2res4evrzuhvtmk9leuk3smfrtwzyyuvyrurhegdanueya2lumkz1ns1owtr",
+      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOenM1a2F4VmtBZDRFZDBzajJvZkNlWVVNeEU2REs4eVRZUHVTMk9LeUk3SmFRTWZyYUVYRURheGdaNUEya2lUMkZ1NS1OWTRQWGx0UVVRdHZVUjdDMTZjOUEtMHdfcHNTZ1IxX1lNQ2YtSzByazJxbzJWZkNsWmF2YVFodzVkVThNemRRVHVlV2hKTG1TMjU1NVkyZjFSbC1wY1dLZnFsWlluZGpZdEcxeHhuanhyYmNhSmcw?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmib0fvx3lxte9jb2drr3nlrjm2u0rjrknjbgy3etbjwnm1ythhnwo5dg94awnock9wm2temhfzz3jrwvpobtfioxnkddfheuvkwwfsvhlwuk1",
+      "title": "The Sorry State of Carbon Removal",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jb2drR3NlRjM2U0RjRkNJbGY3eTBjWnM1YThhNWo5dG94aWNock9WM2tEMHFzZ3JRWVpObTFIOXNkdDFHeUVKWWFSVHlwUk1zUGVMZkFnY3BKQ2dxbzJLR19icGlzdnptN2xheTJOOA?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-05"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmikwfbvv95cuxqewlcodvzvwnfq1lpmgn5bmvtbkvqrxyxzknoqlvnzzhasnkzm0o5s1dis0tmyuxuqjzfu3hqm2juzevuzeldegrgas1rb0z",
+      "title": "China wasted clean energy, leading to higher CO2 — analysis",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWlCODVzVWNFQ1lpMGN5bmVtbkVQRXYxZkNOQlVnZzhaSnkzM0o5S1dIS0tmYUxUQjZfU3hQM2JUZEVuZElDeGRGaS1rb0Zhb1FORHNUYzR6bFEzTGNYZXFPM01KaDVJWDJ0VTFsSk8xeS1qdU5QdURwZW9sZEtoRG9SMDZsRUk5T0ZtYWVNRlZqMW8?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-05"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmizafbvv95cuxnsjhgyzrcb3nocwdwzey0s21ewvhlrgpem0xgdlvkrkkxwkp3vkmwvhnynkq0czhjoey3zwjuc1hrsulud1c4nmdjzgritm8",
       "title": "DT Next Campus | Applications open for Adobe India AI Research Fellowship; here is how you can apply",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjhGYzRCb3NOcWdwZEY0S21EWVhlRGpEM0xGdlVKRkkxWkp3VkMwVHNYNkQ0czhjOEY3ZWJuc1hRSUlUd1c4NmdJZGRiTm85d01rRWVfVGJoWnRqd1FQOVB5U2loWllhSkxPYnIzeEFPSWhkMXlyclR1YWdMS1FlUnRucU9GVUtlMkh3MzhLMzFpa1oxQzN4Und1c3VJZm12RFBZeWZXZm9QcXh4MUVobmxGa0tvbHVvUGJRQjh5NmlULUVkbEtPY1Y0R3nSAdoBQVVfeXFMTkVsLThCdS02WHpGMDdTWVg3eXBGRnhwWFRXWFNaM21oTHJkY1k0dm5KZGVHcFh0QWY0Skh0SFRHcTJpMUlhanBOVkwwU0oxQkYtcUZsaUE4RElPTnl5OGlxZ2tXeDI5YmV6bDNZZXpuWFVaMXAzQkJFZ2FvZ1BEclhMQml0ZjdZcndiTVA0UEVMYVZPdnZFR1ZBbEZUMGRESzVWRDdzMzZrbjhNNnFiVFlJV29vOXV5REk1MDhVbnBUX1dwZTNYUktGUnpHV0tRbHBJN1FwdEFvUGc?oc=5",
