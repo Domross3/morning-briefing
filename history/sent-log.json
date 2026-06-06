@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxtfbbzg9ntv83nl82ruthr1rsylztwfdqz2vuqmfbwu1rskjrwxzvcnpsenq0dxhjmy14owfioerty2zxoxdgbhu4uwpoagdrwei",
+      "title": "The Catalysis Society of South Africa (CATSA) Opens 2026 International Student Travel Grant for MSc and PhD Catalysis Researchers",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZG9NTV83Nl82RUthR1RSYlZtWFdqZ2VuQmFBWU1RSkJrWXZVcnpsenQ0dXhjMy14OWFIOERTY2ZXOXdGbHU4UWpOaGdrWEI5N1dvTmxFTlBmSzV2TWg2OUMza2lUZXI0amc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxtfbmr18wvvbuyxfqntrnrepqmgdythvxvzbhtmdqcwvrzvyydkpxv1r1we5hvhdxtwpiclfnzlnkntvkrzytewtfdhpwrthzwjm",
+      "title": "Study in Norway 2026–2027 Without IELTS: Fully Funded Scholarship Opportunities for International Students",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR18wVVBuYXFqNTRNREpqMGdyTHVXVzBHTmdqcWVRZVYydkpXV1R1WE5hVHdxTWpiclFnZlNkNTVKRzYteWtfdHpWRThZWjMzMEFGNDgxRGMwMmplMnEwUk0tWFB0LXJ1QWFB?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "github:danielmiessler/Personal_AI_Infrastructure",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "section": "github",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "github:sveltejs/svelte",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "section": "github",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "github:nginx/nginx",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "section": "github",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "github:golang/go",
+      "title": "golang/go",
+      "url": "https://github.com/golang/go",
+      "section": "github",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "github:openai/whisper",
+      "title": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "section": "github",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-making-claude-a-chemist",
+      "title": "Making Claude a chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "section": "ai",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-election-safeguards-update",
+      "title": "An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "section": "ai",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "Hacker News:engelsbergideas-com-notebook-the-new-bibliomaniacs",
+      "title": "The new bibliomaniacs",
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "section": "tech",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-mbodi-ai-jobs-wyacnkx-founding-machine-learning-engineer",
+      "title": "Founding Machine Learning Engineer at Mbodi AI",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "section": "tech",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "Hacker News:techcrunch-com-2026-06-05-google-will-pay-spacex-920m-per-month-for-compute",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "section": "tech",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "Hacker News:pokeemerald-com",
+      "title": "pokeemerald",
+      "url": "https://pokeemerald.com/",
+      "section": "tech",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmimafbvv95cuxpvjviv1g5nkxmr3rhwm0yy2q5zezltu5ienlrnhdssezxy0u1by1utkh4m0trdtrcvxl4cfnknezezk9llw1pr3zyyuhrz2v",
+      "title": "Sprawling new House AI bill includes frontier model oversight, open-source security grants",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjViV1g5NkxmR3RHWm0yY2Q5ZEZLTU5IenlrNHdsSEZXY0U1by1UTkh4M0trdTRCVXl4cFNkNEZEZk9LLW1pR3ZyYUhrZ2VBaTFaM1ZuMC1qMDBtczlQSkYtOFhHSVJSQlV4eU5vWHVLMjF5T1RUdko2RVB0Y01DTTU3am9VQlVFRWVuTjFDa0M0MndmVWdKRQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiykfvx3lxtfbibtjjngiymtdft2xpd2j1mlnjcfi3dvi2mkliegw4zm5zuzlmdfrdawo5vtnmyjzrajzfq2znq0dlsfd5smdarlvfwm5wrui",
+      "title": "Your AI bill is out of control. Cloudflare can fix it now.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBibTJJNGIyMTdFT2xPd2J1MlNJcFI3dVI2MklieGw4Zm5zUzlmdFRDaWo5VTNmYjZrajZFQ2ZnQ0dLSFd5SmdaRlVfWm5WRUI4ZW5PRE41c0pYdmlIZmxGRktB?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijwfbvv95cuxozkhssuzln0g4zkvgrf9ab0s4og1ex0j3vmq1qtb0dwhodhpkzgo0mexwznbvze1qcgv0s3per0fox19imdvzazgzmxbuyw5",
+      "title": "ITI Reacts to the Great American AI Act",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkhsSUZlN0g4ZkVGRF9ab0s4OG1EX0J3VmQ1QTB0dWhodHpkZGo0MExwZnBVZE1qcGV0S3pER0FoX19iMDVzazgzMXBUYW5KQS15OG83QjhsaENSb0VxUWtYZ3Q3N2RsUXhrOHc4ekJBTkg5ZElDX1d6dlpLcVBEbkJ0UDBPMzM5RFRKU0dNZw?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-06"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiwkfvx3lxte85evbbzwrpzddvoehtwdrnwwdzzhftds16cgrqalctdefkbxa0ourwovvnbtvmcmlvquz6cgl4rwfvvfftb2z0ntrzalj6b0h",
+      "title": "A second life for EV batteries, clean energy for communities",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eVBBZWRPZDdVOEhtWDRNWWdZZHFTdS16cGRqalctdEFkbXA0OURWOVVNbTVMcmlvQUZ6cGl4RWFVVFFtb2Z0NTRzalJ6b0hCWnlJQWtSWlB3UQ?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-06"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpbvpmmxoxcm5vuenyujcxvwcwq2wztzz2rdzqoxf5elvwduhzzgrjcxhzrjjjqwtkuy1yzl9fu3ptou1vnxljyzlru2hjdef",
       "title": "Applications open for Northeast India AI Research Fellowship",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVpmMXoxcm5VUENyUjcxVWcwQ2wzTzZ2RDZqOXF5elVwdUhzZGRJcXhZRjJJQWtkUy1YZl9fU3pTOU1vNXlJYzlRU2hJdEFkYnNvSk5tX3hRamVIc2R0OUtaczNBVTByNFE2Y1NUZGp4OXdiYk9vOFp3WkZmaEVnbXI2d01KQjI1OXNMaTZnYlBXT0w0aDFJMXpMbXc1V0JTZFQzR2dR0gGmAUFVX3lxTE9tWmYxejFyblVQQ3JSNzFVZzBDbDNPNnZENmo5cXl6VXB1SHNkZElxeFlGMklBa2RTLVhmX19TelM5TW81eUljOVFTaEl0QWRic29KTm1feFFqZUhzZHQ5S1pzM0FVMHI0UTZjU1Rkang5d2JiT284WndaRmZoRWdtcjZ3TUpCMjU5c0xpNmdiUFdPTDRoMUkxekxtdzVXQlNkVDNHZ1E?oc=5",
