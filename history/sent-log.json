@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:HunxByts/GhostTrack",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:RyanCodrai/turbovec",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:openai/plugins",
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:microsoft/pg_durable",
+      "title": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:jamanetwork-com-journals-jamanetworkopen-fullarticle-2849122",
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:leoveanu-com-2026-06-06-qwen3-7max",
+      "title": "The OnlyFans Economy of American AI",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:blog-podman-io-2025-10-podman-6-machine-usability-improvements",
+      "title": "Podman 6: machine usability improvements",
+      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:github-com-anthropics-claude-code-issues-65697",
+      "title": "[FEATURE] Official Claude Desktop build for Linux (Ubuntu LTS / Debian) · Issue #65697 · anthropics/claude",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxnmdjtqvprvul0a1pbcwrlslvwuk1muwxpnw9xekxjyvz3dtk0uzjaqnbhcfbtyurpt0h4wvjqovzzwtdiohdsrmxpmhrpyxm",
       "title": "Google Higher Ed Faculty AI Fellowship 2026 for University and college faculty members.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDJTQVpRVUl0a1pBcWRlSlVWUk1MUWxPNW9xekxjYVZ3dTk0UzJaQnBHcFBtYURpT0h4WVJqOVZzWTdIOHdsRmxpMHRPYXM0Y2xuWG1VZlpJRE84Z2pYaV8yM1FGTm42cFZjVjlKb3FKYnVJY241SmVhOEp4bFdQUWx0dXdkZXhkUXU0eU9nU2VEdWFXYW1fMjVpcHl6OG1xeWtqOVpvRk9ZTFBfTENONnRzMFpjYVFnRWFZRVV3MzhkLUpFZWp3?oc=5",
