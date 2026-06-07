@@ -1,3 +1,7 @@
+// Editorial "Dom's Digest" template — print-newspaper aesthetic, Georgia serif,
+// table-based for email-client compatibility (Gmail web + iOS, Apple Mail).
+// Faithfully ports the design handoff at design_handoff_doms_digest/ into a
+// data-driven template that applies to all 7 sections.
 import { escapeHtml } from "./lib/text.js";
 
 const SECTION_LABELS = {
@@ -10,231 +14,389 @@ const SECTION_LABELS = {
   sustainability: "Sustainability",
 };
 
-export function renderBrief({ items, dateLabel, degradedSources, sectionSyntheses = {}, weather = null, intro = null }) {
+// Right-aligned italic CTA per section.
+const SECTION_CTA = {
+  opportunities: "Apply →",
+  github: "View repo →",
+  ai: "Read the paper →",
+  tech: "Read →",
+  legislation: "Read →",
+  finance: "Read →",
+  sustainability: "Read →",
+};
+
+const FIT_COLORS = {
+  strong: "#15803d",
+  maybe: "#9a5b2c",
+  weak: "#6b6453",
+};
+
+export function renderBrief({
+  items,
+  dateLabel,
+  degradedSources = [],
+  sectionSyntheses = {},
+  weather = null,
+  intro = null,
+}) {
   const grouped = groupBySection(items);
-  // TL;DR = the single top card from each section, capped at 3.
+
+  // TL;DR = the top item from each section in section order, capped at 3.
   const tldrItems = Object.keys(SECTION_LABELS)
     .map((section) => grouped[section]?.[0])
     .filter(Boolean)
     .slice(0, 3);
-  const tldr = tldrItems
-    .map(
-      (item) =>
-        `<li><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a> <span class="tldr-tag">${escapeHtml(SECTION_LABELS[item.section])}</span></li>`,
-    )
-    .join("");
 
-  const sections = Object.keys(SECTION_LABELS)
+  const sectionsHtml = Object.keys(SECTION_LABELS)
     .filter((section) => grouped[section]?.length)
-    .map((section) =>
-      renderSection(section, grouped[section], sectionSyntheses[section]),
-    )
+    .map((section) => renderSection(section, grouped[section], sectionSyntheses[section]))
     .join("");
 
+  const preheader = derivePreheader(intro, tldrItems);
+  const issueNumber = dayOfYear(new Date());
   const degraded = degradedSources.length
-    ? `<p class="degraded">Some sources were unavailable today: ${escapeHtml(degradedSources.join(", "))}.</p>`
-    : "";
-
-  const weatherBlock = renderWeather(weather);
-  const introBlock = intro && intro.trim()
-    ? `<div class="intro">${escapeHtml(intro.trim())}</div>`
+    ? renderDegradedNote(degradedSources)
     : "";
 
   return `<!doctype html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Morning Briefing - ${escapeHtml(dateLabel)}</title>
-  <style>
-    body { margin:0; padding:0; background:#f5f7f8; color:#1d2529; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif; }
-    .wrap { max-width:760px; margin:0 auto; padding:28px 18px 40px; }
-    .preheader { color:#62717a; font-size:13px; margin:0 0 8px; }
-    h1 { font-size:28px; line-height:1.15; margin:0 0 18px; letter-spacing:0; }
-    h2 { font-size:17px; margin:28px 0 10px; color:#253238; }
-    .tldr, .card, .synthesis, .compare { background:#ffffff; border:1px solid #dde5e8; border-radius:8px; }
-    .tldr { padding:16px 18px; margin-bottom:22px; }
-    .tldr h2 { margin:0 0 8px; }
-    ul { margin:0; padding-left:20px; }
-    li { margin:6px 0; }
-    a { color:#0b5cad; text-decoration:none; }
-    .card { padding:16px 18px; margin:10px 0; }
-    .meta { color:#687982; font-size:12px; margin-bottom:5px; }
-    .title { font-size:16px; font-weight:700; margin:0 0 8px; }
-    .summary { font-size:14px; line-height:1.5; margin:8px 0; color:#1d2529; }
-    .tryit { font-size:13px; line-height:1.4; margin:10px 0 4px; color:#334247; }
-    .tryit code { background:#f1f5f7; border:1px solid #dce5e8; border-radius:4px; padding:1px 6px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px; word-break:break-all; }
-    .chips { margin-top:11px; }
-    .chip { display:inline-block; border:1px solid #cfd9de; border-radius:999px; padding:4px 8px; font-size:12px; color:#38494f; margin:0 6px 6px 0; background:#f8fafb; }
-    .tldr-tag { display:inline-block; font-size:11px; color:#62717a; padding:1px 6px; border:1px solid #dde5e8; border-radius:4px; margin-left:6px; vertical-align:middle; }
-    .intro { font-size:15px; line-height:1.55; color:#253238; background:#ffffff; border:1px solid #dde5e8; border-left:3px solid #0b5cad; border-radius:8px; padding:16px 18px; margin-bottom:20px; }
-    .footer { color:#718189; font-size:12px; margin-top:6px; }
-    .flag { font-size:12.5px; color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:6px; padding:6px 10px; margin:8px 0 0; }
-    .synthesis { padding:14px 18px; margin:8px 0 6px; background:#f4f7f8; border-color:#dce4e7; }
-    .synthesis .label { font-size:11px; text-transform:uppercase; letter-spacing:0.4px; color:#62717a; font-weight:600; margin-bottom:6px; }
-    .synthesis .body { font-size:13.5px; line-height:1.5; color:#253238; }
-    .compare { padding:14px 18px; margin:8px 0 14px; }
-    .compare .label { font-size:11px; text-transform:uppercase; letter-spacing:0.4px; color:#62717a; font-weight:600; margin-bottom:8px; }
-    .compare table { border-collapse:collapse; width:100%; font-size:13px; }
-    .compare th, .compare td { text-align:left; padding:6px 8px; border-bottom:1px solid #eaeff1; vertical-align:top; }
-    .compare th { color:#62717a; font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:0.3px; }
-    .compare td:first-child { white-space:nowrap; }
-    .degraded { color:#7a4b00; background:#fff7e6; border:1px solid #f0d49b; border-radius:8px; padding:10px 12px; font-size:13px; }
-    .weather { background:#eef4f8; border:1px solid #cfdde3; border-radius:8px; padding:14px 18px; margin-bottom:18px; }
-    .weather .place { font-size:11px; text-transform:uppercase; letter-spacing:0.5px; color:#62717a; font-weight:600; margin-bottom:6px; }
-    .weather .line { font-size:14px; line-height:1.55; color:#1d2529; }
-    .weather .stat { display:inline-block; margin-right:14px; }
-    .weather .stat b { font-weight:600; }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="color-scheme" content="light" />
+<meta name="supported-color-schemes" content="light" />
+<title>Dom's Digest — ${escapeHtml(dateLabel)}</title>
+<style>
+  body { margin:0; padding:0; background:#f4f1ea; -webkit-font-smoothing:antialiased; }
+  a { text-decoration:none; }
+  a.lnk:hover { text-decoration:underline; }
+  table { border-collapse:collapse; }
+  .px { padding-left:40px; padding-right:40px; }
+  @media (max-width:620px){
+    .container { width:100% !important; }
+    .px { padding-left:24px !important; padding-right:24px !important; }
+    .masthead { font-size:42px !important; letter-spacing:0 !important; }
+  }
+</style>
 </head>
-<body>
-  <div class="wrap">
-    <p class="preheader">~5-minute briefing for ${escapeHtml(dateLabel)}</p>
-    <h1>Morning Briefing</h1>
-    ${degraded}
-    ${weatherBlock}
-    ${introBlock}
-    <div class="tldr">
-      <h2>TL;DR</h2>
-      <ul>${tldr || "<li>No high-signal items cleared the filters today.</li>"}</ul>
-    </div>
-    ${sections || renderEmpty()}
-  </div>
+<body style="margin:0; padding:0; background:#f4f1ea;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:#f4f1ea;">${escapeHtml(preheader)}</div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f4f1ea;">
+    <tr>
+      <td align="center" style="padding:24px 12px 52px 12px;">
+
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px; background:#fbfaf6; border:1px solid #ddd6c7;">
+
+          ${renderWeatherTicker(weather)}
+          ${renderMasthead(dateLabel, issueNumber)}
+          ${renderLead(intro)}
+          ${renderInThisIssue(tldrItems)}
+          ${sectionsHtml}
+          ${degraded}
+          ${renderFooter()}
+
+        </table>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>`;
 }
 
+// ─────────────────────────────────────────────────────────────────────────
+// Section template
+
 function groupBySection(items) {
-  return items.reduce((groups, item) => {
-    groups[item.section] ||= [];
-    groups[item.section].push(item);
-    return groups;
-  }, {});
+  const groups = {};
+  for (const item of items) {
+    (groups[item.section] ||= []).push(item);
+  }
+  return groups;
 }
 
 function renderSection(section, items, synthesis) {
-  const cards = items.map(renderCard).join("");
-  const compare = section === "github" ? renderGithubCompare(items) : "";
-  const footer = synthesis
-    ? `<div class="synthesis"><div class="label">Why this matters to you</div><div class="body">${escapeHtml(synthesis)}</div></div>`
+  const label = SECTION_LABELS[section];
+  const cardDivider = `<tr><td class="px" style="padding:18px 40px 0 40px;"><div style="border-top:1px solid #eae4d6;"></div></td></tr>`;
+  const cards = items
+    .map((item, i) => renderCard(item, section, i === 0))
+    .join(cardDivider);
+  const editorNote = synthesis ? renderEditorsNote(synthesis) : "";
+
+  return `
+          <!-- SECTION: ${label} -->
+          <tr>
+            <td class="px" style="padding:32px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="font-family:Georgia,serif; font-size:20px; font-weight:700; color:#1c1a17; white-space:nowrap; padding-right:14px;">${escapeHtml(label)}</td>
+                  <td style="width:100%; border-bottom:2px solid #1c1a17;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+${cards}
+${editorNote}`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Card
+
+function renderCard(item, section, isFeatured) {
+  const sourceLabel = item.source || SECTION_LABELS[section];
+  const headlineSize = isFeatured ? 21 : 19;
+  const headlineLineHeight = isFeatured ? "1.25" : "1.28";
+  const padding = isFeatured ? "20px 40px 0 40px" : "16px 40px 0 40px";
+  const isMono = section === "github";
+
+  const titleStyle = [
+    `margin-top:6px`,
+    `font-size:${headlineSize}px`,
+    `line-height:${headlineLineHeight}`,
+    `font-weight:700`,
+    `color:#1c1a17`,
+    isMono ? `font-family:'Courier New',monospace` : null,
+  ]
+    .filter(Boolean)
+    .join("; ");
+
+  const flagRow = item.eligibilityNote
+    ? `              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:11px;"><tr>
+                <td style="border-left:3px solid #b91c1c; padding:2px 0 2px 12px; font-family:Georgia,serif; font-size:13px; font-style:italic; color:#b91c1c;">${escapeHtml(item.eligibilityNote)}</td>
+              </tr></table>`
     : "";
-  return `<h2>${SECTION_LABELS[section]}</h2>${cards}${compare}${footer}`;
-}
 
-function renderCard(item) {
-  const chips = (item.chips || [])
-    .map((chip) => `<span class="chip">${escapeHtml(chip)}</span>`)
-    .join("");
-  const footer = item.section === "github" && item.chips?.some((c) => /difficulty:/i.test(c))
-    ? `<div class="footer">rough estimate</div>`
+  const installBlock = item.installSnippet
+    ? `              <div style="margin-top:13px; background:#1c1a17; padding:12px 15px; font-family:'Courier New',monospace; font-size:12px; line-height:1.6; color:#e8e2d2;"><span style="color:#9a8f78;">$</span> ${escapeHtml(item.installSnippet)}</div>`
     : "";
 
-  // Try-it line for GitHub repos with an extracted install snippet.
-  const tryit =
-    item.section === "github" && item.installSnippet
-      ? `<p class="tryit"><strong>Try it:</strong> <code>${escapeHtml(item.installSnippet)}</code></p>`
-      : "";
+  const metaContent = renderMetaContent(item, section);
+  const ctaLabel = SECTION_CTA[section] || "Read →";
+  const metaRow = `              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:11px;"><tr>
+                <td style="font-family:Georgia,serif; font-size:12px; font-style:italic; color:#3a352c;">${metaContent}</td>
+                <td align="right" valign="bottom"><a class="lnk" href="${escapeHtml(item.url)}" style="font-family:Georgia,serif; font-size:13px; font-style:italic; color:#9a5b2c; white-space:nowrap;">${escapeHtml(ctaLabel)}</a></td>
+              </tr></table>`;
 
-  // Eligibility flag for Europe-based opportunities (verify US eligibility).
-  const eligibility = item.eligibilityNote
-    ? `<p class="flag">${escapeHtml(item.eligibilityNote)}</p>`
-    : "";
-
-  return `<div class="card">
-    <div class="meta">${escapeHtml(item.source || SECTION_LABELS[item.section] || "Source")}</div>
-    <p class="title"><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></p>
-    <p class="summary">${escapeHtml(item.summary || "")}</p>
-    ${eligibility}
-    ${tryit}
-    ${chips ? `<div class="chips">${chips}</div>${footer}` : ""}
-  </div>`;
+  return `          <tr>
+            <td class="px" style="padding:${padding}; font-family:Georgia,serif;">
+              <div style="font-size:11px; letter-spacing:0.06em; text-transform:uppercase; color:#8a8270;">${escapeHtml(sourceLabel)}</div>
+              <div style="${titleStyle}"><a class="lnk" href="${escapeHtml(item.url)}" style="color:inherit; text-decoration:none;">${escapeHtml(item.title)}</a></div>
+              <p style="margin:9px 0 0 0; font-size:15px; line-height:1.6; color:#3a352c;">${escapeHtml(item.summary || "")}</p>
+${flagRow}
+${installBlock}
+${metaRow}
+            </td>
+          </tr>`;
 }
 
-// GitHub comparison block: a small table that gives a glance-level read on
-// how today's picks differ on the dimensions the user cares about
-// (language, stars, what they do).
-function renderGithubCompare(items) {
-  if (items.length < 2) return "";
-  const rows = items
-    .map(
-      (i) => `
-      <tr>
-        <td><a href="${escapeHtml(i.url)}">${escapeHtml(i.title)}</a></td>
-        <td>${escapeHtml(i.language || "—")}</td>
-        <td>${i.stars ? formatStars(i.stars) : "—"}</td>
-        <td>${escapeHtml(shortPitch(i.summary || ""))}</td>
-      </tr>`,
-    )
-    .join("");
-
-  return `<div class="compare">
-    <div class="label">At a glance — comparison</div>
-    <table>
-      <thead><tr><th>Repo</th><th>Lang</th><th>Stars</th><th>What it does</th></tr></thead>
-      <tbody>${rows}</tbody>
-    </table>
-  </div>`;
+function renderMetaContent(item, section) {
+  if (section === "opportunities") {
+    const fit = extractFit(item.chips);
+    if (fit) {
+      const color = FIT_COLORS[fit] || FIT_COLORS.maybe;
+      return `<span style="color:${color};">▰ Fit: ${escapeHtml(fit)}</span>`;
+    }
+    return "&nbsp;";
+  }
+  if (section === "github") {
+    const chips = item.chips || [];
+    const diff = chips.find((c) => /^difficulty:/i.test(c));
+    const time = chips.find((c) => /^time saved:/i.test(c));
+    const cost = chips.find((c) => /^cost:/i.test(c));
+    const parts = [diff, time, cost].filter(Boolean);
+    if (!parts.length) return "&nbsp;";
+    const joined = parts.map((p) => escapeHtml(p)).join(" &nbsp;·&nbsp; ");
+    return `${joined} <span style="color:#8a8270;">(rough estimate)</span>`;
+  }
+  // AI / Tech / Legislation / Finance / Sustainability — show read time if present.
+  const readChip = (item.chips || []).find((c) => /^read:/i.test(c));
+  return readChip ? escapeHtml(readChip) : "&nbsp;";
 }
 
-function formatStars(n) {
-  if (n >= 1000) return `${(n / 1000).toFixed(n >= 10000 ? 0 : 1)}k`;
-  return String(n);
+function extractFit(chips) {
+  if (!chips) return null;
+  for (const chip of chips) {
+    const m = chip.match(/^fit:\s*(strong|maybe|weak)/i);
+    if (m) return m[1].toLowerCase();
+  }
+  return null;
 }
 
-// First ~14 words of the summary — table-cell sized.
-function shortPitch(summary) {
-  const words = summary.trim().split(/\s+/);
-  if (words.length <= 14) return summary.trim();
-  return `${words.slice(0, 14).join(" ")}…`;
+// ─────────────────────────────────────────────────────────────────────────
+// Editor's note (per-section "Why this matters to you" synthesis)
+
+function renderEditorsNote(text) {
+  return `          <tr>
+            <td class="px" style="padding:18px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f1ede2; border-top:1px solid #ddd6c7; border-bottom:1px solid #ddd6c7;">
+                <tr><td style="padding:14px 18px; font-family:Georgia,serif; font-size:14px; line-height:1.6; font-style:italic; color:#3a352c;">
+                  <span style="font-style:normal; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; font-size:10px; color:#9a5b2c;">Editor's note &nbsp;</span><br />
+                  ${escapeHtml(text)} <span style="font-style:normal;">— Ed.</span>
+                </td></tr>
+              </table>
+            </td>
+          </tr>`;
 }
 
-function renderEmpty() {
-  return `<div class="card"><p class="summary">No fresh items survived deduplication today, but the routine ran successfully.</p></div>`;
-}
+// ─────────────────────────────────────────────────────────────────────────
+// Weather ticker — single-line dark strip at top
 
-// Ann Arbor weather block at the top of the brief — high, wind, rain
-// window, and 11 PM walk-home temp. Returns "" if the weather source
-// failed (graceful degradation; brief still renders).
-function renderWeather(weather) {
+function renderWeatherTicker(weather) {
   if (!weather) return "";
-
-  const stats = [];
-  if (weather.high != null) {
-    stats.push(`<span class="stat"><b>High</b> ${escapeHtml(String(weather.high))}°F</span>`);
-  }
-  if (weather.elevenPmTemp != null) {
-    stats.push(
-      `<span class="stat"><b>11 PM</b> ${escapeHtml(String(weather.elevenPmTemp))}°F</span>`,
-    );
-  }
+  const parts = ["ANN ARBOR"];
+  if (weather.conditions) parts.push(String(weather.conditions).toUpperCase());
+  if (weather.high != null) parts.push(`HIGH ${weather.high}°`);
+  if (weather.elevenPmTemp != null) parts.push(`11 PM ${weather.elevenPmTemp}°`);
   if (weather.peakWind != null) {
-    const gustNote =
+    const gust =
       weather.peakGust && weather.peakGust > weather.peakWind + 3
-        ? ` (gusts ${weather.peakGust})`
+        ? ` (GUSTS ${weather.peakGust})`
         : "";
-    stats.push(
-      `<span class="stat"><b>Wind</b> up to ${escapeHtml(String(weather.peakWind))} mph${escapeHtml(gustNote)}</span>`,
-    );
+    parts.push(`WIND ${weather.peakWind} MPH${gust}`);
   }
+
+  let rainPart = null;
   if (weather.rain) {
     const peak = weather.rain.peak;
-    let rainText;
     if (peak < 20) {
-      rainText = "<b>Rain</b> none expected";
+      rainPart = "RAIN NONE";
     } else if (weather.rain.window) {
-      rainText = `<b>Rain</b> ${peak}% peak (${escapeHtml(weather.rain.window.label)})`;
+      rainPart = `RAIN ${peak}% · ${weather.rain.window.label.toUpperCase()}`;
     } else {
-      rainText = `<b>Rain</b> ${peak}% peak (no clear window)`;
+      rainPart = `RAIN ${peak}%`;
     }
-    stats.push(`<span class="stat">${rainText}</span>`);
   }
 
-  const conditions = weather.conditions
-    ? `<div class="place">Ann Arbor · ${escapeHtml(weather.conditions)}</div>`
-    : `<div class="place">Ann Arbor</div>`;
+  const left = parts.map((p) => escapeHtml(p)).join("&nbsp;·&nbsp;");
+  const right = rainPart
+    ? `&nbsp;·&nbsp;<span style="color:#e8b04b;">${escapeHtml(rainPart)}</span>`
+    : "";
 
-  return `<div class="weather">
-    ${conditions}
-    <div class="line">${stats.join("")}</div>
-  </div>`;
+  return `          <!-- WEATHER TICKER -->
+          <tr>
+            <td class="px" style="padding:11px 40px; background:#1c1a17; font-family:Georgia,'Times New Roman',serif; font-size:11px; line-height:1.4; color:#c9c2b0; letter-spacing:0.04em; text-align:center;">
+              ${left}${right}
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Masthead + dateline
+
+function renderMasthead(dateLabel, issueNumber) {
+  return `          <!-- MASTHEAD -->
+          <tr>
+            <td class="px" style="padding:26px 40px 0 40px; font-family:Georgia,'Times New Roman',serif; text-align:center;">
+              <div style="font-size:11px; letter-spacing:0.34em; text-transform:uppercase; color:#8a8270;">The Morning Briefing</div>
+              <div class="masthead" style="margin-top:10px; font-size:54px; line-height:1; font-weight:700; color:#1c1a17; letter-spacing:-0.01em;">Dom's Digest</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="px" style="padding:16px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr><td style="border-top:3px solid #1c1a17; border-bottom:1px solid #1c1a17; padding:7px 0; font-family:Georgia,serif; font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:#1c1a17; text-align:center;">
+                  ${escapeHtml(dateLabel)} &nbsp;·&nbsp; Vol. I, No. ${issueNumber} &nbsp;·&nbsp; Ann Arbor Edition
+                </td></tr>
+              </table>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Lead / greeting (drop cap on first letter)
+
+function renderLead(intro) {
+  if (!intro || !intro.trim()) return "";
+  const text = intro.trim();
+  const firstChar = text.charAt(0);
+  const rest = text.slice(1);
+  return `          <!-- LEAD / GREETING -->
+          <tr>
+            <td class="px" style="padding:30px 40px 8px 40px; font-family:Georgia,'Times New Roman',serif;">
+              <div style="font-size:13px; letter-spacing:0.12em; text-transform:uppercase; color:#9a5b2c; font-weight:bold;">Good morning, Dom</div>
+              <p style="margin:14px 0 0 0; font-size:18px; line-height:1.62; color:#26221c;">
+                <span style="float:left; font-size:56px; line-height:0.82; font-weight:700; color:#1c1a17; padding:4px 10px 0 0;">${escapeHtml(firstChar)}</span>${escapeHtml(rest)}
+              </p>
+              <div style="clear:both;"></div>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// In This Issue (TL;DR with roman numerals)
+
+function renderInThisIssue(items) {
+  if (!items.length) return "";
+  const numerals = ["I.", "II.", "III."];
+  const rows = items
+    .map((item, i) => {
+      const isFirst = i === 0;
+      const topBorder = isFirst ? "" : "border-top:1px solid #eae4d6; padding-top:12px;";
+      return `                <tr>
+                  <td valign="top" style="width:30px; font-size:22px; font-weight:700; color:#9a5b2c; font-style:italic;">${numerals[i]}</td>
+                  <td valign="top" style="padding-bottom:12px; ${topBorder}">
+                    <div style="font-size:16px; font-weight:700; color:#1c1a17; line-height:1.35;"><a class="lnk" href="${escapeHtml(item.url)}" style="color:inherit; text-decoration:none;">${escapeHtml(item.title)}</a></div>
+                    <div style="font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#8a8270; margin-top:3px;">${escapeHtml(SECTION_LABELS[item.section])}</div>
+                  </td>
+                </tr>`;
+    })
+    .join("\n");
+  return `          <!-- IN THIS ISSUE -->
+          <tr>
+            <td class="px" style="padding:22px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #ddd6c7; border-bottom:1px solid #ddd6c7;">
+                <tr><td style="padding:14px 0 10px 0; font-family:Georgia,serif; font-size:11px; letter-spacing:0.2em; text-transform:uppercase; color:#8a8270; text-align:center;">In This Issue</td></tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td class="px" style="padding:14px 40px 4px 40px; font-family:Georgia,serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+${rows}
+              </table>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Footer
+
+function renderFooter() {
+  return `          <!-- FOOTER -->
+          <tr>
+            <td class="px" style="padding:34px 40px 30px 40px; font-family:Georgia,serif; text-align:center;">
+              <div style="border-top:3px double #1c1a17; padding-top:16px;">
+                <div style="font-size:15px; font-weight:700; letter-spacing:0.04em; color:#1c1a17;">Dom's Digest</div>
+                <div style="margin-top:6px; font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#8a8270;">Generated by Email Bot · Ann Arbor · 9:23 AM</div>
+              </div>
+            </td>
+          </tr>`;
+}
+
+function renderDegradedNote(sources) {
+  return `          <tr>
+            <td class="px" style="padding:20px 40px 0 40px;">
+              <div style="font-family:Georgia,serif; font-size:12px; font-style:italic; color:#9a5b2c; text-align:center;">Some sources were unavailable today: ${escapeHtml(sources.join(", "))}.</div>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Utilities
+
+function derivePreheader(intro, tldrItems) {
+  if (intro && intro.trim()) return intro.trim().slice(0, 140);
+  if (tldrItems.length) {
+    return `Today: ${tldrItems
+      .slice(0, 2)
+      .map((i) => i.title)
+      .join(" · ")}`;
+  }
+  return "Your morning briefing.";
+}
+
+function dayOfYear(date) {
+  const start = new Date(date.getFullYear(), 0, 0);
+  const diff = date - start;
+  return Math.floor(diff / (1000 * 60 * 60 * 24));
 }

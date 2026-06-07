@@ -119,7 +119,7 @@ async function main() {
     return;
   }
 
-  const subject = `Morning Briefing - ${dateLabel}`;
+  const subject = `Dom's Digest — ${dateLabel}`;
   try {
     const result = await sendEmail({
       apiKey: config.resendApiKey,
