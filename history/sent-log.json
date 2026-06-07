@@ -2,6 +2,111 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxnmdjtqvprvul0a1pbcwrlslvwuk1muwxpnw9xekxjyvz3dtk0uzjaqnbhcfbtyurpt0h4wvjqovzzwtdiohdsrmxpmhrpyxm",
+      "title": "Google Higher Ed Faculty AI Fellowship 2026 for University and college faculty members.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDJTQVpRVUl0a1pBcWRlSlVWUk1MUWxPNW9xekxjYVZ3dTk0UzJaQnBHcFBtYURpT0h4WVJqOVZzWTdIOHdsRmxpMHRPYXM0Y2xuWG1VZlpJRE84Z2pYaV8yM1FGTm42cFZjVjlKb3FKYnVJY241SmVhOEp4bFdQUWx0dXdkZXhkUXU0eU9nU2VEdWFXYW1fMjVpcHl6OG1xeWtqOVpvRk9ZTFBfTENONnRzMFpjYVFnRWFZRVV3MzhkLUpFZWp3?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:aaif-goose/goose",
+      "title": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:opencv/opencv",
+      "title": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:yikart/AiToEarn",
+      "title": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "github:refactoringhq/tolaria",
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "section": "github",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-06492",
+      "title": "Paper page - Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "https://huggingface.co/papers/2606.06492",
+      "section": "ai",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-03312",
+      "title": "Paper page - RobotValues: Evaluating Household Robots When Human Values Conflict",
+      "url": "https://huggingface.co/papers/2606.03312",
+      "section": "ai",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-06428",
+      "title": "Paper page - Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+      "url": "https://huggingface.co/papers/2606.06428",
+      "section": "ai",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-06042",
+      "title": "Paper page - LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
+      "url": "https://huggingface.co/papers/2606.06042",
+      "section": "ai",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:diabetesjournals-org-care-article-49-6-901-164764-misguided-brushes-of-a-pen-continue-to-dismantle",
+      "title": "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+      "url": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:arxiv-org-abs-2606-04299",
+      "title": "Efficient and Training-Free Single",
+      "url": "https://arxiv.org/abs/2606.04299",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:human-in-the-loop-bearblog-dev-llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
+      "title": "LLMs are eroding my software engineering career and I don&#x27;t know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "Hacker News:9mothers-com-careers",
+      "title": "Careers | 9 Mothers",
+      "url": "https://9mothers.com/careers",
+      "section": "tech",
+      "sentAt": "2026-06-07"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiuafbvv95cuxqamg2u25xzgdqevp4azzoqmhgavoxbnvjvf9xdev6sdzxd2h4zfbtawq0bfvmndzboxjvthz5ogp0wk0zc29fohruofleztv",
+      "title": "UN calls for AI regulation amidst expanding environmental footprint by daily use",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamg2U25XZGdQeVp4azZoQmhGaVoxbnVjVF9xdEV6SDZxd2h4ZFBtaWQ0bFVMNDZBOXJVTHZ5OGp0Wk0zc29FOHRuOFlEZTV1WTdZRC1UaHBIMWJDWXFMb29NeG5vM1N5OVJtYjZfX2lwTlM1X25rb05uejk0b3hEUVVXQmg2NEQ0d1FLOXNQWENiVlhMOVhBS3NRbC11VmVXTmJVRG0xbkJ2OTN4Y0xyUjF3VVNyX09w?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-07"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxtfbbzg9ntv83nl82ruthr1rsylztwfdqz2vuqmfbwu1rskjrwxzvcnpsenq0dxhjmy14owfioerty2zxoxdgbhu4uwpoagdrwei",
       "title": "The Catalysis Society of South Africa (CATSA) Opens 2026 International Student Travel Grant for MSc and PhD Catalysis Researchers",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZG9NTV83Nl82RUthR1RSYlZtWFdqZ2VuQmFBWU1RSkJrWXZVcnpsenQ0dXhjMy14OWFIOERTY2ZXOXdGbHU4UWpOaGdrWEI5N1dvTmxFTlBmSzV2TWg2OUMza2lUZXI0amc?oc=5",
