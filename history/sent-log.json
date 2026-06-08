@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxte1da29vvjl6emp3qnvrnm1ktvlybndnzzk3qlpzavplb2zdbzjjamlzyuutc1lkz3oxswtsrlzmwuhjm1hzejluotjlzwjgtuu",
+      "title": "Apply for the UC Berkeley CHAI Research Fellowship 2026: Fully Funded AI Research Opportunity with Visa Sponsorship in the United States",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Da29VVjl6emp3QnVrNm1kTVlYbndnZzk3QlpZaVpLb2ZDbzJJamlZYUUtc1lKZ3oxSWtSRlZmWUhJM1hZejluOTJlZWJGTUUweWtWVjF5Q3JGeGtFUkRMdkEtbVZtTHhMejc4?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "github:Andyyyy64/whichllm",
+      "title": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "section": "github",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "github:google/skills",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "section": "github",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "github:phuryn/pm-skills",
+      "title": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "section": "github",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "github:luongnv89/claude-howto",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "section": "github",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "github:roboflow/supervision",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "section": "github",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05761",
+      "title": "Paper page - SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long",
+      "url": "https://huggingface.co/papers/2606.05761",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05806",
+      "title": "Paper page - When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.05806",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-04525",
+      "title": "Paper page - GENEB: Why Genomic Models Are Hard to Compare",
+      "url": "https://huggingface.co/papers/2606.04525",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-07502",
+      "title": "Paper page - Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "url": "https://huggingface.co/papers/2606.07502",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-07229",
+      "title": "Paper page - MMAE: A Massive Multitask Audio Editing Benchmark",
+      "url": "https://huggingface.co/papers/2606.07229",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-05563",
+      "title": "Paper page - SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio",
+      "url": "https://huggingface.co/papers/2606.05563",
+      "section": "ai",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "Hacker News:blogs-nvidia-com-blog-nvidia-and-lg-group-ai-factory",
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "section": "tech",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "Hacker News:github-com-boringcollege-zig-by-example",
+      "title": "GitHub - boringcollege/zig-by-example: Zig by example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "section": "tech",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "Hacker News:handson-money-blog-2026-06-06-horse-arse-and-design",
+      "title": "Horse arses, thumbs and data design of GnuCash",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "section": "tech",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "Hacker News:www-bbc-com-worklife-article-20260520-how-social-media-ceased-to-be-social",
+      "title": "Anti-social: It&#x27;s fads, not friends, which now dominate our feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "section": "tech",
+      "sentAt": "2026-06-08"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmieefvx3lxte9mtghjel81eunqb2k0rln2tuo3c2zolvhtvnz2zkl1y0q2dnjnmf83snlqaknpa0dqwdz2odluazblmgjuy1uzs1jhbkm2wkt",
+      "title": "The EU Artificial Intelligence Act: A tl;dr",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTGhjel81eUNqb2k0RlN2TUo3c2ZoLVhTVnZ2Zkl1Y0Q2dnJnMF83SnlQakNpa0dqWDZ2ODluazBLMGJuY1UzS1JhbkM2Wkt1ZlNjampXVjB5WXpRWHVnVnlNaUtZdkRIem5aWk93a1NLWG9JSExkVg?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-08"
+    },
+    {
       "key": "Hacker News:www-ycombinator-com-companies-proliferate-jobs-l3copvk-founding-engineer",
       "title": "Founding Engineer at Proliferate",
       "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
@@ -3380,125 +3499,6 @@
       "title": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:affaan-m/everything-claude-code",
-      "title": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:ruvnet/ruflo",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:Significant-Gravitas/AutoGPT",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-databricks",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-what-parameter-golf-taught-us",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-sea-david-chen",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-building-codex-windows-sandbox",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-academy-how-finance-teams-use-codex",
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-openai-launches-the-deployment-company",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:crates-io-crates-zerostack-1-0-0",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:lcamtuf-substack-com-p-a-nicer-voltmeter-clock",
-      "title": "A Nicer Voltmeter Clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:www-hybridlogic-co-uk-blog-2026-05-mcp-hello-page",
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:github-com-ztc00-algora-scout-blob-main-post-md",
-      "title": "I tried to make Claude make me money on open-source bounties",
-      "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmidefvx3lxte1sunz4bnlrzzqwqndleg9htjrnn1fywdndytjqs0n4cnzumfjxtkxhuxnjnf92vtn3mg5wnjiwz2tgwk90sucwsjdacdzsr2z",
-      "title": "The AI Regulation Knife Fight",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SUnZ4bnlrZzQwQndLeG9hTjRNN1FyWDNDYTJqS0N4cnZUMFJxTkxhUXNjNF92VTN3MG5WNjIwZ2tGWk90SUcwSjdacDZSR2ZFR3FCYVNPRDBTT2FhWjdJSjUzVTdvNUhkQUNiWVdxOXVzY0Rs?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmifkfvx3lxtfb3um0wtw9myvn3znewzu1smwxdtnnhyjm4cjg0oghwa2k5n3ywb3vfu2pvdehlr0nquvdwyuw5zm82wfnuaghgz0o2anzxn2p",
-      "title": "AI Act - EU Digital Strategy",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Um0wTW9MYVN3ZnEwZU1sMWxDTnNHYjM4cjg0OGhWa2k5N3Ywb3VfU2pVdEhlR0NqUVdwYUw5Zm82WFNUaGhGZ0o2anZxN2p5MFBiRURiQlJEMkNpLXZ3UEtUbjMzTDJoYzVtRjF1UWNpcVZnQnVUVnhCb1Jwdw?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmikwfbvv95cuxqqlryb2ldel9scg5jqtzinxniykvnywjhcl8xtdiwd25aa3fmuu5ad2j6x1rpymdfr0xvu3bzadlpb05qdi1qewzhb3otrw4",
-      "title": "Amendments move Colorado AI Act's focus from risk to transparency",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlRyb2lDel9ScG5JQTZINXNIYkVNYWJhcl8xTDIwd25aa3FmUU5ad2J6X1RpYmdfR0xVU3BzaDlPb05qdi1qeWZhb3otRW4xV1JaVlNNSzhJUVBKSlZVVl90RU5mN0hBUnVTQ1l6SFdNT1dNUHdBZ3g2TjBBLVMzUnNGdlhVbkRYS2x4SkROMnBOVTg?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmitgfbvv95cuxpvvblts1avthmd2gwamlzn3jytvnzedr2n2hqbwfqmnfyt2hza2ktrmlyb2vjes1vvvfxa1uwbvppzlvpvjfrmwtov1zlttj",
-      "title": "European AI Funding Is Growing. Will That Boost The Region’s Startup Scene?",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVBLTS1aVThmd2gwamlZN3JYTVNzeDR2N2hQbWFqMnFyT2hZa2ktRmlYb2VJeS1VVVFxa1UwbVpPZlVPVjFrMWtoV1ZLTTJqRU56cEh2SWpqWmZHS0U4ME4xRmg0dU56RV9rSmQtOE9MSVdHUWg5dXhnc3ZmbFNHNlJUWkFZdmtLWmVNNXlKcExmUjNIbmhGUE1oQW9jc3NPYzVSWGVwR04yUnVEODdnenFPeHZlZw?oc=5",
-      "section": "finance",
       "sentAt": "2026-05-16"
     }
   ]
