@@ -9,18 +9,39 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 - **Pell-Grant eligible** — qualifies for many fully-funded / diversity / access / first-gen / low-income programs.
 - US citizen, based in Ann Arbor, Michigan.
 
-**What I'm hunting for (Unique Opportunities):** out-of-the-box activities that build skills, expand my network, or open career paths — conferences, research programs (REUs), fellowships, accelerators, pre-professional / access programs, hackathons, summits. Cast the net WIDE.
+### Career timeline & targets (the lens for Unique Opportunities)
 
-**Hard requirements for opportunities:**
-- Must be **free / fully funded** — no out-of-pocket cost. Travel-funded or virtual both fine.
-- Not limited to the US — global is welcome. **But for Europe-based programs, flag whether Americans are eligible (or preferred).**
-- Open to undergraduates / rising seniors / early-career.
+**Fall 2026** — looking for **virtual, part-time** roles (or **in-person for bold, high-leverage ones**) I can do alongside my senior year.
 
-**Examples of opportunities I'm already doing (the target vibe):**
-- Harvard SVMP (Summer Venture in Management Program, via HBS) — access/pre-professional program.
-- Y Combinator Startup School — free startup education.
+**2027** — full-time roles starting after graduation.
 
-So: think fully-funded fellowships, diversity/first-gen tech programs, AI research summer programs, conference student scholarships & travel grants, equity-free accelerators, and similar.
+**The top 6 role types I'm hunting (in priority order):**
+
+1. **Solutions Engineer / Sales Engineer (SaaS or AI)** — best fit. Technical-enough but the job is reading the room, translating tech to humans, and winning people over. Hires year-round. Entry comp ~$80–110k base, $100–140k OTE. The Anthropic applied-architect role is in this family.
+2. **Founding GTM / BD / Founding AE at early-stage AI startup** — connector's dream; own customer relationships and "make shit happen." SMB motion ~$80–110k base, $160–220k OTE plus 0.1–0.3% equity. My YC Startup School and SVMP networks are the on-ramp.
+3. **Forward-Deployed Engineer / applied-AI implementation** — the hottest AI job. Embed with customers, lean on AI-tooling edge. Frontier-lab FDE (e.g. Anthropic, OpenAI) is the stretch ($300k+ but wants strong eng). More realistic: **Series B+ applied-AI tier + implementation-flavored FDE roles**.
+4. **Associate Product Manager / startup Product** — strong CogSci-plus-product fit. Big-co APMs $105–125k+, startups $85–100k + equity. New-grad APM programs are competitive and **post late summer/fall** (so this is apply-when-posted, not the fastest path). **Skip ad-core teams.**
+5. **Technical Program / Project Manager** — cross-functional people role, solid pay, broadly available. Reliable fit if #1–3 don't land fast.
+6. **Applied-AI contracting / automation for small businesses** — fastest cash. Freelance from skills I already have (agents, scheduled routines, automation). Lower ceiling but flexible, remote, and startable this week.
+
+**Strong fit signals for an opportunity card:**
+- Maps to one of the 6 roles above, AND
+- Matches the timing window (virtual/part-time for Fall 2026, OR full-time starting 2027 with applications opening now), AND
+- Open to a rising senior / new grad (not requiring 3+ YOE or a graduate degree), AND
+- Free to apply / funded if there's a cost component.
+
+**Weak fit signals (mark "weak"):**
+- Generic news *about* a program with no application affordance.
+- Internships/programs whose application window has already closed.
+- Senior-level roles requiring substantial work experience.
+- Ad-tech / ad-core teams (dealbreaker for APM-track roles).
+- Programs requiring out-of-pocket cost beyond reasonable travel.
+
+**Cast a wide net at the source:** I'd rather see 5 candidates with mixed fit (with the LLM honestly labeling each as strong/maybe/weak) than 2 highly-filtered ones. The fit verdict is for me to triage quickly — I don't need the bot to pre-filter aggressively.
+
+### Other opportunity types still welcome
+
+Fully-funded fellowships, diversity / first-gen tech programs, AI research summer programs (REUs), conference student scholarships, equity-free accelerators, hackathons with travel grants. The Harvard SVMP / YC Startup School vibe — high-leverage things that compound.
 
 ## Current Projects
 

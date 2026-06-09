@@ -13,9 +13,14 @@ import { sentenceSummary, slugId, stripHtml } from "../lib/text.js";
 // Each query pairs an opportunity type with ACTIONABLE language ("applications
 // open", "now accepting", "apply", "deadline") to bias Google News toward open
 // postings rather than "X won Y" news-about-opportunities.
-const ACTION = '("applications open" OR "now accepting" OR "apply" OR "deadline" OR "call for")';
+//
+// Cast a WIDE net — we'd rather surface 6 candidates of mixed fit and let the
+// LLM label each strong/maybe/weak than over-filter at the source. The user's
+// career targets are in profile.md and drive the LLM's fit verdict.
+const ACTION = '("applications open" OR "now accepting" OR "apply" OR "deadline" OR "call for" OR "hiring" OR "now open")';
 const QUERIES = [
-  // Funded fellowships / programs in tech & AI for students.
+  // ── Programs / fellowships / research (the original use case) ──
+  // Funded fellowships in tech & AI for students.
   `${ACTION} (fellowship OR scholarship OR "fully funded program") (AI OR "computer science" OR tech) (undergraduate OR student) when:45d`,
   // Undergraduate research (REUs, summer research) in AI/ML/CS.
   `${ACTION} ("undergraduate research" OR REU OR "research program" OR "research fellowship") ("artificial intelligence" OR "machine learning" OR "computer science") when:45d`,
@@ -23,8 +28,22 @@ const QUERIES = [
   `${ACTION} (program OR fellowship OR summit) (tech OR AI) (first-generation OR low-income OR underrepresented OR diversity) students when:45d`,
   // Conferences with student scholarships / travel grants.
   `${ACTION} (conference OR summit) (AI OR "machine learning" OR tech) ("student scholarship" OR "travel grant" OR "student volunteer" OR "diversity scholarship") when:45d`,
-  // Startup / entrepreneurship programs (the YC Startup School / accelerator vibe).
+  // Startup / entrepreneurship programs (YC Startup School / accelerator vibe).
   `${ACTION} (accelerator OR "startup program" OR fellowship OR bootcamp) students (free OR "fully funded" OR "equity-free" OR "no cost") when:45d`,
+
+  // ── Career-track roles (Fall 2026 part-time + 2027 new-grad) ──
+  // Target role #1: Solutions Engineer / Sales Engineer (SaaS / AI).
+  `("solutions engineer" OR "sales engineer" OR "solutions architect") (hiring OR "new grad" OR "early career" OR "applications open" OR "now hiring") (AI OR SaaS) when:30d`,
+  // Target role #2: Founding GTM / Founding AE / Founding BD at AI startups.
+  `("founding AE" OR "founding GTM" OR "founding BD" OR "founding sales" OR "founding account executive") (hiring OR "now hiring") AI startup when:30d`,
+  // Target role #3: Forward-Deployed Engineer / applied-AI implementation.
+  `("forward deployed engineer" OR "forward-deployed" OR "applied AI" OR "implementation engineer") (hiring OR "open roles" OR "now hiring") when:30d`,
+  // Target role #4: APM programs (new-grad cycle opens late summer/fall).
+  `("APM program" OR "associate product manager" OR "new grad product manager") (applications open OR "now accepting" OR 2027 OR hiring) when:45d`,
+  // Target role #5: Technical Program Manager (new-grad / early-career).
+  `("technical program manager" OR "TPM new grad" OR "program manager new grad") (hiring OR "applications open" OR 2027) when:45d`,
+  // General: 2027 new-grad cycles opening / fall 2026 part-time AI roles.
+  `("2027 new grad" OR "2027 university grad" OR "fall 2026 part-time" OR "fall 2026 intern") (AI OR engineer OR product OR sales) when:45d`,
 ];
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "" });
@@ -48,7 +67,7 @@ export async function collectOpportunities({ userAgent }) {
 
       return rawItems
         .filter((item) => item && item.title && item.link)
-        .slice(0, 4)
+        .slice(0, 5)
         .map((item) => {
           const title = cleanTitle(item.title);
           const url = item.link;
@@ -77,34 +96,54 @@ export async function collectOpportunities({ userAgent }) {
 }
 
 // Score by how strongly the title signals a real, fitting opportunity.
+// Tuned to let candidates through to the LLM rather than over-filter here.
+// The LLM gets the user's full career-target profile and does the final
+// strong/maybe/weak triage.
 function scoreOpportunity(title) {
   const t = title.toLowerCase();
-  let score = 8;
+  let score = 10;
 
-  // Positive: clearly an opportunity with funding / access framing.
+  // Positive: program/fellowship/research framing.
   for (const term of [
     "fellowship", "scholarship", "fully funded", "free", "grant", "research",
-    "reu", "accelerator", "summit", "conference", "program", "first-generation",
+    "reu", "accelerator", "summit", "program", "first-generation",
     "underrepresented", "diversity", "stipend", "all expenses",
   ]) {
     if (t.includes(term)) score += 3;
   }
-  // Bonus: directly in the user's domain.
-  for (const term of ["ai", "machine learning", "computer science", "llm", "data science", "cognitive"]) {
+  // Strong bonus: matches one of the user's top 6 target roles.
+  for (const term of [
+    "solutions engineer", "sales engineer", "solutions architect",
+    "founding ae", "founding gtm", "founding bd", "founding sales",
+    "forward deployed", "forward-deployed", "applied ai", "implementation engineer",
+    "associate product manager", "apm program", "product manager",
+    "technical program manager", "program manager",
+  ]) {
+    if (t.includes(term)) score += 6;
+  }
+  // Domain match.
+  for (const term of ["ai", "machine learning", "computer science", "llm", "agent"]) {
     if (t.includes(term)) score += 2;
   }
-  // Bonus: clearly student-facing.
-  for (const term of ["undergraduate", "student", "college", "rising", "early-career", "internship"]) {
+  // Student-facing / early-career.
+  for (const term of ["undergraduate", "student", "college", "rising", "early career", "early-career", "new grad", "new-grad", "internship", "intern", "part-time", "part time", "2026", "2027"]) {
     if (t.includes(term)) score += 2;
   }
-  // Strong bonus: actionable / open-application language.
-  for (const term of ["applications open", "now accepting", "now open", "apply by", "apply now", "deadline", "call for", "seeking applicants", "accepting applications"]) {
-    if (t.includes(term)) score += 5;
+  // Actionable / open-application language.
+  for (const term of ["applications open", "now accepting", "now open", "apply by", "apply now", "deadline", "call for", "now hiring", "open roles", "hiring", "accepting applications"]) {
+    if (t.includes(term)) score += 4;
   }
-  // Strong penalty: past-tense "news about" framing — someone already won, or
-  // a recap of a past event. Not an opportunity you can act on.
-  for (const term of ["won ", "wins ", "awarded", "recipient", "honored", "showcase", "showcased", "celebrates", "recap", "symposium", "expo", "highlights", "named ", "selected for", "receives"]) {
-    if (t.includes(term)) score -= 6;
+  // Penalty: past-tense "news about" framing.
+  for (const term of ["won ", "wins ", "awarded", "recipient", "honored", "showcase", "showcased", "celebrates", "recap", "symposium recap", "highlights", "named ", "selected for", "receives"]) {
+    if (t.includes(term)) score -= 4;
+  }
+  // Penalty: closed roles or senior-only.
+  for (const term of ["senior", "principal", "staff engineer", "director", "manager iii", "10+ years", "ten years", "phd required", "doctorate"]) {
+    if (t.includes(term)) score -= 4;
+  }
+  // Ad-tech dealbreaker (user explicitly excluded).
+  for (const term of ["ad tech", "ad-tech", "advertising platform", "ad core"]) {
+    if (t.includes(term)) score -= 8;
   }
   // Noise patterns.
   for (const term of ["webinar recording", "sponsored", "advertisement", "how to apply for a job"]) {

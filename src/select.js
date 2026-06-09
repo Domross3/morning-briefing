@@ -1,7 +1,7 @@
 import { scoreGitHub } from "./sources/github.js";
 
 const SECTION_CAPS = {
-  opportunities: 4,
+  opportunities: 6,
   github: 5,
   ai: 6,
   tech: 4,
@@ -28,9 +28,10 @@ export function scoreAndSelect(items, profileText) {
     });
 
   const selected = [
-    // Opportunities get a score floor: better to show nothing than to surface
-    // low-quality "news about a program" items on a quiet day.
-    ...selectSection(scored, "opportunities", 14),
+    // Opportunities get a modest score floor: filter obvious noise but
+    // let the LLM (which has the user's full career-target profile) do
+    // the final strong/maybe/weak triage.
+    ...selectSection(scored, "opportunities", 8),
     ...selectGithub(scored.filter((item) => item.section === "github")),
     ...selectSection(scored, "ai"),
     ...selectSection(scored, "tech"),
