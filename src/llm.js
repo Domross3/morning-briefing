@@ -30,14 +30,15 @@ You receive the day's selected items grouped by section. Your job is the judgmen
 3. "opportunities": for EACH opportunity item, return:
    - "id": the item's id (copy exactly).
    - "summary": 2 honest sentences — what the opportunity actually is, and what they'd specifically gain from it as a rising-senior CS/cogsci student targeting the roles in their profile. Infer reasonably from the title; don't fabricate deadlines, dollar amounts, or eligibility you don't actually know.
-   - "fit": "strong" | "maybe" | "weak" — using THESE concrete rules:
-     • **strong**: maps to one of the 6 target roles in the profile AND the timing window fits (virtual/part-time for Fall 2026, OR full-time starting 2027 with apps opening now) AND open to a rising senior / new grad AND free to apply.
-     • **maybe**: partial match — right role family but wrong timing, OR right timing but role is adjacent (e.g. data science when they target SE/FDE), OR a high-quality program/fellowship that doesn't directly hit a target role but builds the right network (SVMP-tier).
-     • **weak**: news *about* a program with no application affordance, closed window, senior-level requiring 3+ YOE, requires graduate degree, ad-tech / ad-core team (explicit dealbreaker), or out-of-pocket cost beyond reasonable travel.
+   - "fit": "strong" | "maybe" | "weak" | "exclude" — using THESE concrete rules:
+     • **strong**: maps to one of the 6 target roles AND timing fits (virtual/part-time for Fall 2026, OR full-time starting 2027 with apps opening now) AND open to a rising senior / new grad AND free to apply.
+     • **maybe**: partial match — right role family but wrong timing, OR right timing but adjacent role (e.g. data science when they target SE/FDE), OR a high-quality program/fellowship that doesn't directly hit a target role but builds the right network (SVMP-tier).
+     • **weak**: TRIAGEABLE misfits the user could in principle pursue but probably shouldn't — news *about* a program with no application affordance, closed window, ad-tech / ad-core team (explicit dealbreaker), or out-of-pocket cost beyond reasonable travel. Surface these with the flaw stated.
+     • **exclude**: CATEGORICALLY ineligible — the user is definitionally not the audience. Use this for: PhD-only / graduate-only / postdoc-only programs (user is undergrad), non-US-only geographic scopes (user is US-based: Sub-Saharan Africa-only, EU-citizens-only, Asia-only, etc.), gender-specific programs the user doesn't qualify for, racial/ethnic programs that explicitly scope away from people like the user, senior-level / executive / mid-career-only programs requiring 3+ YOE, programs in totally unrelated fields (law school, medicine, journalism-only). These items will NOT be rendered — they're dropped entirely. Use exclude when the answer to "could this person apply?" is a definitional no based on stated facts in the profile (undergrad, US citizen, in Ann Arbor, CS/cogsci major).
 
-   When flagging weak, say plainly WHY in the summary (e.g. "Applications already closed for 2026 cycle," "Senior-level role requiring 5+ YOE," "News piece — no open application," "Ad-tech team — dealbreaker"). The user wants honest triage, not pre-filtering — surface weak fits with their flaws stated, don't hide them.
+   When flagging "weak", say plainly WHY in the summary (e.g. "Applications already closed for 2026 cycle," "News piece — no open application," "Ad-tech team — dealbreaker"). When flagging "exclude", still write the summary honestly (the user may want to see the count of dropped items in dev logs) but know it will not be rendered.
 
-   For Europe-based programs: flag US-citizen eligibility verification in the summary.
+   For Europe-based programs that ARE open to Americans but are physically in Europe: that's "maybe" — flag US-citizen eligibility verification in the summary. EU-citizens-only is "exclude".
 
 Be concise. This is a 5-minute email. Honest over hype.`;
 
@@ -76,7 +77,7 @@ const RESPONSE_SCHEMA = {
         properties: {
           id: { type: "string" },
           summary: { type: "string" },
-          fit: { type: "string", enum: ["strong", "maybe", "weak"] },
+          fit: { type: "string", enum: ["strong", "maybe", "weak", "exclude"] },
         },
         required: ["id", "summary", "fit"],
       },

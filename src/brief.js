@@ -80,19 +80,32 @@ async function main() {
   // Optional LLM enhancement: real synthesis, editorial intro, opportunity
   // vetting. Returns null without an API key or on failure → templated stays.
   let intro = null;
+  let finalItemsAfterLlm = finalItems;
   const llm = sample ? null : await enhanceBrief({ items: finalItems, profileText, dateLabel });
   if (llm) {
     for (const [section, text] of Object.entries(llm.sections)) {
       if (text && text.trim()) sectionSyntheses[section] = text.trim();
     }
     const byId = new Map(finalItems.map((i) => [i.id, i]));
+    const excludeIds = new Set();
     for (const opp of llm.opportunities) {
       const item = byId.get(opp.id);
       if (!item) continue;
+      if (opp.fit === "exclude") {
+        // LLM determined the user is categorically not the audience for this
+        // opportunity. Drop it from rendering entirely rather than wasting
+        // a card slot on something they can't apply to.
+        excludeIds.add(item.id);
+        continue;
+      }
       if (opp.summary && opp.summary.trim()) item.summary = opp.summary.trim();
       if (opp.fit) {
         item.chips = [`Fit: ${opp.fit}`, ...(item.chips || [])];
       }
+    }
+    if (excludeIds.size) {
+      finalItemsAfterLlm = finalItems.filter((i) => !excludeIds.has(i.id));
+      console.log(`LLM excluded ${excludeIds.size} categorically-ineligible opportunities.`);
     }
     intro = llm.intro;
     if (llm.usage) {
@@ -102,7 +115,7 @@ async function main() {
     }
   }
 
-  const html = renderBrief({ items: finalItems, dateLabel, degradedSources, sectionSyntheses, weather, intro });
+  const html = renderBrief({ items: finalItemsAfterLlm, dateLabel, degradedSources, sectionSyntheses, weather, intro });
 
   await fs.mkdir(path.dirname(config.outputPath), { recursive: true });
   await fs.writeFile(config.outputPath, html, "utf8");

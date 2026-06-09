@@ -53,6 +53,31 @@ const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "" 
 const EUROPE_HINT =
   /\b(europe|european|EU|UK|United Kingdom|Britain|London|Oxford|Cambridge|Berlin|Munich|Paris|France|Germany|Netherlands|Amsterdam|Zurich|Switzerland|Sweden|Stockholm|Spain|Italy|Ireland|Dublin|Copenhagen|Denmark|Norway|Finland|Brussels|Belgium|Vienna|Austria|Lisbon|Portugal|Madrid|Barcelona)\b/i;
 
+// CATEGORICAL EXCLUSIONS — items that are definitionally impossible for this
+// user to qualify for, based on facts stated in profile.md (US-based,
+// undergraduate). These get dropped at the source so the LLM never sees them
+// and we don't waste tokens marking them "weak."
+//
+// We do NOT filter on gender / race here — profile.md doesn't assert those
+// facts. Anything dependent on identity not stated in the profile is left
+// for the LLM to triage.
+const CATEGORICAL_EXCLUSIONS = [
+  // Graduate-only programs. User is an undergraduate (rising senior).
+  /\b(phd|ph\.?d\.?|doctoral|postdoc|post-doc|post doctoral|doctorate)\b.*\b(researcher|fellowship|fellow|program|scholarship|student)/i,
+  /\b(phd|ph\.?d\.?|doctoral)\s+(students?|researchers?|candidates?|fellows?)/i,
+  /\bfor\s+(phd|ph\.?d\.?|doctoral|graduate|grad)\s+(students?|researchers?)/i,
+  // Non-US-only geographic scopes. User is US-based and physically here.
+  /\b(sub[- ]saharan africa|south[- ]asia|southeast asia|west africa|east africa|north africa|latin america|caribbean|oceania)\b.*\b(researchers?|students?|fellows?|nationals?|citizens?|residents?)/i,
+  /\bfor\s+(african|asian|latin american|caribbean|european)\s+(researchers?|students?|fellows?|nationals?|citizens?|residents?)\b/i,
+  /\b(open|limited|restricted|exclusive)\s+(only\s+)?to\s+(african|asian|european|latin american|non[- ]us|non[- ]american)\b/i,
+  // Wrong career stage — programs explicitly for working professionals.
+  /\b(mid[- ]career|senior|executive|c[- ]suite|cxo)\s+(fellowship|program|scholarship)/i,
+];
+
+function isCategoricallyExcluded(title) {
+  return CATEGORICAL_EXCLUSIONS.some((re) => re.test(title));
+}
+
 export async function collectOpportunities({ userAgent }) {
   const settled = await Promise.allSettled(
     QUERIES.map(async (query) => {
@@ -67,6 +92,7 @@ export async function collectOpportunities({ userAgent }) {
 
       return rawItems
         .filter((item) => item && item.title && item.link)
+        .filter((item) => !isCategoricallyExcluded(cleanTitle(item.title)))
         .slice(0, 5)
         .map((item) => {
           const title = cleanTitle(item.title);
