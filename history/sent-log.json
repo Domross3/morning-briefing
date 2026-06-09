@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxqudizahyyszy1mgpzrextaepwoddyd0gwrtd2lvvhb0t3qxldn2phbhlft3dldghosfdlbuc3deljnln6uzb3y1vuowl0amh",
+      "title": "Call For Applications: Udacity/Amazon AI and ML Scholarship Program For Students Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDIzaHYySzY1MGpZRExtaEpwODdYd0gwRTd2LVVhb0t3QXlDN2phbHlfT3dldGhoSFdLbUc3dEljNlN6UzB3Y1VUOWl0amhKSDVsMkp1V2picHBlaFJnalUweWhld09MMGItcDlPYWNSbl9ieHZXTDdXUnhFOWp6UDlXZlh2UmRIa3Jrb3NjdXRiTWZOS1dJei0tSThOMGVSX0FIUkt6Rl8xSGRJYjJ2QzZNVnJhVFJDY0Rr?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte44ajlfzu92athxv2vnedqyy0lhzzvyx1j1uk43nmxuawxlv3hom2vknnzyejjntuf2nzbouuvtbgrbn3lqszhuoug5btb0eu5",
+      "title": "Apply for the Women in AI Fellowship 2026: USD 5,000 Funding for Women PhD Researchers in Sub-Saharan Africa",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44ajlfZU92aThxV2VNeDQyY0lHZzVyX1J1Uk43NmxUaWxLV3hOM2VKNnZYejJnTUF2NzBoUUVtbGRBN3lQSzhUOUg5bTB0eU5kRjRaVXNfMU1EZ2pZV0lZRmJJRXQyUzA2MmpCUW5n?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxnzwt5v3qwduprze1zu2o4ogq2rkflaxderxc5a2haogforfhuuwpjukhbuwp6b0ozr3jvtwfvym81mgrzrfdzww05wkxwsnz",
+      "title": "® Azercell launches “Student Scholarship Program 2026”",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWt5V3QwdUprZE1zU2o4OGQ2RkFLaXdERXc5a2haOGFoRFhuUWpjUkhBUWp6b0ozR3JVTWFVYm81MGRZRFdZWW05WkxWSnZobkpvVFVLZXZVVGQtMVBWWGY5V3U3ZVQyc21XSUVfajRVb1ZWX3RiTFBCM05zSUJ3S1ItWXJMNVl4SnlLQ0FERS0zUQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "github:Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "section": "github",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "github:x1xhlol/system-prompts-and-models-of-ai-tools",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "section": "github",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "github:maziyarpanahi/openmed",
+      "title": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "section": "github",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "github:francescopace/espectre",
+      "title": "francescopace/espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "section": "github",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-agents-in-biology",
+      "title": "Paving the way for agents in biology",
+      "url": "https://www.anthropic.com/research/agents-in-biology",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-economic-research-exchange",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-built-to-benefit-everyone-our-plan",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-07297",
+      "title": "Paper page - SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
+      "url": "https://huggingface.co/papers/2606.07297",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-07082",
+      "title": "Paper page - On the Geometry of On",
+      "url": "https://huggingface.co/papers/2606.07082",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-09828",
+      "title": "Paper page - Latent Spatial Memory for Video World Models",
+      "url": "https://huggingface.co/papers/2606.09828",
+      "section": "ai",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "Hacker News:techcrunch-com-2026-06-08-microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "section": "tech",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "Hacker News:www-codingwithjesse-com-blog-rockstar-developers",
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "section": "tech",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-emerge-career-jobs-v0s1aeg-founding-growth-marketer",
+      "title": "Founding Growth Marketer at Emerge Career",
+      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+      "section": "tech",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "Hacker News:staniks-github-io-articles-catlantean-3d-blog-1",
+      "title": "Catlantean 3D",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "section": "tech",
+      "sentAt": "2026-06-09"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmioafbvv95cuxqaxdhazhjv2ptuxatrnfwekvneujqvk9us2d6vjqwy01mluzvbhbma3pxtux6m2fvvtlovvhrbwlzszhft241m0d6ckexaev",
+      "title": "Wall Street Is About To Test AI's Trillion-Dollar Valuations",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXdHazhJV2pTUXAtRnFwekVneUJQVk9US2d6VjQwY01mLUZvbHBma3pXTUx6M2FvVTloVVhrbWlZSzhfT241M0d6ckExaEVSazJVRlRoeHlEMk9ia09ESEl0NllCTklObEh4ZEJtOGhoS2JHX2dPQkF6dVJFRV85RTBFVkdoZXJZRzQ1Z0c1TmtLZEV3ck1IbXNWRlhZT29X?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-09"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxte1da29vvjl6emp3qnvrnm1ktvlybndnzzk3qlpzavplb2zdbzjjamlzyuutc1lkz3oxswtsrlzmwuhjm1hzejluotjlzwjgtuu",
       "title": "Apply for the UC Berkeley CHAI Research Fellowship 2026: Fully Funded AI Research Opportunity with Visa Sponsorship in the United States",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Da29VVjl6emp3QnVrNm1kTVlYbndnZzk3QlpZaVpLb2ZDbzJJamlZYUUtc1lKZ3oxSWtSRlZmWUhJM1hZejluOTJlZWJGTUUweWtWVjF5Q3JGeGtFUkRMdkEtbVZtTHhMejc4?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
       "section": "tech",
       "sentAt": "2026-05-17"
-    },
-    {
-      "key": "github:NousResearch/hermes-agent",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:open-webui/open-webui",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:shareAI-lab/learn-claude-code",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:zhayujie/CowAgent",
-      "title": "zhayujie/CowAgent",
-      "url": "https://github.com/zhayujie/CowAgent",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:HKUDS/nanobot",
-      "title": "HKUDS/nanobot",
-      "url": "https://github.com/HKUDS/nanobot",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-donating-open-source-petri",
-      "title": "Donating our open",
-      "url": "https://www.anthropic.com/research/donating-open-source-petri",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-natural-language-autoencoders",
-      "title": "Natural Language Autoencoders",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-teaching-claude-why",
-      "title": "Teaching Claude why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-project-vend-2",
-      "title": "Project Vend 2",
-      "url": "https://www.anthropic.com/research/project-vend-2",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-2028-ai-leadership",
-      "title": "2028: Two scenarios for global AI leadership",
-      "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-anthropic-institute-agenda",
-      "title": "Focus areas for The Anthropic Institute",
-      "url": "https://www.anthropic.com/research/anthropic-institute-agenda",
-      "section": "ai",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:electrek-co-2026-05-16-fisker-ocean-open-source-ev-story-after-bankruptcy",
-      "title": "Fisker went bankrupt and owners built open source car company from the ashes",
-      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:www-sfgate-com-national-parks-article-exploding-bear-spray-yellowstone-22244713-php",
-      "title": "Client Challenge",
-      "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:maurycyz-com-projects-mcusite",
-      "title": "Hosting a website on an 8-bit microcontroller. (Maurycy's blog)",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "Hacker News:arxiv-org-abs-2601-19897",
-      "title": "Self-Distillation Enables Continual Learning",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "section": "tech",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmizkfvx3lxte1wz1jfc24yv0d0z09fduf1ztluawjvvmzwy3i3snfjb01gt3dubk5zemy1ofazeuu5afvnnhq3mlz0mvlps0hsvgv5efzjwgr",
-      "title": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZ1JFc24yV0d0Z09fdUF1ZTluaWJVVmZwY3I3SnFjb01GT3dUbk5zemY1OFAzeUU5aFVNNHQ3MlZ0MVlPS0hSVGV5eFZJWGRTdmFpNS1ueUVsbjQzUVoxWjRycmo0UQ?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "section": "github",
-      "sentAt": "2026-05-16"
-    },
-    {
-      "key": "github:santifer/career-ops",
-      "title": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "section": "github",
-      "sentAt": "2026-05-16"
     }
   ]
 }
