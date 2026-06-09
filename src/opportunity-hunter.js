@@ -33,13 +33,16 @@ QUALITY BAR: Harvard SVMP (HBS pre-professional), Y Combinator Startup School. T
 - Specific target roles at named companies: Solutions Engineer / Forward-Deployed Engineer / Founding AE roles at Series B+ AI companies (Anthropic, OpenAI, Anyscale, Modal, Together, LangChain, Pinecone, etc.)
 - Startup accelerators that don't require equity / cost: YC Startup School, Z Fellows, On Deck (some tracks)
 
-SEARCH STRATEGY (do this, in order):
-1. Search 2-3 broad queries to surface candidate programs ("AI research fellowship undergraduate 2026 applications open", "Forward-Deployed Engineer hiring 2026", "APM program 2027 applications", "pre-professional program technology students fully funded 2026", etc.)
-2. For each promising candidate, web_fetch the program's official page
-3. Verify on the fetched page: application status, deadline, eligibility, cost
-4. Only keep the verified ones
+SEARCH STRATEGY (be DECISIVE — total budget: 5 searches, 8 fetches max):
+1. Pick 2-3 strong queries upfront and run them. Don't keep searching forever.
+2. Look at the search results — pick at most 5-8 promising candidates to fetch.
+3. Fetch each one. Verify on the page: application status, deadline, eligibility, cost.
+4. Stop searching when you have 3-5 verified opportunities. Don't keep hunting for more — finalize and write the JSON.
+5. If after one round of searching + fetching you have <2 verified, do at most ONE more search round, then write the JSON with whatever you have (or empty).
 
 TARGET MIX: 2-3 strong (direct hit on target roles + verified open + verified eligible) + up to 2 maybe (high-leverage SVMP-tier network/credential builders + verified open + verified eligible).
+
+TIME BUDGET: You have under 4 minutes total. Don't dawdle — every search and fetch costs seconds. Be efficient and decisive. The user has been burned by overlong runs that produced nothing; finish on time with real results rather than running over with theoretical perfection.
 
 NEVER INCLUDE:
 - News articles about programs (you want the application page, not the news piece)
@@ -75,13 +78,34 @@ QUALITY OVER QUANTITY. The user is sick of weak-fit padding. 0 verified opportun
 
 // Tool runner pattern: pause_turn means the server-side web_search/web_fetch
 // loop hit its iteration ceiling (default 10) and needs us to re-send to
-// continue. Cap our outer loop so we don't spin forever on a misbehaving day.
-const MAX_PAUSE_TURNS = 4;
+// continue. Cap our outer loop tightly so we don't spin past the deadline.
+const MAX_PAUSE_TURNS = 1;
+// Hard wall-clock deadline. After this elapses, abort and let brief.js ship
+// the rest of the email without hunter results. The workflow timeout is
+// 15 min; we want plenty of headroom for the rest of the pipeline.
+const HUNTER_DEADLINE_MS = 4 * 60 * 1000;
 
 export async function huntOpportunities({ profileText, dateLabel }) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) return null;
 
+  // Race the agentic loop against a wall-clock deadline. If the LLM is taking
+  // too long (web tools spinning, model going down a rabbit hole), abort and
+  // let the rest of the brief ship without hunter results.
+  const deadline = new Promise((resolve) =>
+    setTimeout(() => resolve({ __timeout: true }), HUNTER_DEADLINE_MS),
+  );
+  const result = await Promise.race([huntInner({ profileText, dateLabel, apiKey }), deadline]);
+  if (result && result.__timeout) {
+    console.error(
+      `Opportunity hunter exceeded ${HUNTER_DEADLINE_MS / 1000}s deadline; shipping brief without hunter results.`,
+    );
+    return null;
+  }
+  return result;
+}
+
+async function huntInner({ profileText, dateLabel, apiKey }) {
   const model = process.env.BRIEF_LLM_MODEL || DEFAULT_MODEL;
   const client = new Anthropic({ apiKey });
 
