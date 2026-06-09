@@ -1,9 +1,9 @@
 // Opportunity Hunter — LLM agentic loop that ACTIVELY searches the web for
 // high-quality, currently-open opportunities matching the user's profile.
 //
-// This replaces the Google News opportunities scrape when an API key is
-// present. The old pipeline just labeled titles; this one verifies real
-// program pages, deadlines, and eligibility before surfacing anything.
+// When an API key is present, verified results from this hunter take priority
+// over the Google News opportunities scrape. Google News remains available as
+// a fallback when the hunter fails or comes up empty.
 //
 // Quality bar: Harvard SVMP / YC Startup School tier. Aim for 2-5 verified
 // opportunities, NEVER pad with weak fits. Empty is better than noise.
@@ -79,7 +79,7 @@ QUALITY OVER QUANTITY. The user is sick of weak-fit padding. 0 verified opportun
 // Tool runner pattern: pause_turn means the server-side web_search/web_fetch
 // loop hit its iteration ceiling (default 10) and needs us to re-send to
 // continue. Cap our outer loop tightly so we don't spin past the deadline.
-const MAX_PAUSE_TURNS = 1;
+const MAX_PAUSE_TURNS = 2;
 // Hard wall-clock deadline. After this elapses, abort and let brief.js ship
 // the rest of the email without hunter results. The workflow timeout is
 // 15 min; we want plenty of headroom for the rest of the pipeline.
@@ -91,21 +91,35 @@ export async function huntOpportunities({ profileText, dateLabel }) {
 
   // Race the agentic loop against a wall-clock deadline. If the LLM is taking
   // too long (web tools spinning, model going down a rabbit hole), abort and
-  // let the rest of the brief ship without hunter results.
-  const deadline = new Promise((resolve) =>
-    setTimeout(() => resolve({ __timeout: true }), HUNTER_DEADLINE_MS),
-  );
-  const result = await Promise.race([huntInner({ profileText, dateLabel, apiKey }), deadline]);
-  if (result && result.__timeout) {
-    console.error(
-      `Opportunity hunter exceeded ${HUNTER_DEADLINE_MS / 1000}s deadline; shipping brief without hunter results.`,
-    );
-    return null;
+  // let the rest of the brief ship with Google News fallback results.
+  const controller = new AbortController();
+  let deadlineTimer;
+
+  try {
+    const deadline = new Promise((resolve) => {
+      deadlineTimer = setTimeout(
+        () => resolve({ __timeout: true }),
+        HUNTER_DEADLINE_MS,
+      );
+    });
+    const result = await Promise.race([
+      huntInner({ profileText, dateLabel, apiKey, signal: controller.signal }),
+      deadline,
+    ]);
+    if (result && result.__timeout) {
+      controller.abort();
+      console.error(
+        `Opportunity hunter exit: timeout after ${HUNTER_DEADLINE_MS / 1000}s; using Google News fallback.`,
+      );
+      return null;
+    }
+    return result;
+  } finally {
+    clearTimeout(deadlineTimer);
   }
-  return result;
 }
 
-async function huntInner({ profileText, dateLabel, apiKey }) {
+async function huntInner({ profileText, dateLabel, apiKey, signal }) {
   const model = process.env.BRIEF_LLM_MODEL || DEFAULT_MODEL;
   const client = new Anthropic({ apiKey });
 
@@ -116,6 +130,7 @@ async function huntInner({ profileText, dateLabel, apiKey }) {
   let usageOut = 0;
   let webSearchCalls = 0;
   let webFetchCalls = 0;
+  let lastResponse = null;
 
   try {
     for (let pauseTurn = 0; pauseTurn <= MAX_PAUSE_TURNS; pauseTurn++) {
@@ -128,7 +143,8 @@ async function huntInner({ profileText, dateLabel, apiKey }) {
           { type: "web_fetch_20260209", name: "web_fetch" },
         ],
         messages,
-      });
+      }, { signal });
+      lastResponse = response;
 
       usageIn += response.usage?.input_tokens || 0;
       usageOut += response.usage?.output_tokens || 0;
@@ -145,40 +161,94 @@ async function huntInner({ profileText, dateLabel, apiKey }) {
       }
 
       // end_turn — Claude finished. Extract the final JSON.
-      const finalText = response.content
-        .filter((b) => b.type === "text")
-        .map((b) => b.text)
-        .join("")
-        .trim();
-
+      const finalText = responseText(response);
       const parsed = parseJsonFromText(finalText);
       if (!parsed) {
-        console.error("Opportunity hunter: failed to parse JSON output.");
+        console.error("Opportunity hunter exit: parse-fail after completed response.");
         return null;
       }
 
-      const opportunities = Array.isArray(parsed.opportunities)
-        ? parsed.opportunities
-            .filter((o) => o && o.title && o.url && o.fit)
-            .filter((o) => o.fit === "strong" || o.fit === "maybe")
-            .slice(0, 6)
-        : [];
-
-      return {
-        opportunities,
-        searchLog: parsed.search_log || null,
+      const result = buildHuntResult(parsed, {
         model,
-        usage: { input_tokens: usageIn, output_tokens: usageOut },
-        toolCalls: { web_search: webSearchCalls, web_fetch: webFetchCalls },
-      };
+        usageIn,
+        usageOut,
+        webSearchCalls,
+        webFetchCalls,
+      });
+      logCompletedExit(result);
+      return result;
     }
 
-    console.error("Opportunity hunter: exceeded MAX_PAUSE_TURNS without end_turn.");
-    return null;
+    console.warn(
+      `Opportunity hunter reached pause-cap after ${MAX_PAUSE_TURNS} continuations; attempting JSON salvage.`,
+    );
+    const parsed = parseJsonFromText(responseText(lastResponse));
+    if (!parsed) {
+      console.error("Opportunity hunter exit: pause-cap (salvage parse-fail); using Google News fallback.");
+      return null;
+    }
+
+    const result = buildHuntResult(parsed, {
+      model,
+      usageIn,
+      usageOut,
+      webSearchCalls,
+      webFetchCalls,
+    });
+    logCompletedExit(result, " via pause-cap salvage");
+    return result;
   } catch (error) {
-    console.error(`Opportunity hunter failed (${model}): ${error.message}`);
+    if (signal.aborted) return null;
+    console.error(`Opportunity hunter exit: api-error (${model}): ${error.message}`);
     return null;
   }
+}
+
+function responseText(response) {
+  if (!response?.content) return "";
+  return response.content
+    .filter((block) => block.type === "text")
+    .map((block) => block.text)
+    .join("")
+    .trim();
+}
+
+function buildHuntResult(parsed, {
+  model,
+  usageIn,
+  usageOut,
+  webSearchCalls,
+  webFetchCalls,
+}) {
+  const opportunities = Array.isArray(parsed.opportunities)
+    ? parsed.opportunities
+        .filter(
+          (opportunity) =>
+            opportunity &&
+            opportunity.title &&
+            opportunity.url &&
+            (opportunity.fit === "strong" || opportunity.fit === "maybe"),
+        )
+        .slice(0, 6)
+    : [];
+
+  return {
+    opportunities,
+    searchLog: parsed.search_log || null,
+    model,
+    usage: { input_tokens: usageIn, output_tokens: usageOut },
+    toolCalls: { web_search: webSearchCalls, web_fetch: webFetchCalls },
+  };
+}
+
+function logCompletedExit(result, suffix = "") {
+  if (result.opportunities.length) {
+    console.log(
+      `Opportunity hunter exit: success${suffix} with ${result.opportunities.length} verified items.`,
+    );
+    return;
+  }
+  console.log(`Opportunity hunter exit: empty${suffix}; using Google News fallback.`);
 }
 
 // Tolerate Claude wrapping the JSON in prose or fences — extract the first

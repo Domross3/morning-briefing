@@ -40,35 +40,40 @@ async function main() {
   const stamp = todayStamp(config.timezone);
   const dateLabel = displayDate(config.timezone);
 
-  // When LLM is available, replace the Google News opportunities scrape with
-  // an agentic web-search hunter that VERIFIES program pages, deadlines, and
-  // eligibility before surfacing anything. Falls back to the keyword pipeline
-  // only when no API key is configured.
+  // When LLM is available, run an agentic web-search hunter that VERIFIES
+  // program pages, deadlines, and eligibility before surfacing anything.
+  // Google News still runs in parallel as a fallback if the hunter comes up
+  // empty or fails.
   const hasLlm = !!process.env.ANTHROPIC_API_KEY && !sample;
 
   // Weather, main collect, and opportunity hunter all run in parallel.
-  // Hunter and weather failures are non-fatal — opportunities section just
-  // ends up empty (which is now an acceptable state — see opportunity-hunter.js).
+  // Hunter and weather failures are non-fatal.
   const [collectResult, weather, hunterResult] = await Promise.all([
     sample
       ? Promise.resolve({ items: sampleItems(), degradedSources: [] })
-      : collectAll({ ...config, skipOpportunitiesSource: hasLlm }),
+      : collectAll(config),
     sample ? Promise.resolve(sampleWeather()) : collectWeather({ userAgent: config.userAgent }),
     hasLlm ? huntOpportunities({ profileText, dateLabel }) : Promise.resolve(null),
   ]);
   const huntedItems = hasLlm ? hunterOpportunitiesToItems(hunterResult) : [];
-  const items = [...collectResult.items, ...huntedItems];
+  const collectedItems = huntedItems.length
+    ? collectResult.items.filter((item) => item.section !== "opportunities")
+    : collectResult.items;
+  const items = [...collectedItems, ...huntedItems];
   const { degradedSources } = collectResult;
 
-  if (hunterResult) {
+  if (huntedItems.length) {
     console.log(
-      `Opportunity hunter (${hunterResult.model}): ${hunterResult.opportunities.length} verified items, ` +
+      `Opportunity hunter (${hunterResult.model}): ${huntedItems.length} verified items, ` +
       `${hunterResult.toolCalls.web_search} searches + ${hunterResult.toolCalls.web_fetch} fetches, ` +
       `${hunterResult.usage.input_tokens} in / ${hunterResult.usage.output_tokens} out tokens.`,
     );
     if (hunterResult.searchLog) console.log(`Hunt log: ${hunterResult.searchLog}`);
   } else if (hasLlm) {
-    console.log("Opportunity hunter returned no results.");
+    const fallbackCount = collectedItems.filter((item) => item.section === "opportunities").length;
+    console.log(
+      `Opportunity hunter produced no verified items; using ${fallbackCount} Google News fallback candidates.`,
+    );
   }
 
   // Drop items that are non-English by heuristic. Heuristic-only because we
@@ -183,8 +188,7 @@ async function collectAll(config) {
     ["RSS", collectRss],
     ["Reddit", collectReddit],
     ["Search", collectSearch],
-    // Google News opportunities are noisy; skip when the LLM hunter is active.
-    ...(config.skipOpportunitiesSource ? [] : [["Opportunities", collectOpportunities]]),
+    ["Opportunities", collectOpportunities],
   ];
 
   const settled = await Promise.allSettled(
