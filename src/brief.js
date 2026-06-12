@@ -46,15 +46,21 @@ async function main() {
   // empty or fails.
   const hasLlm = !!process.env.ANTHROPIC_API_KEY && !sample;
 
-  // Weather, main collect, and opportunity hunter all run in parallel.
-  // Hunter and weather failures are non-fatal.
-  const [collectResult, weather, hunterResult] = await Promise.all([
+  // Collect + weather first (parallel), THEN the hunter — so the hunter can
+  // chase leads from today's news (e.g. "Anthropic launches X fellowship"
+  // appearing as an AI-news item becomes a verified opportunity card with the
+  // real application URL, not just an intro mention).
+  const [collectResult, weather] = await Promise.all([
     sample
       ? Promise.resolve({ items: sampleItems(), degradedSources: [] })
       : collectAll(config),
     sample ? Promise.resolve(sampleWeather()) : collectWeather({ userAgent: config.userAgent }),
-    hasLlm ? huntOpportunities({ profileText, dateLabel }) : Promise.resolve(null),
   ]);
+
+  const newsLeads = extractOpportunityLeads(collectResult.items);
+  const hunterResult = hasLlm
+    ? await huntOpportunities({ profileText, dateLabel, newsLeads })
+    : null;
   const huntedItems = hasLlm ? hunterOpportunitiesToItems(hunterResult) : [];
   const collectedItems = huntedItems.length
     ? collectResult.items.filter((item) => item.section !== "opportunities")
@@ -137,6 +143,7 @@ async function main() {
       finalItemsAfterLlm = finalItems.filter((i) => !excludeIds.has(i.id));
       console.log(`LLM excluded ${excludeIds.size} categorically-ineligible opportunities.`);
     }
+    finalItemsAfterLlm = sortAndCapOpportunities(finalItemsAfterLlm);
     intro = llm.intro;
     if (llm.usage) {
       console.log(
@@ -211,6 +218,43 @@ async function collectAll(config) {
   });
 
   return { items, degradedSources };
+}
+
+// Pull potential opportunity leads out of today's collected news so the
+// hunter can verify them and find the real application page. E.g. an
+// Anthropic-news item "Introducing Claude Corps" becomes a lead the hunter
+// chases to its official application URL.
+const LEAD_HINT = /\b(fellowship|fellows|residenc|scholars?hip|corps|grant|accelerator|cohort|apprentice|new[- ]grad|apply|applications?|hiring|program for|early[- ]career)\b/i;
+function extractOpportunityLeads(items) {
+  return items
+    .filter((i) => i.section === "ai" || i.section === "tech")
+    .filter((i) => LEAD_HINT.test(`${i.title} ${i.summary || ""}`))
+    .slice(0, 8)
+    .map((i) => ({ title: i.title, url: i.url, summary: (i.summary || "").slice(0, 300) }));
+}
+
+// Render order: strong → maybe → weak → unlabeled. Also cap weak-fit cards at
+// one, and only when there are fewer than two strong/maybe items (the user
+// wants strong fits, not weak padding; a single weak is acceptable as a
+// "best we found" fallback on thin days).
+const FIT_RANK = { strong: 0, maybe: 1, weak: 2 };
+function sortAndCapOpportunities(items) {
+  const fitOf = (item) => {
+    const chip = (item.chips || []).find((c) => /^fit:/i.test(c));
+    return chip ? chip.replace(/^fit:\s*/i, "").toLowerCase() : null;
+  };
+  const opps = items.filter((i) => i.section === "opportunities");
+  if (!opps.length) return items;
+
+  const sorted = [...opps].sort(
+    (a, b) => (FIT_RANK[fitOf(a)] ?? 3) - (FIT_RANK[fitOf(b)] ?? 3),
+  );
+  const strongMaybe = sorted.filter((i) => ["strong", "maybe"].includes(fitOf(i)));
+  const weak = sorted.filter((i) => !["strong", "maybe"].includes(fitOf(i)));
+  const kept = strongMaybe.length >= 2 ? strongMaybe : [...strongMaybe, ...weak.slice(0, 1)];
+
+  const others = items.filter((i) => i.section !== "opportunities");
+  return [...kept, ...others];
 }
 
 async function readProfile(profilePath) {
