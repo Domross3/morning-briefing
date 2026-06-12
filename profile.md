@@ -13,9 +13,9 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 ### Career timeline & targets (the lens for Unique Opportunities)
 
-**Fall 2026** — looking for **virtual, part-time** roles (or **in-person for bold, high-leverage ones**) I can do alongside my senior year.
+**Now through mid-2027 (final year)** — looking for **virtual, part-time** roles (or **in-person for bold, high-leverage ones**) I can do alongside school.
 
-**2027** — full-time roles starting after graduation.
+**Graduating August 2027** — targeting **full-time roles that start around/after August 2027**. New-grad cycles for an August 2027 start typically open fall 2026 through spring 2027; surface those as they post.
 
 **The top 6 role types I'm hunting (in priority order):**
 
@@ -28,7 +28,7 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 **Strong fit signals for an opportunity card:**
 - Maps to one of the 6 roles above, AND
-- Matches the timing window (virtual/part-time for Fall 2026, OR full-time starting 2027 with applications opening now), AND
+- Matches the timing window (virtual/part-time during my final year, OR full-time starting around August 2027 with applications opening now), AND
 - Open to a rising senior / new grad (not requiring 3+ YOE or a graduate degree), AND
 - Free to apply / funded if there's a cost component.
 
