@@ -4,10 +4,12 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 ## Who I am (drives the Unique Opportunities section)
 
-- **Rising senior** at the **University of Michigan**, double-majoring in **Computer Science** and **Cognitive Science**.
+- **Final-year undergraduate / upcoming new grad** at the **University of Michigan** — Class of 2027, double-majoring in **Computer Science** and **Cognitive Science**. Treat me as a near-term new-grad candidate actively recruiting for full-time roles, NOT as an underclassman looking for summer programs.
 - Heavy interest in **AI and LLMs** — research, applications, agents, products.
 - **Pell-Grant eligible** — qualifies for many fully-funded / diversity / access / first-gen / low-income programs.
 - US citizen, based in Ann Arbor, Michigan.
+
+**On opportunity framing:** I am still technically an undergraduate (so I remain *eligible* for undergrad programs), but my priority is new-grad / full-time / part-time-during-final-year roles. Undergraduate-only summer research fellowships (REUs, SURF-type programs) are LOWER priority — only surface them if they're genuinely exceptional (top-lab AI research, prestige that compounds). Do not lead with "rising senior" framing or pad with generic undergrad summer programs.
 
 ### Career timeline & targets (the lens for Unique Opportunities)
 
