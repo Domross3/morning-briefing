@@ -2,6 +2,97 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-claudecorps-jobs-4250200009",
+      "title": "Claude Corps Fellow",
+      "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4250200009",
+      "section": "opportunities",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-northslope-technologies-7ccd126f-b127-4526-87f1-57408919c30a",
+      "title": "Forward Deployed Software Engineer, New Grad",
+      "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a",
+      "section": "opportunities",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "hunter:www-zfellows-com",
+      "title": "Z Fellows | Get Fast",
+      "url": "https://www.zfellows.com/",
+      "section": "opportunities",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "section": "github",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "section": "ai",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-dxc-anthropic-alliance",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "section": "ai",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-12882",
+      "title": "Paper page - HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
+      "url": "https://huggingface.co/papers/2606.12882",
+      "section": "ai",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "Hacker News:doug-sh-posts-erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech",
+      "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech",
+      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "section": "tech",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "Hacker News:www-rntz-net-post-my-thesis-html",
+      "title": "Deconstructing Datalog",
+      "url": "https://www.rntz.net/post/my-thesis.html",
+      "section": "tech",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "Hacker News:web-mit-edu-nelsonr-www-repenning-sterman-cmr-su01-pdf",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "section": "tech",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "Hacker News:tombedor-dev-human-attention-and-human-effort",
+      "title": "If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor&#x27;s Blog",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "section": "tech",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiqgfbvv95cuxodmrjb2nieug5cwtoeddxc0forhhvzly2n1brs01mwk5toejadlkyc1ljwgxztm9rqvg3u05yem9vsmfqzeutylzudkfttlj",
+      "title": "2026 Colorado Legislative Session: Progress across clean energy and infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmRJb2NieUg5cWtoeDdXc0FoRHhVZlY2N1BRS01mWk5tOEJadlkyc1lJWGxzTm9rQVg3U05yem9VSmFqZEUtYlZudkFtTlJVNGVxR1N3RklUQWVkS05vbnNaSkRPcFJ3djRmMmliWG5JMHBDSEdPeHB5UE1CNGtqME0xZzZTTnMtLWtLWENyODFJVWpLaUplX3hjQUk0WVZ3X0FkbE9STVhXQQ?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-11"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiwafbvv95cuxqdlq1wfqyzlg5odbxam5sazjzvutenvb4buw0zvfqzkhywjbquhjtswrpme9lq1prcmhidwfcak4xnmllchpptxnuwdzvn1q",
+      "title": "Massive clean energy project caught in legal crosswinds at WA Supreme Court",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlQ1WFQyZlg5ODBXam5sazJZVUtENVB4bUw0ZVFQZkhYWjBQUHJTSWRpME9lQ1pRcmhIdWFCak4xNmlLcHppTXNuWDZVN1QtTk5WY3Z4MDJPcF9BbTg4UzVJb0hkd3FLNlBuYlRfa3VMTkRsZHBvVjRfclJoR0NLMUhIZXIzbjJDQ2VuTU1GR251ZHN1SGFCR0JqbTZ6YTRnRnRmMVdzRlZBc0Y1eG9QTFJZQzhKYUdKZ2RmZm00Tkk?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-06-11"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmigwfbvv95cuxqvvq1rg0tr203cjczohrmaw9fwnz4blnonfrdqvpumdqtalnmenitsuvqruk0q0c3ndnvou11btmzwgfqsnrxz0lssensbul",
       "title": "Demonstration Program: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVQ1RG0tR203cjczOHRmaW9FWnZ4blNoNFRDQVpUMDQtalNMenItSUVQRUk0Q0c3NDNVOU11bTMzWGFQSnRxZ0lSSENSbUlkYlNJSXVXZmtfd0llTm1oYU1aSk95VGlKRllVOEhxRG5MYVNjQlFTV2NUampuWUg0cGpnUQ?oc=5",
@@ -3408,97 +3499,6 @@
       "title": "Why age assurance laws matter for developers",
       "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
       "section": "tech",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "Hacker News:legiscan-com-co-bill-sb051-2026",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "section": "tech",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "Hacker News:www-spacex-com-launches-starship-flight-12",
-      "title": "SpaceX",
-      "url": "https://www.spacex.com/launches/starship-flight-12",
-      "section": "tech",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "Hacker News:dos-zone",
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "section": "tech",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmi1gfbvv95cuxqzndqvfdudkdtadm3sjywvkzmee1wszfwvfitogdidkfvsnrfvjewmnc4dfjmqxjcvmned2eyweszztq3mepvtzl0wlv5ckv",
-      "title": "European Commission Releases Draft Guidelines on High-Risk AI Under the EU AI Act",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZndQVFdUdkdtaDM3SjYwVkZMeE1WSzFwVFItOGdidkFVSnRFVjEwMnc4dFJmQXJCVmNEd2EyWEszZTQ3MEpvTzl0WlV5ckVKSG90UXhKZUVqSVdoOGpjTEV2TUZvbTJLN3ZBV3JIUDZRczRkYWEycWJzX2ZIcDNGUUdCXzNJYWx1UkREUFZfQXZacXoxZU1MWkhfS2NscEQ2QlhYQXFUTEhvcjBwT01ZWnhfM0xXWnloR2g5b2JHZVJKc3ZlZVZyaWQxQk1HQmJfalRyVW13?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiyafbvv95cuxquvn6cwnqajcyevj3ylzucmpynurpau5ltxzwm3zkrvnjqlnzzhpgy1zhelfmvvhrx2dgemzddtntszcwevlpwgdnymo2rfz",
-      "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVN6cWNQajcyeVJ3YlZucmpYNURPaU5LTXZwM3ZKRVNjQlNZZHpGY1ZhelFmVVhRX2dGemZDdTNtSzcweVlPWGdnYmo2RFZHcFhpRUhobjhXSHlvNDV3bjc4ZjdNN0E5bTlJVDg2cDBSbUpGaTZ4S296OF9GVVdKSmhreVhMVTBqejM3SkdaczVvMjBLTVlIQTV0WnNqMVotWHlxUzlBWnNwNmxyNjJpaGxIVTY2SUxOd2dsQlZjZjBWU2xvYzhrYtIBzgFBVV95cUxPbnFwZm9YTW5QSGtpSXNsWTV3WUVQTmxaN2x5b1NOcEI0a013U1FKMTN6YWF3NDNOaFZudThmRWpZUk9tdF9fbzdjRkVGWjh6Wms0LUtHZjVTWGZRQURjdkhLOFVTbjNZR2NwQURCbWtWdkJyeDJVX3VPLXBwOXZQaG9PYXVsNVpZdmg1RV9Kemp3ZjBIX2F6NUJoVmw2TVR5Yi1YOFllZjNjQnNYdkRwcGFCMmVXTW5Qc2FpN0x3ZnhvTEU4dUpIX3g2RVdmQQ?oc=5",
-      "section": "finance",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "github:login?return_to=%2Fcan1357%2Foh-my-pi",
-      "title": "login?return_to=%2Fcan1357%2Foh-my-pi",
-      "url": "https://github.com/login?return_to=%2Fcan1357%2Foh-my-pi",
-      "section": "github",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "github:login?return_to=%2Frmyndharis%2FOpenWA",
-      "title": "login?return_to=%2Frmyndharis%2FOpenWA",
-      "url": "https://github.com/login?return_to=%2Frmyndharis%2FOpenWA",
-      "section": "github",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "github:login?return_to=%2Ftruelockmc%2Fstreambert",
-      "title": "login?return_to=%2Ftruelockmc%2Fstreambert",
-      "url": "https://github.com/login?return_to=%2Ftruelockmc%2Fstreambert",
-      "section": "github",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-widening-conversation-ai",
-      "title": "Widening the conversation on frontier AI",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai",
-      "section": "ai",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-19769",
-      "title": "Paper page - OpenComputer: Verifiable Software Worlds for Computer",
-      "url": "https://huggingface.co/papers/2605.19769",
-      "section": "ai",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-20025",
-      "title": "Paper page - AutoResearchClaw: Self-Reinforcing Autonomous Research with Human",
-      "url": "https://huggingface.co/papers/2605.20025",
-      "section": "ai",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-18703",
-      "title": "Paper page - EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-      "url": "https://huggingface.co/papers/2605.18703",
-      "section": "ai",
-      "sentAt": "2026-05-20"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-11609",
-      "title": "Paper page - Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
-      "url": "https://huggingface.co/papers/2605.11609",
-      "section": "ai",
       "sentAt": "2026-05-20"
     }
   ]
