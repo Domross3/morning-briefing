@@ -95,7 +95,7 @@ export async function collectOpportunities({ userAgent }) {
         .filter((item) => !isCategoricallyExcluded(cleanTitle(item.title)))
         .slice(0, 5)
         .map((item) => {
-          const title = cleanTitle(item.title);
+          const title = stripHtml(cleanTitle(item.title));
           const url = item.link;
           const publisher = extractPublisher(item.description || "");
           const isEurope = EUROPE_HINT.test(title);

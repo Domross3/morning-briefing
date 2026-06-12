@@ -1,6 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 import { fetchText } from "../lib/fetch.js";
-import { sentenceSummary, slugId } from "../lib/text.js";
+import { sentenceSummary, slugId, stripHtml } from "../lib/text.js";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -54,7 +54,7 @@ export async function collectRss({ userAgent }) {
 }
 
 function normalizeFeedItem(item, feed) {
-  const title = item.title?.["#text"] || item.title || "Untitled";
+  const title = stripHtml(String(item.title?.["#text"] || item.title || "Untitled"));
   const link = item.link?.href || item.link || item.guid || feed.url;
   const summary = sentenceSummary(
     item.description || item.summary || item.content || item["content:encoded"] || "",

@@ -53,7 +53,7 @@ export async function collectSearch({ userAgent }) {
         .filter((item) => item && item.title && item.link)
         .slice(0, query.cap)
         .map((item) => {
-          const title = cleanTitle(item.title);
+          const title = stripHtml(cleanTitle(item.title));
           const url = item.link;
           // Google News description structure is "<a>title</a>&nbsp;&nbsp;<font>publisher</font>".
           // Hydration doesn't work on news.google.com URLs (JS interstitial),
