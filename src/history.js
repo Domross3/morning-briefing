@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { significantTokens, titlesAreSameProgram } from "./lib/text.js";
 
 const MAX_HISTORY_ITEMS = 500;
 
@@ -27,8 +28,21 @@ export async function initHistory(historyPath) {
 }
 
 export function applyHistory(items, history) {
-  const seen = new Set(history.sent.map((entry) => entry.key));
-  return items.filter((item) => !seen.has(item.dedupeKey || item.id));
+  const seenKeys = new Set(history.sent.map((entry) => entry.key));
+  // Precompute the significant-token set for each previously-sent item so we
+  // can catch the same program under a different URL/key.
+  const sentTokenSets = history.sent.map((entry) => significantTokens(entry.title || ""));
+
+  return items.filter((item) => {
+    if (seenKeys.has(item.dedupeKey || item.id)) return false;
+    // GitHub repos have stable IDs (github:owner/repo) — pure key dedup is
+    // correct there, and title-dedup risks collapsing distinct repos
+    // (facebook/react vs facebook/react-native). Skip title-dedup for github.
+    if (item.section === "github") return true;
+    const tokens = significantTokens(item.title || "");
+    if (tokens.length < 2) return true;
+    return !sentTokenSets.some((sent) => titlesAreSameProgram(tokens, sent));
+  });
 }
 
 export async function updateHistory(historyPath, history, selected, stamp) {

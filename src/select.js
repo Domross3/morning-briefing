@@ -1,4 +1,5 @@
 import { scoreGitHub } from "./sources/github.js";
+import { significantTokens, titlesAreSameProgram } from "./lib/text.js";
 
 const SECTION_CAPS = {
   opportunities: 6,
@@ -64,9 +65,25 @@ function selectSection(items, section, minScore = -Infinity) {
 
 function dedupe(items) {
   const seen = new Set();
+  // Track significant-token sets of kept non-github items so the same program
+  // can't appear twice in one brief under two sources (e.g. an AI-news mention
+  // and an Opportunities card). Section order (opportunities first) means the
+  // actionable card wins and the news mention is dropped.
+  const keptTokenSets = [];
   return items.filter((item) => {
     const key = item.dedupeKey || item.id || item.url;
     if (seen.has(key)) return false;
+
+    if (item.section !== "github") {
+      const tokens = significantTokens(item.title || "");
+      if (tokens.length >= 2) {
+        if (keptTokenSets.some((kept) => titlesAreSameProgram(tokens, kept))) {
+          return false;
+        }
+        keptTokenSets.push(tokens);
+      }
+    }
+
     seen.add(key);
     return true;
   });
