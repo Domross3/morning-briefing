@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxtfbeofbwqkfwqzjov0m4cw9zm1rptxdtc3fzovotemremulcs0znatvzsvhjd0xtymlux3ltd3uylvrimu5sshfgq0f5rzqwzkp",
+      "title": "Anthropic Opens Applications for 2026 Economics & Policy Fellows Program with Fully Funded AI Research Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEOFBWQkFwQzJOV0M4cW9ZM1RPTXdTc3FzOVotemREMUlCS0ZnaTVZSVhJd0xtYmluX3ltd3UyLVRIMU5sSHFGQ0F5RzQwZkpxS3VBUlFrd29xT2NEeGRpLU4ycFdNdjdrMnMtcFFHLVVXZw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxowgjmenjfemhntxytnjlqdg1jcjhouki2ell0ugzvu3nlafnwqxzfz2ftt1nka3ixowrnoxnlcwz4x0jjrgvln3nwq0xqb0l",
+      "title": "CHT Emerging Voices in AI and Society Fellowship 2026 ($30,000 stipend)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGJmenJFemhNTXYtNjlqdG1JcjhOUkI2ell0UGZVU3NLaFNWQXZfZ2FTT1Nka3IxOWRnOXNlcWZ4X0JJRGVlN3NWQ0xqb0lEUV9EdVlwaE9pOFFILTlvSkNlc3BHQVlCaDhDNGwtTURNQVZJd2pERHBWZm1jbHMtNHlRTEc5TFVpV1U3YmU0NlQ3QnY2X0hENg?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxoefp3x25wr29dutzutvviek1vwnnnylhfsgltu3hsmw5rmkv5mtbfzlpjd2pyzkx1bk5kt05fq1n6blfhrfjnturmbm5pruj",
+      "title": "Unlock Top Opportunities for Educational Funding",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFp3X25WR29DUTZUTVViek1VWnNnYlhFSGlTU3hSMW5RMkV5MTBFZlpJd2pYZkx1bk5kT05FQ1N6blFHRFJnTURmbm5PRUJXdkVHeHBuZzVkVFRFVy1VOXV6c19NNEt1MTkwSzBwcWdJeC1KQkR3M1JlMFZPUGJhaVhlUlpqWjRPNG9jd183cm7SAZYBQVVfeXFMTTVOV05HTUw3SkpkRnJhYTd4cTQxa1hLREpFSDdRRUJUSjJLS2tJVHhtdFp0ZktJWkh1LWdMaEd5Ny00Nk01eXB6NTdzdE1XVnlSTDdDX21Oc1IyUEFodUFuYU1lMGxNUllxSVp3Qms4eW9Xck5fZzI3WTlNcExOQ3B1dVpJR3B6OC10M2xUb3lCVGM1MVd3?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "github:thedaviddias/Front-End-Checklist",
+      "title": "thedaviddias/Front-End-Checklist",
+      "url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "section": "github",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "github:heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "section": "github",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "github:JCodesMore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "section": "github",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "github:lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "section": "github",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "github:Stirling-Tools/Stirling-PDF",
+      "title": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "section": "github",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-17162",
+      "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
+      "url": "https://huggingface.co/papers/2606.17162",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-18847",
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://huggingface.co/papers/2606.18847",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-19534",
+      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2606.19534",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-18829",
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "url": "https://huggingface.co/papers/2606.18829",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-16700",
+      "title": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
+      "url": "https://huggingface.co/papers/2606.16700",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-19651",
+      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+      "url": "https://huggingface.co/papers/2606.19651",
+      "section": "ai",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "Hacker News:manticoresearch-com-blog-manticore-search-27-1-5",
+      "title": "Manticore Search 27.1.5: Authentication, sharded tables, conversational search and faster vector search",
+      "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+      "section": "tech",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "Hacker News:github-com-openai-codex-issues-28224",
+      "title": "Codex SQLite feedback logs can write ~640 TB/year and rapidly consume SSD endurance · Issue #28224 · openai/codex",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "section": "tech",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "Hacker News:www-fca-org-uk-news-press-releases-investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "section": "tech",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "Hacker News:twitter-com-larsanders1620-status-2068208864747540516-m",
+      "title": "Lars Andersen (@LarsAnders1620) on X",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "section": "tech",
+      "sentAt": "2026-06-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmizkfvx3lxte9emmllwg1kslpuu0eynhk5ee51x0zfbwreeeitr01jseu3cw41derqdvlwdxz1zvhsxzzzcwfectfpv2njthlywjdlyvkwuw5",
+      "title": "Trump's shadow AI policy",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EMmllWG1kSlpUU0EyNHk5eE51X0ZFbWREeEItR01jSEU3cW41dERqdVlwdXZ1ZVhSXzZZcWFEcTFpV2NJTHlyWjdlYVkwUW56MkpFbVpOcGZTQUdNdEc2ZUFuNUtRUQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-22"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte96m0mxudflcxzku0fivzaxm2g5cdjmrwtlvmcznjzov2d1ws1pwjfocjrwbdhjswzbr1nrsedfognquudpbxzyulpjmzlnudd",
       "title": "DST INSPIRE Fellowship 2025-26 | Applications Open – Fully Funded Research Opportunity by DST",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96M0MxUDFLcXZKU0FIVzAxM2g5cDJMRWtLVmczNjZOV2d1WS1pWjFOcjRWbDhjSWZBR1NrSEdFOGNQUUdPbXZyUlpjMzlnUDdsWnlxc25JU2lhVTlIeTJtU3ZiTEZGNjZHZG9LYnpJd1NPUHVD0gF6QVVfeXFMUFUxNENNS3FpSUxlaEduOENZVkU1X1NXMVBrOU95YUx4ZFlqTm5aajRzcWhKbi01Ry1PcENyM0k2M1VLOHltdVV5Z3A1Z2o3WG1FRUY1NVRmRzR5LS1rVlpBeS1ZSi1VV3lvS0FsNnFNcWkyMkxEUW44Qmc?oc=5",
@@ -3367,139 +3500,6 @@
       "url": "https://huggingface.co/papers/2605.31584",
       "section": "ai",
       "sentAt": "2026-06-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-31159",
-      "title": "Paper page - Trust-Region Behavior Blending for On",
-      "url": "https://huggingface.co/papers/2605.31159",
-      "section": "ai",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-31264",
-      "title": "Paper page - COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
-      "url": "https://huggingface.co/papers/2605.31264",
-      "section": "ai",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-30993",
-      "title": "Paper page - SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
-      "url": "https://huggingface.co/papers/2605.30993",
-      "section": "ai",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "Hacker News:members-sigmazero-cc-posts-when-ai-crosses-159174096-postid-when-ai-crosses-159174096",
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
-      "section": "tech",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "Hacker News:www-windowslatest-com-2026-06-01-microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra",
-      "title": "Microsoft builds its ultimate MacBook Pro rival with the NVIDIA powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "section": "tech",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "Hacker News:www-theregister-com-ai-ml-2026-06-01-llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way-5248189",
-      "title": "LLMs are closer to religion than they appear. Watch out for those who like it that way",
-      "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
-      "section": "tech",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "Hacker News:kefir-protopopov-lv-posts-announce2-html",
-      "title": "Cessation of public development of Kefir C compiler",
-      "url": "https://kefir.protopopov.lv/posts/announce2.html",
-      "section": "tech",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmidefvx3lxte9zn0jhzjjvcgfqmzjblwpkwmhhs05bty1fdlj1s2t5wnpemxcyb1c4lvlkt3vorle3nw5em19rbg1zetr4uhnhtuhpmdrxcgv",
-      "title": "What Is an AI Bill of Materials?",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZN0JhZjJVcGFqMzJBLWpkWmhhS05BTy1fdlJ1S2t5WnpEMXcyb1c4LVlKT3VORlE3NW5EM19RbG1zeTR4UHNhTUhpMDRXcGVVeGNIZndRejBQOEhMUHA5dHpUU25ETEc4TlB3Q3k3SWtfaG5E?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-01"
-    },
-    {
-      "key": "github:emmabostian/developer-portfolios",
-      "title": "emmabostian/developer-portfolios",
-      "url": "https://github.com/emmabostian/developer-portfolios",
-      "section": "github",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "github:nesquena/hermes-webui",
-      "title": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "section": "github",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "github:nicobailon/pi-subagents",
-      "title": "nicobailon/pi-subagents",
-      "url": "https://github.com/nicobailon/pi-subagents",
-      "section": "github",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "github:D4Vinci/Scrapling",
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "section": "github",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "github:github/docs",
-      "title": "github/docs",
-      "url": "https://github.com/github/docs",
-      "section": "github",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-30161",
-      "title": "Paper page - Why Far Looks Up: Probing Spatial Representation in Vision",
-      "url": "https://huggingface.co/papers/2605.30161",
-      "section": "ai",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-30248",
-      "title": "Paper page - GenClaw: Code",
-      "url": "https://huggingface.co/papers/2605.30248",
-      "section": "ai",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-29250",
-      "title": "Paper page - OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
-      "url": "https://huggingface.co/papers/2605.29250",
-      "section": "ai",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-30260",
-      "title": "Paper page - How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
-      "url": "https://huggingface.co/papers/2605.30260",
-      "section": "ai",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-30010",
-      "title": "Paper page - EarlyTom: Early Token Compression Completes Fast Video Understanding",
-      "url": "https://huggingface.co/papers/2605.30010",
-      "section": "ai",
-      "sentAt": "2026-05-31"
-    },
-    {
-      "key": "Hacker News:www-lucasfcosta-com-blog-backpressure-is-all-you-need",
-      "title": "Backpressure is all you need",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "section": "tech",
-      "sentAt": "2026-05-31"
     }
   ]
 }
