@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqafbvv95cuxqenjotnu0shluqzfoewvuajzrbu1qcg5pmmfptxrjmzdwu01xshjpeu9ju1ituw9jtg9hsmpldvbhsei4ufdbc0nzyjg2zun",
+      "title": "Here's How Much the World's Most Valuable Company Pays Staff, Including Software Engineers and Researchers",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenJoTnU0SHluQzFOeWVuajZrbU1QcG5PMmFPTXRJMzdwU01xSHJPeU9jU1ItUW9JTG9hSmpLdVBhSEI4UFdBc0NzYjg2ZUNHWVk4OEV1OTV4enk0bVMycHktS2FhcHhPZkgtenJ6S3h5blItOWlSSWhQRUhYVVVLM2ItOWFCVVMtWkpMZHpGd3RScUk5d2RMUkxHQklraHF2MGxYMmtmeW4?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "github:simplex-chat/simplex-chat",
+      "title": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "section": "github",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "github:commaai/openpilot",
+      "title": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "section": "github",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "github:grafana/grafana",
+      "title": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "section": "github",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "github:ripienaar/free-for-dev",
+      "title": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "section": "github",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "github:kunchenguid/no-mistakes",
+      "title": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "section": "github",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-26790",
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.26790",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-27377",
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "url": "https://huggingface.co/papers/2606.27377",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-26907",
+      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+      "url": "https://huggingface.co/papers/2606.26907",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-26300",
+      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "url": "https://huggingface.co/papers/2606.26300",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "url": "https://huggingface.co/papers/2606.14397",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-24551",
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2606.24551",
+      "section": "ai",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "Hacker News:akrites-org-letter",
+      "title": "Open Letter",
+      "url": "https://akrites.org/letter/",
+      "section": "tech",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "Hacker News:www-experimental-history-com-p-reading-the-news-is-the-new-smoking",
+      "title": "Reading the news is the new smoking",
+      "url": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+      "section": "tech",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "Hacker News:www-youtube-com-post-ugkxsaiudmqtyc15yqqursgy0kg7o1x2ttnb",
+      "title": "Post from Louis Rossmann",
+      "url": "https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB",
+      "section": "tech",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "Hacker News:github-com-mondaycom-hatcha",
+      "title": "GitHub - mondaycom/HATCHA: CAPTCHA proves you're human. HATCHA proves you're not.",
+      "url": "https://github.com/mondaycom/HATCHA",
+      "section": "tech",
+      "sentAt": "2026-06-26"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmivafbvv95cuxnrgxmaxfhvkj4bljvam9ns2vwqxgtck5svnbmtmdnsfnsueqwnddymwh3b2m3b2pqt1b2t2fcu3dpbdm2avnerlrzntuxmfj",
+      "title": "Open AI IPO delay; SpaceX mulls mobile networks - what’s moving markets",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGxMaXFHVkJ4blJVam9nS2VWQXgtck5sVnBmTmdnSFNSUEQwNDdyMWh3b2M3b2pQT1B2T2FCU3dPbDM2aVNERlRzNTUxMFJGUWlOcVdoVmI4N1hndHphQUdyR1lNTTV0ZlM0LTIzNHNJOWUxamM4b3pnc1VfR3h1ZldNYjBuUmJheGlEZ2NETnZNQzVEa0kyMHpqQV9lUWxhY1hUVWFvUGdKbHRCTlo3cFVOQlJXVDFiVll3cQ?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-26"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte1uazhhog9sttrxetr2dknvqxhkn3p2dji2uuprmk1ebw4zr2exy2mwvep1ntrftg9htvlocudkwee5vjqytkxtzvd2ulfkegn",
       "title": "Apply Now: Chicago Harris Applied Data Fellowship (ADF) 2026 Rolling Applications Open",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uazhhOG9sTTRXeTR2dkNVQXhkN3p2djI2UUpRMk1EbW4zR2ExY2MwVEp1NTRfTG9HTVlocUdKWEE5VjQyTkxTZVd2UlFKeGNqdDJLbi1vWVBhNzZ6NDRWc3ZieTlRZFVuREZsZw?oc=5",
@@ -3381,125 +3500,6 @@
       "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
       "section": "tech",
       "sentAt": "2026-06-05"
-    },
-    {
-      "key": "Hacker News:digital-strategy-ec-europa-eu-en-library-communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "title": "Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "section": "tech",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "Hacker News:github-com-zdk-lowfat",
-      "title": "GitHub - zdk/lowfat: lowfat - slim your command output. strips noise, saves tokens.",
-      "url": "https://github.com/zdk/lowfat",
-      "section": "tech",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmimgfbvv95cuxqafhsnnlusm5pmxfqn3hwz0p6ekxgqujawk02me1cs0lvbgvsdwfmrvrly3libhzuzxrqnklfmvjhvflprnmwcej2nzr5ac1",
-      "title": "Illinois House Speaker on AI Regulation, Bears Stadium Incentives",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFhSNnlUSm5PMXFqN3hwZ0p6ekxGQUJaWk02ME1CS0lVbGVSdWFMRVRLY3lIbHZUZXRQNklfMVJHVFlPRnMwcEJ2NzR5aC1Md0FtS3lWbEhYRGNlNUYzSHVuZFliVVBTRTRuTlJLQkxibDJJd2FrS2U0R3l5TmZXdUVmS1F3UjlQYXptZE52NE8tUWhrdVM2WkZB?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmirgfbvv95cuxnvgfcykzwy0r4ovlrnlfmdujyalnkcxvgz25ovepps2t5n1rmrunuuzblrvvkvflir3hdehzbuul3tnjsoxfna1zilvfpynj",
-      "title": "AI, Regulation, Risk & Resilience: A Life Sciences Leadership Forum – Events",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGFCYkZwY0R4OVlrNlFmdUJyalNkcXVGZ25OVEppS2t5N1RmRUNUUzBlRVVkVFliR3hDeHZBUUl3TnJSOXFNa1ZiLVFPYnJiM3JtQWtDWmVYU0phN21yZHBhM1djeHQ1MUJvbldBX2xTX3BFa1d0UWh3dDBkUmRPZWY0Vmk2eDBGTWlxaTBaMjRjdkNGQ0NCRGM1Qm1VYkFKS0hrc1M5c1l2NTd5QUE?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmitgfbvv95cuxqctfmzwx6ytdlswnadtvodw1lwwxxmc1iwjzdztnbzudmnxdvwgxksmnyvjltzmtqnwczduvxx2lnddh2t0zunudwehvewkr",
-      "title": "How is LFUCG using artificial intelligence? Council will review city's AI policy this week",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTFMZWx6YTdLSWNadTVOdW1LWWxXMC1IWjZDZTNBZUdMNXdVWGxkSmNyVjltZmtqNWczdUVXX2lNdDh2T0ZUNUdWeHVEWkR5UGFNQVVGWUhERXhWY1dnT2hnSmdJVHE4Q3dwZHVIT1VtbExodHJjVlZjY1dENVVWT0p6X0cybmo1SWpSNDN6cWdXeUI1Ym9VaThHMmpsaWI5R3pSTDRNRHNfUUtuUkJnbHc2NzZqQQ?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmisafbvv95cuxolwldwtg1uktdafcyr0pfn0ftdkznwfllzmxrudgzmmjdejc1rkywnetst1f5mlf1rdhtv3vrwljgmtm2mlmwmlu5rkphug1",
-      "title": "Making Sense Of The AI IPO Tsunami Heading For Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWlDWTg1UktDaFcyR0pFN0FtdkZnWFlLZmxRUDgzMmJDejc1RkYwNEtsT1F5MlF1RDhTV3VrWlJGMTM2MlMwMlU5RkphUG1ZczR6cFgyYWV4VG5YUzg5NnpyT3J1ODNhNHVsY215bUttQXJvZkVpaVpDUEpKRWFKZGtOSHhlc2hya1RrdjEydVpKVmpUeWNRckc5dXBnWDBaZmtLZEdOdEdyYnlfYzFaQw?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiuwfbvv95cuxoenm1a2f4vmtbzdrfzdbzajjvzknlwvvneeu2res4evrzuhvtmk9leuk3smfrtwzyyuvyrurhegdanueya2lumkz1ns1owtr",
-      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOenM1a2F4VmtBZDRFZDBzajJvZkNlWVVNeEU2REs4eVRZUHVTMk9LeUk3SmFRTWZyYUVYRURheGdaNUEya2lUMkZ1NS1OWTRQWGx0UVVRdHZVUjdDMTZjOUEtMHdfcHNTZ1IxX1lNQ2YtSzByazJxbzJWZkNsWmF2YVFodzVkVThNemRRVHVlV2hKTG1TMjU1NVkyZjFSbC1wY1dLZnFsWlluZGpZdEcxeHhuanhyYmNhSmcw?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmib0fvx3lxte9jb2drr3nlrjm2u0rjrknjbgy3etbjwnm1ythhnwo5dg94awnock9wm2temhfzz3jrwvpobtfioxnkddfheuvkwwfsvhlwuk1",
-      "title": "The Sorry State of Carbon Removal",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jb2drR3NlRjM2U0RjRkNJbGY3eTBjWnM1YThhNWo5dG94aWNock9WM2tEMHFzZ3JRWVpObTFIOXNkdDFHeUVKWWFSVHlwUk1zUGVMZkFnY3BKQ2dxbzJLR19icGlzdnptN2xheTJOOA?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmikwfbvv95cuxqewlcodvzvwnfq1lpmgn5bmvtbkvqrxyxzknoqlvnzzhasnkzm0o5s1dis0tmyuxuqjzfu3hqm2juzevuzeldegrgas1rb0z",
-      "title": "China wasted clean energy, leading to higher CO2 — analysis",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWlCODVzVWNFQ1lpMGN5bmVtbkVQRXYxZkNOQlVnZzhaSnkzM0o5S1dIS0tmYUxUQjZfU3hQM2JUZEVuZElDeGRGaS1rb0Zhb1FORHNUYzR6bFEzTGNYZXFPM01KaDVJWDJ0VTFsSk8xeS1qdU5QdURwZW9sZEtoRG9SMDZsRUk5T0ZtYWVNRlZqMW8?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizafbvv95cuxnsjhgyzrcb3nocwdwzey0s21ewvhlrgpem0xgdlvkrkkxwkp3vkmwvhnynkq0czhjoey3zwjuc1hrsulud1c4nmdjzgritm8",
-      "title": "DT Next Campus | Applications open for Adobe India AI Research Fellowship; here is how you can apply",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjhGYzRCb3NOcWdwZEY0S21EWVhlRGpEM0xGdlVKRkkxWkp3VkMwVHNYNkQ0czhjOEY3ZWJuc1hRSUlUd1c4NmdJZGRiTm85d01rRWVfVGJoWnRqd1FQOVB5U2loWllhSkxPYnIzeEFPSWhkMXlyclR1YWdMS1FlUnRucU9GVUtlMkh3MzhLMzFpa1oxQzN4Und1c3VJZm12RFBZeWZXZm9QcXh4MUVobmxGa0tvbHVvUGJRQjh5NmlULUVkbEtPY1Y0R3nSAdoBQVVfeXFMTkVsLThCdS02WHpGMDdTWVg3eXBGRnhwWFRXWFNaM21oTHJkY1k0dm5KZGVHcFh0QWY0Skh0SFRHcTJpMUlhanBOVkwwU0oxQkYtcUZsaUE4RElPTnl5OGlxZ2tXeDI5YmV6bDNZZXpuWFVaMXAzQkJFZ2FvZ1BEclhMQml0ZjdZcndiTVA0UEVMYVZPdnZFR1ZBbEZUMGRESzVWRDdzMzZrbjhNNnFiVFlJV29vOXV5REk1MDhVbnBUX1dwZTNYUktGUnpHV0tRbHBJN1FwdEFvUGc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilwfbvv95cuxqu2xlumvrnkiycnvrzmhwq3zevddsmklhtjawlxduzk1jqvnjvwtzn0rxddnvvfrxcm03nutlzktlmxuxcjd6dmv4skfimi1",
-      "title": "Applications open for Travel Grant Program (New Zealand)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2xLUmVRNkIycnVRZmhWQ3ZEVDdSMklHTjAwLXdUZk1JQVNJVWtzN0RXdDNVVFRxcm03NUtlZktLMXUxcjd6dmV4SkFiMi1fX2NZbXpiQ3RqVnloX1J4QWNUdVNZelpZSl91NHVpMjlwbWk4a1UxRnloQ0VBOVo4dV92M3lhUFVGS3FPVGU1SVVNVWVqLWk40gGcAUFVX3lxTFBQVVVHY2pacWNEYWhJR2hKd2UySDdVaFdjTnNaa2NNY08zcDM2Vm1zRS0tcV80dk4wMDFuLVU3RV9iczZpM2doNFB1TUNXNDhydkM3Q1JYU3NQRHE5S0Q0YW11bXhaZDE5alVkQnV5bmx2bndmOVpybjZTNVB6cWNBZlJOcHY0QkJ4TTBlYS12T21wZlpNejhpYXd0RA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxte9jazvjww5lu293bhezymvjwkdmmhhln0rgrdjgnlnrbuthmgnptxhvxzg1dmewblpquuzjy09ib0p2ujlbeddjzm1qohbic0z",
-      "title": "AAAI-25 Undergraduate Consortium: Call for Participation - AAAI - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JazVjWW5LU293bHEzYmVJWkdmMHhLN0RGRDJGNlNRbUtHMGNpTXhvXzg1dmEwblpqUUZjY09ib0p2UjlBeDdjZm1QOHBic0ZFd1V1by16SUtuUDdldWxlSEJLWGxHOTcx?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmisafbvv95cuxoyu4zukxrruhxshlnrgg1tnctz0f6edhvq28xems2avdgqy13vjrfls1qzuptnljqz0vfvs1ackjicnrvrtrlzdvinkhswfb",
-      "title": "100% Fully Funded Scholarships in Germany for Indian Students",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYU4zUkxRRUhxSHlNRGg1TnctZ0F6eDhvQ28xems2aVdGQy13VjRfLS1QZUpTNlJQZ0VFVS1ackJicnRvRTRLZDVINkhsWFBrRk5jd1V3WWNkSGNxUzhVZ1kyNmFRZm1PVFRTd1p4OVBla1FnXzBYak41TDYteFV2eVVGMGFnX1hsX1VMbE1xR19HOGhsY0ZQYTV5QnNLdFZYdW9Ic1oxTEFKY0RGRzJxLQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "github:PaddlePaddle/PaddleOCR",
-      "title": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "section": "github",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "github:mvanhorn/last30days-skill",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "section": "github",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "github:github/copilot-sdk",
-      "title": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "section": "github",
-      "sentAt": "2026-06-04"
-    },
-    {
-      "key": "github:github/spec-kit",
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "section": "github",
-      "sentAt": "2026-06-04"
     }
   ]
 }
