@@ -2,6 +2,90 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmilwfbvv95cuxqzw5msi1vwmnfytc1wulatw1aykp3czb6y242mzvbdfjodfr6qvnjmjq3wwfptwi0bzbvyvpjatluni1gdhdidus3vzddm1d",
+      "title": "Applications Open for Fully Funded Techpreneur Bootcamp Batch 2",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZW5MSi1vWmNfYTc1WUlaTW1aYkp3czB6Y242MzVBdFJOdFR6QVNJMjQ3WWFPTWI0bzBVYVpjaTluNi1GdHdidUs3VzdDM1dneF9IcVByVEpkQlg2WkNmcTlIMFQtRmlodG5lRGNWSGlhTVF2dVJ6d25GM085ZGlLZVlRTlpEZk5XcEdNN2M1WVMwbkE1TUJn?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxouzlfvkx3ugfwnunaqjlxrlp5zepyr2d3bfplrg5cwwgtzs05adbfdmg4z1nqrdk2s0vkmjletnlaoe5hs3ppbhe5n1hlrxl",
+      "title": "AI Skills Command a Premium as Talent Shortage Deepens",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzlfVkx3UGFWNUNaQjlxRlp5ZEpyR2d3bFpLRG5CWWgtZS05aDBfdmg4Z1NQRDk2S0VkMjlETnlaOE5hS3ppbHE5N1hLRXlfdXI1N2xmdUxzVGdtZnBGM1ZRbk1pZTllSDUtVDdjdWlBYWRuMzA3VHJib0pfY25YNmJxNmduWUxDbkZIMXVINFJiRGc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "github:HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "section": "github",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "github:browser-use/video-use",
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "section": "github",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "github:altic-dev/FluidVoice",
+      "title": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "section": "github",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "github:cupy/cupy",
+      "title": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "section": "github",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "github:ByteByteGoHq/system-design-101",
+      "title": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "section": "github",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "Hacker News:github-com-itsthelore-wayfinder-router",
+      "title": "GitHub - itsthelore/wayfinder-router: Simple CLI tool for deterministic routing of queries between local and hosted LLM models",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "section": "tech",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "Hacker News:www-eff-org-deeplinks-2026-06-kids-act-would-require-age-checks-get-online",
+      "title": "The KIDS Act Would Require Age Checks To Get Online",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "section": "tech",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "Hacker News:www-cbc-ca-radio-ideas-humboldt-education-system-bildung-1-7172093",
+      "title": "How the origins of the school system aimed to produce independent, critical thinkers",
+      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "section": "tech",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "Hacker News:github-com-openai-codex-issues-2847",
+      "title": "A way to exclude sensitive files · Issue #2847 · openai/codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "section": "tech",
+      "sentAt": "2026-06-28"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijgfbvv95cuxoofd0bgltx1dovmfyctmtmk1qem1ftmpdsexgbhjsazjrvlhud3jroxnzqmpleec5lw1zr0vpn2jfu0v1nzhsn1n5oe0xagi",
+      "title": "From governance to execution in federal AI policy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFd0bGltX1dOVmFYcTMtMk1Qem1FTmpDSExGbHJSazJRVlhUd3JROXNzQmpleEc5LW1ZR0VpN2JFU0V1NzhSN1N5OE0xaGIxZFZQRlgyVjEwM2hmNXpXSjVhSzdnWW01VzdXT3lfSFc4UEZtX3Y5R3RNa0NmYmY3TlZXYkM4WVhwcEt6VkhR?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-06-28"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte5muvdrn21gbul6zkjxzkxwdxnqegk2ynpkcjvhsm1wdxvuuhbysu9xzljatejhsupxmgzhtgx6vg90d3c0dlhsuvvsql9rtjg",
       "title": "Vals AI Fellowship 2026 (up to $2,500 stipend)",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MUVdRN21GbUl6ZkJxZkxWdXNqeGk2YnpkcjVhSm1WdXVuUHBYSU9xZlJaTEJhSUpXMGZHTGx6VG90d3c0dlhsUVVsQl9RTjg2UXA4ak52ZUNWYkRsakhQbTBsZkh0WmlqVUJTMkxmdGU?oc=5",
@@ -3416,90 +3500,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamg2U25XZGdQeVp4azZoQmhGaVoxbnVjVF9xdEV6SDZxd2h4ZFBtaWQ0bFVMNDZBOXJVTHZ5OGp0Wk0zc29FOHRuOFlEZTV1WTdZRC1UaHBIMWJDWXFMb29NeG5vM1N5OVJtYjZfX2lwTlM1X25rb05uejk0b3hEUVVXQmg2NEQ0d1FLOXNQWENiVlhMOVhBS3NRbC11VmVXTmJVRG0xbkJ2OTN4Y0xyUjF3VVNyX09w?oc=5",
       "section": "legislation",
       "sentAt": "2026-06-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxtfbbzg9ntv83nl82ruthr1rsylztwfdqz2vuqmfbwu1rskjrwxzvcnpsenq0dxhjmy14owfioerty2zxoxdgbhu4uwpoagdrwei",
-      "title": "The Catalysis Society of South Africa (CATSA) Opens 2026 International Student Travel Grant for MSc and PhD Catalysis Researchers",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZG9NTV83Nl82RUthR1RSYlZtWFdqZ2VuQmFBWU1RSkJrWXZVcnpsenQ0dXhjMy14OWFIOERTY2ZXOXdGbHU4UWpOaGdrWEI5N1dvTmxFTlBmSzV2TWg2OUMza2lUZXI0amc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxtfbmr18wvvbuyxfqntrnrepqmgdythvxvzbhtmdqcwvrzvyydkpxv1r1we5hvhdxtwpiclfnzlnkntvkrzytewtfdhpwrthzwjm",
-      "title": "Study in Norway 2026–2027 Without IELTS: Fully Funded Scholarship Opportunities for International Students",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR18wVVBuYXFqNTRNREpqMGdyTHVXVzBHTmdqcWVRZVYydkpXV1R1WE5hVHdxTWpiclFnZlNkNTVKRzYteWtfdHpWRThZWjMzMEFGNDgxRGMwMmplMnEwUk0tWFB0LXJ1QWFB?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "github:danielmiessler/Personal_AI_Infrastructure",
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "section": "github",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "github:sveltejs/svelte",
-      "title": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "section": "github",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "github:nginx/nginx",
-      "title": "nginx/nginx",
-      "url": "https://github.com/nginx/nginx",
-      "section": "github",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "github:golang/go",
-      "title": "golang/go",
-      "url": "https://github.com/golang/go",
-      "section": "github",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "github:openai/whisper",
-      "title": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "section": "github",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-making-claude-a-chemist",
-      "title": "Making Claude a chemist",
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "section": "ai",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-election-safeguards-update",
-      "title": "An update on our election safeguards",
-      "url": "https://www.anthropic.com/news/election-safeguards-update",
-      "section": "ai",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "Hacker News:engelsbergideas-com-notebook-the-new-bibliomaniacs",
-      "title": "The new bibliomaniacs",
-      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "section": "tech",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "Hacker News:www-ycombinator-com-companies-mbodi-ai-jobs-wyacnkx-founding-machine-learning-engineer",
-      "title": "Founding Machine Learning Engineer at Mbodi AI",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "section": "tech",
-      "sentAt": "2026-06-06"
-    },
-    {
-      "key": "Hacker News:techcrunch-com-2026-06-05-google-will-pay-spacex-920m-per-month-for-compute",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "section": "tech",
-      "sentAt": "2026-06-06"
     }
   ]
 }
