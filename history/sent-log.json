@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmingfbvv95cuxncwp3s3c3euptevlboepinjltm1r0etvrqvk4cwfxwtiwvf9hzgfinwdrvg9engcwwtlnmtz0nlbati0wlwngzlk0dxjvotb",
+      "title": "Call for Applications: CRP Research Fellowship Programme",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWp3S3c3eUpteVlBOEpiNjlTM1R0eTVrQVk4cWFXWTIwVF9hZGFiNWdrVG9ENGcwWTlNMTZ0NlBaTi0wLWNGZlk0dXJvOTBHVVJHYWJiaUJ1S3hUdV9rNnAxS0FaNUI0Nk5EY0d0TDBCV0t4Sk1fSHAyd2hQRTNUWWtHTlVYLXNJclhVMmdHamJ1d3FDdHdYdF9WNERid9IBowFBVV95cUxQWGZTT0JoX0VJUlkzMVJFdmk4TS1tQy1jdmp0eUR6MmdjVzdVZ2IxU0FiUl9MNkxQSDVrOFBrYzZRbTdnX3Buako4UzFjTWlQT19CZzMwdi1mUElDWVpiZXFZMWpCbFEydVNEbndudUhhRFZxZk1PaTMtZzZGc21zTmh0RTNwUUpMMTVoMllVay1oc3NnTmpDMnR2S3JzRl9UbmRJ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte9xtkowrgrurdlozu9veu4yaefsexe2aw4zlxzinvboqndpymhmv2rvowncywpgcms5wjbzlum5azbatuvncw9kodj2bwxrzw1",
+      "title": "Harvard Business School Announces 2026 Rock Venture Catalyst Cohort",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTkowRGRuRDlOZU9VeU4yaEFseXE2aW4zLXZiNVBOQndPYmhmV2RVOWNCYWpGcms5WjBZLUM5azBaTUVncW9kODJ2bWxrZW14V29EWndGSHNMMTVRS1pmVElTSllMblhmRFRnaA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "github:google/agents-cli",
+      "title": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "section": "github",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "github:diegosouzapw/OmniRoute",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "section": "github",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "github:ogulcancelik/herdr",
+      "title": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "section": "github",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "github:facebook/astryx",
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "section": "github",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "github:usestrix/strix",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "section": "github",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-28733",
+      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "url": "https://huggingface.co/papers/2606.28733",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-30616",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://huggingface.co/papers/2606.30616",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "url": "https://huggingface.co/papers/2606.28480",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-30410",
+      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
+      "url": "https://huggingface.co/papers/2606.30410",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-24256",
+      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
+      "url": "https://huggingface.co/papers/2606.24256",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-24143",
+      "title": "AsyncOPD: How Stale Can On-Policy Distillation Be?",
+      "url": "https://huggingface.co/papers/2606.24143",
+      "section": "ai",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "Hacker News:antaresindustries-com-updates-antares-achieves-criticality",
+      "title": "Antares",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "section": "tech",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "Hacker News:arstechnica-com-gadgets-2026-06-sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy",
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "section": "tech",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "Hacker News:cekrem-github-io-posts-parse-dont-validate-typescript",
+      "title": "Parse, Don",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "section": "tech",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "Hacker News:waag-org-en-article-european-digital-id-wallets-are-gift-google-and-apple",
+      "title": "Waag | European digital ID wallets are a gift to Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "section": "tech",
+      "sentAt": "2026-06-30"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiswfbvv95cuxnsu9qyk92b0q2culazfdtwgvhvxnwduzvakpheepiyi1vmfdytelkblfxaexaakj2bxa1rtaxtnq3mzzgtfgytdnrvzzhvlv",
+      "title": "AI IPO Wealth Seen Bolstering Luxury Industry Hurt by Iran War",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSU9qYk92b0Q2cUlaZFdtWGVHVXNwdUZvakpHeEpIYi1VMFdyTElkblFxaExaakJ2bXA1RTAxTnQ3MzZGTFgyTDNrVzZhVlVaaUp5MVJGQngzZkc5VENQdjg0SmZlVmVhWGZRLVdLU0w0S1pNaVhiNGEwQ3dkSWdtWXZrNVdYYjRhYXlfM2hLR3hkTTlWZzA4Q21lTXpyQzJMbUdibGJTMnBpT0FYTk9ZTG5EQQ?oc=5",
+      "section": "finance",
+      "sentAt": "2026-06-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiggfbvv95cuxozkxpwdz5mk83m2pzsgt4zjutbzvcenbsmuzva214empqdljzq1u2wdgzvg1ibvy2nfvsr3rgb0nltwlyc1v0tzrwa3pbrxr",
       "title": "Johns Hopkins School of Government and Policy (SGP) AI Fellowship Program 2026",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkxPWDZ5Mk83M2pzSGt4ZjUtbzVCenBsMUZva214empqdlJzQ1U2WDgzVG1IbVY2NFVSR3RGb0NLTWlYc1V0TzRWa3pBRXRrSXAtNmEyVTMwYmNkQzg2SV9OeFkxdVlNd2h6Uk56eElfeFRwLW9mRGxjaTB6TVBJclJ3?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://huggingface.co/papers/2606.04525",
       "section": "ai",
       "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-07502",
-      "title": "Paper page - Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-      "url": "https://huggingface.co/papers/2606.07502",
-      "section": "ai",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-07229",
-      "title": "Paper page - MMAE: A Massive Multitask Audio Editing Benchmark",
-      "url": "https://huggingface.co/papers/2606.07229",
-      "section": "ai",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-05563",
-      "title": "Paper page - SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio",
-      "url": "https://huggingface.co/papers/2606.05563",
-      "section": "ai",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "Hacker News:blogs-nvidia-com-blog-nvidia-and-lg-group-ai-factory",
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "section": "tech",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "Hacker News:github-com-boringcollege-zig-by-example",
-      "title": "GitHub - boringcollege/zig-by-example: Zig by example",
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "section": "tech",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "Hacker News:handson-money-blog-2026-06-06-horse-arse-and-design",
-      "title": "Horse arses, thumbs and data design of GnuCash",
-      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-      "section": "tech",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "Hacker News:www-bbc-com-worklife-article-20260520-how-social-media-ceased-to-be-social",
-      "title": "Anti-social: It&#x27;s fads, not friends, which now dominate our feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "section": "tech",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmieefvx3lxte9mtghjel81eunqb2k0rln2tuo3c2zolvhtvnz2zkl1y0q2dnjnmf83snlqaknpa0dqwdz2odluazblmgjuy1uzs1jhbkm2wkt",
-      "title": "The EU Artificial Intelligence Act: A tl;dr",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTGhjel81eUNqb2k0RlN2TUo3c2ZoLVhTVnZ2Zkl1Y0Q2dnJnMF83SnlQakNpa0dqWDZ2ODluazBLMGJuY1UzS1JhbkM2Wkt1ZlNjampXVjB5WXpRWHVnVnlNaUtZdkRIem5aWk93a1NLWG9JSExkVg?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "Hacker News:www-ycombinator-com-companies-proliferate-jobs-l3copvk-founding-engineer",
-      "title": "Founding Engineer at Proliferate",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "section": "tech",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "Hacker News:www-bbc-com-news-articles-c8e8e7g0r82o",
-      "title": "Stop Killing Games: The fight over who owns the games you buy",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
-      "section": "tech",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "Hacker News:andys-blog-the-best-relationships",
-      "title": "The best relationships",
-      "url": "https://andys.blog/the-best-relationships/",
-      "section": "tech",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "github:HunxByts/GhostTrack",
-      "title": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "section": "github",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "github:RyanCodrai/turbovec",
-      "title": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "section": "github",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "github:openai/plugins",
-      "title": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "section": "github",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "github:microsoft/pg_durable",
-      "title": "microsoft/pg_durable",
-      "url": "https://github.com/microsoft/pg_durable",
-      "section": "github",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "Hacker News:jamanetwork-com-journals-jamanetworkopen-fullarticle-2849122",
-      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
-      "section": "tech",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "Hacker News:leoveanu-com-2026-06-06-qwen3-7max",
-      "title": "The OnlyFans Economy of American AI",
-      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-      "section": "tech",
-      "sentAt": "2026-06-07"
-    },
-    {
-      "key": "Hacker News:blog-podman-io-2025-10-podman-6-machine-usability-improvements",
-      "title": "Podman 6: machine usability improvements",
-      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-      "section": "tech",
-      "sentAt": "2026-06-07"
     }
   ]
 }
