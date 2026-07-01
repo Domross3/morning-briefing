@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiz0fvx3lxtfbrqudnazrisvu3qmoxdmixrc1tqlncrjdibfzray1enfjloddjal9nufjfdk1dmf9nzwjlvli3sejksg5jwkrua1k2sk5hwwv",
+      "title": "AWS just put $1 billion into forward deployed engineers. Here's why it matters for enterprise teams.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRQUdnazRiSVU3QmoxdmIxRC1tQlNCRjdIbFZRay1ENFJlODdJal9NUFJFdk1DMF9NZWJlVlI3SEJKSG5JWkRUa1k2Sk5hWWVMV0U4TTFYUllYRzlsWExpbVlfMTU2SUU?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxpmelhwtm1qnfduwvqrtjgeha0au9mr1r2n2u3auzsald4dzlkzediswznlvhizgvcuvcyytizzgnjnhnqqmdpstrrcdrmvuy",
+      "title": "Diameter Capital never hired college grads before. AI natives have changed that.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMElhWTM1QnFDUWVQRTJGeHA0aU9MR1R2N2U3aUZsald4dzlkZEdISWZNLVhiZGVCUVcyYTIzZGNjNHNQQmdpSTRRcDRMVUYyMjVSWDdmb1ZoOXFEVVFHMVR4c1V4ejhlNS1Mbi1keE5wU0lZVjhTWk85VjJWVjNwUlVHUW9CZjNoUW9Wc1ducl9SdEJfYkVtTHBYa1BwWUk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "github:allenai/olmocr",
+      "title": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "section": "github",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "github:0xNyk/council-of-high-intelligence",
+      "title": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "section": "github",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "github:microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "section": "github",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "github:refactoringhq/tolaria",
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "section": "github",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "github:hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "section": "github",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-genebench-pro",
+      "title": "Introducing GeneBench",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-redeploying-fable-5",
+      "title": "Redeploying Claude Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-28436",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "url": "https://huggingface.co/papers/2606.28436",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-30626",
+      "title": "DOPD: Dual On-policy Distillation",
+      "url": "https://huggingface.co/papers/2606.30626",
+      "section": "ai",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "Hacker News:www-reuters-com-business-swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01",
+      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
+      "section": "tech",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "Hacker News:blog-playstation-com-2026-07-01-physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles",
+      "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "section": "tech",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "Hacker News:cmarmitage-substack-com-p-the-dc-bar-is-refusing-to-investigate",
+      "title": "The DC Bar Is Refusing to Investigate Chief Justice Roberts over a $10M Scandal",
+      "url": "https://cmarmitage.substack.com/p/the-dc-bar-is-refusing-to-investigate",
+      "section": "tech",
+      "sentAt": "2026-07-01"
+    },
+    {
+      "key": "Hacker News:mynintendonews-com-2026-06-26-nintendo-has-raised-its-employees-base-salary-by-10",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "section": "tech",
+      "sentAt": "2026-07-01"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmingfbvv95cuxncwp3s3c3euptevlboepinjltm1r0etvrqvk4cwfxwtiwvf9hzgfinwdrvg9engcwwtlnmtz0nlbati0wlwngzlk0dxjvotb",
       "title": "Call for Applications: CRP Research Fellowship Programme",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWp3S3c3eUpteVlBOEpiNjlTM1R0eTVrQVk4cWFXWTIwVF9hZGFiNWdrVG9ENGcwWTlNMTZ0NlBaTi0wLWNGZlk0dXJvOTBHVVJHYWJiaUJ1S3hUdV9rNnAxS0FaNUI0Nk5EY0d0TDBCV0t4Sk1fSHAyd2hQRTNUWWtHTlVYLXNJclhVMmdHamJ1d3FDdHdYdF9WNERid9IBowFBVV95cUxQWGZTT0JoX0VJUlkzMVJFdmk4TS1tQy1jdmp0eUR6MmdjVzdVZ2IxU0FiUl9MNkxQSDVrOFBrYzZRbTdnX3Buako4UzFjTWlQT19CZzMwdi1mUElDWVpiZXFZMWpCbFEydVNEbndudUhhRFZxZk1PaTMtZzZGc21zTmh0RTNwUUpMMTVoMllVay1oc3NnTmpDMnR2S3JzRl9UbmRJ?oc=5",
@@ -3381,125 +3500,6 @@
       "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "section": "ai",
       "sentAt": "2026-06-09"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-07297",
-      "title": "Paper page - SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
-      "url": "https://huggingface.co/papers/2606.07297",
-      "section": "ai",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-07082",
-      "title": "Paper page - On the Geometry of On",
-      "url": "https://huggingface.co/papers/2606.07082",
-      "section": "ai",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-09828",
-      "title": "Paper page - Latent Spatial Memory for Video World Models",
-      "url": "https://huggingface.co/papers/2606.09828",
-      "section": "ai",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "Hacker News:techcrunch-com-2026-06-08-microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "section": "tech",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "Hacker News:www-codingwithjesse-com-blog-rockstar-developers",
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "section": "tech",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "Hacker News:www-ycombinator-com-companies-emerge-career-jobs-v0s1aeg-founding-growth-marketer",
-      "title": "Founding Growth Marketer at Emerge Career",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
-      "section": "tech",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "Hacker News:staniks-github-io-articles-catlantean-3d-blog-1",
-      "title": "Catlantean 3D",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "section": "tech",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmioafbvv95cuxqaxdhazhjv2ptuxatrnfwekvneujqvk9us2d6vjqwy01mluzvbhbma3pxtux6m2fvvtlovvhrbwlzszhft241m0d6ckexaev",
-      "title": "Wall Street Is About To Test AI's Trillion-Dollar Valuations",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXdHazhJV2pTUXAtRnFwekVneUJQVk9US2d6VjQwY01mLUZvbHBma3pXTUx6M2FvVTloVVhrbWlZSzhfT241M0d6ckExaEVSazJVRlRoeHlEMk9ia09ESEl0NllCTklObEh4ZEJtOGhoS2JHX2dPQkF6dVJFRV85RTBFVkdoZXJZRzQ1Z0c1TmtLZEV3ck1IbXNWRlhZT29X?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxte1da29vvjl6emp3qnvrnm1ktvlybndnzzk3qlpzavplb2zdbzjjamlzyuutc1lkz3oxswtsrlzmwuhjm1hzejluotjlzwjgtuu",
-      "title": "Apply for the UC Berkeley CHAI Research Fellowship 2026: Fully Funded AI Research Opportunity with Visa Sponsorship in the United States",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Da29VVjl6emp3QnVrNm1kTVlYbndnZzk3QlpZaVpLb2ZDbzJJamlZYUUtc1lKZ3oxSWtSRlZmWUhJM1hZejluOTJlZWJGTUUweWtWVjF5Q3JGeGtFUkRMdkEtbVZtTHhMejc4?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "github:Andyyyy64/whichllm",
-      "title": "Andyyyy64/whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "section": "github",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "github:google/skills",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "section": "github",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "github:phuryn/pm-skills",
-      "title": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "section": "github",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "github:luongnv89/claude-howto",
-      "title": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "section": "github",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "github:roboflow/supervision",
-      "title": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "section": "github",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-05761",
-      "title": "Paper page - SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long",
-      "url": "https://huggingface.co/papers/2606.05761",
-      "section": "ai",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-05806",
-      "title": "Paper page - When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
-      "url": "https://huggingface.co/papers/2606.05806",
-      "section": "ai",
-      "sentAt": "2026-06-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-04525",
-      "title": "Paper page - GENEB: Why Genomic Models Are Hard to Compare",
-      "url": "https://huggingface.co/papers/2606.04525",
-      "section": "ai",
-      "sentAt": "2026-06-08"
     }
   ]
 }
