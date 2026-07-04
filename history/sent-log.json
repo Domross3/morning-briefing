@@ -2,6 +2,125 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte84ddctt29mbujivtriqxdlchdhdkrldjrvzvjpn2hgetlxcdrkww0ymnhavkpoevzhrjg1qk1nrgxetue3ene4rxbkqw5mwxr",
+      "title": "Horizon Launches AI Rapid Response Fellowship to Strengthen U.S. Government AI Security Capacity - Apply By 22 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dDctT29mbUJIVTRIQXdlcHdhdkRldjRVZVJpN2hGeTlxcDRkWW0yMnhaVkpOeVZHRjg1Qk1nRGxETUE3enE4RXBkQW5MWXRxalhtNF8tNExBNTlLTFR3bmNVcTJ6ZVhnVzd0UnlTRHBEaW9XbkE?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "github:langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "section": "github",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "github:NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "section": "github",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "github:open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "section": "github",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "github:shareAI-lab/learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "section": "github",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "github:Zackriya-Solutions/meetily",
+      "title": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "section": "github",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-30562",
+      "title": "Morphing into Hybrid Attention Models",
+      "url": "https://huggingface.co/papers/2606.30562",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-01647",
+      "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
+      "url": "https://huggingface.co/papers/2607.01647",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-01874",
+      "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
+      "url": "https://huggingface.co/papers/2607.01874",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-02512",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://huggingface.co/papers/2607.02512",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-01642",
+      "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
+      "url": "https://huggingface.co/papers/2607.01642",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-02517",
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "url": "https://huggingface.co/papers/2607.02517",
+      "section": "ai",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "Hacker News:danluu-com-ai-coding-appendix-agentic-loops-and-writing-this-post",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "section": "tech",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "Hacker News:soatok-blog-2026-06-30-soatoks-informal-guide-to-threat-models",
+      "title": "Soatok’s Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "section": "tech",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "Hacker News:www-quantamagazine-org-astrophysicists-puzzle-over-webbs-new-universe-20260702",
+      "title": "Astrophysicists Puzzle Over Webb’s New Universe",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "section": "tech",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "Hacker News:blog-mikebowler-ca-2026-07-03-co2-and-decision-making",
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "section": "tech",
+      "sentAt": "2026-07-04"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmitwfbvv95cuxqdwv5tthxzwf2vkdimzztb2gxzhqyzfq5rgxus0xfcw1mwdrrzws0t3hsajrfulvoq09ac0jvoe9tywz1yxjucettv0lgq3j",
+      "title": "Kuaishou files for US$3 billion Kling AI funding round in Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWV5TThXZWF2VkdiMzZTb2gxZHQyZFQ5RGxuS0xFcW1mWDRRZWs0T3hsajRfUlVoQ09ac0JvOE9TYWZ1YXJucEtTV0lGQ3JVLTBFREZnRmN0d1p2NDY5cG1yazNnbGxNeFhud0kzUXhORW5qdUZ1M2NndUhsMkk5cHV4UDZnTmlXNTFOVlJuZ0wtbTc5WGs0TEdIVVlHY2RtQXF1d3RPRnB3bGN1OUNLZ0RvTTJuRE3SAbcBQVVfeXFMTmZPdVZtX2M0aUpydmNDWmFLRm56cFJYQ3JWbGxFaU9zUEQxaUpOQlRDN0VFTEhPZkpoMjBIeFk0VWJ3NUdYeHJHNXYzT1ZHejRkZExxNEs5Wktta0VfSG9JNWh1SHRWWkVsZ09sRnR1WWlzUU1pdXkwUXZTVVNTWWp0X0xDQzdIVHBzeVVtVEx6YzMtLU1wSFFkVFR0TEp6Y1o1cnZrWmpNak54U3BxYVRtY3ZwLV9B?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-04"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmi1afbvv95cuxpcu0zdwnsm3jpeerarw5osfpqzdv4b19uuuxvcy1yu1bjcuhvvxljdff6zuxjuw05ttvyxzk5t3djs1v1mvrhdxzhsmzpdnj",
       "title": "Call For Applications: Google Africa Applied AI Lab Program 2026 for African AI Entrepreneurs and Researchers",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcU0zdWNsM3JpeERaRW5oSFpqZDV4b19uUUxvcy1yU1BJcUhVVXljdFF6ZUxjUW05TTVYXzk5T3djS1V1MVRHdXZHSmZpdnJBVXd5bDlGa0V4MkdQMFZWSjRzN3NvRHd3clFxelFhRGNmbnQxNV9XZ1B2dDNnSmNqb3Q4Sl9qaXJMX1RxVkJQMGdMWFg2SlAwdjdBbGpLSFV1UkFhOWgwV1VKZWsyYmxwdWRVT19ocDhMVnNYUmJoVkU3VlRnYm1lZUVuUEFTOVB6LUFMdw?oc=5",
@@ -3381,125 +3500,6 @@
       "url": "https://huggingface.co/papers/2606.09967",
       "section": "ai",
       "sentAt": "2026-06-10"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-10917",
-      "title": "Paper page - Role-Agent: Bootstrapping LLM Agents via Dual",
-      "url": "https://huggingface.co/papers/2606.10917",
-      "section": "ai",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-05922",
-      "title": "Paper page - Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-      "url": "https://huggingface.co/papers/2606.05922",
-      "section": "ai",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "Hacker News:news-ycombinator-com-item-id-48473166",
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "url": "https://news.ycombinator.com/item?id=48473166",
-      "section": "tech",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "Hacker News:github-com-react-react-pull-36173",
-      "title": "[compiler] Port React Compiler to Rust by josephsavona · Pull Request #36173 · react/react",
-      "url": "https://github.com/react/react/pull/36173",
-      "section": "tech",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "Hacker News:jivx-com-eki",
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-      "url": "https://jivx.com/eki",
-      "section": "tech",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "Hacker News:github-com-grzegorz-raczek-unit8-claude-quota",
-      "title": "GitHub - grzegorz-raczek-unit8/claude-quota: Menu bar gauges for Claude Code quota (SwiftBar plugin)",
-      "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
-      "section": "tech",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxqcuxjd0jsb1ewn21gr0hor1jcnzhemexhcmhkrzcwswdiqnruedmxugl2zniyofbpnfbsnmzkqu9lbjh6zzbpq1jfcxzmbgv",
-      "title": "Bipartisan ‘Great American AI Act’ draft proposes new federal AI governance framework",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUxjd0Jsb1EwN21GR0hoR1JCNzhEMExhcmhkRzcwSWdiQnRUeDMxUGl2ZnIyOFBpNFBsNmZkQU9Lbjh6ZzBPQ1JfcXZmbGV0Rl8wLUx5UkFDY0wwYkswTzB0YWowcVZRY1dWNzdMTjZyVV9BdUNESXBWRk5sZGlNMmVIZmZ6RkItTWhUd01hLTZ5NlNRMmJJem45UEdENnlpVmdaYTRyU3U?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmimgfbvv95cuxpazjzbtfqsznavmxhvhvprghlwg9vvzvcshbsuehrdgptvkhsr1rknfvjwmc3uujuqnpurviwohrvtmtnd01vlwznn0pbz0d",
-      "title": "SpaceX: The AI IPO Wearing a Spacesuit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazJZbTFqSzNaVmxHVHVpRGhlWG9VVzVCSHBsUEhrdGptVkhsR1RkNFVjWmc3UUJuQnpuRVIwOHRVTmtNd01VLWZNN0pBZ0drQ2tWbDhSX2dvem9MeE5QLTVsREtRX2ppU0J0TUE1Vkt2VVJVYTJ3d3VjQTNLM0tEbWhFRkZ1cW5hdXJ4TEt0bUJCT25JTVFWTnZR?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmijafbvv95cuxns3bpvtdbywozs0qzbfdjakhbcultuhd6t3rdq0zjz3vyzjfnejewwlr6mulldklgdlmycxpqbkhgchbxrvfivdhsq3j1dwd",
-      "title": "Clean Energy Resources to Meet Data Center Electricity Demand",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
-      "title": "Applications Open for Social Science Research Fellowship",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte10mgszoetzsuzybzhybhpfvhj4m25ksjc4v0zuyxaysjhkcmkxze1yn3j5ru9voxl4rxrgdle4rvpkeezqzthdsupqafmwmg8",
-      "title": "University of Michigan Opens Postdoctoral Research Fellowship on AI Ethics, Privacy, and Socio-Technical Justice 2026",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10MGszOEtZSUZybzhYbHpfVHJ4M25KSjc4V0ZuYXAySjhKcmkxZE1YN3J5RU9VOXl4RXRGdlE4RVpKeEZQZThDSUpQaFMwMG81cjRqaHhrbjZBLUV2LXpFVGRUMTgzN0ZGS0lJSFNlTQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxqaujgvuk5sgvlwc1vmgtxbvfix2jkcf9rtmnyy0pwttjqvnmtoxzhwfvrtnfor3pxbjnkrufjlthvulfquvlzdgzfnefxui1",
-      "title": "RamAIn Seeks Founding GTM Engineer for Enterprise Agents",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUJGVUk5SGVlWC1VMGtXbVFIX2JKcF9rTmNYY0pWTTJqVnMtOXZhWFVRTnFoR3pxbjNKRUFjLThvUlFQUVlzdGZfNEFxUi1FcUtkR2VUUUtCNGY0Tk1GTkoyZHotOE5QdjQzbFJRV0RqT2xuQ2JmV3FyTVFWVFlGbDVSX3hYUjdoUEJlTzFMQS1HSmhsTTRjek5JY2RISUU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte14ymxfttfqve1pvfzhuy1csgizaxpuuna3rklnz21jsxdxx2l3vhm3ogtlt1rwu08yzmf4bgqtd3rnmlvmejnwzlzly1qtedk",
-      "title": "Call for Applications: Stanford Venture Fellowship 2026",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YmxfTTFqVE1PVFZhUy1CSGIzaXpuUnA3RklNZ21jSXdxX2l3VHM3OGtLT1RWU08yZmF4bGQtd3RNMlVMejNwZlZlY1QteDkyZ2V2OVE2M3pQWkhpclZUNlVYVC1iQWRwa29pR091ckw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9dtwu2vue0djvyu1ywy0teafrim0jcytlfemfza0lvnlfecy01atbzmuh1vfvnaxn3vmnpywvrck9syw54cvmzrhdjrnniqy0",
-      "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DTWU2VUE0djVyU1YwY0tEaFRiM0JCYTlfemFza0lvNlFEcy01aTBzMUh1VFVnaXN3VmNPYWVRck9sYW54cVMzRHdjRnNIQy0xRXlZV1hKYTd4VEJSN2dLZ2ZhZGs1bl9oQ2hFZVhCamdSRjd2eGc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxtfb5zu8zmvbyawxrvwutzlpmufrec0xvn01gqwxss2l6z2pjbs1mtgtey0jaa3pez045dmztwkfqnhdqofbpotffb2xeqwxin2z",
-      "title": "Apply for the Youth for Responsible AI Fellowship 2026: Global Fully Remote Opportunity for Young AI Leaders",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5ZU8zMVByaWxrVWUtZlpmUFREc0xvN01GQWxSS2l6Z2pjbS1MTGtEY0Jaa3pEZ045dmZTWkFQNHdQOFBPOTFfb2xEQWxIN2ZHUTg1WGl5RkItaFBhaTVMM253aWdta3h2Z1VZM3hR?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "github:f/prompts.chat",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "section": "github",
-      "sentAt": "2026-06-09"
-    },
-    {
-      "key": "github:ollama/ollama",
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "section": "github",
-      "sentAt": "2026-06-09"
     }
   ]
 }
