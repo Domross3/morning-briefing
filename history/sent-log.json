@@ -2,6 +2,97 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
+      "title": "Applications Open for Social Science Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmigwfbvv95cuxoltq0wxlnee11tdllb2e0rlfmy3nlbmo3uxbiwndfnglodettaulqb1lhbzbvtfz4q1hgy0r1t0hcau9nc25kdeh4mfjhv1r",
+      "title": "Art Students League Seeks the Next Generation of Public Artists",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTQ0WXlneE11TDllb2E0RlFMY3Nlbmo3UXBiWndfNGlodEttaUlqb1lHbzBvTFZ4Q1hGY0R1T0hCaU9nc25kdEh4MFJhV1RkeE9YNTlpX3YxWDFlSGt0TS1EN1hGdkItMHA0eXctM21KOXNTMldVcTFqeS1xNmpIbVhKQdIBiwFBVV95cUxQX01pRVlwTmZSTnBGQjFxU1VISVFmQlp0enJUQzZaN1ByWHJLVXQxSG9jakxsX1pDWTVib3VJS25xRjJEcHFqdTV2TjRfLXB0UzRLOXRNSXlFaHlvNXR0Y3NJekpmYl9YUzBUQUZvYkZZcFpjcTdDdDZUNHFrYkZiRUJOS2FxbUdPc1Vj?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "github:alirezarezvani/claude-skills",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "section": "github",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "github:firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "section": "github",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "github:f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "section": "github",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "github:coreyhaines31/marketingskills",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "section": "github",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "github:CoplayDev/unity-mcp",
+      "title": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "section": "github",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-02291",
+      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
+      "url": "https://huggingface.co/papers/2607.02291",
+      "section": "ai",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-31825",
+      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+      "url": "https://huggingface.co/papers/2606.31825",
+      "section": "ai",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "Hacker News:yusufaytas-com-the-engineer-in-the-half-space",
+      "title": "The Engineer in the Half-Space",
+      "url": "https://yusufaytas.com/the-engineer-in-the-half-space",
+      "section": "tech",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "Hacker News:demo-pcbjam-com",
+      "title": "PCBJam",
+      "url": "https://demo.pcbjam.com/",
+      "section": "tech",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "Hacker News:www-acc-org-about-acc-press-releases-2025-03-17-15-35-cannabis-users-face-substantially-higher-risk",
+      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "section": "tech",
+      "sentAt": "2026-07-05"
+    },
+    {
+      "key": "Hacker News:dthain-github-io-books-compiler",
+      "title": "Introduction to Compilers and Language Design",
+      "url": "https://dthain.github.io/books/compiler/",
+      "section": "tech",
+      "sentAt": "2026-07-05"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte84ddctt29mbujivtriqxdlchdhdkrldjrvzvjpn2hgetlxcdrkww0ymnhavkpoevzhrjg1qk1nrgxetue3ene4rxbkqw5mwxr",
       "title": "Horizon Launches AI Rapid Response Fellowship to Strengthen U.S. Government AI Security Capacity - Apply By 22 July 2026",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dDctT29mbUJIVTRIQXdlcHdhdkRldjRVZVJpN2hGeTlxcDRkWW0yMnhaVkpOeVZHRjg1Qk1nRGxETUE3enE4RXBkQW5MWXRxalhtNF8tNExBNTlLTFR3bmNVcTJ6ZVhnVzd0UnlTRHBEaW9XbkE?oc=5",
@@ -3408,97 +3499,6 @@
       "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ld2hRRkdJek56Q242SXZMTXlobHRTY3RWSjU2bnN3S2hiWVUxMzVHY1o3VEg0UDI0WUpVVTNpdW40U1hiUmJIZTNCTl96YVZsRjBwUE9qaTJvdG5KbW5IaUVKdw?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiianbvv95cuxoylpqofr4utv5mwrpawfkvhvdlvvrx3przklczhpycmh1r3iwcfrdx1ztcfjnyvz5tw5iqvhgy05dsw5mv0i3wxjrme9sbxn",
-      "title": "Anthropic AI safety fellowship 2026: How to apply, $15,000 funding, duration & hiring chances",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOYlpqOFR4UTV5MWRPaWFKVHVDLVVRX3prZklCZHpYcmh1R3IwcFRDX1ZTcFJnYVZ5TW5iQVhGY05DSW5MV0I3WXJRME9sbXNGUVdPT2tmTWw4TklXaGlvWDlfb0xUQ0M4QTZzQkFJeWlzNW5GWVNhZUl0ay0wUGpQRXpZckpoT21HODA2YUo1S2dGb0VCMm44OE80ZTlLT3p2TVR3cXFIN1Z1ODBocllZd1JIVFo3UGxWb215cDhTTTFDWGpwSkxiMERrQ2F3bElqekZqbkQyOTRULWFRNzQ0c1pHUTFabmxlUlV2SUk3aFNzaW1UWkFYQ0xaa0I4X2tiRllOcE5lRjQwR0NNNjJHd1BzaURxMEZUMExQUVNDLWVneGhVMURDNmJhaXVxSVJzZjA3bDRUNHZ3RU5idHFreV85VnZfN3B3S0F5M0NjSF84eFpiRzR4bGdBZ2gxV00teWlMcC1SOVFzX0hqZzZzTEZ3bUYwSXRKUWFMN3J6M2pBRmJlSE1zeg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxqwenduw9vakfaqtvtofbtwgvly3zozhzsdupybwtnxzhzeny2mvnxennjq1vrvf82njdlylz1mtfcem9rqljqqwt2edc2mg9",
-      "title": "Michigan Defense Industry Group STEM Scholarship Program Deadline May 29.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWENDUW9vakFaQTVTOFBtWGVLY3ZOZHZSdUpybWtnXzhZenY2MVNXenNjQ1VRVF82NjdlYlZ1MTFCem9RQlJqQWt2eDc2MG9kYnhPTWR0SmhRLWFJVktUaWUzRkkyb2lRblVTY2dhUjdqbGxCaFd3SUVBSk1ST2ZHNHYwQ3FKSzdPWjN1WEcySWR2ZDlyX2tYMzk0MU5PWk9FUl84NnAxcnBYUkYtcEhyWmk4WkVfNVhCZ2hWcWtlSDBlR1pDU0psLWdDR201ellqOGdtOU42RQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxnnet0uklca1vjdgk2c3ktvzndd0hdwnpualbheddhbfpqbmlrzey4anjesuhcve1isdd2zvngx3vqtgtqv1o2uln6dudhr2r",
-      "title": "5 Beginner AI Projects That Will Get You Your First AI Solutions Architect Job",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEt0UklCa1VJdGk2c3ktVzNDd0hDWnpUalBheDdhbFpqbmlRZEY4anJESUhCVE1iSDd2ZVNGX3VqTGtqV1o2UlN6dUdHR2RVMHM0YTBJRFY4THk3aGxxc3JKaFNMNkh1V3FFRV9lcFBQNlpza3ViYzFadnJ6MmlLS3FFVGZxWldBdGhoemt0MXpQbldjd2lOT3NkZW51UjZXNVN3?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi3afbvv95cuxpakxuatcwd2zzewp6b29iymlmamjtwm9wwhn4evf5c081ogvxywzftlnpmxlfmeqyrjflwgxqv2pzrda4u1f0cvfytlbvnwn",
-      "title": "Grant applications open for elderly, low-income tax help",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakxuaTcwd2ZZeWp6b29iYmlmamJTWm9wWHN4eVF5c081OGVxYWZFTlNPMXlfMEQyRjFLWGxqV2pZRDA4U1F0cVFYTlBvNWNZQ3F5NjlNRlJ6Zk5oMEhEYjlKRlB2UU92S24teGNEWGQwMkpfeWhrZFM3aWwxV3l5a2FpZzNPeVctTWp2d2RXamQ3UkU0UDdKMlp0djdTQWpURFlLek1NZXhSZE5lUWdfS21FS0ZvMDdzVXhTVlI2ODAxZXl3OWdvbkpwb0pYUTZFMjhYWmNJSkFERTA0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "github:addyosmani/agent-skills",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "section": "github",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "section": "github",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "github:soxoj/maigret",
-      "title": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "section": "github",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "github:activeloopai/hivemind",
-      "title": "activeloopai/hivemind",
-      "url": "https://github.com/activeloopai/hivemind",
-      "section": "github",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "github:masterking32/MasterDnsVPN",
-      "title": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "section": "github",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-09730",
-      "title": "Paper page - SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long",
-      "url": "https://huggingface.co/papers/2606.09730",
-      "section": "ai",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-11025",
-      "title": "Paper page - Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models",
-      "url": "https://huggingface.co/papers/2606.11025",
-      "section": "ai",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-fable-5-mythos-5",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "section": "ai",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-09967",
-      "title": "Paper page - ABot-Earth 0.5: Generative 3D Earth Model",
-      "url": "https://huggingface.co/papers/2606.09967",
-      "section": "ai",
       "sentAt": "2026-06-10"
     }
   ]
