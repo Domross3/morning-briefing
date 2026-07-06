@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxte9eawtsqwhztkflm3axu1jxdwllx0nzdtjnbzy3ndfunui2a3nwudbmmefcthdztv9knfjvvgexbxnoetrbqnbvdg93mflssfp",
+      "title": "Apply Now for the Ford Philanthropy Fellowship 2026: A Fully Funded Program for Community Leaders and Entrepreneurs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaWtsQWhZTkFlM3AxU1JXdWllX0NZdTJNbzY3NDFUNUI2a3NwUDBmMEFCTHdZTV9KNFJVVGExbXNOeTRBQnBVdG93MFlSSFpNanMyUWdZU01HNGRwOGNsQlNZcDRVaFI0?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxqmjzux01osm8ynhnkwuhnvdzqyjzwowl5edv6eljymxrorjvdstfwohdbs242rnlhy080wmzqyjzavuzyrwrcru4tevpqvth",
+      "title": "Top Highest-Paying AI Jobs in Singapore: Career Guide",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjZUX01oSm8yNHNkWUhnVDZQYjZwOWl5eDV6elJYMXRoRjVDSTFWOHdBS242RnlHY080WmZqYjZaVUZYRWRCRU4teVpqVThkNkFyRFJnU3doS2xEdUJnQkJFYlN5SHBVeS1FVDMxbmdWQjdzT1ZyYnpKd1E3Rk5Wa0psaGlJdGo4MGpUUS1VaFZ2Mm9URmNVanVZUV9SU2VFdC1uNNIBpAFBVV95cUxQMjZUX01oSm8yNHNkWUhnVDZQYjZwOWl5eDV6elJYMXRoRjVDSTFWOHdBS242RnlHY080WmZqYjZaVUZYRWRCRU4teVpqVThkNkFyRFJnU3doS2xEdUJnQkJFYlN5SHBVeS1FVDMxbmdWQjdzT1ZyYnpKd1E3Rk5Wa0psaGlJdGo4MGpUUS1VaFZ2Mm9URmNVanVZUV9SU2VFdC1uNA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "github:santifer/career-ops",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "section": "github",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "github:addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "section": "github",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "section": "github",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "github:karakeep-app/karakeep",
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "section": "github",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "section": "github",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-02501",
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "url": "https://huggingface.co/papers/2607.02501",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-29526",
+      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.29526",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-01804",
+      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+      "url": "https://huggingface.co/papers/2607.01804",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-28551",
+      "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
+      "url": "https://huggingface.co/papers/2606.28551",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-31227",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "url": "https://huggingface.co/papers/2606.31227",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-02461",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2607.02461",
+      "section": "ai",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "Hacker News:earth-tattoo",
+      "title": "earth.tattoo",
+      "url": "https://earth.tattoo",
+      "section": "tech",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "Hacker News:www-bbc-com-news-articles-c0ry4xx7rk8o",
+      "title": "Nasa launches robot to save Swift telescope falling to Earth",
+      "url": "https://www.bbc.com/news/articles/c0ry4xx7rk8o",
+      "section": "tech",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "Hacker News:elm-lang-org-news-faster-builds",
+      "title": "news/faster",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "section": "tech",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "Hacker News:www-theregister-com-offbeat-2026-07-05-c-programmers-commit-fresh-crimes-against-readability-5265981",
+      "title": "C programmers commit fresh crimes against readability",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "section": "tech",
+      "sentAt": "2026-07-06"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiakfvx3lxte02cvbczkf5cgzpctc1suniu2hfd2xfthm4z0tmmmxrrc1lmwhgrnneckxmbvfrz1bpn3dfzfdht3vumfjulvvyvghnbgxwsdn",
+      "title": "Anthropic Tops OpenAI With $965B Valuation As AI Funding Race Resets",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cVBCZkF5cGZpcTc1SUNiU2hFd2xFTHM4Z0tMMmxrRC1LMWhGRnNEckxmbVFrZ1BPN3dFZFdHT3VuMFJuLVVyVGhnbGxWSDNOLTVKZzlHc3dMNC1OSkNTNjBBVkJmY1N1bUE?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-06"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
       "title": "Applications Open for Social Science Research Fellowship",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "section": "github",
       "sentAt": "2026-06-11"
-    },
-    {
-      "key": "github:apple/container",
-      "title": "apple/container",
-      "url": "https://github.com/apple/container",
-      "section": "github",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "github:restic/restic",
-      "title": "restic/restic",
-      "url": "https://github.com/restic/restic",
-      "section": "github",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "github:chatwoot/chatwoot",
-      "title": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "section": "github",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-openai-on-oracle-cloud",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-12191",
-      "title": "Paper page - Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
-      "url": "https://huggingface.co/papers/2606.12191",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-corps",
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-11926",
-      "title": "Paper page - Toward Generalist Autonomous Research via Hypothesis",
-      "url": "https://huggingface.co/papers/2606.11926",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-12344",
-      "title": "Paper page - Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
-      "url": "https://huggingface.co/papers/2606.12344",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-12403",
-      "title": "Paper page - World Pilot: Steering Vision-Language-Action Models with World",
-      "url": "https://huggingface.co/papers/2606.12403",
-      "section": "ai",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "Hacker News:lwn-net-subscriberlink-1077035-c7e7c14fbd60fae9",
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "section": "tech",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "Hacker News:curlewis-co-nz-posts-lines-of-code-got-a-better-publicist",
-      "title": "Lines of Code Got a Better Publicist",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "section": "tech",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "Hacker News:electrek-co-2026-06-10-byd-flash-charging-canada-5-minute-ev-charging-network",
-      "title": "BYD is bringing its 5-min 'Flash' electric car charging to Canada",
-      "url": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
-      "section": "tech",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "Hacker News:www-nature-com-articles-d41586-026-01796-y",
-      "title": "Human migration has surged since 2000 — these maps reveal where people are going",
-      "url": "https://www.nature.com/articles/d41586-026-01796-y",
-      "section": "tech",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmirafbvv95cuxnx1zgs1psmfn6qndzztm5autsrjllx1vhazvlaenvvvjnwvh2dkpfemq5dhm5zflrujhknhzmy2w2tgjomeliakytwhlewnv",
-      "title": "The European Cloud and AI Act: what’s at stake for Europe’s cloud industry?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1ZGS1pSMFN6QndZZTM5aUtsRjlLX1VHazVlaENvVVJnWVh2dkpfemQ5dHM5ZFlRUjhkNHZmY2w2TGJOMEliakYtWHlEWnVVbWNFS1QycU51QUNhU2FJZXFwWlpYdTd5ZVQwRF9jaV9saW02U1pZMUFrbWNXdGtieVVTaFB0UmE3VEd6eG5hUURPdlc2aGtnQ0E2UDY1ZktfQkdFQkJQQTU2TVgw?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmilgfbvv95cuxqsnkyaedhzmrxt09mrtbcekfycmhatw5yu2tmn1lysjhatf9pbwe4uwdtt2rwmvbwqlliyzfux0w0ruldz3njm1zry21pd3p",
-      "title": "The AI IPO wave is about to test Wall Street’s appetite",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnkyaEdHZmRxT09MRTBCekFycmhaTW5YU2tmN1lYSjhaTF9PbWE4UWdtT2RwMVBWQllIYzFuX0w0RUlDZ3NJM1ZrY21Pd3pEQy02V0xxem1BWTBJODlxQXNJTWt6X1ctMjZBZXhuaUJzZWFIQ0VvR0k4MmNMdl9OdlRqZmZCbWlGRkNwekwzTW03QlRNVlE?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmiogfbvv95cuxocdu5dgpuc0g5s1jux1lnexe3mtmwsgzrb1dldgvpmgv4edzsynbjbuxrywd1a2djsxhrlvjmrwlsrtvwr1httdh2rmvbd19",
-      "title": "Pioneering grid battery nudges California closer to 24 7 clean energy",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDU5dGpuc0g5S1JuX1lneXE3MTMwSGZrb1dLdGVPMGV4eDZSYnBJbUxrYWd1a2djSXhRLVJmRWlsRTVWR1htTDh2RmVBd19kZTUzYnpnOHNOczhfVlZIcEwzUzM2R3R2VDYtZDliNFJkcERITGRXb1dja1ktZWNKb1E2TEtHczgycURNSHRpTUpyMVpDYnZkd0V0dnJwMnlBYUE?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxte9goxp0muzqsv9csldizhloqmffzet6a2vlyws2uupgzkiwughvzc0xz3g5evq0netubezoaxrgdxdoalphoevoumdkx3hoquv",
-      "title": "MATS Opens Applications for Autumn 2026 AI Safety Research Fellowship - Apply By 7 June",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GOXp0MUZQSV9CSldiZHlOQmFfZEt6a2VLYWs2UUpGZkIwUGhVZC0xZ3g5eVQ0NEtUbEZOaXRGdXdOalpHOEVOUmdkX3hoQUVSVEh2TWhLMGthOHFpa1VxRS10X3g5bjh6?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiy0fvx3lxte9ld2hrrkdjek56q242sxzmtxlobhrty3rwsju2bnn3s2hiwvuxmzvhy1o3veg0udi0wupvvtnpdw40u1hiumjiztnctl96yvz",
-      "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ld2hRRkdJek56Q242SXZMTXlobHRTY3RWSjU2bnN3S2hiWVUxMzVHY1o3VEg0UDI0WUpVVTNpdW40U1hiUmJIZTNCTl96YVZsRjBwUE9qaTJvdG5KbW5IaUVKdw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-10"
     }
   ]
 }
