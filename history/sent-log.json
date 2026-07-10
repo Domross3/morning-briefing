@@ -2,6 +2,153 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxpnti2m3janwhsnm54elf0snu5og50vwplv01ntupfrevzalnntwduvwxrqunnn1qyalflstjnwmpmvjm5qktyz1pxbxztc2r",
+      "title": "The Institute for Security Studies (ISS) Junior Fellowship Programme 2026/2027 for young West Africans (Fully Funded to Dakar, Senegal)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTI2M3JaNWhsNm54elF0SnU5OG50VWpLV01NTUpFREVzalNnTWdUVWxRQUNnN1QyalFlSTJnWmpMVjM5QktYZ1pxbXZTc2RJQzQ5NlVpekhyQTFLR3lMUzRMc3NZZEVoYXBoM0pDcEY1WFFENmtITElYdUs5WEpma0d0cVNFQk5uU2oyWVlta2k3b0RxcWhrRGlXMGVLbzBPSTQ4Z0pLb0p1eFJOTjdtZml0Z2drci00VGc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxnshh2vneytm45cl80mk5iwmfvtmfbnwxyowjrsmktve1rzennredacnhisvi0nk1ht2zenjcyv1lioefjsmrbrvlkswvwouf",
+      "title": "UAlbany to Host National Summer Research Programs in Emerging Tech and RNA Science",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHh2VnEyTm45cl80Mk5iWmFVTmFBNWxYOWJrSmktVE1RZENnREdacnhiSVI0Nk1HT2ZENjcyV1liOEFJSmRBRVlkSWVwOUFjY0tCNmJTeGpyN0hBNUw0a0VTR0NvTE5WclBISUpwc3BwZlpGLUF5YjJZVWYzTDdubi02dlNzNXJ3ZTZ2alpScllhWl9XOFU1UEo0WWUwczlOd1NvYVNfcVhNTTMxejRMZUxid2V3R1VBV21seHNB?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "github:google-labs-code/stitch-skills",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "section": "github",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "section": "github",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "github:davila7/claude-code-templates",
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "section": "github",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "github:oven-sh/bun",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "section": "github",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "github:abseil/abseil-cpp",
+      "title": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "section": "github",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-chatgpt-for-your-most-ambitious-work",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-gpt-5-6-preferred-model-microsoft-365-copilot",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-hard-questions",
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-ust-claude",
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-ben-bernanke",
+      "title": "Ben Bernanke appointed to Anthropic’s Long",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-reflect-with-claude",
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "section": "ai",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "Hacker News:www-gingerbill-org-article-2026-07-10-good-tools-are-invisible",
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "section": "tech",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-laylo-jobs-qce41d2-head-of-finance",
+      "title": "Head of Finance at Laylo",
+      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+      "section": "tech",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "Hacker News:acoup-blog-2026-01-30-collections-the-late-bronze-age-collapse-a-very-brief-introduction",
+      "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "section": "tech",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "Hacker News:ec-europa-eu-commission-presscorner-home-en",
+      "title": "Press corner",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "section": "tech",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmigwfbvv95cuxpdxvomei5chhtnvf6nhq2dg9uowhcnnpjdhngc01vuvjbynywntbxrdc0effeagplvmpsa3dyakrymwzzvxztnl92sek5dev",
+      "title": "Where State AI Legislation Stands Half Way Into 2026",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXVOMEI5cHhtNVF6NHQ2dG9uOWhCNnpjdHNGc01vUVJBYnYwNTBXRDc0eFFEaGplVmpsa3dyakRyMWZzVXZTNl92SEk5dEVRQXJWSjdWbEdkaGZPZ2trc2xQekxjY0k0T2tvV0I4a0hsMFYtQnNIOHk0Q1hLNUtUbVdvUQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmigafbvv95cuxov3dzbjjqqlazcffqwkfhcesyuw1uofdqukvamgryd0nun2htb091zktgt0vewnnpq0xxte1vbkuzuxfkamc1vtv6vgdgou5",
+      "title": "AI funding worldwide 2011-2023, by quarter",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3dzbjJqQlAzcFFQWkFhcEsyUW1uOFdqUkVaMGRYd0NUN2hTb091ZktGT0VEWnNPQ0xxTE1vbkUzUXFKamc1VTV6VGdGOU5FcTUxZUk2QXJKWWFJQUtJVUVJbmdCemNKQTlqTFRhTTJ5RGZTR0p2Rm5CV0JabEdxeA?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmirafbvv95cuxnznfkztflshdtqvrkqwzkckrgnupwcwmxbhe4tfrqs0vbexrkqi1pr1i2aw96qmtpzdvct0tucenouv9pd2hfbv9uogpjvdh",
+      "title": "Inside the Business of Apps NYC agenda: AI, acquisition, retention, revenue",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnFKZTFLSHdtQVRkQWZKckRGNUpWcWMxbHE4TFRqS0VBeXRkQi1pR1I2aW96QmtpZDVCT0tucENOUV9Pd2hfbV9UOGpJVDhPRkJNQk1wSGJ1Rk1jdEJSZ1ItVHBjQTFYbkFvSUN0NVpqNlM2a2tFWTlmWlQ0ajJHZzJjS2R2MDRuN29DSThKdzBYM2JaTnpNcndVLUMwVWlqdVhTS1VJQ25uNVV5?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-10"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmipgfbvv95cuxqz01votfvngj1ci1qwgndrc1bzuzgslvzdng1vepluzzunfpcnfytufdqwdfimurutuvowgrxsklsnte2chzvn2uxcetmawl",
+      "title": "Starting the Year Strong with State Climate and Clean Energy Policy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ01VOTFVNGJ1ci1QWGNDRC1BZUZGSlVzdng1VEpLUzZuNFpCNFYtUFdQWDFIMURuTUVoWGRxSklSNTE2cHZvN2UxcEtmaWlfdk1QR3g2NUluWW9od0xyWFVUd2RzX2ZJZFB0VEdxdGJOR1dEWjVHVUtmSzRRUGJMdVRBRUhhNFYxN1FhdldZTklLVzFsMnd3ZW13WlhtMDQzcldmRWtB?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-10"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxnak85of9neffebnlgb1d4ynqwtgnlcktrug4tbjzfowk5d2ppv0d2clytnl81ety2n2rsn3nqnvawx09hztvfqu5xruxkc0x",
       "title": "Entergy Arkansas Power Your Future Scholarship now accepting applications to support technology students at HBCUs",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNak85OF9NeFFEbnlGb1d4YnQwTGNLcktrUG4tbjZfOWk5d2ppV0d2clYtNl81eTY2N2RsN3NQNVAwX09HZTVfQU5xRUxKc0xsNEpKZEstVFpUYmg0SW5tSzJCRU92SUdQUWo3Ui1lVXhSaXVIeGJ4aTN6cTdqLXJDQ3FaVjl5ZGFtdUVJQzBtMm02d0lkQ3BybnlPMVVPNm94NWc?oc=5",
@@ -3353,153 +3500,6 @@
       "url": "https://huggingface.co/papers/2606.06036",
       "section": "ai",
       "sentAt": "2026-06-15"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-13707",
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "url": "https://huggingface.co/papers/2606.13707",
-      "section": "ai",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-14249",
-      "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
-      "url": "https://huggingface.co/papers/2606.14249",
-      "section": "ai",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-13432",
-      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
-      "url": "https://huggingface.co/papers/2606.13432",
-      "section": "ai",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "Hacker News:www-wsj-com-business-deals-fox-roku-deal-f6e564f9",
-      "title": "Fox to Buy Roku Streaming Service in $22B Deal",
-      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "section": "tech",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "Hacker News:www-salesforce-com-news-press-releases-2026-06-15-salesforce-signs-definitive-agreement-to-acquire-fin-bc-hl",
-      "title": "Salesforce Signs Definitive Agreement to Acquire Fin",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "section": "tech",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "Hacker News:stratechery-com-2026-anthropics-safety-superpower",
-      "title": "Anthropic’s Safety Superpower",
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "section": "tech",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "Hacker News:github-com-themartiano-luz",
-      "title": "GitHub - themartiano/luz: C++ Path Tracer from scratch with zero third",
-      "url": "https://github.com/themartiano/luz",
-      "section": "tech",
-      "sentAt": "2026-06-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi8gfbvv95cuxqyjrjc3rja2pos042ee80utaznwdysvfpunzrrlffv21vvjg5nxa5vnlpawjtt0ducjv2rue3txc4u0pus0xfzkj0bw9adgt",
-      "title": "Anthropic AI safety fellowship 2026: How to apply, $15,000 funding, duration & hiring chances",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYjRjc3Rja2pOS042eE80UTAzNWdySVFpUnZrRlFfV21VVjg5NXA5VnlpaWJTT0dUcjV2RUE3TXc4U0pUS0xfZkJ0bW9adGtWeXFoMVF1d2NxbU9NRXlMTjFjYWJmeUQ4QlFpX2k2VHNOdzA4Y3pEM1FZUFBKNWlBRUF6bW9BdEpVOHk2Z0tQVnNPZ1pBdVNLV29iUmdGeFNMbkZiaEJ3dG1iX0RLVy1XVHRPU2lKVEJJUmJDdUNTSzRGSHI5QV9xNnE3aUgwUHlLb2VxR2NQTFJoNmJWdmd0a3dFVmZkV2tDMERPcm4tWW1iZw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmioafbvv95cuxqymxxzc0tv0luowhsywi3etgxtvjfs0gzt2fiuedotlpnelvjz3vqtxv6odbdtle0rffqofu2s19jbmhivy1pqzlkogi5bjh",
-      "title": "Institute for Law & AI’s Summer Research Fellowship (EU Law) 2026",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmxXZC0tV0luOWhsYWI3eTgxTVJFS0gzT2FIUEdoTlpNelVjZ3VQTXV6ODBDTlE0RFFQOFU2S19JbmhiVy1pQzlKOGI5bjh3cVdUcndnQWZwWHhtT2djZlhxcHN2dnhRY3BNV0F1ZUVMTk0zZEpReTV6dW1NaXVjdkJhYlBFb2hIRlJoWE9CdktVOVUzWHdxQWxITEhTbGNU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi1gfbvv95cuxqawn5uklmrk9sdjd1smrtujkxym16ako2svnlstdzrjqyslplcmhbalhzclhvqzzfmdrpnedybtngeejkq3bzrlnqagvsdnp",
-      "title": "Fazeshift Accelerates Hiring and Executive Outreach as It Scales AI-Driven Finance Platform",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWN5UklmRk9Sdjd1SmRTUjkxYm16ako2SVNlSTdzRjQySlplcmhBalhzclhvQzZFMDRpNEdYbTNGeEJkQ3BzRlNQaGVSdnpza01ldE04UHNPdGx0R2s3Y2FtYjhRa0tmdU5MZlpYSFROYXFqaVZCbmFuNlBjR0pmT2JXb2NPNVlWdTJfSk9rcDNwWnJERVNDN1BmbjRkZlVpUUV1LUhKZUlTN3lkc1RseENaVnEyMFNjc1haOS1UbWgwdzhlY3BzcnBBcXZEdEx4OTZsLTN3?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmip0fvx3lxtfaxslrwmwruexfnm2f3ckjmv1h5bgftv3fcrutltudnnhlvyzbjofbcevrrrujquex4wkjpqnrjaw-oc-5",
-      "title": "Exceptional Growth in \"Field Deployment Engineer\" Jobs Amid Quiet Tech Hiring Market",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFAxSlRwMWRUeXFNM2F3ckJMV1h5bGFTV3FCRUtlTUdnNHlvYzBjOFBCeVRRRUJqUEx4WkJPQnRjaw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqvelgzfgzmenvewtjnelmylhjve1tbhbzy0zvsmznthvvx3zmc1fotgnsay1nzfmyvnm3xy12nwlittnqc1rrd0nrn0hwvwx",
-      "title": "Medtronic Spark Scholarship Empowers Future Health Tech Leaders",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVElGZFgzMENveWtJNElMYlhJVE1TbHBzY0ZvSmZNTHVVX3Zmc1FOTGNSay1nZFMyVnM3Xy12NWliTTNqc1Rrd0NRN0hwVWxHd0dvdDVLXy1TQWNWQno2T2xZamduYlF1bDBWRE9TRkN4NUZhX1NXbW01NUc4R09Uc3o2N243ZmNBMExfaUY4eFJBR2M?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqrw1qzxfaeljra2prxzdmv2m2ewxsq25regp0rhv0y2r6ntnlzw5slu5pzvhprwppuwtguvvtt0nwytu2t2drvgytmwu5em5",
-      "title": "What a Fellowship Is and Why You Might Want One | Education | U.S. News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW1qZXFaelJra2pRXzdMV2M2eWxsQ25reGp0RHV0Y2R6NTNlZW5sLU5pZVhpRWppUWtGUVVtT0NwYTU2T2drVGYtMWU5em5zV2lxN3JYXzV2WU54QVM5cXY2aXY0S1QxWk9Tak5QN2w4M2REcGR0ZjN1SFRDODJYTHk1LXZjRlR0NURHQUFraXRHTzQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "github:freeCodeCamp/freeCodeCamp",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "section": "github",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "github:pytest-dev/pytest",
-      "title": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "section": "github",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "github:meshery/meshery",
-      "title": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "section": "github",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "github:cypress-io/cypress",
-      "title": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "section": "github",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "github:GorvGoyl/Clone-Wars",
-      "title": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "section": "github",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-12243",
-      "title": "VIA-SD: Verification via Intra-Model Routing for Speculative Decoding",
-      "url": "https://huggingface.co/papers/2606.12243",
-      "section": "ai",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-13473",
-      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.13473",
-      "section": "ai",
-      "sentAt": "2026-06-14"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-08063",
-      "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
-      "url": "https://huggingface.co/papers/2606.08063",
-      "section": "ai",
-      "sentAt": "2026-06-14"
     }
   ]
 }
