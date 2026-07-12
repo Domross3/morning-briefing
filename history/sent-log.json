@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiwwfbvv95cuxpt2hydfawsffky2t4ymx5r0zwyuczvhzucddyr3lyu0nknxhpywxpx2tta2zxtnzmze96edrnbnnkzwrxuehovgp3vkfvetj",
+      "title": "Forward Deployed Engineer Is AI’s Hottest Job: OpenAI and Google Race to Hire FDEs",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2hYdFAwSFFKY2t4Ymx5R0ZWYUczVHZucDdYR3lYU0NkNXhpYWxPX2tta2ZXTnZMZE96eDRNbnNkZWRXUEhoVGp3VkFVeTJIb1BnRkxqc0g4cmYzdkdCd29oc0Q0NVJWWGNUMWJ5SUdlN3dqeTJFd2NRZlB0Nl9QU0tVSVBxTVY0Z2RPMENUS1hBYVVzRTFCWHlmRk91cTBCalRGMHhNY1pwNHY0VWlsNkNOSEFBVE85R3lhU213S3huVnc?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxnrlrkajv5wtrswk9ilxdrbwzhseh0aurmywfjazjnufjjrzlwceuzmetczmfldlhnbnpznlnjv2hurghzdxhfaucwrhriwv8",
+      "title": "Discover 15+ Scholarships Supporting Academic Excellence",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlRKajV5WTRsWk9ILXdRbWZHSEh0aURmYWFjazJnUFJjRzlwcEUzMEtCZmFLdlhNbnpZNlNJV2hURGhzdXhfaUcwRHRiWV8tQk9JZ0k2aEdweVdIWnBsRWFWOWdzYVRZbzJYcXpGaklpM1pSYURuYXRDeDkxaHo0YTBaTm5ialJrb2VCTVlTOC05OEgzWkJEVDJn0gGfAUFVX3lxTE1iMUhlaDBlTFlkY0tnOXAwLThvVE90dndLTTlGSk5WUXVnZHJCVWpQNlloZnhoc2F6TGdFQjdjeTItWTZoX2VYWENJYU1aOV9Lc0Fyal96QUpsV21PQjc4U0lqMThDUUVIblg5OHZibFdLcGk0dDA3RVVKa01SNjk2WWYwSnIyaWhsQk5ZUkpEUjBYd3RRNlBlNVFFOG1kYw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixgfbvv95cuxpzhvwmtzfdlzonhbpbvhnstktyk5ytzban3botwc2njnhczhuwvjvtktlzld3wc0zegeyrefdzk1kwkfjnzbfaxv0m3jsmc1",
+      "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "github:Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "section": "github",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "github:chen08209/FlClash",
+      "title": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "section": "github",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "github:PrefectHQ/prefect",
+      "title": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "section": "github",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "github:Dicklesworthstone/destructive_command_guard",
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "section": "github",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "github:ColeMurray/background-agents",
+      "title": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "section": "github",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2601-16211",
+      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "https://huggingface.co/papers/2601.16211",
+      "section": "ai",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-08758",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "url": "https://huggingface.co/papers/2607.08758",
+      "section": "ai",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-08765",
+      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "url": "https://huggingface.co/papers/2607.08765",
+      "section": "ai",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-07740",
+      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+      "url": "https://huggingface.co/papers/2607.07740",
+      "section": "ai",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-03803",
+      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
+      "url": "https://huggingface.co/papers/2607.03803",
+      "section": "ai",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "Hacker News:terrytao-wordpress-com-2026-07-11-old-and-new-apps-via-modern-coding-agents",
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "section": "tech",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "Hacker News:github-com-cosmtrek-mindwalk",
+      "title": "GitHub - cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "section": "tech",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "Hacker News:odinbook-com",
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "section": "tech",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "Hacker News:app-ilograph-com-demo-ilograph-yt-dlp-download-2520a-2520youtube-2520video",
+      "title": "Ilograph Interactive Diagrams",
+      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "section": "tech",
+      "sentAt": "2026-07-12"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiqafbvv95cuxqqnzjaxbra294rtrcx1veq2vvb1zxajfosldqtdm2nlphdk41tv9fczf3s1fdu3zxd05fmfpswvjeegpjcny4euoyynnwr3n",
+      "title": "Bellevue AI Startup Raises $50M in Series B Funding",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnZJaXBRa294RTRCX1VEQ2Vvb1ZxajFoSldQTDM2NlpHdk41TV9fczF3S1FDU3ZXd05FMFpSWVJEeGpjcnY4eUoyYnNwR3N4eTJvMVkzdjZhemVzam84akkwY1N0WDZzTjNPX0lURGY1eEpndVcyaDl5amVybGtzS0N4Zl9paFBHN1J1MUZNZFZpZ3FlWG9YVS1sSElYZlBoMnhHb0hpeE8?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-12"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmizefvx3lxte1la0pvndnwaufxsmy2rc0tqv9svxo2tw5dbnjhzlfmu3hcb2y3dk12zdr5tjfhben3r1hyvfvqbtjbchz1zmn5awmyngfqtm9",
       "title": "Summer Research Experience for Undergraduates - CSU/UC Berkeley",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1la0pVNDNWaUFXSmY2RC0tQV9SVXo2TW5DbnJhZlFmU3hCb2Y3dk12ZDR5TjFhbEN3R1hYVFVQbTJBcHZ1ZmN5aWMyNGFqTm9fQ2xXVHZueWozbFdIN1BiU0R0aUg?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "section": "tech",
       "sentAt": "2026-06-17"
-    },
-    {
-      "key": "Hacker News:www-lutr-dev-want-your-images-back-sure-that-ll-be-5-dollars",
-      "title": "Want your images back? Sure... That'll be $5!",
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "section": "tech",
-      "sentAt": "2026-06-17"
-    },
-    {
-      "key": "Hacker News:www-scrumpoker-online-org-en-blog-recovering-from-a-google-ad-penalty",
-      "title": "A Google ad penalty cut our revenue in half — fixing it meant becoming a publisher",
-      "url": "https://www.scrumpoker-online.org/en/blog/recovering-from-a-google-ad-penalty/",
-      "section": "tech",
-      "sentAt": "2026-06-17"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmijgfbvv95cuxpsxj1yvn2qux5anlobvdlblpkmudoc1j0odlcrvlnatu0c3dzc2zuzdz1mnotd19lzui0a3vmmejzruh1ehlumzdydxnyn0n",
-      "title": "Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXJ1YVN2QUx5anlObVdLblpKMUdOc1J0ODlCRVlNaTU0c3dZc2ZUZDZ1Mnotd19LZUI0a3VMMEJZRUh1eHluMzdydXNyN0NLS054UW50MEZnQk1tYlhsLTlOWHQ0SlMtaGtOSkVLb3JoUTYtYVVsLW12bGhCZ1V3Mk5HejVDbTJsamljbmZn?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxtfa4d3a0thetsxh1yxr3vkdrc1gzcdbvrtaxnw5cauzwtvgzmjraeuxwm3dgctdynmrdqulqt0nnn2w4cnhhwfrvnnu4nm5suu5",
-      "title": "Fully Virtual Diplomatic Innovation Project Fellowship 2026 Opens Applications for Students Interested in Diplomacy and Global Leadership: Apply Now",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4d3A0THEtSXh1YXR3VkdRc1gzcDBvRTAxNW5CaUZwTVgzMjRaeUxwM3dGcTdYNmRDQUlQT0NNN2w4cnhhWFRvNnU4Nm5sUU5XNjRCd2dPOWRNUGp5cUcwcnhsbV9tQWtkTGpFQXJNNmY?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi5afbvv95cuxozgi4utvoz29qafzjtfizttz1zlloavoxz2ixr2vnnvqycllgser2y1f2mm5ct3lmngzmdm40q2qtqukwceuyntrjdkrnm1u",
-      "title": "American Express Launches New AI Training and Scholarship Programs for Small Businesses",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGI4UTVoZ29qaFZjTFIzTTZ1ZlloaVoxZ2IxR2VnNVQycllGSER2Y1F2Mm5CT3lMNGZmdm40Q2QtQUkwcEUyNTRJdkRNM1U2MXlZeXdNc21lcGhXWW5Zc3N0cHFfVnBUcGkxMDNaZ21KTkdURUtGbnp0ekpuUXNzaEJFYTN0S3hwN3dUY0szQWhvbG9Vd0lRc3lGXy1JX3hHcFRfYm5sMDRyMEJmWTRINXF5LVc1RWdnMl9MUzJkV090TFJpLTF4TGRYNHRFYmIxYThleEhCV09EQVVrWUhyemtjcmI?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi0wfbvv95cuxnzuxfdhlywtfgndretkg5rnllb3f5nk43z3lbbzgywtmwni0xvtuzr043azm2wkxec0piqw43rmpjt250axvutjfeelhmslp",
-      "title": "Why Forward Deployed Engineers Are Becoming AI's Hottest Jobs",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZUxfdHlyWTFGNDRETkg5Rnllb3F5Nk43Z3lBbzgyWTMwNi0xVTUzR043azM2WkxEc0piQW43RmpJT250aXVuTjFEelhmSlp4WnllWC1VNHRwblhfNWRDNmhvakFSVzlBa3Z3dllnTERoT3k3cmZzWWM1ZXY5U2VpNlV6OEdWemdxcC1IYjJGSlM0bDl4SXZRLVF0eXBJTWcyczZYeTRRQzV1YUQ1U0Z6VWhEeXluc29JeWdjU0FhZTh1OTJhRFRFRDdxRnZaaC1kaFVV?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi4wfbvv95cuxquw00vxdpvmtkmy1ld3jzcgvfcne4nnritkxwumt3cfbfuuuycjmweepywknxvldjt2hmcvbrvw9ltc15v28zm0xhutzuou1",
-      "title": "Forward deployed engineers see pay soar as AI demand surges",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUW00VXdPVmtkMy1Ld3JZcGVfcnE4NnRITkxWUmt3cFBFUUUycjMweEpYWkNXVldjT2hMcVBrVW9lTC15V28zM0xHUTZUOU1MaEtqVTdGbUtUQlplYkVIaDkzZUVXOW5KdEcxTFdrQnl4X0ZwT0JXdjhVbWE4bk5mUmpUdlphV254MUZLbEw0TzBIUEJreExNSkFXMDI4c3ZJMTkxczVtSktCeWZVc0t2VUx2bTF5UXdEN21FRDhZdkRKb3AxWl9mTWptQ09LeGF1aFRGVURlUVNfc19YSWFjbzJxbw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizgfbvv95cuxoujk5u3lmtxhibfldamrmm1cwqkxevmfmtfbnv0dauenyt0ixu3rvz3jodzk0bwf0tdlmufl6sjvhctj6vs1wtkzpehjqs3r",
-      "title": "Claude Corps Fellowship Pays $85K: Anthropic Admits Its AI Will Displace Workers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjk5U3lMTXhIbFlDamRmM1cwQkxEVmFmTFBnV0daUENYT0IxU3RvZ3JOdzk0bWF0TDlMUFl6SjVhcTJ6VS1wTkZPeHJQS3RXcDVsUmNJcXBHcGFKa2FzeWJrTng4UFVXenlacnhEZVJBa2dFOURaMkJ5ZjcyTEZVZFVSMHNaWUU3Ukl4TXpZblpGRU9CMkpGQl9saDN2Z21RRHZiYzFzVVNBNUJkUHpHMHBPdGNGbGMzYk9TVllWWkxiSS1IVHRUVzVzWXIzQQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxtfbzthi2uhgybmk0vtdxdkxuckjjrxpvyjjmltr1m2o1emcwcktlrnzinxkwahnirvfpa3fox3jjtvdxwgftsvm4uvn4ek1nqxh",
-      "title": "Penn State Engineering Student Selected for Competitive Summer Research Program",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZTHI2UHgybmk0VTdxdkxUckJjRXpVYjJMLTR1M2o1emcwcktLRnZINXkwaHNiRVFPa3FoX3JjTVdxWGFTSVM4UVN4ek1NQXhnSmtJWEhSY1hXOS1VUlA4RktQVk5OeEd6eHBzWmdkVjJHdw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "github:zhayujie/CowAgent",
-      "title": "zhayujie/CowAgent",
-      "url": "https://github.com/zhayujie/CowAgent",
-      "section": "github",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "github:puppeteer/puppeteer",
-      "title": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "section": "github",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "github:alibaba/zvec",
-      "title": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "section": "github",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "section": "github",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "github:n0-computer/iroh",
-      "title": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "section": "github",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-glasswing-initial-update",
-      "title": "Project Glasswing: An initial update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "section": "ai",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-17046",
-      "title": "Geometric Action Model for Robot Policy Learning",
-      "url": "https://huggingface.co/papers/2606.17046",
-      "section": "ai",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-11176",
-      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
-      "url": "https://huggingface.co/papers/2606.11176",
-      "section": "ai",
-      "sentAt": "2026-06-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-16993",
-      "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
-      "url": "https://huggingface.co/papers/2606.16993",
-      "section": "ai",
-      "sentAt": "2026-06-16"
     }
   ]
 }
