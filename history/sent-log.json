@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxqtmdfx2lga1zxdfv3ctbkmnnzznhkntjbykj1vgzmcuw2eehmqmn1exg4vdzwwvlkwljfnznuz3jxswnzmfjydle0vwzsbxz",
+      "title": "Open Call for Proposals for Pulitzer Center’s AI Accountability Fellowships (2026–2027)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmdfX2lGa1ZxdFV3cTBKMnNzZnhkNTJBYkJ1VGZMcUw2eEhmQmN1eXg4VDZwWVlKWlJFNzNuZ3JXSWNZMFJYdlE0VWZsbXZPOHhaNnVFUDVkRzR1VEtlUjZjbTc0NWUzaHRIMjFCS0oyYUUtVGdIYkFwQlJncFoxNUtDc2RDU1ZvcWIxYlhpRGo2cmxHOE11clg1RURSOWk5VTVwakVUaERZZUE1?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxpz2e0b29evxhtajuxzu5wdw1ocvpja21mvllryw5roejaqknfafdrwkhmtnl2vtzveujpulbqefbqy194nwtxswcyci1yqwv",
+      "title": "OpenAI Launches AI Economic Research Program",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2E0b29EVXhTajUxZU5wdW1OcVpJa21MVllRYW5rOEJaQkNfaFdRWkhMTnl2VTZVeUJpUlBQeFBqY194NWtXSWcyci1YQWVCc0xuem9qci1pRmlnZ0pzelBFVGZzSjVoTnF6b05PaXVQOHhkenZBVU5UaVVZY19SNHluOGcwcmxVdEowZno2Z0YzQ0VDaUtvRENQX1FzRkNyQUZMclMzVlprN3M?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxqskhcudh1clvtv2p2y3zoshb1wkjhv3hst3fxd2g3c1fone43qlflewrneefkv2duzdbtsklsnxjpa2dqdtzht1pjqnrknll",
+      "title": "Studying the Use of Generative Artificial Intelligence in Undergraduate Research at the U.S. Military Academy",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkhCUDh1clVtV2p2Y3ZoSHB1WkJHV3hST3Fxd2g3c1FONE43QlFLeWRNeEFkV2duZDBtSklsNXJpa2dQdTZhT1pJQnRkNllsRFNBR2NrS3RvYnJkVWhjdEtXa0FMdkZodnRfRkR4WXd4aUpLaDlXc2U4OXlQd05oZEFuUmtOcmpKM29kejhHMEE0ZGkyc3ZJRER5d3pVbzBCaHQ3dHBkZ01PbUdtUm9pYl9wX2NFTmRqMEdJT0hEd1AybHFhNHl0bDdhbGZLWFhlM2FGeW0xRQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "github:MoonshotAI/kimi-cli",
+      "title": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "section": "github",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "github:KnockOutEZ/wigolo",
+      "title": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "section": "github",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "github:Robbyant/lingbot-map",
+      "title": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "section": "github",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "github:rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "section": "github",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "github:apache/ossie",
+      "title": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "section": "github",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-14952",
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+      "url": "https://huggingface.co/papers/2607.14952",
+      "section": "ai",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-14202",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "url": "https://huggingface.co/papers/2607.14202",
+      "section": "ai",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-14189",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "url": "https://huggingface.co/papers/2607.14189",
+      "section": "ai",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-13188",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "url": "https://huggingface.co/papers/2607.13188",
+      "section": "ai",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-12800",
+      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+      "url": "https://huggingface.co/papers/2607.12800",
+      "section": "ai",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "Hacker News:data-stackexchange-com-stackoverflow-query-1953768-graph",
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "section": "tech",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "Hacker News:velvetshark-com-ai-company-logos-that-look-like-buttholes",
+      "title": "Why do AI company logos look like buttholes?",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "section": "tech",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "Hacker News:charlesazam-com-blog-fable-5-gpt-5-6-sol-goal",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal Help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "section": "tech",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "Hacker News:boilingsteam-com-steam-machine-between-10k-and-15k-sold-per-week",
+      "title": "Steam Machine: Between 12k and 15k Sold per week",
+      "url": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
+      "section": "tech",
+      "sentAt": "2026-07-18"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmivwfbvv95cuxpt2q1shptvnq2udnielnpni0wzwddtvvqsfhiszlswfpjt0xlz0y1mv9lc2znc1u1mgd2s2fpy1hkvxv5yzl0y20wbgvxdut",
+      "title": "A Fresh AI IPO Started Trading Today. Here’s What Investors Need To Know.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2Q1SHpTVnQ2UDNielNPNi0wZWdDTVVQSFhiSzlsWFpjT0xLZ0Y1MV9Lc2ZNc1U1MGd2S2FPY1hkVXV5Yzl0Y20wbGVXdUtQd2Y5bTdoOXFNSTdzaC0zbHo0UDUyT2hfdWVPUDBOcWJ5T0QzZlFNblpGcmhMTHFBOUpCRWctaERMUVJ2R1F4T0ZJeFozbDFHaE1wMDMwVUZ4bno0RXR2amlKOG90OW5yejVoNmpPMXV0STdnMm5kbw?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-18"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxqdgp4u0vscgvez0jdohbrqu5nzklzzda0egx2bdhjoxfzzjk4ofrxauvbsupnbw9pruxesdboddduumplu1jmsgferfrdmzi",
       "title": "Summer 2027 Intern - Associate Product Manager (APM)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGp4U0VScGVEZ0JDOHBRQU5nZklZZDA0eGx2bDhjOXFzZjk4OFRXaUVBSUpNbW9PRUxESDBodDduUmplU1JMSGFERFRDMzI3VlFTZ0t0U09mdm5FbXUwNDFHWnV0V1lTdXhjSW9FOWp2WVhIT3BGdUc5VFB5S21TUWFoUkZ6elhobVdpSlZ3UDhlN2hNNF82ZjNUcU9fOTdWOHM2QW82bG5ZZw?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://huggingface.co/papers/2606.21649",
       "section": "ai",
       "sentAt": "2026-06-23"
-    },
-    {
-      "key": "Hacker News:github-com-shumaione-shumai",
-      "title": "GitHub - shumaiOne/shumai: Open-source platform for all your creative work",
-      "url": "https://github.com/shumaiOne/shumai",
-      "section": "tech",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "Hacker News:www-bbc-com-news-articles-c4gy0x0j5deo",
-      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
-      "section": "tech",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "Hacker News:github-com-baidu-unlimited-ocr",
-      "title": "GitHub - baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "section": "tech",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "Hacker News:en-wikipedia-org-wiki-user-larry-sanger",
-      "title": "User:Larry Sanger",
-      "url": "https://en.wikipedia.org/wiki/User:Larry_Sanger",
-      "section": "tech",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmikafbvv95cuxot2tzrfrtwvy1c05wwjdjev9fvug2rxrkdm1sqkpft0r2chdrede3ym5fegxysxnvbzy4zvhrvktbq0m5ckdzrdrtzkrpa29",
-      "title": "AI Legislation, Export Restrictions, and Free Speech Caught in Between",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2tzRFRTWVY1c05wWjdjeV9fVUg2RXRKdm1SQkpFT0R2cHdreDE3Ym5FeGxYSXNVbzY4ZVhrVktBQ0M5ckdzRDRtZkRpa29lNDBYdU12VF92dkI1eVNqVmFyWFYyUjlpbXZpdnJHSmNZLVoyS19GTWVGMGFSNjE5cG0ydG9DUmZRdWdodFY4OGU?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmic0fvx3lxtfbwbtbnyvhmefltunhooes2oflpnerxvhfpd2xtrwdob0pdd3h5ze90d0tad3rqns1xckt5dvjjmgv6v1fgakjxu0o4qzzsahn",
-      "title": "A24 Accepts $75 Million in AI Funding from Google",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbTBnYVhMeFlTUnhoOEs2OFlpNERXVHFPd2xTRWdOb0pDd3h5ZE90d0tad3RqNS1xckt5dVJJMGV6V1FGakJXU0o4QzZsaHNTUFFwUFlGQ09RYk5aVm50eVhDUDhFdU50VVpsOFRWREdWWnM?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmirgfbvv95cuxqcy1fbjlruwhbaxjyamlgt01uxzr2mgw1qmzumknzvnpqejkwcfdhntbhwglfvwz4zuoycvawexfienlgbjl1uezhmvbcrex",
-      "title": "It’s not about Microsoft. Voluntary carbon markets alone can’t scale carbon removal.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcy1fbjlrUWhBaXJYamlGT01UXzR2MGw1QmZUMkNZVnpqejkwcFdHNTBHWGlFVWZ4ZUoycVAweXFienlGbjl1UEZhMVBCRExSemk2cXkwcmtIclN5dFRfM3lHdnVCXzVad29ZZm1yNlUzRGlHSG1FZG1felp2Sm5kaFJTWkNaaFlNYVluTmpRdm5DdlNYcUVhWE1lN1VTaGNfMWVSeDV4ZzhISFpaWGc?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxtfbeofbwqkfwqzjov0m4cw9zm1rptxdtc3fzovotemremulcs0znatvzsvhjd0xtymlux3ltd3uylvrimu5sshfgq0f5rzqwzkp",
-      "title": "Anthropic Opens Applications for 2026 Economics & Policy Fellows Program with Fully Funded AI Research Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEOFBWQkFwQzJOV0M4cW9ZM1RPTXdTc3FzOVotemREMUlCS0ZnaTVZSVhJd0xtYmluX3ltd3UyLVRIMU5sSHFGQ0F5RzQwZkpxS3VBUlFrd29xT2NEeGRpLU4ycFdNdjdrMnMtcFFHLVVXZw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxowgjmenjfemhntxytnjlqdg1jcjhouki2ell0ugzvu3nlafnwqxzfz2ftt1nka3ixowrnoxnlcwz4x0jjrgvln3nwq0xqb0l",
-      "title": "CHT Emerging Voices in AI and Society Fellowship 2026 ($30,000 stipend)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGJmenJFemhNTXYtNjlqdG1JcjhOUkI2ell0UGZVU3NLaFNWQXZfZ2FTT1Nka3IxOWRnOXNlcWZ4X0JJRGVlN3NWQ0xqb0lEUV9EdVlwaE9pOFFILTlvSkNlc3BHQVlCaDhDNGwtTURNQVZJd2pERHBWZm1jbHMtNHlRTEc5TFVpV1U3YmU0NlQ3QnY2X0hENg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxoefp3x25wr29dutzutvviek1vwnnnylhfsgltu3hsmw5rmkv5mtbfzlpjd2pyzkx1bk5kt05fq1n6blfhrfjnturmbm5pruj",
-      "title": "Unlock Top Opportunities for Educational Funding",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFp3X25WR29DUTZUTVViek1VWnNnYlhFSGlTU3hSMW5RMkV5MTBFZlpJd2pYZkx1bk5kT05FQ1N6blFHRFJnTURmbm5PRUJXdkVHeHBuZzVkVFRFVy1VOXV6c19NNEt1MTkwSzBwcWdJeC1KQkR3M1JlMFZPUGJhaVhlUlpqWjRPNG9jd183cm7SAZYBQVVfeXFMTTVOV05HTUw3SkpkRnJhYTd4cTQxa1hLREpFSDdRRUJUSjJLS2tJVHhtdFp0ZktJWkh1LWdMaEd5Ny00Nk01eXB6NTdzdE1XVnlSTDdDX21Oc1IyUEFodUFuYU1lMGxNUllxSVp3Qms4eW9Xck5fZzI3WTlNcExOQ3B1dVpJR3B6OC10M2xUb3lCVGM1MVd3?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "github:thedaviddias/Front-End-Checklist",
-      "title": "thedaviddias/Front-End-Checklist",
-      "url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "section": "github",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "github:heygen-com/hyperframes",
-      "title": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "section": "github",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "github:JCodesMore/ai-website-cloner-template",
-      "title": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "section": "github",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "github:lyogavin/airllm",
-      "title": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "section": "github",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "github:Stirling-Tools/Stirling-PDF",
-      "title": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "section": "github",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-17162",
-      "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
-      "url": "https://huggingface.co/papers/2606.17162",
-      "section": "ai",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-18847",
-      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
-      "url": "https://huggingface.co/papers/2606.18847",
-      "section": "ai",
-      "sentAt": "2026-06-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-19534",
-      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2606.19534",
-      "section": "ai",
-      "sentAt": "2026-06-22"
     }
   ]
 }
