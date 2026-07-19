@@ -2,6 +2,97 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxtfa4c0y0cnr6q3pwnfp6ogxkbwfntm13lxd1vktad2rvrmexmnrtvldmmlu1ctfqa013wuvrshdivlnwajnuudn2yxb0ufhrzfp",
+      "title": "Call for Applications: Memories.ai 2026 Fall Research Fellowship with Paid Opportunities in Visual AI",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4c0Y0cnR6Q3pWNFp6OGxKbWFNTm13LXd1Vktad2RVRmExMnRtVldMMlU1cTFQa013WUVrSHdIVlNwajNuUDN2YXB0UFhRZFpkX0VaWHJUclFHMUhVaFFsbXd5ZzZ1RmhsWnRGMEVR?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmihwfbvv95cuxnctdjujzqvzhkv0pmbfj3oti0zktinnfhtkvlc3zbs0g1d05wykuxqurvlxyzve56ytdfq3qwvulwx3g2tdrqem15vuzzblv",
+      "title": "10 Highest Paying Jobs in AI and Machine Learning (2026)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTdJUjZqVzhKV0pMbFJ3OTI0ZktINnFHTkVlc3ZBS0g1d05wYkUxQURvLXYzVE56YTdfQ3QwVUlWX3g2TDRQem15VUZZblVKekw0WFg5TlNTVnl1UFhzMFY3Y2dxV2pqY2t5N1BzbDRMTS00RXlHY1pkLXQwcUt4b01FTXlTYkE?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "github:AstrBotDevs/AstrBot",
+      "title": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "section": "github",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "github:thedaviddias/Front-End-Checklist",
+      "title": "thedaviddias/Front-End-Checklist",
+      "url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "section": "github",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "github:kvcache-ai/ktransformers",
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "section": "github",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "github:andrewrabert/jellium-desktop",
+      "title": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "section": "github",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "github:1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "section": "github",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "Hacker News:quesma-com-blog-custom-deep-research-pipeline",
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "section": "tech",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "Hacker News:www-minecraft-net-en-us-article-minecraft-26-3-snapshot-4",
+      "title": "Minecraft 26.3 Snapshot 4",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "section": "tech",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "Hacker News:en-andros-dev-blog-0b8e451e-i-joined-the-indieweb-heres-what-i-learned",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "section": "tech",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "Hacker News:sgt-hootr-club-blog-home-server-rebirth",
+      "title": "The death and rebirth of my home server",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "section": "tech",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmibkfvx3lxte9vzxhvd1rvyv85b2rysk1bbwvnqw16q0hms0fmvhllqnrotdfymxrtm04xec1dz3y3qwvfoeg5vdyysxhtrzatwedzt280vfh",
+      "title": "AI Policy Advocacy Resource Hub",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VZXhVd1RvYV85b2RySk1BbWVNQW16Q0hmS0FMVHllQnRoTDFYMXRTM04xeC1DZ3Y3QWVfOEg5VDYySXhTRzAtWEdZT280VFhFSUhlTjE4X01aOW1sdUplZXFfVVZBQVZJaV9GVERn?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-19"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiykfvx3lxte5rotq2mkm0qk5utku3ny1femvubupjb3h3udrbmluwuhzvmlzrufpxa3bkrxdvzddbzfziaknja3hpshq1y3rheunvczhyunp",
+      "title": "Carbon Dioxide Removal",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rOTQ2MkM0Qk5UTkU3Ny1femVUbUpJb3h3UDRBMlUwUHZVMlZrUFpxa3BkRXdVZDdBZFZIakNja3hPSHQ1Y3RheUNVczhYUnp4SHdQNjlqSzVveUFEeEg4S0Zn?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-19"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxqtmdfx2lga1zxdfv3ctbkmnnzznhkntjbykj1vgzmcuw2eehmqmn1exg4vdzwwvlkwljfnznuz3jxswnzmfjydle0vwzsbxz",
       "title": "Open Call for Proposals for Pulitzer Center’s AI Accountability Fellowships (2026–2027)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmdfX2lGa1ZxdFV3cTBKMnNzZnhkNTJBYkJ1VGZMcUw2eEhmQmN1eXg4VDZwWVlKWlJFNzNuZ3JXSWNZMFJYdlE0VWZsbXZPOHhaNnVFUDVkRzR1VEtlUjZjbTc0NWUzaHRIMjFCS0oyYUUtVGdIYkFwQlJncFoxNUtDc2RDU1ZvcWIxYlhpRGo2cmxHOE11clg1RURSOWk5VTVwakVUaERZZUE1?oc=5",
@@ -3409,97 +3500,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkMtV1Q5Qi1ZZ1ozSHZpZURHUDllbWtON0RkUHZDX0YteU1RMDhReVVVSEQ3dmNIVVNRc0JLMlFtOGFqcm8ySHZocWJEbU5oTzZiRVFLYmpXeHNTWFdlQllub2FqQnJERGpzcDA5TlAtbFNwS3JIbmgzZy1qckJLZFZOX0MwcnVKendxN09yLTZQZjEtZ283RW9zdzJ4cFZOX1RmMXpkcEJ5Z3ZacHc?oc=5",
       "section": "sustainability",
       "sentAt": "2026-06-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxot3r4mmc0tkrvuu9uvgnnvuzizetorzlwyvm0anbsukitxziwau1wcdrcaxd1b3jotwy2r1fwveyxu3jick96sujyc2vmn2t",
-      "title": "Call for Applications: NextGen Women Leaders Fellowship 2026 (Fully Funded)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3R4Mmc0TkRvUU9UVGNnVUZiZEtORzlWYVM0anBsUkItXzIwaU1WcDRCaXd1b3JoTWY2R1FWVEYxU3Jick96SUJYc2VMN2t3VVFRZDRUak1DeTEtZ2ZtclhQdXNSbk51WVdVOVdxOEZqbVBJTnpiRGJyMC1zRjRSb1dVNTJTd2hfemU1WU92VzJlYk1ZTVcyZk1tYW5jMTAtQkVpRA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxotuxueelftehda3juctlfeuhymvzyuzjcddi0ogctc0d2eknanhdvzxhzzmj3t2r4egc3qjhtutyxlufsy1otmjdlvvliuml",
-      "title": "Forward Deployed Engineer vs Solutions Engineer",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUxUeElfTEhDa3JUcTlfeUhYMVZYUzJCdDI0OGctc0d2ekNaNHdVZXhzZmJ3T2R4eGc3QjhTUTYxLUFsY1otMjdLVVlIUmlLLTQ0WHN5anV1ZWdyVnBWRFExanVCSXN5elV6cjh3dWNtX05rRDNHeFhRdUk1LWdZTGtvMTBYWHJ6Tkl6QkNmMA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxnvddurefotnran3l5di1bbknzb1zqwuz0tmnioes3setjdk9jew10bexbdi1suudjy00wmnzxr0g3cnpic1i0mljmyvffmta",
-      "title": "Bolder Futures Fellowship: AI for Social Good 2026",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDdUREFOTnRaN3l5di1BbkNZb1ZQWUZ0TmNiOEs3SEtjdk9jeW10bExBdi1SUUdJY00wMnZXR0g3cnpic1I0MlJMYVFfMTA0bmhSR1lUcHRsb3g3eFBSNVMzUTJ4bzA5NU9rV0JsUDhqdHEyVFlicWt1Q3d5MVJlRWtRbm5IWTgtODhGTkpqcDJlaU0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "github:shanraisshan/claude-code-best-practice",
-      "title": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "section": "github",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "github:revfactory/harness",
-      "title": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "section": "github",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "github:garrytan/gstack",
-      "title": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "section": "github",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "github:anthropics/claude-plugins-official",
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "section": "github",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-22388",
-      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
-      "url": "https://huggingface.co/papers/2606.22388",
-      "section": "ai",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-21337",
-      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
-      "url": "https://huggingface.co/papers/2606.21337",
-      "section": "ai",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-23654",
-      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
-      "url": "https://huggingface.co/papers/2606.23654",
-      "section": "ai",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-20781",
-      "title": "World Action Models: A Survey",
-      "url": "https://huggingface.co/papers/2606.20781",
-      "section": "ai",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-22883",
-      "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
-      "url": "https://huggingface.co/papers/2606.22883",
-      "section": "ai",
-      "sentAt": "2026-06-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-21649",
-      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
-      "url": "https://huggingface.co/papers/2606.21649",
-      "section": "ai",
-      "sentAt": "2026-06-23"
     }
   ]
 }
