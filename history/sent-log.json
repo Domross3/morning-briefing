@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxot3r4mmc0tkrvuu9uvgnnvuzizetorzlwyvm0anbsukitxziwau1wcdrcaxd1b3jotwy2r1fwveyxu3jick96sujyc2vmn2t",
+      "title": "Call for Applications: NextGen Women Leaders Fellowship 2026 (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3R4Mmc0TkRvUU9UVGNnVUZiZEtORzlWYVM0anBsUkItXzIwaU1WcDRCaXd1b3JoTWY2R1FWVEYxU3Jick96SUJYc2VMN2t3VVFRZDRUak1DeTEtZ2ZtclhQdXNSbk51WVdVOVdxOEZqbVBJTnpiRGJyMC1zRjRSb1dVNTJTd2hfemU1WU92VzJlYk1ZTVcyZk1tYW5jMTAtQkVpRA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiygfbvv95cuxqaxyxvhrxvgdqv0flouzdze01q2h0q3lvwtfhqkktduvqnffdwm5czhhvt1zsafrdshbqvwwtq2zizedju0pscvjmakpidvh",
+      "title": "How to know when you need a forward deployed engineer or a solutions architect",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXYxVHRxVGdQV0FLOUZDZE01Q2h0Q3lVWTFhQkktdUVqNFFDWm5CZHhVT1ZsaFRDSHBqVWwtQ2ZIZEdJU0pscVJmakpIdVhFZ3p4dFFINnFBUXVKNDlPeGxtQXVZQnRDcTFPUFpmMVFmVFFsV0Zzdk5ZYlpNQXZCSXpVU1NGTU1fWWlpU0NLYXMzQ3R0STkyU2ZWTEs2djZkenlNTzVIRGhvbGtub3MtaXQ2WFYtSjJUTWxuUDRIWkVMNnZqOG9mcHZ3?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmie0fvx3lxtfboeexycuxuqxj2muxqwxnftkxlsjrryxbxcjhzbex6qy1meefjae9oauu4ovffz2dxz1jdwklemznaoff0a041tjlhvhfsa1a",
+      "title": "Startup Business Grants: Best Free Funding Options",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOeExYcUxUQXJ2MUxqWXNFTkxlSjRrYXBxcjhzbEx6Qy1MeEFJaE9oaUU4OVFFZ2dXZ1JDWklEMzNaOFF0a041TjlhVHFsa1A0bnotMFNqVHdDVzR1QkFJdTRjbUNYRTVNY2NkMzNZY2hScUMwN0JBVjE2Yw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "github:topoteretes/cognee",
+      "title": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "section": "github",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "github:PrefectHQ/fastmcp",
+      "title": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "section": "github",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "github:jamiepine/voicebox",
+      "title": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "section": "github",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "github:every-app/open-seo",
+      "title": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "section": "github",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "github:tokio-rs/topcoat",
+      "title": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "section": "github",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-15314",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "url": "https://huggingface.co/papers/2607.15314",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2606-29538",
+      "title": "RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources",
+      "url": "https://huggingface.co/papers/2606.29538",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-15330",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "url": "https://huggingface.co/papers/2607.15330",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-15161",
+      "title": "On-Policy Delta Distillation",
+      "url": "https://huggingface.co/papers/2607.15161",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-13196",
+      "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
+      "url": "https://huggingface.co/papers/2607.13196",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-11683",
+      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
+      "url": "https://huggingface.co/papers/2607.11683",
+      "section": "ai",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "Hacker News:slcyber-io-research-center-exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+      "title": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25 › Searchlight Cyber",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "section": "tech",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "Hacker News:edri-org-our-work-the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel",
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "section": "tech",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "Hacker News:airport-apunen-com",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "section": "tech",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "Hacker News:www-theregister-com-columnists-2026-07-20-airbus-takes-flight-from-aws-what-happens-next-is-critical-5274109",
+      "title": "Airbus takes flight from AWS. What happens next is critical",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "section": "tech",
+      "sentAt": "2026-07-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqwfbvv95cuxnbkzxovl6s3axbk45tf9kmhe3me9av1buugmwmklzrvizb1ridwdfvetrstlqelf4uwh4teruwnvsthnrrwtqdghvswzxau5",
+      "title": "What White House AI Policy Means For Advertisers 03/23/2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkZXOVl6S3Axbk45TF9kMHE3ME9aV1BuUGMwMklZRVIzb1RIdWdFVEtRSTlqelF4UWh4TERUWnVSTHNrRWtQdGhvSWZXaU5NY3laV2NTVk9yZ0Q4cGNaNmw3WVNYTm9VZy13NDVxOEJOc2JvT3VvdnRTMWZyNW9weUN0UXNlSVZSRHplR1Y4Z1FsUUR6eFBpbm1zNmp5R2g1T2F6VFZrS1h5UFE?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-20"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxtfa4c0y0cnr6q3pwnfp6ogxkbwfntm13lxd1vktad2rvrmexmnrtvldmmlu1ctfqa013wuvrshdivlnwajnuudn2yxb0ufhrzfp",
       "title": "Call for Applications: Memories.ai 2026 Fall Research Fellowship with Paid Opportunities in Visual AI",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4c0Y0cnR6Q3pWNFp6OGxKbWFNTm13LXd1Vktad2RVRmExMnRtVldMMlU1cTFQa013WUVrSHdIVlNwajNuUDN2YXB0UFhRZFpkX0VaWHJUclFHMUhVaFFsbXd5ZzZ1RmhsWnRGMEVR?oc=5",
@@ -3367,139 +3500,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QMGNOQ3phbHcwbGJQTVhtOFNtMGc3eV9zWmF4OGNXcnVKb1NWTjVHSFo4bmpnSHRYdEZCNTJGNlhCUEROTjIzWWJTTU82eWVYZkdIdw?oc=5",
       "section": "legislation",
       "sentAt": "2026-06-25"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxpwm12oguza2p5rtj3atlsq3jqalbnyzvmt2tvt2u0ylrync0ytwpsr2zytlj5rtdmdf96bhdwag95d29yzlbpnhn5n2tzrzj",
-      "title": "India's AI hiring boom hits a talent wall as enterprises move from pilots to scale",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWm12OGUza2p5RTJ3aTlSQ3JQalBNYzVMT2tvT2U0YlRyNC0yTWpsR2ZyTlJ5RTdmdF96bHdWaG95d29yZlBpNHN5N2tzRzJVblpaMDhQc21YMmYtZVVrR3RXX3E4aXJNd1lUNE15dzNXdWJ5aHVtRWtaejFOYlVRZl9DQzJuVjFhRlVhaS0tVy1aQkJHekF1bXVWdlFnUmt6ZzdGYV9DaEgtUTI3ZVhtcHRGNTk0WEJwVnBz?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxpbkf4ttkzyzhmb0qtqlfdszjzzulkeuzkthv5tddzyxhlvgjwuu95ajrizg96uzdvcefubeplegpsymjpn196y0xptwjjmvd",
-      "title": "How to Become an AWS AI Architect,The Honest Roadmap, the Projects, and Landing the Job",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkF4TTkzYzhmb0QtQlFDSzJZZUlKeUZKTHV5TDdzYXhLVGJwUU95ajRIZG96UzdvcEFUbEpleGpSYmJpN196Y0xPTWJjMVdZTHZocHFkVmp1VWxNQzMta19iazZSRDJXams4c2s5MzRIM0ZOYjJhTWZOMmtLRS1jbW5ZVmxYb3hqRHhJXy1fYUxRVXF3eDBOZ05oMEZqbm96RWZQeVNQTUpKTkE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "github:google-labs-code/design.md",
-      "title": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "section": "github",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "github:interviewstreet/hiring-agent",
-      "title": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "section": "github",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "github:stablyai/orca",
-      "title": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "section": "github",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "github:flutter/flutter",
-      "title": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "section": "github",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "github:Flowseal/zapret-discord-youtube",
-      "title": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "section": "github",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-24597",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://huggingface.co/papers/2606.24597",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-19930",
-      "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.19930",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-24855",
-      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-      "url": "https://huggingface.co/papers/2606.24855",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-introducing-claude-tag",
-      "title": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-expanding-project-glasswing",
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "section": "ai",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "Hacker News:haystack-deepset-ai",
-      "title": "Haystack",
-      "url": "https://haystack.deepset.ai/",
-      "section": "tech",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "Hacker News:paolino-me-founding-a-company-in-germany",
-      "title": "Founding a Company in Germany: €9,600, 152 Days, and I Still Can’t Send an Invoice",
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "section": "tech",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "Hacker News:fortune-com-2026-06-24-reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
-      "title": "Reid Hoffman says SpaceX is 'not an AI company' and xAI is a 'complete train wreck' — and there's room for both OpenAI and Anthropic",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "section": "tech",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "Hacker News:jasonpargin-substack-com-p-everyone-is-wrong-about-ai-except",
-      "title": "Everyone Is Wrong About AI Except Me",
-      "url": "https://jasonpargin.substack.com/p/everyone-is-wrong-about-ai-except",
-      "section": "tech",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmilafbvv95cuxnanp5sndea0f5rlrjc1rwwgzvymlyeflnt2ncuwu3wnlnwgl2qk5rz1jotlz4q1vkzezeykgtnezzdnniv2utrkdkyi16t1z",
-      "title": "Alphabet Slides as AI Funding Plan Fuels Dilution Worries",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanp5SndEa0F5RlRJc1RWWGZVYmlYeFlnT2NCUWU3WnlnWGl2Qk5RZ1JoTlZ4Q1VKZEZEYkgtNEZzdnNiV2UtRkdkYi16T1ZzRnhueXg0dE9CaHkyeTF6al9XWE52UEFmc01sNE9TYnNxSjloUi1PcEZtdGdFSUhETWhwcDRmR3Qtb1l2ZWthYVlNOVdv?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-24"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmirgfbvv95cuxnykmtv1q5qi1zz1ozshzpzurhudllbwton0rkuhzdx0yteu1rmdhrevvvseq3dmnivvnrc0jlmlftogfqcm8yshzocwjebu5",
-      "title": "Trump’s ‘Short-Sighted’ Cuts Jeopardize Philadelphia’s Clean Energy Future",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkMtV1Q5Qi1ZZ1ozSHZpZURHUDllbWtON0RkUHZDX0YteU1RMDhReVVVSEQ3dmNIVVNRc0JLMlFtOGFqcm8ySHZocWJEbU5oTzZiRVFLYmpXeHNTWFdlQllub2FqQnJERGpzcDA5TlAtbFNwS3JIbmgzZy1qckJLZFZOX0MwcnVKendxN09yLTZQZjEtZ283RW9zdzJ4cFZOX1RmMXpkcEJ5Z3ZacHc?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-24"
     }
   ]
 }
