@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbminafbvv95cuxqak9ld1vdug1pnzlfovbksgtkcwjia0xqam1yq2ttbm9azmj1a21dvld4zk5zc2zimjd4tgdzn0zqcexwcu1yq09umel2ddg",
+      "title": "The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians (N50,000 monthly stipend)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQak9Ld1VDUG1PNzlFOVBkSGtKcWJia0xQam1YQ2tTbm9aZmJ1a21DVld4Zk5zc2ZiMjd4TGdzN0ZQcExWcU1YQ09UMEl2dDgzeGMxYW0xcWxpcG5Sc1ZIV1ZNYnJDZXkxV2FRd2plcXE4bktsM2IyQVBUM1l3TmUtT3Q5cTAtb3lKM1o0Q0JvblN6ZG1NejVKUXhfdUY?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivafbvv95cuxqvhhnb09gmhbweervzkswzf84cwdtam16cxzwzuttcxffewzlbgtrmtv5qkrjskr1shburujqzkxlcfv1qkpaulbjeutstdd",
+      "title": "India's AI hiring boom hits a talent wall as enterprises move from pilots to scale",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHhNb09GMHBWeERVZkswZF84cWdTam16cXZwZUttcXFFeWZLbGtRMTV5QkRjSkR1SHBURUJQZkxlcFV1QkpaUlBJeUtSTDd4ZWRnYktsbmdzOXFaY3ZPZU1pTlphRFpPUTA0WlcyaTJZVnNfOW9za3VlNDlUclNuZVVmVVVkdXN2RlZsV3JmMi1HdkJRUUU0SUJFSnFqdjFqLWU4VWpQMWFDUENqOFhtdHNiVGRrN081T1NjTA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "github:tradesdontlie/tradingview-mcp",
+      "title": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "section": "github",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "github:AlexsJones/llmfit",
+      "title": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "section": "github",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "github:ayghri/i-have-adhd",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "section": "github",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "github:earthtojake/text-to-cad",
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "section": "github",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "github:oblien/openship",
+      "title": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "section": "github",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-17250",
+      "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
+      "url": "https://huggingface.co/papers/2607.17250",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-07820",
+      "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
+      "url": "https://huggingface.co/papers/2607.07820",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-17977",
+      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+      "url": "https://huggingface.co/papers/2607.17977",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-16850",
+      "title": "Group Entropy-Controlled Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.16850",
+      "section": "ai",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "Hacker News:exsitu-app-map",
+      "title": "Ex Situ",
+      "url": "https://exsitu.app/map",
+      "section": "tech",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "Hacker News:www-minneapolisfed-org-article-2026-new-homeownership-measure-puts-people-first",
+      "title": "New homeownership measure puts people first | Federal Reserve Bank of Minneapolis",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "section": "tech",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "Hacker News:qwen-ai-blog-id-qwen-image-3-0",
+      "title": "Qwen Studio",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "section": "tech",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "Hacker News:www-armaangomes-com-blogs-doom",
+      "title": "Running DOOM on our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "section": "tech",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipafbvv95cuxnr2plmelrvwx4mg1httbscepkdulny3nkmvzpzvleuk9hwwx4mfvhykpybknwugzxmncwtelewfuxnuowyui5vzd0dny5dgd",
+      "title": "ChatGPT Didn't Break the AI Act. It Showed Why Adaptive Regulation Matters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2plMElrVWx4MG1HTTBScEpKdUlNY3NkMVZPZVlEUk9HWWx4MFVHYkpybkNwUGZXMncwTElEWFUxNUowYUI5Vzd0dnY5dGdvRUswOEtnSlpaVkhKNHg3X1NwTEVISEthU3R0ejZfM0lmc294RmREX0UzZG5xSmdXdG1WajRrekctWUVvZllGVUZkcDdFVWlGZmpNMU16YnpQVEhHMQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-21"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmif0fvx3lxte94svzzbs02n1ptctlrrutqse13evlxt2otzgn0yxvncdz6utz4vjzjem1zwge0bepithoxuketujuyskvsanfzaznnovzpv2v",
+      "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SVZZbS02N1ptcTlRRUtQSE13eVlxT2otZGN0YXVncDZ6UTZ4VjZjem1ZWGE0bEpITHoxUkEtUjUySkVSanFZazNnOVZpV2VoUGpPaVdjbFc2VmlScnBwYVAyUnVxa2k5cFA2cFFNVU0wbER0cnBRS1N0b2JkQ1E?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-21"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxot3r4mmc0tkrvuu9uvgnnvuzizetorzlwyvm0anbsukitxziwau1wcdrcaxd1b3jotwy2r1fwveyxu3jick96sujyc2vmn2t",
       "title": "Call for Applications: NextGen Women Leaders Fellowship 2026 (Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3R4Mmc0TkRvUU9UVGNnVUZiZEtORzlWYVM0anBsUkItXzIwaU1WcDRCaXd1b3JoTWY2R1FWVEYxU3Jick96SUJYc2VMN2t3VVFRZDRUak1DeTEtZ2ZtclhQdXNSbk51WVdVOVdxOEZqbVBJTnpiRGJyMC1zRjRSb1dVNTJTd2hfemU1WU92VzJlYk1ZTVcyZk1tYW5jMTAtQkVpRA?oc=5",
@@ -3367,139 +3500,6 @@
       "url": "https://akrites.org/letter/",
       "section": "tech",
       "sentAt": "2026-06-26"
-    },
-    {
-      "key": "Hacker News:www-experimental-history-com-p-reading-the-news-is-the-new-smoking",
-      "title": "Reading the news is the new smoking",
-      "url": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
-      "section": "tech",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "Hacker News:www-youtube-com-post-ugkxsaiudmqtyc15yqqursgy0kg7o1x2ttnb",
-      "title": "Post from Louis Rossmann",
-      "url": "https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB",
-      "section": "tech",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "Hacker News:github-com-mondaycom-hatcha",
-      "title": "GitHub - mondaycom/HATCHA: CAPTCHA proves you're human. HATCHA proves you're not.",
-      "url": "https://github.com/mondaycom/HATCHA",
-      "section": "tech",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmivafbvv95cuxnrgxmaxfhvkj4bljvam9ns2vwqxgtck5svnbmtmdnsfnsueqwnddymwh3b2m3b2pqt1b2t2fcu3dpbdm2avnerlrzntuxmfj",
-      "title": "Open AI IPO delay; SpaceX mulls mobile networks - what’s moving markets",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGxMaXFHVkJ4blJVam9nS2VWQXgtck5sVnBmTmdnSFNSUEQwNDdyMWh3b2M3b2pQT1B2T2FCU3dPbDM2aVNERlRzNTUxMFJGUWlOcVdoVmI4N1hndHphQUdyR1lNTTV0ZlM0LTIzNHNJOWUxamM4b3pnc1VfR3h1ZldNYjBuUmJheGlEZ2NETnZNQzVEa0kyMHpqQV9lUWxhY1hUVWFvUGdKbHRCTlo3cFVOQlJXVDFiVll3cQ?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte1uazhhog9sttrxetr2dknvqxhkn3p2dji2uuprmk1ebw4zr2exy2mwvep1ntrftg9htvlocudkwee5vjqytkxtzvd2ulfkegn",
-      "title": "Apply Now: Chicago Harris Applied Data Fellowship (ADF) 2026 Rolling Applications Open",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uazhhOG9sTTRXeTR2dkNVQXhkN3p2djI2UUpRMk1EbW4zR2ExY2MwVEp1NTRfTG9HTVlocUdKWEE5VjQyTkxTZVd2UlFKeGNqdDJLbi1vWVBhNzZ6NDRWc3ZieTlRZFVuREZsZw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
-      "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxoltkyd293t0rlv1fsmjhuzmtimmflsmnkahuxqknvr01hctflowddsfdrejm2bzfttme3z09pzgv3vmnhnekttzfnbgfpajr",
-      "title": "Computer science major explores undergraduate research",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTkyd293T0RLV1FSMjhuZmtIMmFLSmNKaHUxQkNVR01hcTFlOWdDSFdrejM2bzFtTmE3Z09pZGV3VmNhNEktTzFnbGFpajRlbVdFYW5LNGFqQ0Z6a2tCRWtBSWxsYkFrZjNWeWVldG94bFVGU0hsS01WN3RXUW5SSDNDa2NWSl8yZXp6WFhCa3FmQQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "github:opendatalab/MinerU",
-      "title": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "section": "github",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "github:alibaba/page-agent",
-      "title": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "section": "github",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "github:mauriceboe/TREK",
-      "title": "mauriceboe/TREK",
-      "url": "https://github.com/mauriceboe/TREK",
-      "section": "github",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "github:aws/agent-toolkit-for-aws",
-      "title": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "section": "github",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "github:IceWhaleTech/CasaOS",
-      "title": "IceWhaleTech/CasaOS",
-      "url": "https://github.com/IceWhaleTech/CasaOS",
-      "section": "github",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-how-agents-are-transforming-work",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "section": "ai",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-gpt-5-immunology-mystery",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "section": "ai",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "Hacker News:www-science-org-content-article-medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "section": "tech",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "Hacker News:9to5mac-com-2026-06-25-apple-price-increases-mac-ipad-more",
-      "title": "Apple announces significant price increases for MacBooks, iPads, more - 9to5Mac",
-      "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
-      "section": "tech",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "Hacker News:twitter-com-mfts0-status-2070080422482977095",
-      "title": "Marc Seitz — oss/acc (@mfts0) on X",
-      "url": "https://twitter.com/mfts0/status/2070080422482977095",
-      "section": "tech",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "Hacker News:paulkrugman-substack-com-p-why-does-everyone-hate-ai",
-      "title": "Why Does Everyone Hate AI?",
-      "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
-      "section": "tech",
-      "sentAt": "2026-06-25"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmivefvx3lxte1qmgnoq3phbhcwbgjqtvhtofntmgc3ev9zwmf4ognxcnvkb1nwtjvhsfo4bmpnshrydezcntjgnlhcuerotjizwwjttu82ewv",
-      "title": "Director, AI Policy - Federation of American Scientists",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QMGNOQ3phbHcwbGJQTVhtOFNtMGc3eV9zWmF4OGNXcnVKb1NWTjVHSFo4bmpnSHRYdEZCNTJGNlhCUEROTjIzWWJTTU82eWVYZkdIdw?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-25"
     }
   ]
 }
