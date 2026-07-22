@@ -2,6 +2,153 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
+      "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi-afbvv95cuxpbtzvtthlekxzltdscuuxsevibvu3vlbfv09mylnwbm9ps05vvlbznc1ttwnxszfrslbbalhry0hnc003vi1iqxrmtevqmdl",
+      "title": "LTM CEO sees Microsoft's AI hiring as industry boost, not threat",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbTZvTThlekxZLTdScUUxSEVIbVU3VlBfV09mYlNWbm9pS05VVlBZNC1TTWNXSzFrSlBBalhrY0hnc003Vi1iQXRMTEVQMDlZc0ZLWG1mb2NBVGpERDVKVXlpLXRyX3pZd2VLeEVrNi1pbFpvV3BsbGdBeENOdDl6RjlUMFlVYkNLcExtSU40dWlWOTRPQkFLX2YycGZUMzFNUlpPOWJ6elVpYmxweVA4VlRyRXFjZk9NYU9mcWUzZ0lvU1c5RFFxVE1TQW56YnVnMElDaFRka1hXckQ0VndfZHRpYk1Rel9GVXIwd1hreEJFTV8tNnJ4Yw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxoefp3x25wr29dutzutvviek1vwnnnylhfsgltu3hsmw5rmkv5mtbfzlpjd2pyzkx1bk5kt05fq1n6blfhrfjnturmbm5pruj",
+      "title": "Unlock Top Opportunities for Educational Funding",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFp3X25WR29DUTZUTVViek1VWnNnYlhFSGlTU3hSMW5RMkV5MTBFZlpJd2pYZkx1bk5kT05FQ1N6blFHRFJnTURmbm5PRUJXdkVHeHBuZzVkVFRFVy1VOXV6c19NNEt1MTkwSzBwcWdJeC1KQkR3M1JlMFZPUGJhaVhlUlpqWjRPNG9jd183cm7SAZYBQVVfeXFMTTVOV05HTUw3SkpkRnJhYTd4cTQxa1hLREpFSDdRRUJUSjJLS2tJVHhtdFp0ZktJWkh1LWdMaEd5Ny00Nk01eXB6NTdzdE1XVnlSTDdDX21Oc1IyUEFodUFuYU1lMGxNUllxSVp3Qms4eW9Xck5fZzI3WTlNcExOQ3B1dVpJR3B6OC10M2xUb3lCVGM1MVd3?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "github:agegr/pi-web",
+      "title": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "section": "github",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "github:koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "section": "github",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "github:schollz/croc",
+      "title": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "section": "github",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "github:chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "section": "github",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "section": "github",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-donation-public-first-action",
+      "title": "Donation Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-16617",
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "url": "https://huggingface.co/papers/2607.16617",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-19064",
+      "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
+      "url": "https://huggingface.co/papers/2607.19064",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-18367",
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+      "url": "https://huggingface.co/papers/2607.18367",
+      "section": "ai",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "Hacker News:blog-melashri-net-micro-back-to-kagi",
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "section": "tech",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "Hacker News:blog-fiddery-com-businesses-with-ugly-ai-menu-redesigns",
+      "title": "businesses with ugly AI menu redesigns!!!",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "section": "tech",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "Hacker News:www-cole-k-com-2026-07-21-reddit",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "section": "tech",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "Hacker News:beej-us-blog-data-mystery-comment",
+      "title": "10 REM\"_(C2SLFF4",
+      "url": "https://beej.us/blog/data/mystery-comment/",
+      "section": "tech",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbminwfbvv95cuxpvxnyajdidflkvmffmkd5u0zddljibxe0outzu0q5cu9gmfdfz3lswnnrns1zyjfkujzddwnmzmjzrezun1jnrk5jrvpry0t",
+      "title": "Weak AI regulation may backfire, making products less safe",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXNyajdidFlKVmFFMkd5U0ZDdlJibXE0OUtzU0Q5cU9GMFdfZ3lSWnNrNS1ZYjFkUjZDdWNmZmJzREZuN1JNRk5JRVpRY0t4YkQ5ekhNekxiaDVCeS1leWx3alVRX01TM3VsS1o4S2UtX3I5ZVlVUjNvcE5kZnlaR2tSa1BsVkVCTmZMd2pXRVZJQ3cxb3ZrNWFzQlJYRU0?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmitgfbvv95cuxozwjwmzlmsk84audubnvdql9qwwlmv205cxdddfuwztj4vxzsdm9wegjmczr1uf9vbkrsndnmsnf4vuy4c3jista5cnbus21",
+      "title": "European Commission publishes guideline on transparency obligations under AI Act",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWJWMzlmSk84aUdUbnVDQl9QWWlMV205cXdDdFUwZTJ4VXZsdm9WeGJMczR1UF9VbkRSNDNmSnF4VUY4c3JISTA5cnBuS21fOTdmMjZRQm1hWWFyRktCbHlvVFdMSldFR0FoZllwOWNBbDFxTEVoSTlkVEJmcGNBekFUcHMyc0N1aXZuTnFhM0c3WVBMbVdISzhzTU1fVkVmY0I1YXhRcUlnQU10XzMtOWQwTkJSUQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-22"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiv0fvx3lxtfbymxdquvdrws0xuxvuwuhnduhjeuheoepeckjiumhnm0zqtktzz1hbrexyylhhmnvfn1pjtjf5c0hlukdkttdltjb3m3oynly",
+      "title": "Critical minerals: The hidden resources powering the clean energy future",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByMXdqUVdRWS0xUXVuWUhNdUhJeUhEOEpEckJiUmhnM0ZQTktzZ1hBRExyYlhhMnVFN1pJTjF5c0hlUkdKTTdLTjB3M3oyNlY3YzAtNGtqcw?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-22"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbminafbvv95cuxqak9ld1vdug1pnzlfovbksgtkcwjia0xqam1yq2ttbm9azmj1a21dvld4zk5zc2zimjd4tgdzn0zqcexwcu1yq09umel2ddg",
       "title": "The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians (N50,000 monthly stipend)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQak9Ld1VDUG1PNzlFOVBkSGtKcWJia0xQam1YQ2tTbm9aZmJ1a21DVld4Zk5zc2ZiMjd4TGdzN0ZQcExWcU1YQ09UMEl2dDgzeGMxYW0xcWxpcG5Sc1ZIV1ZNYnJDZXkxV2FRd2plcXE4bktsM2IyQVBUM1l3TmUtT3Q5cTAtb3lKM1o0Q0JvblN6ZG1NejVKUXhfdUY?oc=5",
@@ -3353,153 +3500,6 @@
       "url": "https://huggingface.co/papers/2606.27313",
       "section": "ai",
       "sentAt": "2026-06-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-18394",
-      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-      "url": "https://huggingface.co/papers/2606.18394",
-      "section": "ai",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "Hacker News:github-com-deepseek-ai-deepspec-blob-main-dspark-paper-pdf",
-      "title": "DeepSpec/DSpark_paper.pdf at main · deepseek-ai/DeepSpec",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "section": "tech",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "Hacker News:arstechnica-com-gadgets-2026-06-streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california",
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "section": "tech",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "Hacker News:www-openra-net",
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "section": "tech",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "Hacker News:www-ycombinator-com-companies-nox-metals-jobs-m1f1end-software-engineer",
-      "title": "Software Engineer at Nox Metals",
-      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "section": "tech",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmimwfbvv95cuxquzzreljhykfoul9rwehmr3bjqmd6amlmzxvccve0anvms2xzbuoydw1hwum5tgljcxljcg1tefhoclbnmtzxags4qzrtazh",
-      "title": "F5 expands further into AI security with SurePath AI acquisition",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzZRelJHYkFoUl9RWEhMR3BjQmd6amlMZXVCcVE0anVmS2xZbUoydW1HWUM5TGlJcXljcG1teFhoclBNMTZxaGs4QzRtazhENTh3eUZIME9NMkh3UVhZTkRuNGNWNld1cnpzaFU4UWdFWkRXaUNFVnEtUUJsWVBReGVRYnlMeEJWeWRKclpWZ1pHT2Fib0JjSXUtbw?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmizkfvx3lxte1wz1jfc24yv0d0z09fduf1ztluawjvvmzwy3i3snfjb01gt3dubk5zemy1ofazeuu5afvnnhq3mlz0mvlps0hsvgv5efzjwgr",
-      "title": "INFLATION REDUCTION ACT OF 2022",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZ1JFc24yV0d0Z09fdUF1ZTluaWJVVmZwY3I3SnFjb01GT3dUbk5zemY1OFAzeUU5aFVNNHQ3MlZ0MVlPS0hSVGV5eFZJWGRTdmFpNS1ueUVsbjQzUVoxWjRycmo0UQ?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmixafbvv95cuxqvjhnourimwdsa2dox3a2vtntwk5lsghpynjzmzbveursrflocmlrdjbwclctt1jkltfqwkc2nfpbefrqsxpvdknrn3fjwg9",
-      "title": "Trump cuts to clean energy credits upend PA projects",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjhNOURIMWdsa2doX3A2VTNTWk5lSGhPYnJzMzBVeURSRFlocmlRdjBWclctT1JkLTFqWkc2NFpBeFRQSXpVdkNRN3FJWG9DN0V5Zk9jYUtocDRDZzJHZnBUNm82MDdGVlFpamFpaklZaFlrSEJnZzEza2dNSDVJOHJwczBzVzEzUE5tMjV2WGlVNE9wZHgxX3RJWUk2ZjdNQ0R2TjRMQlJ2N3ZvZ094WHowZU0zeWdkbXB2VmZhcHBQeld3?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqafbvv95cuxqenjotnu0shluqzfoewvuajzrbu1qcg5pmmfptxrjmzdwu01xshjpeu9ju1ituw9jtg9hsmpldvbhsei4ufdbc0nzyjg2zun",
-      "title": "Here's How Much the World's Most Valuable Company Pays Staff, Including Software Engineers and Researchers",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenJoTnU0SHluQzFOeWVuajZrbU1QcG5PMmFPTXRJMzdwU01xSHJPeU9jU1ItUW9JTG9hSmpLdVBhSEI4UFdBc0NzYjg2ZUNHWVk4OEV1OTV4enk0bVMycHktS2FhcHhPZkgtenJ6S3h5blItOWlSSWhQRUhYVVVLM2ItOWFCVVMtWkpMZHpGd3RScUk5d2RMUkxHQklraHF2MGxYMmtmeW4?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "github:simplex-chat/simplex-chat",
-      "title": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "section": "github",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "github:commaai/openpilot",
-      "title": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "section": "github",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "github:grafana/grafana",
-      "title": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "section": "github",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "github:ripienaar/free-for-dev",
-      "title": "ripienaar/free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "section": "github",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "github:kunchenguid/no-mistakes",
-      "title": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "section": "github",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-26790",
-      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.26790",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-27377",
-      "title": "DanceOPD: On-Policy Generative Field Distillation",
-      "url": "https://huggingface.co/papers/2606.27377",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-26907",
-      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
-      "url": "https://huggingface.co/papers/2606.26907",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-26300",
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "url": "https://huggingface.co/papers/2606.26300",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-14397",
-      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
-      "url": "https://huggingface.co/papers/2606.14397",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-24551",
-      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2606.24551",
-      "section": "ai",
-      "sentAt": "2026-06-26"
-    },
-    {
-      "key": "Hacker News:akrites-org-letter",
-      "title": "Open Letter",
-      "url": "https://akrites.org/letter/",
-      "section": "tech",
-      "sentAt": "2026-06-26"
     }
   ]
 }
