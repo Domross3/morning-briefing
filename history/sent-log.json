@@ -2,6 +2,160 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte95ry1od3lgdkwzcmm2n1foww9xrev2ngneewlyvkowudm2enhibzjonklwbhplq2vatdfwsjhadnfttjryn2fux09xsesxdkf",
+      "title": "Pathfinder Fellowship Fall 2026 Applications Open for Student Leaders Advancing AI Safety and AI Policy",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95Ry1od3lGdkwzcmM2N1FoWW9XREV2NGNEeWlyVkowUDM2enhibzJoNklWbHpLQ2VaTDFWSjhadnFTTjRYN2FuX09XSEsxdkFrekw5STY4a083TDBON3lXZWh1RU5KWUFQVzlWZWhIemtSRmR6eEE?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxprw13mlhonnewdzlhn2ngatnhbg8ynk9irdbttjfvagjvafq3rkhuz1nqcufcvxjwbnpylwc0yni0vgxryunflxnru0dvzll",
+      "title": "Build vs. Rent: Should You Hire an In-House Forward Deployed Engineer or Bring In Fractional FDE Talent?",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW13MlhoNnEwdzlHN2NGaTNhbG8yNk9IRDBTTjFvaGJVaFQ3RkhuZ1NqcUFCVXJWbnpyLWc0YnI0VGxrYUNFLXNRU0dvZllySGlRMmNWMlpLeHZ3T29Yb0Z2ZW5uTDZ5eUdoZ25FamVuU25LY1lOOG1FSjRqLWhlWkxPTlNiV2JUdVp4b0JiXzR6bmFIcFcxWUJ2cEhTU1hPR0E5WkhTVHNwOXlyTU9tdURUX3Z0bm5qUUlNSGtSUUFibV9ieWlnMGhiM2Zjc19kS05nLWpmNA?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxqrwywq29wcwrrynfqc2gzsgdms1dxdlhkz3zfrtdpcw83cw1trvhpexjnx25pm1zuvflpthf3ngfwvgvosmfzrxvhd0ctde9",
+      "title": "AWS joins OpenAI and Anthropic in race to embed engineers inside enterprises",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWYwQ29WcWRRYnFQc2gzSGdmS1dxdlhkZ3ZfRTdPcW83cW1TRVhPeXJnX25PM1ZUVFlpTHF3NGFWVGVOSmFzRXVHd0ctdE9YOHo5MzlGLW9VeTc2V1VYenBsWXQtdmYzazduTkxzdDV1QVJwRlRSMC1TVnhaNnlJc1Q5bmdSZnZ0UUIxZUtEUmpIUE9ZUnZvYmsyQVFHaE96ZzJn?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "github:alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "section": "github",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "github:citrolabs/ego-lite",
+      "title": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "section": "github",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "github:ComposioHQ/awesome-claude-skills",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "section": "github",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "github:block/buzz",
+      "title": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "section": "github",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "github:Pumpkin-MC/Pumpkin",
+      "title": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "section": "github",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-economic-futures-research-fund-agenda",
+      "title": "Economic Futures Research Fund Agenda",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-anthropic-economic-index-connector",
+      "title": "Anthropic Economic Index Connector",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-advancing-the-next-era-of-national-science",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-19604",
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "url": "https://huggingface.co/papers/2607.19604",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-10169",
+      "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.10169",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-19691",
+      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
+      "url": "https://huggingface.co/papers/2607.19691",
+      "section": "ai",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "Hacker News:blog-google-innovation-and-ai-technology-research-understanding-the-ai-economy",
+      "title": "Understanding the AI economy",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "section": "tech",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "Hacker News:www-reuters-com-business-retail-consumer-alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "section": "tech",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "Hacker News:frame-work-desktop-tab-192gb-coming-soon",
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "section": "tech",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "Hacker News:www-theguardian-com-technology-2026-jul-23-eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "title": "EU fines Google €890m for competition breaches over search and apps",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "section": "tech",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiowfbvv95cuxpeglvt29znhn2z1dcy0pjms1maxfbqwltnlv3vxfilwdlbm1ibzrqveptrf9ed2t2oed5wjhzb25tcwz3wkhlwjnsckhbmwd",
+      "title": "Connecticut Extends AI Regulation to Subscriptions",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGlvT29zNHN2Z1dCY0pjMS1maXFBQWlTNlV3VXFiLWdlbm1ibzRQVEptRF9Ed2t2OEd5WjhZb25tcWZ3WkhLWjNSckhBMWdud2U4MkRLWFdiVnlpbk5mSUJwU0dnV3NfMjdjNU5LMlMxM0VjQktWbGFCNE14bWJCaDB5VzRFdnN1UFZST1JqdTFLWVlIMlVjY3YyUFBRZEg1WEtz?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmipgfbvv95cuxpmlywd1fnsfqwc0jsrhdstzzjnw1rdwhzte9bu0r1b0dqzmvybgfzqna2vhhyvs1odwpkaxg0rfzinjniy00xx0xxbm5uaew",
+      "title": "Opinion: Increasing AI funding is not the solution UCLA students need",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlYwd1FnSFQwc0JSRHdsTzZJNW1rdWhZTE9BU0R1b0dqZmVybGFZQnA2VHhyVS1OdWpkaXg0RFZINjNiY00xX0xxbm5UaEwzUmFMbjE3VUpMUzNfZnBqR2RZOUEybGQ5ODBoWWw1WU9VbFNqSTladHJNQWV2anN4LWFQT18wTWdra1p4S3NBZzl4S2h1UnJwdlMwTFZhd01qQjNaRldR?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmiqafbvv95cuxqvjc5uu5rwefhq0wtnjv2ddlixzdca0xpmlhdqxk1axlkyxl1nnc1zvi0cjfssnhlmnnwlxzztmnir1hetu5vvlp6r1lfugj",
+      "title": "Moonshot AI IPO: Everything You Need to Know About Moonshot AI",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjc5UU5rWEFhQ0wtNjV2dDlIXzdCa0xpMlhDQXk1aXlKYXl1Nnc1ZVI0cjFsSnhlMnNWLXZzTmNiR1hETU5VVlp6R1lfUGJ4aGtjcUFsX1U4c3lQTjlhR19hMFFMdzBWTl92SGxKaC1NLUpGZGVUTWVtM3YtUXdpTGRpcERoNmdNS0REWXpVSERLMUowNnZFRGJDYWJucVdqUFhmMU1fTUc?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-23"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmilwfbvv95cuxpq3nvedz4cvvunzzywfjqb0v5axbdwc1lcni3yzfon3f1tmhfundbbu9psepwq0jwr0zlyxrjudbcmhaytfbsqm14zmt1bjj",
+      "title": "State legislatures are getting better at clean-energy permitting policy",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3NveDZ4cVVUNzZYWFJQb0V5aXBDWC1lcnI3YzFON3F1TmhFUndBbU9pSEpwQ0JwR0ZLYXRjUDBCMHAyTFBSQm14Zmt1bjJPUmkyMm5hdkcxQWhOVWxZX0xiRGxHQW9hTFdaUE1NUk5QU3VSS2JZdlJxWUxQNUN4ZVZRTEpmYkpLcDZPMFg5b2NQU2E0TFBF?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-23"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
       "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
@@ -3346,160 +3500,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzlfVkx3UGFWNUNaQjlxRlp5ZEpyR2d3bFpLRG5CWWgtZS05aDBfdmg4Z1NQRDk2S0VkMjlETnlaOE5hS3ppbHE5N1hLRXlfdXI1N2xmdUxzVGdtZnBGM1ZRbk1pZTllSDUtVDdjdWlBYWRuMzA3VHJib0pfY25YNmJxNmduWUxDbkZIMXVINFJiRGc?oc=5",
       "section": "opportunities",
       "sentAt": "2026-06-28"
-    },
-    {
-      "key": "github:HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "section": "github",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "github:browser-use/video-use",
-      "title": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "section": "github",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "github:altic-dev/FluidVoice",
-      "title": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "section": "github",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "github:cupy/cupy",
-      "title": "cupy/cupy",
-      "url": "https://github.com/cupy/cupy",
-      "section": "github",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "github:ByteByteGoHq/system-design-101",
-      "title": "ByteByteGoHq/system-design-101",
-      "url": "https://github.com/ByteByteGoHq/system-design-101",
-      "section": "github",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "Hacker News:github-com-itsthelore-wayfinder-router",
-      "title": "GitHub - itsthelore/wayfinder-router: Simple CLI tool for deterministic routing of queries between local and hosted LLM models",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "section": "tech",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "Hacker News:www-eff-org-deeplinks-2026-06-kids-act-would-require-age-checks-get-online",
-      "title": "The KIDS Act Would Require Age Checks To Get Online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "section": "tech",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "Hacker News:www-cbc-ca-radio-ideas-humboldt-education-system-bildung-1-7172093",
-      "title": "How the origins of the school system aimed to produce independent, critical thinkers",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-      "section": "tech",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "Hacker News:github-com-openai-codex-issues-2847",
-      "title": "A way to exclude sensitive files · Issue #2847 · openai/codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "section": "tech",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmijgfbvv95cuxoofd0bgltx1dovmfyctmtmk1qem1ftmpdsexgbhjsazjrvlhud3jroxnzqmpleec5lw1zr0vpn2jfu0v1nzhsn1n5oe0xagi",
-      "title": "From governance to execution in federal AI policy",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFd0bGltX1dOVmFYcTMtMk1Qem1FTmpDSExGbHJSazJRVlhUd3JROXNzQmpleEc5LW1ZR0VpN2JFU0V1NzhSN1N5OE0xaGIxZFZQRlgyVjEwM2hmNXpXSjVhSzdnWW01VzdXT3lfSFc4UEZtX3Y5R3RNa0NmYmY3TlZXYkM4WVhwcEt6VkhR?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte5muvdrn21gbul6zkjxzkxwdxnqegk2ynpkcjvhsm1wdxvuuhbysu9xzljatejhsupxmgzhtgx6vg90d3c0dlhsuvvsql9rtjg",
-      "title": "Vals AI Fellowship 2026 (up to $2,500 stipend)",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MUVdRN21GbUl6ZkJxZkxWdXNqeGk2YnpkcjVhSm1WdXVuUHBYSU9xZlJaTEJhSUpXMGZHTGx6VG90d3c0dlhsUVVsQl9RTjg2UXA4ak52ZUNWYkRsakhQbTBsZkh0WmlqVUJTMkxmdGU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmie0fvx3lxte9untzxcetxautlckxddm5jsgdmbfzwduzlt1m5utvbegpsuwzfrmtjmxizv0l3q0fwchlhx1hnvs1kmu50blfrrhjwumcyqkj",
-      "title": "Why Forward Deployed Engineers Are the Rage",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uNTZXcEtxaUtlckxDdm5jSGdMbFZWdUZlT1M5UTVBeGpSUWZfRmtjMXIzV0l3Q0FWcHlhX1hNVS1kMU50blFRRHJwUmcyQkJmR1p2bHJ4bGxpLWtpWHc4YUNYb2lxYTJrSXUxbkZSNHpSRkhhbklsOFhtYw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmitafbvv95cuxoy05stjnqwldqmzk4sfo5zjmyrxd0sxewcdjlcwxws1e4lujmbw96whddzdvcehgywvzmwwuzcmxidmtevjeztjnhb20zt1b",
-      "title": "AI Agents Get Dumber With More Context, Expert Warns",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY05STjNqWldQMzk4SFo5ZjMyRXd0SXEwcDJLcWxWS1E4LUJmbW96WHdDZDVCeHgyWVZMWWUzcmxIdmtEVjEzTjNhb20zT1BzS3d0dEZzOGdGMFNoRE1NUGhBUFVNdWVNREx1bDJZTko1cWIwQTRmLUV0NTM5c0Rha1liSG15eUV2cXVJZ0d3SEVCQjBuNF9qNjh1UUQzUXVvT205VkhyZHFwdjAxV29ZcjJidDg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi3gfbvv95cuxnwgpcz1zvuk1lskvaunlud1a0djyxukwttfbkwhjdwfzksnnnnuzzznvlugttnuhlnze4b1rkukjmaufswu1juhfuuellz05",
-      "title": "Neuroscientist warns Gen Z first generation less cognitively capable than their parents",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpCZ1ZvUk1lSkVaUnlud1A0djYxUkwtTFBkWHJDWFZKSnNNNUZzZnVlUGtTNUhLNzE4b1RkUkJMaUFsWU1JUHFuUElLZ054MmN4UkxrbzlJTG5nSUFGRXdmdEJxdW5KaU5HMFlFRHhMUnI2dmpsVFh3V0pxUHludmtYZWw2RmsxN2lJUWtRWFI0Z3gzLU4yWG90Wlo1REd5dkVfQ2hxcEFuY09BZUNINzVHeFdlNmlybTdCMHN0Ylc4RGNINGE4ZFZCaFRKODEzeldlQWVURTQ0TTZHeEE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "github:hugohe3/ppt-master",
-      "title": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "section": "github",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "github:Anil-matcha/Open-Generative-AI",
-      "title": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "section": "github",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "github:dbt-labs/dbt-core",
-      "title": "dbt-labs/dbt-core",
-      "url": "https://github.com/dbt-labs/dbt-core",
-      "section": "github",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-economic-index-june-2026-report",
-      "title": "Economic Index June 2026 Report",
-      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "section": "ai",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "section": "ai",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-26025",
-      "title": "In-Context World Modeling for Robotic Control",
-      "url": "https://huggingface.co/papers/2606.26025",
-      "section": "ai",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-26217",
-      "title": "Fast LeWorldModel",
-      "url": "https://huggingface.co/papers/2606.26217",
-      "section": "ai",
-      "sentAt": "2026-06-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-27313",
-      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
-      "url": "https://huggingface.co/papers/2606.27313",
-      "section": "ai",
-      "sentAt": "2026-06-27"
     }
   ]
 }
