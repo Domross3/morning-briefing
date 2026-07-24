@@ -2,6 +2,139 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxtfb2umfjvljxcehmn08zexzvqlpna1fhyzvynxrknlrjtdljuvfpneu4zflxt21xdg1hzgxft0hhsk9msg14suvybzrwu3fqbdz",
+      "title": "Memories.ai Opens Applications for 2026 Fall Research Fellowship in Visual AI with $1,000 Monthly Stipend",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2UmFJVlJxcEhmN08zeXZVQlpNa1FHYzVyNXRKNlRJTDljUVFPNEU4ZFlXT21XdG1HZGxFT0hhSk9MSG14SUVybzRWU3FQbDZpVUpXRXdaemtOWWlWTTdQcHZFZUlCOGp6RlNSMWJOT0NFVC1jZ2c?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmilafbvv95cuxqmlmwzeiyn1fic3lnmgtawxrjvk0xegewckx0cjhoq0w1m2t1bupsx3fnzjjibhhmulgwmevqqmjmms14q1llnfdlbkswyvj",
+      "title": "How to apply for Tunde Onakoya’s ₦250m scholarship, free laptop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlMwZEIyN1Fic3lNMGtaWXRjVk0xeGEwckx0cjhOQ0w1M2t1bUpsX3FNZjJIbHhMUlgwMEVQQmJMMS14Q1lLNFdlbkswYVJnNjNqZ1lQUUtTel9XQ3FYM0JDS3diSU9KM3BGVWF1ZThUanRNM0g2eGFDbEE3OGZiTV9hZ0J4N2ZDek02OThwNnB4ZDNW?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "github:CoreBunch/Instatic",
+      "title": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "section": "github",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "section": "github",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "github:Automattic/harper",
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "section": "github",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "github:yorukot/superfile",
+      "title": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "section": "github",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "github:likec4/likec4",
+      "title": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "section": "github",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-economic-index-june-2026-report",
+      "title": "Anthropic Economic Index report: Cadences",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21461",
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "url": "https://huggingface.co/papers/2607.21461",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-20911",
+      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
+      "url": "https://huggingface.co/papers/2607.20911",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-20709",
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "url": "https://huggingface.co/papers/2607.20709",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-20061",
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "url": "https://huggingface.co/papers/2607.20061",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2605-09635",
+      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+      "url": "https://huggingface.co/papers/2605.09635",
+      "section": "ai",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "Hacker News:militarywatchmagazine-com",
+      "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+      "url": "https://militarywatchmagazine.com/",
+      "section": "tech",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "Hacker News:www-eyosias-dev-blog-llms-are-still-toxic-and-bad-at-math",
+      "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
+      "url": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
+      "section": "tech",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "Hacker News:psychotechnology-substack-com-p-em-dashes-are-fucking-amazing",
+      "title": "Em dashes are fucking amazing",
+      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "section": "tech",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "Hacker News:www-bruh-ltd-blog-programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code",
+      "title": "Programming language file extensions that match an ISO 3166-1 alpha-2 country code | Blog",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "section": "tech",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi1gfbvv95cuxqdw9emxdmtjlouxe5ekdtehvza0vxow10a256buz4wenwwxluctdfy3pwbkzmzwxza1hnqs1sd3plb3cwz1fnvhptu3h4ck5",
+      "title": "ICYMI: Chairman Guthrie Joins Fox Business Network to talk AI Policy and the Ratepayer Protection Act",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdW9EMXdmTjlOUXE5ekdTeHVZa0VxOW10a256bUZ4WENwWXlucTdfY3pWbkZMZWxza1hnQS1Sd3pLb3cwZ1FnVHpTU3h4ck5hZVU2TkhnbkxrVGFDX0RfeTdMRThkby1DSVNFa212MnRVU0pudm1HWng4TEttQ21mbEJrVWVLUC0ybDhSeERNdUJHQk5rMHdDMGtEcmtqbnZLZXcxa3BBcVhLRXZPTVdnZTh0THE1MXlqUC1zMkgzQ3Y5MkNhWktVQ2lQNDFhdUdkdzRmNmFR?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-24"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbmigafbvv95cuxnul8wymfmoxr5uwrdqngwbmjpzlfzxzjinnzxem96lw9wsmdptlredldirdrps2twburgdjrmnvq0wuf3vkdhtufhrunedjd",
+      "title": "Moonshot, DeepSeek, and the Great Chinese AI IPO Rush",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl8wYmFmOXR5UWRDQngwbmJpZlFZXzJINnZxem96LW9wSmdpTlREdldIRDRPS2twbURGdjRMNVQ0WUF3VkdHTUFhRUNEdjdaZHlvSE5rb1UxMzlRcGpKWlRoM3cxeWx4eklRTThXX2UzVXBWdEdoTmsydXJ2N0h3Ng?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-24"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte95ry1od3lgdkwzcmm2n1foww9xrev2ngneewlyvkowudm2enhibzjonklwbhplq2vatdfwsjhadnfttjryn2fux09xsesxdkf",
       "title": "Pathfinder Fellowship Fall 2026 Applications Open for Student Leaders Advancing AI Safety and AI Policy",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95Ry1od3lGdkwzcmM2N1FoWW9XREV2NGNEeWlyVkowUDM2enhibzJoNklWbHpLQ2VaTDFWSjhadnFTTjRYN2FuX09XSEsxdkFrekw5STY4a083TDBON3lXZWh1RU5KWUFQVzlWZWhIemtSRmR6eEE?oc=5",
@@ -3367,139 +3500,6 @@
       "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
       "section": "tech",
       "sentAt": "2026-06-30"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiswfbvv95cuxnsu9qyk92b0q2culazfdtwgvhvxnwduzvakpheepiyi1vmfdytelkblfxaexaakj2bxa1rtaxtnq3mzzgtfgytdnrvzzhvlv",
-      "title": "AI IPO Wealth Seen Bolstering Luxury Industry Hurt by Iran War",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSU9qYk92b0Q2cUlaZFdtWGVHVXNwdUZvakpHeEpIYi1VMFdyTElkblFxaExaakJ2bXA1RTAxTnQ3MzZGTFgyTDNrVzZhVlVaaUp5MVJGQngzZkc5VENQdjg0SmZlVmVhWGZRLVdLU0w0S1pNaVhiNGEwQ3dkSWdtWXZrNVdYYjRhYXlfM2hLR3hkTTlWZzA4Q21lTXpyQzJMbUdibGJTMnBpT0FYTk9ZTG5EQQ?oc=5",
-      "section": "finance",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiggfbvv95cuxozkxpwdz5mk83m2pzsgt4zjutbzvcenbsmuzva214empqdljzq1u2wdgzvg1ibvy2nfvsr3rgb0nltwlyc1v0tzrwa3pbrxr",
-      "title": "Johns Hopkins School of Government and Policy (SGP) AI Fellowship Program 2026",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkxPWDZ5Mk83M2pzSGt4ZjUtbzVCenBsMUZva214empqdlJzQ1U2WDgzVG1IbVY2NFVSR3RGb0NLTWlYc1V0TzRWa3pBRXRrSXAtNmEyVTMwYmNkQzg2SV9OeFkxdVlNd2h6Uk56eElfeFRwLW9mRGxjaTB6TVBJclJ3?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi4wfbvv95cuxqm1jrtlfysuxgq0hzzuvjvmf4zed2dlktymt6d0rtbkfzehzwq1pnwc01ehnlnuzoohbbugmzewrqa19vc1a1sun3bkl4dtr",
-      "title": "Galatiq launches as the Forward Deployed Engineering organization purpose-built for SpaceX AI",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM1JrTlFySUxGQ0hZZUVjVmF4ZEd2dlktYmt6d0RTbkFzeHZWQ1pnWC01eHNlNUZOOHBBUGMzeWRQa19Vc1A1SUN3bkl4dTRBeWNXZ0RYVVc3UTl2bkVvaVh0WkhsWjk0X09sNEdfV05DcHRtTzlHckw0eDhVbjhTWGJaVWV5bTRuX0o2dzF0X19zZWkwbkw4UklSeVA3VmVyX0VrMEF2RmhEQUFSTTJkT2xUNnRUeGY5eUJVV3g3c1hpV1JLSngzWTlqRTVjZjYyLVNDR2lvUlRwRlVHYS1iQ0xLWQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxnukzsagz5u1dtvul2mejumxaztlrzejgtwgvbav9rsxdksnriuhatadrfrdvvzennrwwxaepiag5xqk42a3rjlvgxudqzntr",
-      "title": "The forward deployed engineer: A role designed for CX in the age of AI | CX Network",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkZSaGZ5U1dtVUl2MEJUMXAzTlRzejgtWGVBaV9RSXdKSnRIUHAtaDRFRDVvZENNRWwxaEpiaG5XQk42a3RJLVgxUDQzNTRLMHJkX2lZMGwySEswTS11ZGd2N1hJcUJUY3dZMHZWS1cwRnJBVUtTUmM2NmMwZXFHaUlieFhsMVhyQUZPTl81a2lKVHlXQzd1V2pjOWp2RExTNGwtYWVBakVrME1l0gGyAUFVX3lxTFBzcGZ5VlJWZDFnNGFlOTZ1UmF2Tm1HUjNveWFkZVhKLW82M0hZUkpxMW1pelRIcGtOMFQwSUFnZzRQTEg0WGRGaF8tTkE5eUFWSE0ySXZVaW1tdWdnUGVORzZxbFRVdDN2T2FLanJzMmttaVVCajE5Rk5HNlpDVWJ3LWZOZU5abWVhREpEd1lvS3hrclBHSHlPSzNwanlKMEVJUnRFYWFrR2syTldVaHhFWlE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxouhhtujvfcy1dwnvcrlr4vuxvwtzouge3vw9syzfqrg1gmi1hvnbvzfdcaglgztroc2x3av8zajdkewhfoufpzwtpq0fln3r",
-      "title": "Funding available for undergraduate research employment",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHhTUjVfcy1DWnVCRlR4VUxVWTZoUGE3VW9sYzFqRG1GMi1hVnBvZFdCaGlGZTROc2x3aV8zajdkeWhFOUFpZWtpQ0FLN3RiNWlvdFpTTW1oS3JBQldtb0R0QlJySTFjOElUX01lXzNrYkZVci13UTRZT1p5WWR6Zi1PaFZMcXJPMjdWTnJySFctenBHWjliVQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmieefvx3lxtfbpuuxrx0i5ulk3mug3cjfmcjzbmdzvv2noa3pvdu5yr3hzwhlqanvsofzrrvz4djn5ndlucgppzlzxak5sd2oyrlnwrwmtoex",
-      "title": "10 Scholarships And Grants For Adults Going Back To School",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUUxrX0I5Ulk3MUg3cjFMcjZBMDZvV2Noa3pvdU5YR3hZWHlQanVsOFZRRVZ4djN5NDlUcGppZlZXak5Sd2oyRlNwRWMtOExuS1NBY182ek5odVRsWGotQVJDOUhzWV9iQ2tOMnJTR0VZdWNHMThlMg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxomfi0s3byq0gtr2lmbnpcr3bfdjy0whyyvvhazwzpm2otagw2agh6r3zxt2hevldsavlfv21qckhkew0wcfhzcdi4luffrgf",
-      "title": "Apply for EducationUSA Opportunity Funds Program 2026 (Zambia)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFI0S3BYQ0gtR2lMbnpCR3BFdjY0WHYyVVhaZWZpM2otaGw2aGh6R3ZXT2hEVldSaVlfV21qckhkeW0wcFhzcDI4LUFfRGFQRFRlV3NlX1NzR2dyMDc2WHdTUlRIQ3RhNEtUdUpQUjFOWTZuYmRmTEl0cEtVbjJsYnVtX19ZTUtjUlQ4SG8tQUN3QS1ud0YwNy1qUkEyQ0g0NWxrbGtESDFjQdIBqgFBVV95cUxOMFI0S3BYQ0gtR2lMbnpCR3BFdjY0WHYyVVhaZWZpM2otaGw2aGh6R3ZXT2hEVldSaVlfV21qckhkeW0wcFhzcDI4LUFfRGFQRFRlV3NlX1NzR2dyMDc2WHdTUlRIQ3RhNEtUdUpQUjFOWTZuYmRmTEl0cEtVbjJsYnVtX19ZTUtjUlQ4SG8tQUN3QS1ud0YwNy1qUkEyQ0g0NWxrbGtESDFjQQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "github:msitarzewski/agency-agents",
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "section": "github",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "github:logto-io/logto",
-      "title": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "section": "github",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "github:veracrypt/VeraCrypt",
-      "title": "veracrypt/VeraCrypt",
-      "url": "https://github.com/veracrypt/VeraCrypt",
-      "section": "github",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-hp-frontier-partnership",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28057",
-      "title": "MultiHashFormer: Hash-based Generative Language Models",
-      "url": "https://huggingface.co/papers/2606.28057",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-22873",
-      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
-      "url": "https://huggingface.co/papers/2606.22873",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-27974",
-      "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
-      "url": "https://huggingface.co/papers/2606.27974",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28276",
-      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-      "url": "https://huggingface.co/papers/2606.28276",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28187",
-      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2606.28187",
-      "section": "ai",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiuwfbvv95cuxncv81sg5fbkstmmh0agpunnpvc1fxttn3vve1m0vxd3pjuteybmtta1npoe8wb0hyrxrjdmv3dgvtvustlvixcznozjdznkw",
-      "title": "EU AI Act Transparency Obligations: Preparing for Compliance by 2 August 2026",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcV81SG5FbkstMmh0aGpuNnpvc1FXTTN3VVE1M0Vxd3pJUTEybmtta1NPOE8wb0hYRXRjdmV3dGVtVUstLVIxczNOZjdZNkw5SWlmbnpxTWZfeVZDV3VlSVoyWXhfUFJVYmNsZDI2RjR4dUxZNjM2VTB6cVhFQTdJVXFlU2Rwa2FkRTI4NWFtdmgxb2RXVm8waDZmcGJxZ05HVGEtWDdZVGg5WHBrWWltcFdWTGlaQ3RCOFQ0?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-06-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilwfbvv95cuxqzw5msi1vwmnfytc1wulatw1aykp3czb6y242mzvbdfjodfr6qvnjmjq3wwfptwi0bzbvyvpjatluni1gdhdidus3vzddm1d",
-      "title": "Applications Open for Fully Funded Techpreneur Bootcamp Batch 2",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZW5MSi1vWmNfYTc1WUlaTW1aYkp3czB6Y242MzVBdFJOdFR6QVNJMjQ3WWFPTWI0bzBVYVpjaTluNi1GdHdidUs3VzdDM1dneF9IcVByVEpkQlg2WkNmcTlIMFQtRmlodG5lRGNWSGlhTVF2dVJ6d25GM085ZGlLZVlRTlpEZk5XcEdNN2M1WVMwbkE1TUJn?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxouzlfvkx3ugfwnunaqjlxrlp5zepyr2d3bfplrg5cwwgtzs05adbfdmg4z1nqrdk2s0vkmjletnlaoe5hs3ppbhe5n1hlrxl",
-      "title": "AI Skills Command a Premium as Talent Shortage Deepens",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzlfVkx3UGFWNUNaQjlxRlp5ZEpyR2d3bFpLRG5CWWgtZS05aDBfdmg4Z1NQRDk2S0VkMjlETnlaOE5hS3ppbHE5N1hLRXlfdXI1N2xmdUxzVGdtZnBGM1ZRbk1pZTllSDUtVDdjdWlBYWRuMzA3VHJib0pfY25YNmJxNmduWUxDbkZIMXVINFJiRGc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-28"
     }
   ]
 }
