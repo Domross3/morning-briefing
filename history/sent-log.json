@@ -2,6 +2,118 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxqmzuyvvjoq0lwbupnv3zvowtkvxluz3hxdzjln1e3qje1vupkr0ktql9fm3vlredyrnhoqkdyruw2x2tizxlizdhune5xtjd",
+      "title": "Apply Now: PW AI Startup Challenge 2026 (India)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzUyVVJoQ0lwbUpnV3ZVOWtkVXlUZ3hXdzJLN1E3QjE1VUpkR0ktQl9FM3VlREdYRnhoQkdYRUw2X2tiZXliZDhUNE5XTjd1S3pUS3BVQURiNXdKN0tzRjVReEhFdk1McnE2a1ZjUVFtMjNLVXhuZVNBYnFFUjJVcXdKeFgxNkhOODBPUEs1c9IBlAFBVV95cUxQOWV5UkdCSlN1OERxdG5RMmZNUmczSHltRXJTalFfQWgwSHFXU2EtUmFsaG0zNVduZHVCZE9GZHdrakhWOWNMNUdReGlrZHBobG5UQmpHRXBOQkl1M2o3cmYtRm9YZVY4S1lYVDJYQks5N0IybTBMRk1rNm9fb0c5TXRLeVVRY19jRDBvb1Y0Z3owWjcw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmix0fvx3lxte9gbktjwgjtb0fpsmpzlvrqcehtyxdculpmoetiwexobxpfyml0re9hdtrnzfvplvlfzjjoa0fldk54rtexnlfpvnbos0fktep",
+      "title": "What Is a Forward Deployed Engineer? Inside Tech's Hottest New Job—and How to Prepare for It",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GbktjWGJTb0FpSmpzLVRQcEhtYXdCUlpmOEtIWExObXpFYml0RE9HdTRnZFVpLVlfZjJOa0FLdk54RTExNlFPVnBOS0FkTEpqcmtzcHVwVkpFb281N0xZ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "github:permissionlesstech/bitchat",
+      "title": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "section": "github",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "github:palmier-io/palmier-pro",
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "section": "github",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-project-pilot",
+      "title": "Project Pilot: Can AI models fly drones?",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21556",
+      "title": "Visual Contrastive Self-Distillation",
+      "url": "https://huggingface.co/papers/2607.21556",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21072",
+      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+      "url": "https://huggingface.co/papers/2607.21072",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21553",
+      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "url": "https://huggingface.co/papers/2607.21553",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-12746",
+      "title": "Color Pass-Through via Camera-Display Coupling",
+      "url": "https://huggingface.co/papers/2607.12746",
+      "section": "ai",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "Hacker News:supakeen-com-weblog-the-fedora-45-sausage-factory",
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "section": "tech",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-kyber-jobs-fgmi8mx-head-of-engineering",
+      "title": "Head of Engineering at Kyber",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "section": "tech",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "Hacker News:www-augmental-tech",
+      "title": "MouthPad: the hands",
+      "url": "https://www.augmental.tech/",
+      "section": "tech",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "Hacker News:kitsumed-github-io-blog-posts-android-may-soon-restrict-on-device-adb",
+      "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "section": "tech",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiugfbvv95cuxqy1rkwnbzufhurus2zjbzeja1sjleywzjs0x0cdm0sdlbtfphvfd1nexirzrpn1n1tuuzwfnfs0z0bxjfndywwmpsqnv3cxl",
+      "title": "Fumbling Toward an AI Policy",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1RkWnBzUFhuRUs2ZjBzejA1SjlEYWZjS0x0cDM0SDlBTFphVFd1NExiRzRPN1N1TUUzWFNfS0Z0bXJfNDYwWmpSQnV3cXlhbHQxcHdOcVFtS25RNDBPRjl2blFVR0FsMkNiVU8zelpTR0dySENRc2VZU0hUSzFfUlF1MzJRbmpHeFBmeDdRWU9jdHpQcTJWU1Jyb1N3QUc3UjB2Rl9uMmZad1N1dlc5cUxSOG9NRHBXa0E?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-25"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmirgfbvv95cuxnamxhu0zgbtjwu2nzyxzbow1yeulgamfznmxqdvjcntffmzzrzudsbuhrv281tjduzezpdus3mgzwdjfonks1uvfzdm1umjl",
+      "title": "Washington state’s clean-energy bottleneck leads to calls for reform",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamxHU0ZGbTJwU2NzYXZBOW1YeUlGamFZNmxqdVJCNTFfMzZrZUdsbUhRV281TjdUZEZpdUs3MGZwdjFONks1UVFZdm1UMjlOaExuZVBlWS1MOE56aEFHQmswSURlRWg0MEQ5S0FRVjE1XzBoVF9ZYWFGY3RZbUhFVWIwcVhXWjdUZlBOaU05RnhuZVVtYkRWMjAyaU9EQlhNYV9iRmxEV1Q4cGlqRkE?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-07-25"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxtfb2umfjvljxcehmn08zexzvqlpna1fhyzvynxrknlrjtdljuvfpneu4zflxt21xdg1hzgxft0hhsk9msg14suvybzrwu3fqbdz",
       "title": "Memories.ai Opens Applications for 2026 Fall Research Fellowship in Visual AI with $1,000 Monthly Stipend",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2UmFJVlJxcEhmN08zeXZVQlpNa1FHYzVyNXRKNlRJTDljUVFPNEU4ZFlXT21XdG1HZGxFT0hhSk9MSG14SUVybzRWU3FQbDZpVUpXRXdaemtOWWlWTTdQcHZFZUlCOGp6RlNSMWJOT0NFVC1jZ2c?oc=5",
@@ -3387,118 +3499,6 @@
       "title": "Call for Applications: CRP Research Fellowship Programme",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWp3S3c3eUpteVlBOEpiNjlTM1R0eTVrQVk4cWFXWTIwVF9hZGFiNWdrVG9ENGcwWTlNMTZ0NlBaTi0wLWNGZlk0dXJvOTBHVVJHYWJiaUJ1S3hUdV9rNnAxS0FaNUI0Nk5EY0d0TDBCV0t4Sk1fSHAyd2hQRTNUWWtHTlVYLXNJclhVMmdHamJ1d3FDdHdYdF9WNERid9IBowFBVV95cUxQWGZTT0JoX0VJUlkzMVJFdmk4TS1tQy1jdmp0eUR6MmdjVzdVZ2IxU0FiUl9MNkxQSDVrOFBrYzZRbTdnX3Buako4UzFjTWlQT19CZzMwdi1mUElDWVpiZXFZMWpCbFEydVNEbndudUhhRFZxZk1PaTMtZzZGc21zTmh0RTNwUUpMMTVoMllVay1oc3NnTmpDMnR2S3JzRl9UbmRJ?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte9xtkowrgrurdlozu9veu4yaefsexe2aw4zlxzinvboqndpymhmv2rvowncywpgcms5wjbzlum5azbatuvncw9kodj2bwxrzw1",
-      "title": "Harvard Business School Announces 2026 Rock Venture Catalyst Cohort",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTkowRGRuRDlOZU9VeU4yaEFseXE2aW4zLXZiNVBOQndPYmhmV2RVOWNCYWpGcms5WjBZLUM5azBaTUVncW9kODJ2bWxrZW14V29EWndGSHNMMTVRS1pmVElTSllMblhmRFRnaA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "github:google/agents-cli",
-      "title": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "section": "github",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "github:diegosouzapw/OmniRoute",
-      "title": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "section": "github",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "github:ogulcancelik/herdr",
-      "title": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "section": "github",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "github:facebook/astryx",
-      "title": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "section": "github",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "github:usestrix/strix",
-      "title": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "section": "github",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28733",
-      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
-      "url": "https://huggingface.co/papers/2606.28733",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-30616",
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://huggingface.co/papers/2606.30616",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28480",
-      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
-      "url": "https://huggingface.co/papers/2606.28480",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-30410",
-      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
-      "url": "https://huggingface.co/papers/2606.30410",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-24256",
-      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
-      "url": "https://huggingface.co/papers/2606.24256",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-24143",
-      "title": "AsyncOPD: How Stale Can On-Policy Distillation Be?",
-      "url": "https://huggingface.co/papers/2606.24143",
-      "section": "ai",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "Hacker News:antaresindustries-com-updates-antares-achieves-criticality",
-      "title": "Antares",
-      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-      "section": "tech",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "Hacker News:arstechnica-com-gadgets-2026-06-sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy",
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "section": "tech",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "Hacker News:cekrem-github-io-posts-parse-dont-validate-typescript",
-      "title": "Parse, Don",
-      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-      "section": "tech",
-      "sentAt": "2026-06-30"
-    },
-    {
-      "key": "Hacker News:waag-org-en-article-european-digital-id-wallets-are-gift-google-and-apple",
-      "title": "Waag | European digital ID wallets are a gift to Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "section": "tech",
       "sentAt": "2026-06-30"
     }
   ]
