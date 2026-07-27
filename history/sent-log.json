@@ -2,6 +2,132 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmioafbvv95cuxqxzdjudnhm29md2pgogvqmkjyblbrohlpbwjndwfonll0wxhqnxblr1prelp1thnjmxbmczzydglqou5quhzyzi1dek9nrxf",
+      "title": "Applications open for Northeast India AI Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzdJUDNHM29md2pGOGVQMkJyblBROHlPbWJNdWFoNll0WXhQNXBLR1prelp1THNJMXBMczZydGlqOU5qUHZyZi1Dek9nRXFMamhUWWFaaXp4Um96WnN0MWpIazU2SGw2NldUV0M5a24yc1lqM1l1NEE3eGhVX3JtV2ZGX05IZ29kR0NRMW15YWJPanc4NVgwRHVwV0RjaTBx0gGmAUFVX3lxTE9tWmYxejFyblVQQ3JSNzFVZzBDbDNPNnZENmo5cXl6VXB1SHNkZElxeFlGMklBa2RTLVhmX19TelM5TW81eUljOVFTaEl0QWRic29KTm1feFFqZUhzZHQ5S1pzM0FVMHI0UTZjU1Rkang5d2JiT284WndaRmZoRWdtcjZ3TUpCMjU5c0xpNmdiUFdPTDRoMUkxekxtdzVXQlNkVDNHZ1E?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi8gfbvv95cuxnvxfpsvltetztafq1axd0ujv2nf9bdgtvugrkteroodjjyxozr21kbnlzv244cvvuttnpqla3n3blagpftju1bue5b3zoodv",
+      "title": "Call For Applications: NYSC to Tech Job ₦250 Million Scholarship Fund for Nigerian Graduates and Corps Members",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVXFpSVlteTZTaFQ1aXd0UjV2NF9BdGtvUGRKTERoODJJYXozR21KbnlzV244cVVUTTNPQlA3N3BlaGpfTjU1bUE5b3ZOODVBc1BJRUlwamJya1lnNjBqb1hhVndvZW1QM1ZQZmViVVZwYzYxelNXTENPZTRkTFUwSnNUdTVGVVl4OGlORTZHeThqTVhXMHVBdlA4UUpYMTRxZ3pBUW44am1nRmctR2hfSko3cVBBVnlhRWc5enM0THpHNjdzSW5KQ195dTlxelNnT01LbDJCQ3JhUmVyQXZxQW1rcVVvenFmaVJyTllaVmNzdw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmie0fvx3lxtfbmtdh3eezxtti3a1v0q3v3nxbqmvuyz0locezqc3pjahhps2fiqw9lymrtrtzkufpdejuwmnbvzdvkqmzjluu4sxvkuf9zcmj",
+      "title": "10 Scholarships And Grants For Adults Going Back To School",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMTDh3eEZxTTI3a1V0Q3V3NXBqMVUyZ0locEZQc3pjaHhpS2FiQW9LYmRtRTZKUFpDejUwMnBVZDVkQmZJLUU4SXVKUF9zcmJ4MG9vRlJmY3c3NjJMTXhfQ1NVUFZyUUdFYXVkd0lnOTdFN2FaVHdUUjlaVQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "github:amnezia-vpn/amnezia-client",
+      "title": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "section": "github",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "github:jenkinsci/jenkins",
+      "title": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "section": "github",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "github:bradautomates/claude-video",
+      "title": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "section": "github",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "github:ocornut/imgui",
+      "title": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "section": "github",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "github:vudovn/ag-kit",
+      "title": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "section": "github",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-22375",
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "url": "https://huggingface.co/papers/2607.22375",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-redeploying-fable-5",
+      "title": "Redeploying Claude Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-how-ai-is-expanding-what-people-do-at-work",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21653",
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.21653",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-21503",
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "url": "https://huggingface.co/papers/2607.21503",
+      "section": "ai",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "Hacker News:xcancel-com-hedgiemarkets-status-2081534588485296565",
+      "title": "Hedgie (@HedgieMarkets)",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "section": "tech",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "Hacker News:incredible-pm",
+      "title": "The Incredible Proof Machine",
+      "url": "https://incredible.pm/",
+      "section": "tech",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "Hacker News:ledger-worseonpurpose-com-brands",
+      "title": "Worse on Purpose",
+      "url": "https://ledger.worseonpurpose.com/brands",
+      "section": "tech",
+      "sentAt": "2026-07-27"
+    },
+    {
+      "key": "Hacker News:www-omgubuntu-co-uk-2026-07-chrome-arm64-linux-available",
+      "title": "Google Chrome lands on Arm64 Linux (with Widevine DRM)",
+      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+      "section": "tech",
+      "sentAt": "2026-07-27"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxns0vtvm9kyvzxv2f0qvlrcgpesgxax0twwg5hswjvbxfxzffiq2xuqu1pvzjlwe5adl9yoglumzfrvg5lc0reevdta0fuznv",
       "title": "Call For Applications: Bridge Leadership Bootcamp 2026 for Nigerian Students( Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0VTVm9kYVZxV2F0QVlRcGpESGxaX0twWG5HSWJVbXFxZFFiQ2xuQU1pVzJlWE5adl9YOGluMzFRVG5Lc0REeVdTa0FUZnVTWVUyQU9SbnNSN3AyTzAtMzFNQW4yNl9mdTlxTC1OWnVvajNDTmRPU29hcGF0SldIS1EzckcyOF9zYnZfcVFsdjdfUzVwck5kNGlvSW4wc1JvZHdldUNqUDZmMnNVUnk3bmpQb01heERXZ3c?oc=5",
@@ -3374,132 +3500,6 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "section": "github",
       "sentAt": "2026-07-02"
-    },
-    {
-      "key": "github:openai/codex-plugin-cc",
-      "title": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "section": "github",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-01104",
-      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
-      "url": "https://huggingface.co/papers/2607.01104",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-01071",
-      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
-      "url": "https://huggingface.co/papers/2607.01071",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-00466",
-      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
-      "url": "https://huggingface.co/papers/2607.00466",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-00678",
-      "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
-      "url": "https://huggingface.co/papers/2607.00678",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-00248",
-      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
-      "url": "https://huggingface.co/papers/2607.00248",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-28322",
-      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-      "url": "https://huggingface.co/papers/2606.28322",
-      "section": "ai",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "Hacker News:www-cnbc-com-2026-07-02-alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal-html",
-      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "section": "tech",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "Hacker News:www-niemanlab-org-2026-07-now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-      "section": "tech",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "Hacker News:shkspr-mobi-blog-2026-07-this-blog-is-written-in-en-gb",
-      "title": "This blog is written in en-GB",
-      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-      "section": "tech",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "Hacker News:arxiv-org-abs-2607-01232",
-      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "section": "tech",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmimafbvv95cuxqnzjisxbvr1piuwppyxr3a2rwm0pbyug3n1flugcyrlnxwum0ofr3cv95tg1ynw5jrwdkmfu5mm5hmxbmowzsvi1tyxzlby1",
-      "title": "Anthropic's $965 Billion AI IPO Setup Gets Major Regulatory Relief",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzJISXBVR1pIUWpPYXR3a2RWM0pBYUg3N1FLUGcyRlNxWUM0OFR3cV95TG1YNW5JRWdkMFU5Mm5hMXBMOWZsVi1tYXZlby1ZQWRaaW9TNHk4eDBMN3hET0RQUjh2bXMxb1phZy0zVUxPU2lhdXZrNXhXQWRJYWw3OGVCdmJnaFR5S0VjQzlzaWlGX0NsbVA5MA?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmipgfbvv95cuxqzxjpddlbslfmc2hnlurawhllvtnxeujfcjf4r1jmegd5eunwcxpkru5ub3v4ty1qcgdpcu1zmgfbc1jjy25imuftqkhhmdv",
-      "title": "Tiny PowerHouse provides hands-on demonstration of clean energy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXJPdDlBSlFmc2hnLURaWHlLVTNxeUJfcjF4R1JMeGd5eUNWcXpKRU5Ub3V4Ty1QcGdPcU1ZMGFBc1JJY25iMUFtQkhhMDVjMUlFdG9wUzBnU1F1aWowY1l4TlpLMkEyazRBMGMwQUU4OUtDV0tvXy1QNlZPeGIyb3ZMZHhUNGlWcno3bE1aX1RUV1RKVlFMUXppUnByeW9wZ0hFM1Z3?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-02"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiz0fvx3lxtfbrqudnazrisvu3qmoxdmixrc1tqlncrjdibfzray1enfjloddjal9nufjfdk1dmf9nzwjlvli3sejksg5jwkrua1k2sk5hwwv",
-      "title": "AWS just put $1 billion into forward deployed engineers. Here's why it matters for enterprise teams.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRQUdnazRiSVU3QmoxdmIxRC1tQlNCRjdIbFZRay1ENFJlODdJal9NUFJFdk1DMF9NZWJlVlI3SEJKSG5JWkRUa1k2Sk5hWWVMV0U4TTFYUllYRzlsWExpbVlfMTU2SUU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxpmelhwtm1qnfduwvqrtjgeha0au9mr1r2n2u3auzsald4dzlkzediswznlvhizgvcuvcyytizzgnjnhnqqmdpstrrcdrmvuy",
-      "title": "Diameter Capital never hired college grads before. AI natives have changed that.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMElhWTM1QnFDUWVQRTJGeHA0aU9MR1R2N2U3aUZsald4dzlkZEdISWZNLVhiZGVCUVcyYTIzZGNjNHNQQmdpSTRRcDRMVUYyMjVSWDdmb1ZoOXFEVVFHMVR4c1V4ejhlNS1Mbi1keE5wU0lZVjhTWk85VjJWVjNwUlVHUW9CZjNoUW9Wc1ducl9SdEJfYkVtTHBYa1BwWUk?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-01"
-    },
-    {
-      "key": "github:allenai/olmocr",
-      "title": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "section": "github",
-      "sentAt": "2026-07-01"
-    },
-    {
-      "key": "github:0xNyk/council-of-high-intelligence",
-      "title": "0xNyk/council-of-high-intelligence",
-      "url": "https://github.com/0xNyk/council-of-high-intelligence",
-      "section": "github",
-      "sentAt": "2026-07-01"
-    },
-    {
-      "key": "github:microsoft/AI-For-Beginners",
-      "title": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "section": "github",
-      "sentAt": "2026-07-01"
     }
   ]
 }
