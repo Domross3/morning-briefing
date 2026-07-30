@@ -2,6 +2,153 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiswfbvv95cuxqywsxoe40exk2r2jdmws4t0pyqmdzselvetetc3vpyju2sjfwtgdvqmx2tkhyse56dulscv9zuxlvme1yzfzfzgpcv0jir0w",
+      "title": "Call for Applications: TechUp Africa TAMP Free DataCamp Tech Skills Scholarship 2026",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWsxOE40eXk2R2JDMWs4T0pyQmdZSElVeTEtc3VpYjU2SjFwTGdvQmx2TkhYSE56dUlscV9ZUXlvME1yZFZfZGpCV0JIR0wxU0pFUGNuSGlLWXliWm5PRUh2c2dPQTBfbmFXRTEtWFZKWGdCLXBGRG0ybGVCdEdMQTFMOEFsMEd4WTZ1V1FaMVh2RkpRYXJvV0poSjF0dkluRTJiLUk1aXZNRlczNUdscUQxSQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9vdf9mv21uq3zytgtwy0lklw5fczj3wvo3lupydtl4zfbsnllldjfgetzizmoxwwlny3hhnhlfovrhzfhhenltdw5ayl9echi",
+      "title": "GovAI Opens Applications for DC Winter Fellowship 2027 Focused on US AI Policy and Governance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vdF9MV21uQ3ZYTGtWY0lkLW5FczJ3WVo3LUpYdTl4ZFBSNllLdjFGeTZiZmoxWWlnY3hhNHlFOVRhZFhHenlTdW5aYl9EcHI1OGo5MFlXcUxwWEduell3dU9ZSmc2ZEl6c3A2YkNOZHJ5RmtQV2c?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmizwfbvv95cuxob0cxauvpwgl6vumwvxu1nxzlughmoej2m2vlv2jzmgjjbw9kq2lytxjsz2dsogtzzegyrhnoduw1dni4n2hnyjg4bmn3mjr",
+      "title": "Indiana pays Notre Dame for AI coaching for low-income entrepreneurs",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0cxaUVPWGl6VUMwVXU1NXZlUGhMOEJ2M2VLV2JzMGJjbW9kQ2lyTXJSZ2dsOGtzZEgyRHNodUw1dnI4N2hNYjg4bmN3MjRCMDNZd19MVTBhSUdBbFlGdnJIeHk2dWtZTWVYeTFqOXJ5WkFxclppc2MyeTJXUzhvazlfd05yUG9WU1I0MS1FR0NpbmNDZmlCQ0Z0TEd5Wnd1RmotaDFYeC0tLTYwcjkxUXd1bl9sVmdNNnlqRWVrVVFJQ1ZVcWRqSTVwMFNsT2c?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxoretilvherdbyceutbe83y1lov2l4vznstfptqufudm82ufbzvkrwwlnslvdyb0nrqkxin2hmt0pkzkk1xzzywldzanmxrks",
+      "title": "AI Is Coming for Your Job Title",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREtILVhERDBycEUtbE83Y1loV2l4VzNsTFptQUFudm82UFBZVkRwWlNSLVdyb0NrQkxIN2hMT0pkZkk1XzZyWldzanMxRkswaG53WUZ6NnUxUUc4ZDdCTHREWmFkRWZ0bGdHLXlhZ2oxaFlIekxmU1gzb3NIYVZ2NFFLMHN6aG5HS3hSTVBn?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "github:Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "section": "github",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "github:shareAI-lab/learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "section": "github",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "github:ansible/ansible",
+      "title": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "section": "github",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "github:ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "section": "github",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "github:microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "section": "github",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-gpt-5-6-frontier-intelligence-efficiency",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-27191",
+      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "url": "https://huggingface.co/papers/2607.27191",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-27205",
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "url": "https://huggingface.co/papers/2607.27205",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-27180",
+      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
+      "url": "https://huggingface.co/papers/2607.27180",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-25659",
+      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.25659",
+      "section": "ai",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "Hacker News:openjdk-org-legal-ai",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "section": "tech",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-mbodi-ai-jobs",
+      "title": "Jobs at Mbodi AI",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "section": "tech",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "Hacker News:mnot-net-blog-2020-for-the-users",
+      "title": "RFC 8890",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "section": "tech",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "Hacker News:www-construction-physics-com-p-why-is-everyone-trying-to-build-a",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "section": "tech",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqgfbvv95cuxpemnwcndsrzbzvw5wrdnacehywxz5suhwrxbzlwjklwctww5sn0zndnyzbejov0xwbdc4medut1zfnmtxzhpewnz4ddvvuy1",
+      "title": "EU AI Act Update: Digital Omnibus Finalizes 8 Compliance Changes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemNwcndsRzBzVW5WRDNacEhYWXZ5SUhWRXBzLWJKLWctWW5SN0ZndnYzbEJoV0xWbDc4MEduT1ZfNmtxZHpEWnZ4dDVVUy1pWUN6T3p2elV0Ukp4d19QbWNBUlBubW1NNzEtVVloclNUNmdqV3FSOExkQnJnYUZXcldHbFhXS3VTWDM2bU90a1RPR1ZGeWZNSV8xM2t4bGVuT0VXd1NsTWMzUQ?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-07-30"
+    },
+    {
+      "key": "finance:news-google-com-rss-articles-cbminwfbvv95cuxnskn0stnca1mxskvybjvunk9ya2xnvw83a3zkrzl6bthfwekwauhuszjkufdxshdmsm1wrxnmyjftwgplb1lrmzkwwkl4u1j",
+      "title": "Tesla quietly closes mystery AI acquisition, still no details",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkN0STNCa1MxSkVybjVuNk9ya2xnVW83a3ZKRzl6bThFWEkwaUhUSzJkUFdXSHdmSm1WRXNMYjFtWGplb1lrMzkwWkl4U1J2RHFjcUJZOFo0ZWJMQ3NZUktFUnlmMDdXNE9iN2hPbGMwWk5Xdi0tUVptd2ZaSHl5YURzdEZMTWRpb2duWDNuc0ZLR09XU0ZfckJ3ckpYdDg?oc=5",
+      "section": "finance",
+      "sentAt": "2026-07-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxtfbhatvjajlvrwrgve04deh5bvntu1zmnhbxy2g4zhuzykvjovnxynjhqzvxa2vrzwq1zdaxwgutnvpnrmu3t0tubhltuti3cgh",
       "title": "Apply for the UC Berkeley CHAI Research Fellowship 2026: Fully Funded Opportunity with Visa Sponsorship in the United States",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhaTVjajlvRWRGVE04dEh5bVNTU1ZMNHBXY2g4ZHUzYkVJOVNXYnJHQzVxa2VRZWQ1ZDAxWGUtNVpNRmU3T0tUbHlTUTI3cGhPRUNwcVVraFczR1JIajRVdzhJTGtqZTBQcy1N?oc=5",
@@ -3353,153 +3500,6 @@
       "url": "https://huggingface.co/papers/2607.02461",
       "section": "ai",
       "sentAt": "2026-07-06"
-    },
-    {
-      "key": "Hacker News:earth-tattoo",
-      "title": "earth.tattoo",
-      "url": "https://earth.tattoo",
-      "section": "tech",
-      "sentAt": "2026-07-06"
-    },
-    {
-      "key": "Hacker News:www-bbc-com-news-articles-c0ry4xx7rk8o",
-      "title": "Nasa launches robot to save Swift telescope falling to Earth",
-      "url": "https://www.bbc.com/news/articles/c0ry4xx7rk8o",
-      "section": "tech",
-      "sentAt": "2026-07-06"
-    },
-    {
-      "key": "Hacker News:elm-lang-org-news-faster-builds",
-      "title": "news/faster",
-      "url": "https://elm-lang.org/news/faster-builds",
-      "section": "tech",
-      "sentAt": "2026-07-06"
-    },
-    {
-      "key": "Hacker News:www-theregister-com-offbeat-2026-07-05-c-programmers-commit-fresh-crimes-against-readability-5265981",
-      "title": "C programmers commit fresh crimes against readability",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "section": "tech",
-      "sentAt": "2026-07-06"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiakfvx3lxte02cvbczkf5cgzpctc1suniu2hfd2xfthm4z0tmmmxrrc1lmwhgrnneckxmbvfrz1bpn3dfzfdht3vumfjulvvyvghnbgxwsdn",
-      "title": "Anthropic Tops OpenAI With $965B Valuation As AI Funding Race Resets",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cVBCZkF5cGZpcTc1SUNiU2hFd2xFTHM4Z0tMMmxrRC1LMWhGRnNEckxmbVFrZ1BPN3dFZFdHT3VuMFJuLVVyVGhnbGxWSDNOLTVKZzlHc3dMNC1OSkNTNjBBVkJmY1N1bUE?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-06"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
-      "title": "Applications Open for Social Science Research Fellowship",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmigwfbvv95cuxoltq0wxlnee11tdllb2e0rlfmy3nlbmo3uxbiwndfnglodettaulqb1lhbzbvtfz4q1hgy0r1t0hcau9nc25kdeh4mfjhv1r",
-      "title": "Art Students League Seeks the Next Generation of Public Artists",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTQ0WXlneE11TDllb2E0RlFMY3Nlbmo3UXBiWndfNGlodEttaUlqb1lHbzBvTFZ4Q1hGY0R1T0hCaU9nc25kdEh4MFJhV1RkeE9YNTlpX3YxWDFlSGt0TS1EN1hGdkItMHA0eXctM21KOXNTMldVcTFqeS1xNmpIbVhKQdIBiwFBVV95cUxQX01pRVlwTmZSTnBGQjFxU1VISVFmQlp0enJUQzZaN1ByWHJLVXQxSG9jakxsX1pDWTVib3VJS25xRjJEcHFqdTV2TjRfLXB0UzRLOXRNSXlFaHlvNXR0Y3NJekpmYl9YUzBUQUZvYkZZcFpjcTdDdDZUNHFrYkZiRUJOS2FxbUdPc1Vj?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "github:alirezarezvani/claude-skills",
-      "title": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "section": "github",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "github:firecrawl/firecrawl",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "section": "github",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "github:f/prompts.chat",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "section": "github",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "github:coreyhaines31/marketingskills",
-      "title": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "section": "github",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "github:CoplayDev/unity-mcp",
-      "title": "CoplayDev/unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "section": "github",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-02291",
-      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
-      "url": "https://huggingface.co/papers/2607.02291",
-      "section": "ai",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2606-31825",
-      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2606.31825",
-      "section": "ai",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "Hacker News:yusufaytas-com-the-engineer-in-the-half-space",
-      "title": "The Engineer in the Half-Space",
-      "url": "https://yusufaytas.com/the-engineer-in-the-half-space",
-      "section": "tech",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "Hacker News:demo-pcbjam-com",
-      "title": "PCBJam",
-      "url": "https://demo.pcbjam.com/",
-      "section": "tech",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "Hacker News:www-acc-org-about-acc-press-releases-2025-03-17-15-35-cannabis-users-face-substantially-higher-risk",
-      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
-      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
-      "section": "tech",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "Hacker News:dthain-github-io-books-compiler",
-      "title": "Introduction to Compilers and Language Design",
-      "url": "https://dthain.github.io/books/compiler/",
-      "section": "tech",
-      "sentAt": "2026-07-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte84ddctt29mbujivtriqxdlchdhdkrldjrvzvjpn2hgetlxcdrkww0ymnhavkpoevzhrjg1qk1nrgxetue3ene4rxbkqw5mwxr",
-      "title": "Horizon Launches AI Rapid Response Fellowship to Strengthen U.S. Government AI Security Capacity - Apply By 22 July 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dDctT29mbUJIVTRIQXdlcHdhdkRldjRVZVJpN2hGeTlxcDRkWW0yMnhaVkpOeVZHRjg1Qk1nRGxETUE3enE4RXBkQW5MWXRxalhtNF8tNExBNTlLTFR3bmNVcTJ6ZVhnVzd0UnlTRHBEaW9XbkE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-04"
-    },
-    {
-      "key": "github:langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "section": "github",
-      "sentAt": "2026-07-04"
-    },
-    {
-      "key": "github:NousResearch/hermes-agent",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "section": "github",
-      "sentAt": "2026-07-04"
     }
   ]
 }
