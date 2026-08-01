@@ -80,7 +80,8 @@ async function main() {
     console.log(
       `Opportunity hunter (${hunterResult.model}): ${huntedItems.length} verified items, ` +
       `${hunterResult.toolCalls.web_search} searches + ${hunterResult.toolCalls.web_fetch} fetches, ` +
-      `${hunterResult.usage.input_tokens} in / ${hunterResult.usage.output_tokens} out tokens.`,
+      `${hunterResult.usage.input_tokens} uncached + ${hunterResult.usage.cache_creation_input_tokens || 0} cache-write + ` +
+      `${hunterResult.usage.cache_read_input_tokens || 0} cache-read in / ${hunterResult.usage.output_tokens} out tokens.`,
     );
     if (hunterResult.searchLog) console.log(`Hunt log: ${hunterResult.searchLog}`);
   } else if (hasLlm) {

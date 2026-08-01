@@ -155,6 +155,8 @@ async function huntInner({ profileText, dateLabel, newsLeads = [], companies = [
   const messages = [{ role: "user", content: initialMessage }];
 
   let usageIn = 0;
+  let usageCacheWrite = 0;
+  let usageCacheRead = 0;
   let usageOut = 0;
   let webSearchCalls = 0;
   let webFetchCalls = 0;
@@ -187,7 +189,11 @@ async function huntInner({ profileText, dateLabel, newsLeads = [], companies = [
       }, { signal });
       lastResponse = response;
 
+      // input_tokens is the UNCACHED remainder only — cache reads/writes are
+      // separate fields. Summing all three is the only honest cost number.
       usageIn += response.usage?.input_tokens || 0;
+      usageCacheWrite += response.usage?.cache_creation_input_tokens || 0;
+      usageCacheRead += response.usage?.cache_read_input_tokens || 0;
       usageOut += response.usage?.output_tokens || 0;
       for (const block of response.content) {
         if (block.type === "server_tool_use" && block.name === "web_search") webSearchCalls++;
