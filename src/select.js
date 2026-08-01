@@ -1,14 +1,17 @@
 import { scoreGitHub } from "./sources/github.js";
 import { significantTokens, titlesAreSameProgram } from "./lib/text.js";
 
+// The brief is opportunity-first: opportunities get the body of the email,
+// everything else collapses into a compact "Also Today" footer (one line per
+// item), so the non-opportunity caps are deliberately tiny.
 const SECTION_CAPS = {
-  opportunities: 6,
-  github: 5,
-  ai: 6,
-  tech: 4,
-  legislation: 3,
-  finance: 2,
-  sustainability: 2,
+  opportunities: 8,
+  ai: 2,
+  github: 1,
+  tech: 1,
+  legislation: 1,
+  finance: 0,
+  sustainability: 0,
 };
 
 export function scoreAndSelect(items, profileText) {

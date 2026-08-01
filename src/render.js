@@ -5,7 +5,7 @@
 import { escapeHtml } from "./lib/text.js";
 
 const SECTION_LABELS = {
-  opportunities: "Unique Opportunities",
+  opportunities: "Opportunities",
   github: "GitHub",
   ai: "AI Research",
   tech: "Tech News",
@@ -41,16 +41,21 @@ export function renderBrief({
 }) {
   const grouped = groupBySection(items);
 
-  // TL;DR = the top item from each section in section order, capped at 3.
-  const tldrItems = Object.keys(SECTION_LABELS)
-    .map((section) => grouped[section]?.[0])
-    .filter(Boolean)
-    .slice(0, 3);
+  // Opportunity-first layout: opportunities are the body of the email; every
+  // other section collapses into a single compact "Also Today" block of
+  // one-line links at the bottom.
+  const opportunities = grouped.opportunities || [];
+  const alsoTodayItems = Object.keys(SECTION_LABELS)
+    .filter((section) => section !== "opportunities")
+    .flatMap((section) => grouped[section] || [])
+    .slice(0, 5);
 
-  const sectionsHtml = Object.keys(SECTION_LABELS)
-    .filter((section) => grouped[section]?.length)
-    .map((section) => renderSection(section, grouped[section], sectionSyntheses[section]))
-    .join("");
+  // "In This Issue" lists the top opportunities — the whole point of the email.
+  const tldrItems = opportunities.slice(0, 3);
+
+  const sectionsHtml = opportunities.length
+    ? renderSection("opportunities", opportunities, sectionSyntheses.opportunities)
+    : renderNoOpportunities(sectionSyntheses.opportunities);
 
   const preheader = derivePreheader(intro, tldrItems);
   const issueNumber = dayOfYear(new Date());
@@ -93,6 +98,7 @@ export function renderBrief({
           ${renderLead(intro)}
           ${renderInThisIssue(tldrItems)}
           ${sectionsHtml}
+          ${renderAlsoToday(alsoTodayItems)}
           ${degraded}
           ${renderFooter()}
 
@@ -325,6 +331,17 @@ function renderLead(intro) {
 // ─────────────────────────────────────────────────────────────────────────
 // In This Issue (TL;DR with roman numerals)
 
+// In This Issue kicker: for opportunities show the sponsoring org + fit
+// (e.g. "ANTHROPIC · STRONG FIT"); for anything else, the section name.
+function kickerFor(item) {
+  if (item.section !== "opportunities") return SECTION_LABELS[item.section] || "";
+  const org = (item.source || "").replace(/^Opportunity\s*·\s*/i, "").trim();
+  const fitChip = (item.chips || []).find((c) => /^fit:/i.test(c));
+  const fit = fitChip ? fitChip.replace(/^fit:\s*/i, "").trim() : "";
+  if (org && fit) return `${org} · ${fit} fit`;
+  return org || "Opportunity";
+}
+
 function renderInThisIssue(items) {
   if (!items.length) return "";
   const numerals = ["I.", "II.", "III."];
@@ -336,7 +353,7 @@ function renderInThisIssue(items) {
                   <td valign="top" style="width:30px; font-size:22px; font-weight:700; color:#9a5b2c; font-style:italic;">${numerals[i]}</td>
                   <td valign="top" style="padding-bottom:12px; ${topBorder}">
                     <div style="font-size:16px; font-weight:700; color:#1c1a17; line-height:1.35;"><a class="lnk" href="${escapeHtml(item.url)}" style="color:inherit; text-decoration:none;">${escapeHtml(item.title)}</a></div>
-                    <div style="font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#8a8270; margin-top:3px;">${escapeHtml(SECTION_LABELS[item.section])}</div>
+                    <div style="font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#8a8270; margin-top:3px;">${escapeHtml(kickerFor(item))}</div>
                   </td>
                 </tr>`;
     })
@@ -354,6 +371,60 @@ function renderInThisIssue(items) {
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 ${rows}
               </table>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// "Also Today" — everything that isn't an opportunity, compressed to one
+// line each. Keeps a pulse on the field without competing with the cards.
+
+function renderAlsoToday(items) {
+  if (!items.length) return "";
+  const rows = items
+    .map(
+      (item) => `                <tr>
+                  <td valign="top" style="padding:5px 0; font-family:Georgia,serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#8a8270; white-space:nowrap; width:96px;">${escapeHtml(SECTION_LABELS[item.section] || "")}</td>
+                  <td valign="top" style="padding:5px 0 5px 12px; font-family:Georgia,serif; font-size:14px; line-height:1.4; color:#1c1a17;"><a class="lnk" href="${escapeHtml(item.url)}" style="color:#1c1a17; text-decoration:none;">${escapeHtml(item.title)}</a></td>
+                </tr>`,
+    )
+    .join("\n");
+
+  return `          <!-- ALSO TODAY -->
+          <tr>
+            <td class="px" style="padding:34px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="font-family:Georgia,serif; font-size:14px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:#8a8270; white-space:nowrap; padding-right:14px;">Also Today</td>
+                  <td style="width:100%; border-bottom:1px solid #ddd6c7;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td class="px" style="padding:10px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+${rows}
+              </table>
+            </td>
+          </tr>`;
+}
+
+// Shown when the hunt genuinely found nothing — honest, not padded.
+function renderNoOpportunities(synthesis) {
+  const note = synthesis
+    ? `<p style="margin:10px 0 0 0; font-family:Georgia,serif; font-size:14px; line-height:1.6; font-style:italic; color:#3a352c;">${escapeHtml(synthesis)}</p>`
+    : "";
+  return `          <tr>
+            <td class="px" style="padding:32px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="font-family:Georgia,serif; font-size:20px; font-weight:700; color:#1c1a17; white-space:nowrap; padding-right:14px;">Opportunities</td>
+                  <td style="width:100%; border-bottom:2px solid #1c1a17;">&nbsp;</td>
+                </tr>
+              </table>
+              <p style="margin:18px 0 0 0; font-family:Georgia,serif; font-size:15px; line-height:1.6; color:#3a352c;">No new verified openings cleared the bar today. Nothing was padded in to fill space.</p>
+              ${note}
             </td>
           </tr>`;
 }

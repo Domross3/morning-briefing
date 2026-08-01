@@ -18,7 +18,9 @@ const DEFAULT_MODEL = "claude-opus-4-7";
 
 const SYSTEM_PROMPT = `You are an opportunity hunter for ONE specific person. Their full profile (school, majors, career timeline, the 6 target role types they're hunting, hard requirements, dealbreakers) is in the user message. Read it carefully — every decision below is grounded in those facts.
 
-YOUR JOB: Use web_search and web_fetch to find 2-5 ACTUALLY-OPEN, ACTUALLY-FITTING opportunities they can apply to right now. Verify, don't guess.
+YOUR JOB: Use web_search and web_fetch to find 4-8 ACTUALLY-OPEN, ACTUALLY-FITTING opportunities they can apply to right now. Verify, don't guess. This IS the product — the email is essentially just your findings, so depth and accuracy matter more than speed.
+
+TARGET COMPANIES: The user message includes a "TARGET COMPANIES" list — pre-researched top tech companies with VERIFIED careers URLs and early-career program pages, plus which of the user's target role families each one hires for. **Work this list first.** Fetch the careers/early-career URLs directly and look for currently-open roles matching the user's target families. This is far higher-signal than open web search, because these are the companies the user actually wants to work for. Rotate which companies you check across runs (there are ~30; you can't check them all) — prioritize: (1) frontier AI labs, (2) any company whose notes say a new-grad cycle is open now, (3) companies you haven't surfaced recently.
 
 NON-NEGOTIABLES:
 - Use web_search to find candidates (don't rely on memory — recall may be stale, deadlines shift)
@@ -35,18 +37,20 @@ QUALITY BAR: Harvard SVMP (HBS pre-professional), Y Combinator Startup School. T
 
 NEWS LEADS: The user message may include a "LEADS" list — items from today's news that look like they might contain opportunities (e.g. "Anthropic launches Claude Corps fellowship"). PROCESS LEADS FIRST: for each promising lead, search for the program's OFFICIAL page (not the news article), fetch it, verify, and include it with the official application URL. A lead from a frontier lab (Anthropic especially) is almost always the best item of the day if it verifies. Then continue with your own searches.
 
-SEARCH STRATEGY (be DECISIVE — total budget: 8 searches, 12 fetches max):
-1. First: chase any promising LEADS (search for official page → fetch → verify).
-2. Then run 3-4 strong queries of your own. Don't keep searching forever.
-3. Pick the most promising candidates from results to fetch and verify: application status, deadline, eligibility, cost.
-4. Stop when you have 3-5 verified opportunities — finalize and write the JSON.
-5. If after two rounds you have <2 verified, do at most ONE more search round, then write the JSON with whatever you have (or empty).
+SEARCH STRATEGY (total budget: 12 searches, 20 fetches):
+1. Chase any promising LEADS first (search for the official page → fetch → verify).
+2. Fetch the careers / early-career URLs of 6-10 TARGET COMPANIES, prioritizing frontier labs and any whose notes say a cycle is open now. Look for open roles in the user's target families.
+3. Run 2-3 open-web searches to catch high-leverage programs not tied to a specific company (fellowships, accelerators, pre-professional programs).
+4. Verify each candidate by fetching its page: role/program is currently open, the user is eligible, free to apply.
+5. Stop when you have 4-8 verified opportunities — finalize and write the JSON.
 
 DATES: Today's date is in the user message. Compare every deadline you find against it. Past deadline = drop, no exceptions. A program page mentioning only a past year (e.g. "2024 cohort") with no current cycle = drop.
 
-TARGET MIX: 2-3 strong (direct hit on target roles + verified open + verified eligible) + up to 2 maybe (high-leverage SVMP-tier network/credential builders + verified open + verified eligible).
+TARGET MIX: aim for 4-8 total — mostly "strong" (direct hit on a target role family at a target company, verified open + eligible), plus a couple of "maybe" (high-leverage program/fellowship that builds the right network). Prefer named roles at named companies over generic programs.
 
-TIME BUDGET: You have about 7 minutes total. Be efficient — but use the budget. The user explicitly authorized more search depth because previous batches were too thin. Finish with real verified results.
+VARIETY: don't return the same opportunities every day. The user message lists RECENTLY SENT items — do not return anything already on that list; find different companies/roles.
+
+TIME BUDGET: about 9 minutes. Use the budget — the user explicitly authorized more depth because thin batches were the main complaint. Finish with real verified results.
 
 NEVER INCLUDE:
 - News articles about programs (you want the application page, not the news piece)
@@ -88,9 +92,9 @@ const MAX_PAUSE_TURNS = 3;
 // the rest of the email without hunter results. The workflow timeout is
 // 15 min; the hunter now runs AFTER collection (~1 min), so 8 min here still
 // leaves ~5 min of headroom for hydration + labeling + send.
-const HUNTER_DEADLINE_MS = 8 * 60 * 1000;
+const HUNTER_DEADLINE_MS = 9 * 60 * 1000;
 
-export async function huntOpportunities({ profileText, dateLabel, newsLeads = [] }) {
+export async function huntOpportunities({ profileText, dateLabel, newsLeads = [], companies = [], recentTitles = [] }) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) return null;
 
@@ -108,7 +112,7 @@ export async function huntOpportunities({ profileText, dateLabel, newsLeads = []
       );
     });
     const result = await Promise.race([
-      huntInner({ profileText, dateLabel, newsLeads, apiKey, signal: controller.signal }),
+      huntInner({ profileText, dateLabel, newsLeads, companies, recentTitles, apiKey, signal: controller.signal }),
       deadline,
     ]);
     if (result && result.__timeout) {
@@ -124,7 +128,7 @@ export async function huntOpportunities({ profileText, dateLabel, newsLeads = []
   }
 }
 
-async function huntInner({ profileText, dateLabel, newsLeads = [], apiKey, signal }) {
+async function huntInner({ profileText, dateLabel, newsLeads = [], companies = [], recentTitles = [], apiKey, signal }) {
   const model = process.env.BRIEF_LLM_MODEL || DEFAULT_MODEL;
   const client = new Anthropic({ apiKey });
 
@@ -133,7 +137,21 @@ async function huntInner({ profileText, dateLabel, newsLeads = [], apiKey, signa
         .map((l, i) => `${i + 1}. ${l.title}\n   ${l.url}\n   ${l.summary}`)
         .join("\n")}`
     : "";
-  const initialMessage = `PROFILE:\n\n${profileText}${leadsBlock}\n\nToday is ${dateLabel}. Hunt 2-5 verified opportunities. Quality over quantity — empty is acceptable if nothing real cleared the bar.`;
+  const companiesBlock = companies.length
+    ? `\n\nTARGET COMPANIES (pre-verified careers URLs — work these first):\n${companies
+        .map((c) => {
+          const early = c.earlyCareerUrl ? `\n   early-career: ${c.earlyCareerUrl}` : "";
+          const roles = (c.hiresRoles || []).join(", ");
+          return `- ${c.name} [${c.tier}]\n   careers: ${c.careersUrl}${early}\n   hires: ${roles || "unknown"}\n   note: ${c.notes || ""}`;
+        })
+        .join("\n")}`
+    : "";
+  const recentBlock = recentTitles.length
+    ? `\n\nRECENTLY SENT (do NOT return these again — find different ones):\n${recentTitles
+        .map((t) => `- ${t}`)
+        .join("\n")}`
+    : "";
+  const initialMessage = `PROFILE:\n\n${profileText}${companiesBlock}${leadsBlock}${recentBlock}\n\nToday is ${dateLabel}. Hunt 4-8 verified opportunities. Quality over quantity — an empty result is acceptable if nothing real cleared the bar.`;
   const messages = [{ role: "user", content: initialMessage }];
 
   let usageIn = 0;

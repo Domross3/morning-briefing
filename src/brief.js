@@ -58,8 +58,16 @@ async function main() {
   ]);
 
   const newsLeads = extractOpportunityLeads(collectResult.items);
+  const companies = await readTargetCompanies();
+  // Titles from the last ~10 days of opportunities, so the hunter finds
+  // something different rather than re-surfacing the same programs.
+  const recentTitles = history.sent
+    .filter((e) => e.section === "opportunities")
+    .slice(0, 40)
+    .map((e) => e.title)
+    .filter(Boolean);
   const hunterResult = hasLlm
-    ? await huntOpportunities({ profileText, dateLabel, newsLeads })
+    ? await huntOpportunities({ profileText, dateLabel, newsLeads, companies, recentTitles })
     : null;
   const huntedItems = hasLlm ? hunterOpportunitiesToItems(hunterResult) : [];
   const collectedItems = huntedItems.length
@@ -255,6 +263,19 @@ function sortAndCapOpportunities(items) {
 
   const others = items.filter((i) => i.section !== "opportunities");
   return [...kept, ...others];
+}
+
+// Pre-researched target companies (verified careers + early-career URLs).
+// Missing/!valid file is non-fatal — the hunter falls back to open web search.
+async function readTargetCompanies() {
+  const file = path.resolve(process.cwd(), "data/target-companies.json");
+  try {
+    const parsed = JSON.parse(await fs.readFile(file, "utf8"));
+    const list = Array.isArray(parsed?.companies) ? parsed.companies : [];
+    return list.filter((c) => c && c.name && c.careersUrl);
+  } catch {
+    return [];
+  }
 }
 
 async function readProfile(profilePath) {

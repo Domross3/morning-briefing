@@ -23,11 +23,11 @@ concurrency:
 jobs:
   brief:
     runs-on: ubuntu-latest
-    # 15 min budget: the LLM opportunity hunter does web_search + web_fetch and
+    # 20 min budget: the LLM opportunity hunter does web_search + web_fetch and
     # can take several minutes on its own. Code-level deadline in
-    # opportunity-hunter.js still caps it at ~4 min so the rest of the brief
+    # opportunity-hunter.js still caps it at ~9 min so the rest of the brief
     # ships even if the hunter spins.
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
