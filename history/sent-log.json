@@ -2,6 +2,41 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxpa0gyx3zfzjbpd1cytmvccex1adfodkjcnuqxts1orwfmm25jntrjn1lzv1rvbngwofhurgm1vwezu192dtgtyjhtnviwdxj",
+      "title": "Break Into Tech AI Developer Scholarship 2026 (Fully-funded)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0gyX3ZfZjBPd1cyTmVCcEx1aDFOdkJCNUQxTS1ORWFmM25jNTRJN1lZV1RvbngwOFhuRGM1VWEzU192dTgtYjhtNVIwdXJtVWw5ei1sX2V2NW9HQWNhdkF1U0NoTHprRTZGYVd1cG1wY3p6Q1I0enUyckMxQXZpWnBlUjFESnNaVkZLeUtB?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-global-workspace",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-27919",
+      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+      "url": "https://huggingface.co/papers/2607.27919",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:diataxis-fr",
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxte1bwtfoedj0bwdzsfbtswtiazjtmkjucfbisnjewux6uvaztzl2znqywtjccthws1fxuk5uz1hummnpnutudhprzxbunlj1ejr",
       "title": "UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5",
@@ -3464,41 +3499,6 @@
       "title": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "section": "github",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-06559",
-      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2607.06559",
-      "section": "ai",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-06558",
-      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
-      "url": "https://huggingface.co/papers/2607.06558",
-      "section": "ai",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-02980",
-      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
-      "url": "https://huggingface.co/papers/2607.02980",
-      "section": "ai",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-05511",
-      "title": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
-      "url": "https://huggingface.co/papers/2607.05511",
-      "section": "ai",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-03451",
-      "title": "SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe",
-      "url": "https://huggingface.co/papers/2607.03451",
-      "section": "ai",
       "sentAt": "2026-07-08"
     }
   ]
