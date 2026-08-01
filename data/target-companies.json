@@ -1,0 +1,390 @@
+{
+  "note": "Pre-researched target companies for the opportunity hunter: verified careers + early-career URLs, which of the user's target role families each hires for, and how to filter each board. Boards move — regenerate periodically.",
+  "generatedAt": "2026-06-19",
+  "companies": [
+    {
+      "name": "Anthropic",
+      "tier": "frontier-lab",
+      "careersUrl": "https://www.anthropic.com/careers/jobs",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "tpm"
+      ],
+      "notes": "Greenhouse board (~400 reqs); filter team 'Applied AI' for their SE/FDE title 'Applied AI Architect' and 'Technical Program Management' for 16 open TPM reqs — no new-grad pipeline, PM reqs are all mid/senior, and the research-only Fellows Program (May/Jul/Nov cohorts) is the sole structured early-career route.",
+      "verified": true
+    },
+    {
+      "name": "OpenAI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://jobs.ashbyhq.com/openai",
+      "earlyCareerUrl": "https://openai.com/careers/emerging-talent/",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "tpm",
+        "apm"
+      ],
+      "notes": "openai.com 403s all automated fetches — scrape the Ashby board instead (754 reqs, JSON at api.ashbyhq.com/posting-api/job-board/openai); 'Forward Deployed Engineering' is a standalone 42-role department and 'Solutions Engineer, Pre-Sales' sits under Go To Market, while the 6 Product Management reqs are senior and the Residency hires on a rolling basis rather than an annual cycle.",
+      "verified": true
+    },
+    {
+      "name": "Google DeepMind",
+      "tier": "frontier-lab",
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind",
+      "earlyCareerUrl": "https://www.google.com/about/careers/applications/students/",
+      "hiresRoles": [
+        "tpm",
+        "apm"
+      ],
+      "notes": "DeepMind reqs post on Google Careers under the company=DeepMind filter and every TPM/PM listing is senior (base bands $256k+), so early-career entry runs through Google's APM program (applications typically open late summer/winter via buildyourfuture.withgoogle.com); Solutions/Customer Engineer and FDE-style roles sit under the 'Google' company filter, not DeepMind.",
+      "verified": true
+    },
+    {
+      "name": "xAI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://job-boards.greenhouse.io/xai",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "forward-deployed-engineer",
+        "solutions-engineer",
+        "tpm"
+      ],
+      "notes": "x.ai/careers 403s bots — use the Greenhouse board (195 reqs, branded 'SpaceXAI' post-merger, JSON at boards-api.greenhouse.io/v1/boards/xai/jobs); no Product Manager titles exist (product work is posted as 'Member of Technical Staff') and there are zero intern or new-grad postings, with FDE appearing only as 'X Developer Platform – Forward Deployed Engineer, X API'.",
+      "verified": true
+    },
+    {
+      "name": "Mistral AI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://jobs.ashbyhq.com/mistral.ai",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "tpm"
+      ],
+      "notes": "Ashby slug is 'mistral.ai' not 'mistral' (~173 reqs, JSON at api.ashbyhq.com/posting-api/job-board/mistral.ai); the 60-role 'Solutions' department holds every Forward Deployed ML Engineer and Solution Architect req, and they post early-career roles like 'Software Engineer, New Grad' plus FDE internships straight to the board instead of running a program page — but most roles are Paris-based, so US work authorization is a real filter.",
+      "verified": true
+    },
+    {
+      "name": "Cohere",
+      "tier": "frontier-lab",
+      "careersUrl": "https://jobs.ashbyhq.com/cohere",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "founding-gtm",
+        "apm",
+        "tpm"
+      ],
+      "notes": "142 live roles; no new-grad page — the board's \"Internships\" department (SWE/ML/Research, Fall-Winter 2026, Canada) and Revenue-dept \"Business Development Representative\" postings are the only genuinely entry-level openings, while Solutions Architect, FDE, PM and TPM roles all skew mid/senior.",
+      "verified": true
+    },
+    {
+      "name": "Meta Superintelligence Labs / Meta AI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://www.metacareers.com/jobsearch/",
+      "earlyCareerUrl": "https://www.metacareers.com/careerprograms/students/",
+      "hiresRoles": [
+        "solutions-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "Filter jobsearch by the \"University Grad - Business\" and \"University Grad - Engineering, Tech & Design\" team facets for new-grad roles; the APM equivalent is the 18-month RPM program (requires <1 yr PM experience, Menlo Park/Seattle/NYC) which reopens Fall 2026 per metacareers.com/rotational-programs/ — no forward-deployed-engineer title exists at Meta.",
+      "verified": true
+    },
+    {
+      "name": "Microsoft AI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://microsoft.ai/careers/",
+      "earlyCareerUrl": "https://careers.microsoft.com/v2/global/en/students",
+      "hiresRoles": [
+        "solutions-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "microsoft.ai/careers is the MAI division board (35 roles: 28 Software Engineering, 2 Technical Program Management, 1 Product Management, all Member-of-Technical-Staff level or above, zero new-grad); new grads must route through Microsoft University Recruiting instead — MCAPS Early in Profession is the 3-year technical-sales/solution-engineer track and Aspire covers full-time grads.",
+      "verified": true
+    },
+    {
+      "name": "Reflection AI",
+      "tier": "frontier-lab",
+      "careersUrl": "https://jobs.ashbyhq.com/reflectionai",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "forward-deployed-engineer",
+        "founding-gtm",
+        "apm",
+        "tpm"
+      ],
+      "notes": "62 live roles; FDE postings sit under the \"Commercial Sales\" department (NYC/SF/Seoul) and half are \"Lead\" variants, GTM is early-org but senior (Engagement Manager, Regional Commercial Lead - Sovereign, VP of Federal), TPM appears as \"Research Program Manager\" — no intern or new-grad postings, so the \"Don't See Your Role? Apply Here!\" general application is the early-career entry point.",
+      "verified": true
+    },
+    {
+      "name": "Google",
+      "tier": "big-tech",
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results/",
+      "earlyCareerUrl": "https://www.google.com/about/careers/applications/early-career",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "Append ?target_level=EARLY to the board URL to filter early-career; APM program is a separate portal (google.com/about/careers/applications/programs/apm/) with a ~2-week fall window (opened Sep 30, closed Oct 28 for the 2026 start), so an Aug-2027 grad applies fall 2026.",
+      "verified": true
+    },
+    {
+      "name": "Meta",
+      "tier": "big-tech",
+      "careersUrl": "https://www.metacareers.com/jobs/",
+      "earlyCareerUrl": "https://www.metacareers.com/careerprograms/students/",
+      "hiresRoles": [
+        "solutions-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "New-grad postings are literally title-suffixed '(University Grad)' — keyword-search that string rather than relying on filters; the RPM program (Meta's APM equivalent, 18 months) opens once a year in late summer/early fall and accepts non-technical backgrounds.",
+      "verified": true
+    },
+    {
+      "name": "Microsoft",
+      "tier": "big-tech",
+      "careersUrl": "https://apply.careers.microsoft.com/",
+      "earlyCareerUrl": "https://careers.microsoft.com/students/",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "Board migrated hosts — the old jobs.careers.microsoft.com/global/en/search 301s here and /en/search 404s, so use the root and apply the 'seniority' + 'career_discipline' filters; Aspire (new-grad) primary season runs Aug–Oct for the following year's start.",
+      "verified": true
+    },
+    {
+      "name": "Apple",
+      "tier": "big-tech",
+      "careersUrl": "https://jobs.apple.com/en-us/search",
+      "earlyCareerUrl": "https://www.apple.com/careers/us/work-at-apple/students.html",
+      "hiresRoles": [
+        "solutions-engineer",
+        "tpm"
+      ],
+      "notes": "No named new-grad rotational program and no APM equivalent — the students page is internship-heavy; go straight to the pre-sales team filter ?team=field-and-solutions-engineering-SLDEV-FSE, though most SE/TPM reqs ask for prior industry experience.",
+      "verified": true
+    },
+    {
+      "name": "Nvidia",
+      "tier": "big-tech",
+      "careersUrl": "https://jobs.nvidia.com/careers",
+      "earlyCareerUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "tpm"
+      ],
+      "notes": "Best-fit posting is 'Solutions Architect, Worldwide Field Operations - New College Graduate' — an 18-month program rotating quarterly through customer-facing teams; filter the board by job type 'new college graduate' and expect heavy competition (~50k applicants for ~1.5k early-career seats).",
+      "verified": true
+    },
+    {
+      "name": "Databricks",
+      "tier": "ai-startup",
+      "careersUrl": "https://www.databricks.com/company/careers/open-positions",
+      "earlyCareerUrl": "https://www.databricks.com/company/careers/university-recruiting",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "Best fit on this list: an \"Associate Product Manager, New Grad (2027 Start)\" req is already live on the Greenhouse-backed board; new-grad reqs post ~Aug-Sept for the following year, while \"AI Engineer - FDE\" and \"Delivery Solutions Architect\" roles want 6+ YOE and are not new-grad accessible.",
+      "verified": true
+    },
+    {
+      "name": "Scale AI",
+      "tier": "ai-startup",
+      "careersUrl": "https://job-boards.greenhouse.io/scaleai",
+      "earlyCareerUrl": "https://scale.com/careers/university",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "The new-grad entry point is the \"Strategic Projects Lead - New Grad\" program (a deployment/FDE-flavored GTM track) — prior cycles opened applications in August for the following year's season; the main board's SE/FDE/PM reqs are senior (TPM only exists at Director level).",
+      "verified": true
+    },
+    {
+      "name": "Together AI",
+      "tier": "ai-startup",
+      "careersUrl": "https://job-boards.greenhouse.io/togetherai",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "founding-gtm",
+        "apm",
+        "tpm"
+      ],
+      "notes": "No new-grad program and no FDE roles on the board (58 open reqs, Aug 2026); \"GTM Engineer\" is the most early-career-accessible technical-GTM opening, while \"Solutions Architect\" asks 5+ YOE — filter the Greenhouse board by the Customer Success and Product departments.",
+      "verified": true
+    },
+    {
+      "name": "Modal Labs",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/modal",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "forward-deployed-engineer",
+        "solutions-engineer",
+        "founding-gtm"
+      ],
+      "notes": "Tiny board (~13 open roles) with no new-grad track and no PM/TPM function yet — watch \"Forward Deployed Engineer - ML/Systems\", \"Customer Engineer\", and \"Account Executive - Enterprise\"; poll the JSON feed at api.ashbyhq.com/posting-api/job-board/modal since the Ashby page is JS-rendered.",
+      "verified": true
+    },
+    {
+      "name": "Hugging Face",
+      "tier": "ai-startup",
+      "careersUrl": "https://apply.workable.com/huggingface/",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer"
+      ],
+      "notes": "Board is very small (7 open roles as of Aug 2026, nearly all senior IC engineering) and has no new-grad program — \"Post-Sales Machine Learning Solutions Engineer (US/EMEA Remote)\" is the only relevant family and appears sporadically; their \"Wild Card\" req is an open speculative application worth using.",
+      "verified": true
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/cursor",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "founding-gtm",
+        "tpm"
+      ],
+      "notes": "120 open roles on Ashby (machine-readable JSON at api.ashbyhq.com/posting-api/job-board/cursor); no new-grad program — filter department=Solutions/Customer Success where Field Engineer and Solutions Architect state no YOE floor, while Forward Deployed Engineer asks 5+ yrs and Forward Deployed Strategist 6+.",
+      "verified": true
+    },
+    {
+      "name": "Perplexity",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/perplexity",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "forward-deployed-engineer",
+        "founding-gtm"
+      ],
+      "notes": "perplexity.ai/hub/careers returns 403 to automated fetches — scrape the Ashby board instead (87 roles); FDE (Applied AI, NYC) requires 5+ yrs, so the realistic new-grad entry is Business Development Representative in SF (no YOE floor), and internships are posted only in Belgrade/London.",
+      "verified": true
+    },
+    {
+      "name": "Sierra",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/sierra",
+      "earlyCareerUrl": "https://sierra.ai/early-career-program",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "founding-gtm",
+        "apm",
+        "tpm"
+      ],
+      "notes": "APX is an 18-month new-grad rotation across Agent Engineer and Agent Product Manager (SF/NYC, rolling apps, interviews wrap by December), but the FAQ states 2027 grads are only eligible 'when our 2027 cohort launches' — monitor this page rather than applying now; main-board Sales Engineer asks 5-7+ yrs.",
+      "verified": true
+    },
+    {
+      "name": "Harvey",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/harvey",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "founding-gtm",
+        "tpm"
+      ],
+      "notes": "360 open roles, but no Forward Deployed title — its deployment-side 'Legal Engineer' roles require 3+ yrs practicing law at a firm/in-house; filter department=Go to Market for Sales Development Representative (1-2 yrs, the only near-entry req) and Solutions Architect, while all TPM reqs are 5+ yrs.",
+      "verified": true
+    },
+    {
+      "name": "Glean",
+      "tier": "ai-startup",
+      "careersUrl": "https://job-boards.greenhouse.io/gleanwork",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "founding-gtm",
+        "tpm"
+      ],
+      "notes": "Greenhouse board id is 'gleanwork' not 'glean' (boards-api.greenhouse.io/v1/boards/gleanwork/jobs); it carries a seasonal 'Software Engineer, University Grad (20XX)' req — the 2026 one is now closed (302) — while Founding Forward Deployed Engineer asks 4+ yrs, Solutions Engineer 3-5+, and Sr TPM 8-10+.",
+      "verified": true
+    },
+    {
+      "name": "Stripe",
+      "tier": "ai-startup",
+      "careersUrl": "https://stripe.com/jobs/search",
+      "earlyCareerUrl": "https://stripe.com/careers/emerging-talent",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm",
+        "tpm"
+      ],
+      "notes": "Board filters by Team + Role type; watch for 'Product Manager: New Grad Accelerator' (12-month PM program, CS new grad or 0-2 YOE, SF/Seattle/NYC) which posted in spring with an April application deadline in its 2026 cycle — FDE reqs sit under Professional Services and want 5+ YOE.",
+      "verified": true
+    },
+    {
+      "name": "Ramp",
+      "tier": "ai-startup",
+      "careersUrl": "https://jobs.ashbyhq.com/ramp",
+      "earlyCareerUrl": "https://ramp.com/emerging-talent",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "tpm"
+      ],
+      "notes": "ramp.com/careers is a marketing page that routes into the Ashby board; new-grad eligibility is 'graduating from a 4-year university and starting in the next 6-12 months' and roles are NYC-onsite — FDE is titled 'Software Engineer | Forward Deployed' and the TPM req wants 5+ YOE.",
+      "verified": true
+    },
+    {
+      "name": "Notion",
+      "tier": "ai-startup",
+      "careersUrl": "https://www.notion.com/careers",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer",
+        "apm"
+      ],
+      "notes": "Board has a dedicated 'Early Career' department filter (Software Engineer Early Career + BDR, SF/NYC) — no standalone university landing page exists (/careers/early-career 404s); technical GTM reqs are titled 'Solutions Consultant', 'Outcomes Architect', and 'Forward Deployed Engineer, GTM' rather than Solutions Engineer.",
+      "verified": true
+    },
+    {
+      "name": "Linear",
+      "tier": "ai-startup",
+      "careersUrl": "https://linear.app/careers",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "apm"
+      ],
+      "notes": "Tiny board (~18 open roles) with no new-grad track or university program — Solutions Engineer and Product Manager are the only relevant reqs and both assume prior experience, so poll the page monthly since roles appear individually at linear.app/careers/<role>.",
+      "verified": true
+    },
+    {
+      "name": "Vercel",
+      "tier": "ai-startup",
+      "careersUrl": "https://vercel.com/careers",
+      "earlyCareerUrl": "",
+      "hiresRoles": [
+        "solutions-engineer",
+        "forward-deployed-engineer"
+      ],
+      "notes": "No university program, new-grad tag, or external board — filter the 'Solutions & Field' section for 'Forward-Deployed Engineer' (Berlin/London/Austin/NYC/SF) and 'Solutions Architect'; both are experienced hires today, and no PM or TPM reqs are currently posted. (Ignore newgrad.vercel.app — a third-party site merely hosted on Vercel, not a Vercel program.)",
+      "verified": true
+    }
+  ]
+}
