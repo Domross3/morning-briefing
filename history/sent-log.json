@@ -2,6 +2,153 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxte1bwtfoedj0bwdzsfbtswtiazjtmkjucfbisnjewux6uvaztzl2znqywtjccthws1fxuk5uz1hummnpnutudhprzxbunlj1ejr",
+      "title": "UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi0wfbvv95cuxpemjszvvkcvjhzzk4z1lwqmm2uflyne44udhqdetsyxvgadjfrzvmuknrwdc1bdlgztvhvvp1ceplz25irgnym0iwnmhumhd",
+      "title": "Call For Applications: Women Techsters Cohort 5.2 Bootcamp 2026 (Free Virtual Tech Training for African Women)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemJsZVVKcVJhZzk4Z1lwQmM2UFlyNE44UDhqdEtSYXVGaDJfRzVMUkNrWDc1bDlGZTVhVVp1cEpLZ25IRGNyM0IwNmhUMHdiVEZfbGF6NmVuTlFkYmhzNmlFdHl3SndRMTdfUkZSdnZHV2lBM1BWaWFpVnhXQk1mYTIyYlVXWUY0WEhQWF9CMVJ5Y0g4Zy1tTnY5cWhDQmE5bnVGMF9KRWVDV2Jjdi1WNzVpbm80T28xbU5oY2V1aWRlakoyZjMzTzk0MlBPSWlkaDYw?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpvmrzci1nuvl5dlizamnoeujjewizdfbutgp1tgtsnuw5s0rjm2ngtlvonxpsvtleuy1yvhdravplq1lsdtm0b3cxwnnhujf",
+      "title": "Are AI ‘Forward Deployed Engineers’ the New BS Prompt Engineers?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmRzci1nUVl5dlIzamNOeUJjeWIzdFBuTGp1TGtSNUw5S0RjM2NGTlVONXpsVTlEUy1yVHdRaVpLQ1lSdTM0b3cxWnNHUjFyeDBBaHctUzJtVW5rNzhIOEtvQ1J6b0trYmhacHcxTFlnRGZHdFNjRDBzYUtzU1BzSHl4c3paWElCZEo5S1l3aHNnaU56UDRxZWo3WEpwM1lmLXBTTkVn?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpb2lfzff6n1d3vmfdnnzrr2h1lxbly3bfegfdchdxbw15vufsx0xozth0v0q4oxa0m2p4bnbfzwdntxflze53nc1xrvvlqmz",
+      "title": "Unlock 35+ Prestigious Scholarships for High Academic Achievement",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2lfZFF6N1d3VmFDNnZRR2h1LXBlY3BFeGFDcHdxbW15VUFsX0xoZTh0V0Q4OXA0M2p4bnBFZWdnTXFlZE53NC1xRVVlQmZiakNuZ2J2SXhwNzFDVEphZWFhdVRIMGxQMnFLejRnRktTa2FpZlJYRzhSeHlTX281Y0hZUUxKcFBJazJNLUNFTmhhOWFOWFhEMVJBU2xnbXF5bWlydk530gGrAUFVX3lxTFBNQ0hrbG5pUTc4cjJwOE1STVNuRUsxeC1oeVREQTVIbEV2czFqdDZtYVZqTGdxMXd6RUpydDZqaUYwcGc4ZktXOXl5RFNBV1RVYjJqMUg4d2JteUR0ejlzMVIyaG91ZDVxOW5GdVJkdnFacEhRTGhDaF9La0lVM1U5Mlp3SWV5blItNUpfWEx0aUF0ZFJPR21GV0JtYnB2RDhmaG9wZlY2aGl6QQ?oc=5",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:abus-aikorea/voice-pro",
+      "title": "abus-aikorea/voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:zhaoxuya520/reverse-skill",
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-28568",
+      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+      "url": "https://huggingface.co/papers/2607.28568",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-28624",
+      "title": "PhiZero: A World Model Built Around Physical Language",
+      "url": "https://huggingface.co/papers/2607.28624",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-27380",
+      "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
+      "url": "https://huggingface.co/papers/2607.27380",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-28595",
+      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+      "url": "https://huggingface.co/papers/2607.28595",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-28022",
+      "title": "Flux-OPD: On-Policy Distillation with Evolving Contexts",
+      "url": "https://huggingface.co/papers/2607.28022",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-28618",
+      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "url": "https://huggingface.co/papers/2607.28618",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:twitter-com-newsfromgoogle-status-2083249962150760610",
+      "title": "News from Google (@NewsFromGoogle) on X",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:github-com-burntsushi-ripgrep-issues-3494",
+      "title": "x86_64-unknown-linux-musl binaries occasionally segfault during very-large searches · Issue #3494 · BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:www-ycombinator-com-companies-kontigo-jobs-xao6tmt-founding-engineer",
+      "title": "Founding Engineer at Kontigo",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:ramen-haus",
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmirwfbvv95cuxnagpox2p5bkxmm0czq2nbmjhuzndjwjezvmwyz2rds0fqdw5rwhf3vk1gm3b4eve2mlbwm0v4wjvgdhbiodrjv3jswlnqafd",
+      "title": "How Trump v. Slaughter Strengthens the Case for Third-Party AI Regulation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGpoX2p5bkxmM0czQ2NBMjhUZndJWjEzVmwyZ2RDS0FqdW5RWHF3Vk1GM3B4eVE2MlBwM0V4WjVGdHBiODRJV3JSWlNQaFdYbGRuTl9FcC1hVGVUM05EQlJ6QXNKTUpFQVlUVnVQZTVIelNCUHFmVmZiQ1EwcWdUU2RvNkE1bVVyQlkxRzlGWUtSTHIyRzl3RzZDRDhGLU9PSHRvQUhzYm5lbzJwdHhj?oc=5",
+      "section": "legislation",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "sustainability:news-google-com-rss-articles-cbmiigfbvv95cuxpt3owmddlal8yzhjmbknztvbtcfpvzhrmbnvvetl1bxnwvditteltnw5czlncewdouzvnm1fqlxbpduhenhznt2ructq0tjf",
+      "title": "New Mexico’s clean energy success story",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owMDdLal8yZHJmbkNZTVBtcFpVZHRmbnVveTl1bXNwVDItTEltNW5CZlNCeWdOUzVnM1FQLXBpdUhENHZnT2RUcTQ0TjFJb0JCZVh6djNGQV9XODJVcFktTmdsc3UtTFZvQWNaeVA3VDVTWWVTaVJjR0RwUkpNTWRBVXRwREVrM3c?oc=5",
+      "section": "sustainability",
+      "sentAt": "2026-08-01"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxpdnrolve1y2x1aznwvlndv2tpotnobxzubdjitzytalvuttbnt2hpcge2d0y3nghea2zad21iajlzwwjeetdcqni4mfb1anb",
       "title": "Applications open for Tech Fellowship Programme 2027 (Netherlands)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnROLVE1Y2x1azNwVlNDV2tPOTNObXZUbDJITzYtalVUTTBnT2hPcGE2d0Y3NGhEa2Zad21iajlzWWJEeTdCQnI4MFB1anBpdWx3Si1PRzdqdWM3VUZ1MHY4ZmxrekwtTDBvQnBkdklOT1A1SU1yZVpNZ3RwYy01ai1YaTU5emxnQVRPQXhOdmluQ2tENlI4ZnprY004UTRTT1pqd0RBTlRjTjTSAasBQVVfeXFMT3Z0Ti1RNWNsdWszcFZTQ1drTzkzTm12VGwySE82LWpVVE0wZ09oT3BhNndGNzRoRGtmWndtYmo5c1liRHk3QkJyODBQdWpwaXVsd0otT0c3anVjN1VGdTB2OGZsa3pMLUwwb0JwZHZJTk9QNUlNcmVaTWd0cGMtNWotWGk1OXpsZ0FUT0F4TnZpbkNrRDZSOGZ6a2NNOFE0U09aandEQU5UY040?oc=5",
@@ -3353,153 +3500,6 @@
       "url": "https://huggingface.co/papers/2607.03451",
       "section": "ai",
       "sentAt": "2026-07-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-06291",
-      "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
-      "url": "https://huggingface.co/papers/2607.06291",
-      "section": "ai",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "Hacker News:noma-security-blog-gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "section": "tech",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "Hacker News:www-apple-com-newsroom-2026-07-apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "section": "tech",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "Hacker News:www-birdy-chat-blog-the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-      "title": "The growing list of European organisations that ban personal messaging apps at work",
-      "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-      "section": "tech",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "Hacker News:tris-sherliker-net-blog-obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores",
-      "title": "Tris Sherliker",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "section": "tech",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmi3wfbvv95cuxqedzzctvwx0zfskvyalnyvmxrnkvjeuxlnvm0ujfrq2xry3livxfqcxpqrellr0y3vzzeovp2d3vsehduwnfsthcyrzdsnfk",
-      "title": "Your First AI Policy: Six Burning Issues for Every Growing Business to Consider Before You Scale",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDZzcTVWX0ZFSkVYalNYVmxrNkVjeUxLNVM0UjFrQ2xrY3lIVXFqcXpQREllR0Y3VzZEOVp2d3VseHduWnFSTHcyRzdSNFk5a2RnQXoxTUN1WXZ6VFZRejhkRVpHM1htdmhWTjhIcllDZWhOR1dmTGNpNGF2cjBQYXYwRG1HY2tOMndscVNEc3phQllhNkhrOVZMVnU1T1hQN09GWGp5eDJPV19XLWxfT2hJYnF3M25nUkd2Y18weHl1X2xWUzMzbjhVMGthRm5LcWZ3R1JBekhrNG1WZGxj?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbminafbvv95cuxouzzyyvf6exrumvfszzliazvjvnvzqm93ykdwduffwmfix1ixd2zuamvfa3jfzxp5dflwnkl1ogdyww9esxjczfdpuxz6mjn",
-      "title": "Apply now for Climate Tech Fellowship Program 2026",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzZYYVF6eXRuMVFSZzliazVJVnVzQm93YkdwdUFFWmFiX1Ixd2ZuamVfa3JFZXp5dFlWNkl1OGdyWW9ESXJCZFdpUXZ6MjNHaVA2aTV5c0t2ZlViSDdNdFRhZmJTenBJemZoNGtMYmZ3MHVMd2tETmxoZmpMZ3JiUFM1TGJhLVBEb0Z4bGhUSkJPT21FT2l0ZjRRTkvSAZwBQVVfeXFMTlM2WGFRenl0bjFRUmc5Yms1SVZ1c0Jvd2JHcHVBRVphYl9SMXdmbmplX2tyRWV6eXRZVjZJdThncllvRElyQmRXaVF2ejIzR2lQNmk1eXNLdmZVYkg3TXRUYWZiU3pwSXpmaDRrTGJmdzB1THdrRE5saGZqTGdyYlBTNUxiYS1QRG9GeGxoVEpCT09tRU9pdGY0UU5L?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte92cg9tdet1oxfgmkf6nfrsr045ofldv3roam83wndxdgpsbwpwwxrxcxpmdup6cdr0tjvcdwvycezkltvitmfnnjheowtjovn",
-      "title": "Singapore AI Safety Fellowship 2026 Opens Applications for Global AI Researchers",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cG9TdEt1OXFGMkF6NFRsR045OFlDV3Roam83WndxdGpSbWpWWXRXcXpMdUp6cDR0TjVCdWVycEZKLTViTmFNNjhEOWtJOVNON1hGNENNaG5DUWU1UlNkeDJqMnJPQkpsTm5sMDBUZw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte14ymxfttfqve1pvfzhuy1csgizaxpuuna3rklnz21jsxdxx2l3vhm3ogtlt1rwu08yzmf4bgqtd3rnmlvmejnwzlzly1qtedk",
-      "title": "Call for Applications: Stanford Venture Fellowship 2026",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YmxfTTFqVE1PVFZhUy1CSGIzaXpuUnA3RklNZ21jSXdxX2l3VHM3OGtLT1RWU08yZmF4bGQtd3RNMlVMejNwZlZlY1QteDkyZ2V2OVE2M3pQWkhpclZUNlVYVC1iQWRwa29pR091ckw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmifkfvx3lxtfbmb2pxv1bynhhin05svedbqxzkdxfetxb5tmr6djuyemhotlb4rwrgndh6ulktsgrsrnlis2h3vghomwg3v1fpulrmdnfsdm9",
-      "title": "Horizon Institute for Public Service AI Rapid Response Fellowship 2026 (Funded)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmb2pxV1ByNHhiN05SVEdBQXZkdXFETXB5TmR6djUyemhOTlB4RWRGNDh6UlktSGRSRnlIS2h3VGhOMWg3V1FPUlRMdnFSdm9QbVJaVmFWUVdrRW43emVrSGdQUTNTM3JPZlZRSlJhTVoyVXBoLTBjVGxqQnRLdw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxnwlbpztezmhplevb0weh6skjqmew3ovpeohriemd5n2xwehbpdkpcwhh4rmfzwkw4bkqwdf95ry1tnxbvt2lgulzft0wzmzr",
-      "title": "Palantir CEO Pounces On Anthropic Spending Backlash",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlBpZTEzMHpLeVB0WEh6SkJqMEw3OVpEOHRiemd5N2xweHBPdkpCWHh4RmFZWkw4bkQwdF95Ry1TNXBVT2lGUlZFT0wzMzRYdFZ0VGE5aTJtcEo4TkE0VGpKUFZ2Nl9Qc1o5M0UxUnZfMEhIUTNYaFV3cjhDaV9jbHk5eHRscVJlUXR2eE1pdUlCOC1DNndSZEQ5UzdtS3NBWTdiUg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "github:iOfficeAI/OfficeCLI",
-      "title": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "section": "github",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "section": "github",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "github:TencentCloud/CubeSandbox",
-      "title": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "section": "github",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "github:dotnet/skills",
-      "title": "dotnet/skills",
-      "url": "https://github.com/dotnet/skills",
-      "section": "github",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "github:hesreallyhim/awesome-claude-code",
-      "title": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "section": "github",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-global-workspace",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "section": "ai",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-04425",
-      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
-      "url": "https://huggingface.co/papers/2607.04425",
-      "section": "ai",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-02642",
-      "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
-      "url": "https://huggingface.co/papers/2607.02642",
-      "section": "ai",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-alberta-government-claude-cybersecurity",
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "section": "ai",
-      "sentAt": "2026-07-07"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-04438",
-      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
-      "url": "https://huggingface.co/papers/2607.04438",
-      "section": "ai",
-      "sentAt": "2026-07-07"
     }
   ]
 }
