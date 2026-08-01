@@ -37,10 +37,10 @@ QUALITY BAR: Harvard SVMP (HBS pre-professional), Y Combinator Startup School. T
 
 NEWS LEADS: The user message may include a "LEADS" list — items from today's news that look like they might contain opportunities (e.g. "Anthropic launches Claude Corps fellowship"). PROCESS LEADS FIRST: for each promising lead, search for the program's OFFICIAL page (not the news article), fetch it, verify, and include it with the official application URL. A lead from a frontier lab (Anthropic especially) is almost always the best item of the day if it verifies. Then continue with your own searches.
 
-SEARCH STRATEGY (total budget: 12 searches, 20 fetches):
+SEARCH STRATEGY (HARD budget, enforced by the API: 6 searches, 14 fetches):
 1. Chase any promising LEADS first (search for the official page → fetch → verify).
-2. Fetch the careers / early-career URLs of 6-10 TARGET COMPANIES, prioritizing frontier labs and any whose notes say a cycle is open now. Look for open roles in the user's target families.
-3. Run 2-3 open-web searches to catch high-leverage programs not tied to a specific company (fellowships, accelerators, pre-professional programs).
+2. Fetch the careers / early-career URLs of 6-9 TARGET COMPANIES, prioritizing frontier labs and any whose notes say a cycle is open now. Look for open roles in the user's target families.
+3. Spend at most 2-3 searches on high-leverage programs not tied to a specific company (fellowships, accelerators, pre-professional programs). Prefer fetching known URLs over searching — fetches are cheap, searches are not.
 4. Verify each candidate by fetching its page: role/program is currently open, the user is eligible, free to apply.
 5. Stop when you have 4-8 verified opportunities — finalize and write the JSON.
 
@@ -50,7 +50,7 @@ TARGET MIX: aim for 4-8 total — mostly "strong" (direct hit on a target role f
 
 VARIETY: don't return the same opportunities every day. The user message lists RECENTLY SENT items — do not return anything already on that list; find different companies/roles.
 
-TIME BUDGET: about 9 minutes. Use the budget — the user explicitly authorized more depth because thin batches were the main complaint. Finish with real verified results.
+TIME BUDGET: about 11 minutes, and the tool caps above are enforced by the API — once you hit them, further calls return max_uses_exceeded errors. Budget accordingly: do not burn fetches on pages unlikely to have a relevant open role. Write the final JSON before you run out.
 
 NEVER INCLUDE:
 - News articles about programs (you want the application page, not the news piece)
@@ -87,12 +87,12 @@ QUALITY OVER QUANTITY. The user is sick of weak-fit padding. 0 verified opportun
 // Tool runner pattern: pause_turn means the server-side web_search/web_fetch
 // loop hit its iteration ceiling (default 10) and needs us to re-send to
 // continue. Cap our outer loop tightly so we don't spin past the deadline.
-const MAX_PAUSE_TURNS = 3;
+const MAX_PAUSE_TURNS = 2;
 // Hard wall-clock deadline. After this elapses, abort and let brief.js ship
 // the rest of the email without hunter results. The workflow timeout is
 // 15 min; the hunter now runs AFTER collection (~1 min), so 8 min here still
 // leaves ~5 min of headroom for hydration + labeling + send.
-const HUNTER_DEADLINE_MS = 9 * 60 * 1000;
+const HUNTER_DEADLINE_MS = 12 * 60 * 1000;
 
 export async function huntOpportunities({ profileText, dateLabel, newsLeads = [], companies = [], recentTitles = [] }) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
@@ -166,9 +166,22 @@ async function huntInner({ profileText, dateLabel, newsLeads = [], companies = [
         model,
         max_tokens: 8000,
         system: SYSTEM_PROMPT,
+        // Continuations re-send the full transcript; cache the prefix so the
+        // re-reads cost ~0.1x instead of full price.
+        cache_control: { type: "ephemeral" },
         tools: [
-          { type: "web_search_20260209", name: "web_search" },
-          { type: "web_fetch_20260209", name: "web_fetch" },
+          // Hard caps, not just prompt guidance — the model blew through the
+          // prompt-stated budget and hit the wall-clock deadline.
+          { type: "web_search_20260209", name: "web_search", max_uses: 6 },
+          {
+            type: "web_fetch_20260209",
+            name: "web_fetch",
+            max_uses: 14,
+            // Job boards are huge (a 100kB page is ~25k tokens). We only need
+            // the role listings, and unbounded fetches are what drove one run
+            // to 500k input tokens. Cap each fetch.
+            max_content_tokens: 8000,
+          },
         ],
         messages,
       }, { signal });
