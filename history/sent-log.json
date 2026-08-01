@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5192805008",
+      "title": "Applied AI Architect, Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hunter:www-databricks-com-company-careers-university-recruiting-associate-product-manager-new-grad-2027-start-7586263002",
+      "title": "Associate Product Manager, New Grad (2027 Start)",
+      "url": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-modal",
+      "title": "Modal Jobs",
+      "url": "https://jobs.ashbyhq.com/modal",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hunter:scale-com-careers-university",
+      "title": "Scale AI's University Student Careers",
+      "url": "https://scale.com/careers/university",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hunter:sierra-ai-early-career-program",
+      "title": "Build your future with Sierra",
+      "url": "https://sierra.ai/early-career-program",
+      "section": "opportunities",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "github:iv-org/invidious",
+      "title": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "section": "github",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2607-26497",
+      "title": "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms",
+      "url": "https://huggingface.co/papers/2607.26497",
+      "section": "ai",
+      "sentAt": "2026-08-01"
+    },
+    {
+      "key": "Hacker News:shub-club-writings-2026-august-14-steps-to-open-a-door",
+      "title": "The 14 steps it takes to open my office door with a new phone",
+      "url": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
+      "section": "tech",
+      "sentAt": "2026-08-01"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxpa0gyx3zfzjbpd1cytmvccex1adfodkjcnuqxts1orwfmm25jntrjn1lzv1rvbngwofhurgm1vwezu192dtgtyjhtnviwdxj",
       "title": "Break Into Tech AI Developer Scholarship 2026 (Fully-funded)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0gyX3ZfZjBPd1cyTmVCcEx1aDFOdkJCNUQxTS1ORWFmM25jNTRJN1lZV1RvbngwOFhuRGM1VWEzU192dTgtYjhtNVIwdXJtVWw5ei1sX2V2NW9HQWNhdkF1U0NoTHprRTZGYVd1cG1wY3p6Q1I0enUyckMxQXZpWnBlUjFESnNaVkZLeUtB?oc=5",
@@ -3443,62 +3499,6 @@
       "title": "California’s New Free-Diaper Program Is Going Straight To Families Who Need It Most",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFlZYjc1Sm1VNUlnODl0MkV5a0lnTkJ1N3UtUVZfX3JySzBfTHJQQjdaekFCdEJfTUZ4c0p2dGR5b2U4Zlp5VG9zMUtBa2F0OVVhTlpPM3lKcnI5YTY1UzJwYmdOSUpWdUxPR2E0VGdxS1ZfLXRTNFp6MXJ4OTJSX3hXRlFVUVh4RnBibVpiZUloT3Q5UFkxQ2QtU3NXVE43LS1XM1ZRckE5Q0VHRG9KSjRiWlBjTVd2?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmihwfbvv95cuxqvgxhagriwth1qvrmmfjoslpiwffjul9nwgntn0xtwdvlwhzxmli3y3vluw10smh3vfncdg5pt1ywnwpnouzdymr4ofpjcwz",
-      "title": "AWS invests $1 billion to embed AI forward deployed engineers with customers",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGxHaGRiWTh1QVRMMFJoSlpIWFFJUl9nWGNTN0xTWDVlWHZXMlI3Y3VlUW10Smh3VFNCdG5PT1YwNWpnOUZDYmR4OFpjcWZidURlc1hGM3BVM1pwX05IQVA2VkgzbDZLYXpWUUt2MEJuVFNGRFNMWmxXY2thdlZtWmcxNzJIMHM?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxpunlteun3wvdtq2pic0w1tnntqk9prmrmyva3agjwu0xrwktty254sut4c1reqwtwbnddlulxr1djufbwng4ynzk0r2dmbmh",
-      "title": "Applications open for the Yenching Academy's two-year fellowship",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnlTeUN3WVdtQ2pIc0w1TnNTQk9PRmRmYVA3aGJwU0xRWktTY254SUt4c1REQWtwbndDLUlxR1djUFBwNG4yNzk0R2dmbmhZZUlFZk96NHJCUUxYVDJZTEw4anMxdzVFMW5UNWRJM21xN1RCRXQtRjFYd1c1dWhKYXNtMnVmME9BRGVJTUJVV3V5X0pnUXc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmitafbvv95cuxnvjgyemv1c1rgyw8wa09aeu01tnbhwho0tgj5aju2v21toevit1blb2haaenoevppsfdxlxnwzzbqeti2yk1hbmcysejsmud",
-      "title": "‘Completely shattered.’ Changes to NSF’s graduate student fellowship spur outcry",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjgyemV1c1RGYW8wa09aeU01TnBhWHo0TGJ5ajU2V21tOEVIT1Blb2haaENoeVppSFdxLXNwZzBQeTI2Yk1HbmcySEJsMUd6OVpSeDFJTXlwM29kMkVWWVZnSFBNVEhjNTVxUC1OUjBVMXNMdG90VjExUzRGeW5DV1BRSm9ZUlRWdWljU0p1QWM3a2cxQzlVd0dRc3JOWVpoMkRkMkZrWTJaRW9heGJ2ZnRoeFU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "github:affaan-m/ECC",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "section": "github",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "github:TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "section": "github",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "github:MadsLorentzen/ai-job-search",
-      "title": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "section": "github",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "github:prisma/prisma",
-      "title": "prisma/prisma",
-      "url": "https://github.com/prisma/prisma",
-      "section": "github",
-      "sentAt": "2026-07-08"
-    },
-    {
-      "key": "github:argoproj/argo-cd",
-      "title": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "section": "github",
       "sentAt": "2026-07-08"
     }
   ]
