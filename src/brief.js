@@ -13,6 +13,7 @@ import { collectSearch } from "./sources/search.js";
 import { collectOpportunities } from "./sources/opportunities.js";
 import { collectWeather } from "./sources/weather.js";
 import { huntOpportunities, hunterOpportunitiesToItems } from "./opportunity-hunter.js";
+import { readHuntResults, huntResultsToItems } from "./hunt-store.js";
 import { applyHistory, initHistory, readHistory, updateHistory } from "./history.js";
 import { scoreAndSelect } from "./select.js";
 import { hydrateItems } from "./hydrate.js";
@@ -66,17 +67,35 @@ async function main() {
     .slice(0, 40)
     .map((e) => e.title)
     .filter(Boolean);
-  const hunterResult = hasLlm
-    ? await huntOpportunities({ profileText, dateLabel, newsLeads, companies, recentTitles })
-    : null;
-  const huntedItems = hasLlm ? hunterOpportunitiesToItems(hunterResult) : [];
+  // Opportunity precedence:
+  //   1. data/hunt-results.json — written by the LOCAL Claude Code scheduled
+  //      task (runs on the subscription, no API cost). Preferred.
+  //   2. the API hunter — only when there are no usable local results.
+  //   3. Google News fallback (handled below when neither produced items).
+  const localHunt = sample ? null : await readHuntResults();
+  let huntedItems = huntResultsToItems(localHunt);
+  let hunterResult = null;
+
+  if (localHunt) {
+    console.log(
+      `Local hunt results: ${huntedItems.length} items, generated ${localHunt.generatedAt}` +
+      `${localHunt.stale ? ` (STALE — ${localHunt.ageDays}d old; local task may not have run)` : " (fresh)"}.`,
+    );
+    if (localHunt.searchLog) console.log(`Hunt log: ${localHunt.searchLog}`);
+  }
+
+  if (!huntedItems.length && hasLlm) {
+    console.log("No usable local hunt results — falling back to the API hunter.");
+    hunterResult = await huntOpportunities({ profileText, dateLabel, newsLeads, companies, recentTitles });
+    huntedItems = hunterOpportunitiesToItems(hunterResult);
+  }
   const collectedItems = huntedItems.length
     ? collectResult.items.filter((item) => item.section !== "opportunities")
     : collectResult.items;
   const items = [...collectedItems, ...huntedItems];
   const { degradedSources } = collectResult;
 
-  if (huntedItems.length) {
+  if (huntedItems.length && hunterResult) {
     console.log(
       `Opportunity hunter (${hunterResult.model}): ${huntedItems.length} verified items, ` +
       `${hunterResult.toolCalls.web_search} searches + ${hunterResult.toolCalls.web_fetch} fetches, ` +
@@ -84,10 +103,10 @@ async function main() {
       `${hunterResult.usage.cache_read_input_tokens || 0} cache-read in / ${hunterResult.usage.output_tokens} out tokens.`,
     );
     if (hunterResult.searchLog) console.log(`Hunt log: ${hunterResult.searchLog}`);
-  } else if (hasLlm) {
+  } else if (!huntedItems.length) {
     const fallbackCount = collectedItems.filter((item) => item.section === "opportunities").length;
     console.log(
-      `Opportunity hunter produced no verified items; using ${fallbackCount} Google News fallback candidates.`,
+      `No hunt results (local or API); using ${fallbackCount} Google News fallback candidates.`,
     );
   }
 

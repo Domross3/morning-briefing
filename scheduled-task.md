@@ -1,39 +1,68 @@
-# Claude Code Scheduled Task
+# Scheduled tasks
 
-**Schedule:** every day at 9:30 AM `America/New_York` (cron: `30 9 * * *` — cron is interpreted in your LOCAL timezone, so this is correct as long as your machine TZ is ET).
+Two schedules, deliberately split so cost and reliability don't fight:
 
-**Task ID suggestion:** `morning-briefing`
+| What | Where | When | Cost |
+|---|---|---|---|
+| **Opportunity hunt** | Claude Code scheduled task (local) | ~8:45 AM ET daily | Subscription usage — **no API charge** |
+| **Render + send** | GitHub Actions, triggered by cron-job.org | 9:23 AM ET daily | ~$1–2/mo (editorial pass only) |
 
-**Prompt body** (paste into `create_scheduled_task`):
+The hunt is the expensive part, so it runs on the subscription. Delivery stays
+on Actions so the email arrives whether or not your laptop was on.
+
+---
+
+## 1. The local hunt (create this once)
+
+Ask Claude Code, in an interactive session:
+
+> Create a scheduled task with id `opportunity-hunt`, cron `45 8 * * *`, using
+> the prompt below.
+
+**Task prompt** (self-contained — each run starts with no memory of prior ones):
 
 ```text
-Run the Morning Briefing routine.
+Run the daily opportunity hunt for Dom's Digest.
 
-Working directory: /Users/dominicross/Desktop/email_bot
-
-Steps:
 1. cd /Users/dominicross/Desktop/email_bot
-2. Run: npm install --no-audit --no-fund
-3. Run: npm run brief
-4. If npm run brief exited non-zero, surface a Claude Code notification with the
-   path /Users/dominicross/Desktop/email_bot/out/latest-brief.html so the user
-   can still read today's brief manually.
-5. If history/sent-log.json was modified during the run, that's expected — the
-   bot appends sent items so it can dedupe tomorrow. No commit/push is needed
-   for a local-only setup. If you've added a git remote, optionally:
-   git add history/sent-log.json && git commit -m "Update dedup history" && git push
+2. git pull
+3. Read .claude/commands/hunt.md and follow it exactly. It tells you which
+   files to read (profile.md, data/target-companies.json, history/sent-log.json),
+   how to budget searches and fetches, what to verify before including an
+   opportunity, the exact JSON schema to write to data/hunt-results.json, and
+   how to commit and push.
+4. Report back in two lines: how many opportunities you wrote, and the best one.
 
-Do not print the contents of .env or RESEND_API_KEY in any log output.
+Use your own WebSearch and WebFetch tools — do NOT call the Anthropic API and
+do not run `npm run brief`. Your only job is producing data/hunt-results.json
+and pushing it. The email is sent separately by GitHub Actions at 9:23 AM.
 ```
 
-## Creating the task
+> ⚠️ Claude Code scheduled tasks only run **while the app is open**. If it's
+> closed at 8:45, the task fires on next launch. That's fine — the email still
+> goes out on time using the most recent results, marked stale if over 36h old.
 
-In a Claude Code conversation, ask:
+Run it manually any time with `/hunt`.
 
-> Create a scheduled task with id `morning-briefing` that runs `30 9 * * *` and uses the prompt body from `scheduled-task.md`.
+## 2. The send (already set up)
 
-Or have me call `mcp__scheduled-tasks__create_scheduled_task` directly.
+cron-job.org POSTs to the GitHub `workflow_dispatch` API at 9:23 AM ET, which
+runs `.github/workflows/morning-briefing.yml` → `npm run brief`.
 
-## Reminder
+Opportunity precedence inside `brief.js`:
 
-Scheduled tasks run while Claude Code is open. If the app is closed at 9:30 AM, the task fires on next launch — your laptop doesn't need to be awake or online at exactly 9:30 for it to work.
+1. `data/hunt-results.json` if under 7 days old — **preferred**, free
+   - under 36h → used as-is
+   - older → still used, but each card is chip-marked `Found Nd ago`
+2. the API hunter (`ANTHROPIC_API_KEY`) — only if there's nothing usable above
+3. Google News scrape — last resort
+
+So a day when your laptop was closed costs you freshness, not the email.
+
+## Cost control
+
+- `BRIEF_LLM_MODEL` repo variable picks the model for the API-side editorial
+  pass (currently `claude-sonnet-4-6`; `claude-haiku-4-5` is ~5× cheaper).
+- Delete the `ANTHROPIC_API_KEY` secret entirely to force local-hunt-only —
+  the email still sends, falling back to Google News on days the hunt is
+  missing, and the editorial pass reverts to templated synthesis.
