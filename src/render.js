@@ -204,12 +204,21 @@ ${metaRow}
 
 function renderMetaContent(item, section) {
   if (section === "opportunities") {
+    const parts = [];
     const fit = extractFit(item.chips);
     if (fit) {
       const color = FIT_COLORS[fit] || FIT_COLORS.maybe;
-      return `<span style="color:${color};">▰ Fit: ${escapeHtml(fit)}</span>`;
+      parts.push(`<span style="color:${color};">▰ Fit: ${escapeHtml(fit)}</span>`);
     }
-    return "&nbsp;";
+    // Deadline is the most decision-relevant field on a job card — it was
+    // being dropped because only the Fit chip was read.
+    for (const chip of item.chips || []) {
+      if (/^deadline:/i.test(chip)) parts.push(escapeHtml(chip));
+      else if (/^found /i.test(chip)) {
+        parts.push(`<span style="color:#8a8270;">${escapeHtml(chip)}</span>`);
+      }
+    }
+    return parts.length ? parts.join(" &nbsp;·&nbsp; ") : "&nbsp;";
   }
   if (section === "github") {
     const chips = item.chips || [];

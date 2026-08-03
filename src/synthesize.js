@@ -74,8 +74,14 @@ function synthesizeOpportunities(items) {
       ? `${n} candidate${n === 1 ? "" : "s"} today, spanning ${joinAnd(kinds.slice(0, 3))}.`
       : `${n} candidate${n === 1 ? "" : "s"} surfaced today.`,
   );
+  // Hunter/local-hunt items were verified by fetching the real page; Google
+  // News fallback items were not. Saying "not vetted" about verified items is
+  // actively misleading, so branch on where they came from.
+  const allHunted = items.every((i) => i.hunted);
   parts.push(
-    `These are keyword-matched, not vetted — confirm cost (must be free), class-year eligibility, and deadlines before investing time.`,
+    allHunted
+      ? `Each was verified against its live posting — open, eligible, free to apply. Still confirm the deadline yourself before investing time.`
+      : `These are keyword-matched, not vetted — confirm cost (must be free), class-year eligibility, and deadlines before investing time.`,
   );
   if (europe.length) {
     parts.push(`${europe.length} ${europe.length === 1 ? "is" : "are"} Europe-based; check US-citizen eligibility (flagged on the card).`);
