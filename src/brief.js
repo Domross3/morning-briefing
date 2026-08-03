@@ -14,6 +14,7 @@ import { collectOpportunities } from "./sources/opportunities.js";
 import { collectWeather } from "./sources/weather.js";
 import { huntOpportunities, hunterOpportunitiesToItems } from "./opportunity-hunter.js";
 import { readHuntResults, huntResultsToItems } from "./hunt-store.js";
+import { readApplications, followUpsDue, alreadyApplied, summarizeApplications } from "./applications.js";
 import { applyHistory, initHistory, readHistory, updateHistory } from "./history.js";
 import { scoreAndSelect } from "./select.js";
 import { hydrateItems } from "./hydrate.js";
@@ -62,11 +63,15 @@ async function main() {
   const companies = await readTargetCompanies();
   // Titles from the last ~10 days of opportunities, so the hunter finds
   // something different rather than re-surfacing the same programs.
-  const recentTitles = history.sent
-    .filter((e) => e.section === "opportunities")
-    .slice(0, 40)
-    .map((e) => e.title)
-    .filter(Boolean);
+  const applications = await readApplications();
+  const recentTitles = [
+    ...history.sent
+      .filter((e) => e.section === "opportunities")
+      .slice(0, 40)
+      .map((e) => e.title),
+    // Already-applied roles are the strongest do-not-repeat signal.
+    ...applications.map((a) => a.title),
+  ].filter(Boolean);
   // Opportunity precedence:
   //   1. data/hunt-results.json — written by the LOCAL Claude Code scheduled
   //      task (runs on the subscription, no API cost). Preferred.
@@ -119,7 +124,16 @@ async function main() {
     : items.filter((item) => itemIsLikelyEnglish(item));
   const droppedNonEnglish = items.length - englishItems.length;
 
-  const freshItems = dryRun ? englishItems : applyHistory(englishItems, history);
+  // Never re-surface something already applied to.
+  const unappliedItems = englishItems.filter(
+    (item) => item.section !== "opportunities" || !alreadyApplied(item, applications),
+  );
+  const droppedApplied = englishItems.length - unappliedItems.length;
+  if (droppedApplied > 0) {
+    console.log(`Dropped ${droppedApplied} opportunities already applied to.`);
+  }
+
+  const freshItems = dryRun ? unappliedItems : applyHistory(unappliedItems, history);
   const selected = scoreAndSelect(freshItems, profileText);
   const finalItems = selected.length ? selected : fallbackItems(degradedSources);
 
@@ -180,7 +194,16 @@ async function main() {
     }
   }
 
-  const html = renderBrief({ items: finalItemsAfterLlm, dateLabel, degradedSources, sectionSyntheses, weather, intro });
+  const followUps = followUpsDue(applications);
+  const appStats = summarizeApplications(applications);
+  if (followUps.length) {
+    console.log(`${followUps.length} application(s) due a follow-up (${appStats.open} open of ${appStats.total} total).`);
+  }
+
+  const html = renderBrief({
+    items: finalItemsAfterLlm, dateLabel, degradedSources, sectionSyntheses,
+    weather, intro, followUps, appStats,
+  });
 
   await fs.mkdir(path.dirname(config.outputPath), { recursive: true });
   await fs.writeFile(config.outputPath, html, "utf8");

@@ -43,7 +43,49 @@ billing the Anthropic API.
    - Dealbreakers: ad-tech/ad-core teams, PhD-only, non-US-only geographic
      scopes, anything costing money beyond reasonable travel.
 
-5. Write `data/hunt-results.json` — **4–8 items**, all verified. Quality over
+5. **Write an application packet for every `strong`-fit item** (skip `maybe`)
+   to `applications/packets/YYYY-MM-DD-company-role.md`. You already have the
+   job page in context from step 4 — use it rather than re-fetching. Each packet:
+
+```markdown
+# <Role> — <Company>
+
+**Apply:** <url> · **Deadline:** <date or rolling> · **Found:** <YYYY-MM-DD>
+
+## Match analysis
+Go through the posting's ACTUAL stated requirements one at a time. For each:
+quote or paraphrase the requirement, then say honestly where the user stands —
+strong (with the specific evidence from profile.md), partial, or a real gap.
+End with the 1–2 gaps worth addressing head-on in the application, and how.
+
+## Resume bullets
+3–5 bullets tailored to THIS posting, drawn from real work in profile.md
+(Aspera, this briefing pipeline, the interview bot, coursework). Lead with
+outcomes and numbers where they exist. No invented metrics.
+
+## Cover letter draft
+~200 words in the user's voice: direct, specific, not sycophantic. Open with a
+concrete reason for THIS company (something real from their site or product,
+not flattery). Middle: the single most relevant thing they've built and what it
+demonstrates. Close with a clear ask. No "I am writing to express my interest."
+
+## Screening answers
+Draft 2–4 short answers to the questions this posting or company is likely to
+ask — typically "why this company", "describe a relevant project", "tell us
+about a technical challenge". Keep each to ~120 words.
+
+## Before you submit
+Anything to double-check: work-authorization wording, whether a referral is
+worth chasing first, portfolio links to include.
+```
+
+   Ground everything in `profile.md`. **Do not invent experience, metrics, or
+   credentials** — if the user lacks something the role wants, the match
+   analysis says so plainly. A packet that oversells is worse than none.
+
+   Record the packet path on the item as `packetPath` so the email can link it.
+
+6. Write `data/hunt-results.json` — **4–8 items**, all verified. Quality over
    quantity; an empty array is honest, padding is not.
 
 ```json
@@ -57,6 +99,7 @@ billing the Anthropic API.
       "summary": "2 honest sentences: what it is, and the specific reason it fits this person's target roles and Aug-2027 timeline.",
       "fit": "strong | maybe",
       "deadline": "Specific date, 'rolling', or null if genuinely not found",
+      "packetPath": "applications/packets/2026-08-01-anthropic-applied-ai-architect.md (strong-fit items only; omit otherwise)",
       "notes": "Optional one-liner: eligibility caveat or what to look at first"
     }
   ],
@@ -69,15 +112,19 @@ open now, eligible, free. **maybe** = adjacent role, or a high-leverage
 program that builds the right network without hitting a target role directly.
 Anything weaker doesn't go in the file at all.
 
-6. Commit and push so the scheduled send can read it:
+7. Also read `data/applications.json` — skip anything already applied to; it's
+   suppressed downstream anyway, so surfacing it wastes a slot.
+
+8. Commit and push so the scheduled send can read it:
 
 ```bash
-git add data/hunt-results.json
+git add data/hunt-results.json applications/packets/
 git commit -m "chore(hunt): opportunities $(date -u +%Y-%m-%d)"
 git push
 ```
 
-7. Report back in two lines: how many items you found, and the single best one.
+9. Report back in two lines: how many items you found (and how many packets),
+   and the single best one.
 
 ## Notes
 

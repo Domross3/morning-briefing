@@ -1,0 +1,5 @@
+{
+  "note": "Application tracker. Log each application here (or use /applied). Feeds follow-up nudges in the brief and suppresses applied-to roles from future hunts.",
+  "statuses": ["applied", "screening", "interviewing", "onsite", "offer", "rejected", "withdrawn"],
+  "applications": []
+}

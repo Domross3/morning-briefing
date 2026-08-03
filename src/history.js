@@ -31,7 +31,10 @@ export function applyHistory(items, history) {
   const seenKeys = new Set(history.sent.map((entry) => entry.key));
   // Precompute the significant-token set for each previously-sent item so we
   // can catch the same program under a different URL/key.
-  const sentTokenSets = history.sent.map((entry) => significantTokens(entry.title || ""));
+  const sentEntries = history.sent.map((entry) => ({
+    tokens: significantTokens(entry.title || ""),
+    blob: `${entry.title || ""} ${entry.source || ""}`.toLowerCase(),
+  }));
 
   return items.filter((item) => {
     if (seenKeys.has(item.dedupeKey || item.id)) return false;
@@ -41,7 +44,17 @@ export function applyHistory(items, history) {
     if (item.section === "github") return true;
     const tokens = significantTokens(item.title || "");
     if (tokens.length < 2) return true;
-    return !sentTokenSets.some((sent) => titlesAreSameProgram(tokens, sent));
+    const blob = `${item.title || ""} ${item.source || ""}`.toLowerCase();
+
+    return !sentEntries.some((sent) => {
+      if (!titlesAreSameProgram(tokens, sent.tokens)) return false;
+      // Generic job titles repeat across companies. If both sides name a
+      // company and they disagree, these are different roles.
+      const co = extractCompany(sent.blob);
+      const itemCo = extractCompany(blob);
+      if (co && itemCo && co !== itemCo) return false;
+      return true;
+    });
   });
 }
 
@@ -54,6 +67,9 @@ export async function updateHistory(historyPath, history, selected, stamp) {
         title: item.title,
         url: item.url,
         section: item.section,
+        // Kept so title-dedup can tell "Solutions Engineer" at one company
+        // from the same title at another.
+        source: item.source,
         sentAt: stamp,
       })),
       ...history.sent,
@@ -62,4 +78,10 @@ export async function updateHistory(historyPath, history, selected, stamp) {
 
   await fs.mkdir(path.dirname(historyPath), { recursive: true });
   await fs.writeFile(historyPath, `${JSON.stringify(next, null, 2)}\n`, "utf8");
+}
+
+// Pull the company out of an "Opportunity · Anthropic" style source blob.
+function extractCompany(blob) {
+  const m = blob.match(/opportunity\s*·\s*([^·]+)/);
+  return m ? m[1].trim() : null;
 }

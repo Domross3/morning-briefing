@@ -38,6 +38,8 @@ export function renderBrief({
   sectionSyntheses = {},
   weather = null,
   intro = null,
+  followUps = [],
+  appStats = null,
 }) {
   const grouped = groupBySection(items);
 
@@ -98,6 +100,7 @@ export function renderBrief({
           ${renderLead(intro)}
           ${renderInThisIssue(tldrItems)}
           ${sectionsHtml}
+          ${renderPipeline(followUps, appStats)}
           ${renderAlsoToday(alsoTodayItems)}
           ${degraded}
           ${renderFooter()}
@@ -178,9 +181,13 @@ function renderCard(item, section, isFeatured) {
 
   const metaContent = renderMetaContent(item, section);
   const ctaLabel = SECTION_CTA[section] || "Read →";
+  // When the local hunt wrote an application packet, offer it alongside Apply.
+  const packetLink = item.packetUrl
+    ? `<a class="lnk" href="${escapeHtml(item.packetUrl)}" style="font-family:Georgia,serif; font-size:13px; font-style:italic; color:#6b6453; white-space:nowrap;">Packet →</a> &nbsp;&nbsp; `
+    : "";
   const metaRow = `              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:11px;"><tr>
                 <td style="font-family:Georgia,serif; font-size:12px; font-style:italic; color:#3a352c;">${metaContent}</td>
-                <td align="right" valign="bottom"><a class="lnk" href="${escapeHtml(item.url)}" style="font-family:Georgia,serif; font-size:13px; font-style:italic; color:#9a5b2c; white-space:nowrap;">${escapeHtml(ctaLabel)}</a></td>
+                <td align="right" valign="bottom">${packetLink}<a class="lnk" href="${escapeHtml(item.url)}" style="font-family:Georgia,serif; font-size:13px; font-style:italic; color:#9a5b2c; white-space:nowrap;">${escapeHtml(ctaLabel)}</a></td>
               </tr></table>`;
 
   return `          <tr>
@@ -368,6 +375,47 @@ function renderInThisIssue(items) {
           </tr>
           <tr>
             <td class="px" style="padding:14px 40px 4px 40px; font-family:Georgia,serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+${rows}
+              </table>
+            </td>
+          </tr>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// "Your Pipeline" — applications that have gone quiet long enough to nudge.
+// Renders only when something is actually due; silence beats a standing block.
+
+function renderPipeline(followUps, stats) {
+  if (!followUps.length) return "";
+  const rows = followUps
+    .map((a) => {
+      const where = a.company ? `${a.company} · ` : "";
+      return `                <tr>
+                  <td valign="top" style="padding:5px 0; font-family:Georgia,serif; font-size:13px; line-height:1.45; color:#1c1a17;">
+                    ${a.url ? `<a class="lnk" href="${escapeHtml(a.url)}" style="color:#1c1a17; text-decoration:none;">${escapeHtml(a.title)}</a>` : escapeHtml(a.title)}
+                    <span style="color:#8a8270; font-style:italic;"> — ${escapeHtml(where)}applied ${a.daysSinceApplied}d ago, quiet ${a.daysSinceTouch}d</span>
+                  </td>
+                </tr>`;
+    })
+    .join("\n");
+  const countNote = stats && stats.open
+    ? `<span style="color:#8a8270; font-style:italic; font-size:12px;"> &nbsp;${stats.open} open</span>`
+    : "";
+
+  return `          <!-- PIPELINE -->
+          <tr>
+            <td class="px" style="padding:30px 40px 0 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="font-family:Georgia,serif; font-size:14px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:#9a5b2c; white-space:nowrap; padding-right:14px;">Follow Up${countNote}</td>
+                  <td style="width:100%; border-bottom:1px solid #ddd6c7;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td class="px" style="padding:8px 40px 0 40px;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 ${rows}
               </table>

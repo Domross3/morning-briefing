@@ -14,6 +14,8 @@ const HUNT_FILE = "data/hunt-results.json";
 const FRESH_HOURS = 36;
 // Past this, ignore the file entirely; deadlines have likely moved.
 const MAX_AGE_DAYS = 7;
+// Packets are markdown committed to the repo; link to the rendered file.
+const PACKET_BASE = "https://github.com/Domross3/morning-briefing/blob/main/";
 
 export async function readHuntResults() {
   const file = path.resolve(process.cwd(), HUNT_FILE);
@@ -65,6 +67,8 @@ export function huntResultsToItems(hunt) {
       score: 100,
       hunted: true,
       fit: opp.fit,
+      // Application packet written by the local hunt (Tier 1), if any.
+      packetUrl: opp.packetPath ? PACKET_BASE + String(opp.packetPath).replace(/^\/+/, "") : null,
     };
   });
 }
