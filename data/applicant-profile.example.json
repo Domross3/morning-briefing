@@ -1,0 +1,54 @@
+{
+  "_note": "Copy to data/applicant-profile.json and fill in. That file is gitignored — this repo is public, so your phone number and address must never be committed. Only fill in what you're comfortable having autofilled; leave anything else blank and you'll fill it by hand.",
+
+  "fullName": "",
+  "preferredName": "",
+  "email": "",
+  "phone": "",
+
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "United States"
+  },
+
+  "education": {
+    "school": "University of Michigan",
+    "degree": "BS",
+    "majors": ["Computer Science", "Cognitive Science"],
+    "graduationDate": "August 2027",
+    "gpa": ""
+  },
+
+  "workAuthorization": {
+    "authorizedToWorkInUS": true,
+    "requiresSponsorshipNowOrFuture": false,
+    "note": "US citizen"
+  },
+
+  "links": {
+    "linkedin": "",
+    "github": "https://github.com/Domross3",
+    "portfolio": "",
+    "other": ""
+  },
+
+  "resume": {
+    "path": "",
+    "_note": "Absolute path to your résumé PDF. The apply command will point you at the upload field — you attach the file yourself."
+  },
+
+  "preferences": {
+    "earliestStartDate": "August 2027",
+    "openToRelocation": true,
+    "howDidYouHear": "Company careers page"
+  },
+
+  "_neverAutofilled": [
+    "Social Security Number / government ID",
+    "Date of birth",
+    "Passwords or account creation",
+    "Bank or payment details",
+    "Voluntary EEO self-identification (race, gender, veteran, disability) — these are yours to answer or skip"
+  ]
+}

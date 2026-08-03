@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 out/
 history/*.tmp
+
+# Personal data used to autofill applications. NEVER commit — this repo is public.
+data/applicant-profile.json
