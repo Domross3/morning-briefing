@@ -12,9 +12,15 @@ billing the Anthropic API.
 1. `cd /Users/dominicross/Desktop/email_bot` and `git pull` so history and the
    company list are current.
 
-2. Read these three files first:
+2. Read these files first:
    - `profile.md` — who the user is, their 6 target role families, timing
-     window (graduating **August 2027**), hard requirements, dealbreakers.
+     window (graduating **December 2026** — this is imminent, not future-tense), hard requirements, dealbreakers.
+   - **The master resume corpus** — Google Drive `DOM_ROSS_PROFILE.md`, file id
+     `1JJSP4egmFc3Oml4xpQJ-akqCIg9IZxR-NhCWT26kloM`. Fetch it with the Drive
+     tool. This is the source of truth for every job, project, course, and
+     bullet — plus 11 standing resume-generation rules. `~/life/PROFILE.md` and
+     `~/life/PROJECTS.md` are useful supplements. **Packets must be built from
+     this corpus, not invented from the thin local profile.**
    - `data/target-companies.json` — ~29 pre-researched companies with
      **verified** careers URLs, early-career program pages, which role
      families each hires for, and a note on how to filter that specific
@@ -79,9 +85,29 @@ Anything to double-check: work-authorization wording, whether a referral is
 worth chasing first, portfolio links to include.
 ```
 
-   Ground everything in `profile.md`. **Do not invent experience, metrics, or
-   credentials** — if the user lacks something the role wants, the match
+   Ground everything in the master corpus. **Do not invent experience, metrics,
+   or credentials** — if the user lacks something the role wants, the match
    analysis says so plainly. A packet that oversells is worse than none.
+
+   **Standing rules from the corpus that packets MUST honor** (the full list is
+   in the Drive doc; these are the ones that bite):
+
+   - **AI-assisted disclosure (critical).** Personal projects are built through
+     AI agent workflows — Dom owns architecture, product direction, and
+     verification; agents write most implementation code. He hand-codes
+     **C++, Python, SQL**; the JS/TS/React/Next/Supabase stacks are
+     agent-directed. Never write a bullet implying he hand-coded those. Any
+     skills framing keeps the hands-on vs agent-directed split.
+   - **Never invent numbers.** Quantify only what the corpus states. Where a
+     project has caveats recorded (single-user, no test suite, design not his),
+     respect them.
+   - **Write out "Harvard Business School Summer Venture in Management
+     Program"** in full — never the "SVMP" acronym.
+   - **No project outranks Aspera** in space or prominence.
+   - **Say "selective"** for program acceptance — never invent a percentage
+     (the Entrepreneurial Leadership Program's ~10% is documented and fine).
+   - **Graduation date is December 2026** but was historically unsettled — if a
+     packet turns on the date, flag it for Dom to confirm rather than assuming.
 
    Record the packet path on the item as `packetPath` so the email can link it.
 
@@ -96,7 +122,7 @@ worth chasing first, portfolio links to include.
       "title": "Actual role or program name (not a news headline)",
       "url": "The real application/program page you verified by fetching",
       "publisher": "Sponsoring org, e.g. Anthropic",
-      "summary": "2 honest sentences: what it is, and the specific reason it fits this person's target roles and Aug-2027 timeline.",
+      "summary": "2 honest sentences: what it is, and the specific reason it fits this person's target roles and December-2026 graduation timeline.",
       "fit": "strong | maybe",
       "deadline": "Specific date, 'rolling', or null if genuinely not found",
       "packetPath": "applications/packets/2026-08-01-anthropic-applied-ai-architect.md (strong-fit items only; omit otherwise)",

@@ -24,7 +24,7 @@ TARGET COMPANIES: The user message includes a "TARGET COMPANIES" list — pre-re
 
 NON-NEGOTIABLES:
 - Use web_search to find candidates (don't rely on memory — recall may be stale, deadlines shift)
-- Use web_fetch to load the real program/job page and verify: (a) applications are currently open, (b) the user is eligible per stated profile facts (US-based final-year undergrad / upcoming new grad, Class of 2027, no PhD), (c) free to apply / fully funded
+- Use web_fetch to load the real program/job page and verify: (a) applications are currently open, (b) the user is eligible per stated profile facts (US-based, graduating December 2026, no PhD, no 3+ YOE requirement), (c) free to apply / fully funded
 - Return REAL URLs — the actual program application page, not a news article ABOUT the program
 - If you can't verify open + eligible + free, drop the candidate. Don't pad.
 

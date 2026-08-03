@@ -39,9 +39,17 @@ in `data/hunt-results.json` or `applications/packets/`.
 
 ## Steps
 
-1. Read `data/applicant-profile.json` and the role's packet in
-   `applications/packets/` if one exists (it has the cover letter and screening
-   answers already drafted for this posting).
+1. Read `data/applicant-profile.json` (factual autofill values) and the role's
+   packet in `applications/packets/` if one exists — it has the cover letter and
+   screening answers already drafted for this posting.
+
+   For anything the packet doesn't cover (an unexpected long-form question, a
+   "tell us about a project" box), pull from the master resume corpus: Drive
+   `DOM_ROSS_PROFILE.md`, file id `1JJSP4egmFc3Oml4xpQJ-akqCIg9IZxR-NhCWT26kloM`.
+   Its standing rules apply to anything you type into a form — especially the
+   AI-assisted disclosure split (Dom hand-codes C++/Python/SQL; the web/mobile
+   stacks are agent-directed) and never inventing numbers. An application is a
+   higher-stakes surface than a résumé; do not overstate on his behalf.
 
 2. Open the posting in Chrome. Read the page and confirm it's still live and
    still the role from the packet. If it's closed or redirects to a generic

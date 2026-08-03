@@ -24,7 +24,7 @@ the live posting, writes application packets for strong fits, and emails them.
 Everything else (AI news, GitHub, etc.) is compressed to a 5-line footer.
 
 The user is a University of Michigan CS + Cognitive Science undergrad graduating
-**August 2027**, targeting Solutions Engineer / Founding GTM / Forward-Deployed
+**December 2026**, targeting Solutions Engineer / Founding GTM / Forward-Deployed
 Engineer / APM / TPM roles.
 
 ## Pipeline

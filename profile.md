@@ -4,7 +4,7 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 ## Who I am (drives the Unique Opportunities section)
 
-- **Final-year undergraduate / upcoming new grad** at the **University of Michigan** — Class of 2027, double-majoring in **Computer Science** and **Cognitive Science**. Treat me as a near-term new-grad candidate actively recruiting for full-time roles, NOT as an underclassman looking for summer programs.
+- **Final-term undergraduate / imminent new grad** at the **University of Michigan** — **graduating December 2026**, BS in **Computer Science** and **Cognitive Science** (minors: Business, Philosophy, Entrepreneurship). Treat me as a near-term new-grad candidate actively recruiting for full-time roles, NOT as an underclassman looking for summer programs.
 - Heavy interest in **AI and LLMs** — research, applications, agents, products.
 - **Pell-Grant eligible** — qualifies for many fully-funded / diversity / access / first-gen / low-income programs.
 - US citizen, based in Ann Arbor, Michigan.
@@ -13,9 +13,11 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 ### Career timeline & targets (the lens for Unique Opportunities)
 
-**Now through mid-2027 (final year)** — looking for **virtual, part-time** roles (or **in-person for bold, high-leverage ones**) I can do alongside school.
+**Now through December 2026 (final term)** — looking for **virtual, part-time** roles (or **in-person for bold, high-leverage ones**) I can do alongside my last term.
 
-**Graduating August 2027** — targeting **full-time roles that start around/after August 2027**. New-grad cycles for an August 2027 start typically open fall 2026 through spring 2027; surface those as they post.
+**Graduating December 2026** — targeting **full-time roles starting December 2026 / January 2027**.
+
+⚠️ **This is urgent, not future-tense.** New-grad cycles for a Dec-2026 / early-2027 start are open **right now** or closing soon. Many programs are keyed to spring graduates and either accept December grads explicitly or need an email to ask — flag when a posting says "May 2027 grads" so I can ask whether December counts. Prefer roles with rolling or immediate starts over ones gated to a summer cohort.
 
 **The top 6 role types I'm hunting (in priority order):**
 
@@ -28,8 +30,8 @@ This is the relevance compass for the briefing. The bot reads it each run and us
 
 **Strong fit signals for an opportunity card:**
 - Maps to one of the 6 roles above, AND
-- Matches the timing window (virtual/part-time during my final year, OR full-time starting around August 2027 with applications opening now), AND
-- Open to a rising senior / new grad (not requiring 3+ YOE or a graduate degree), AND
+- Matches the timing window (virtual/part-time through December 2026, OR full-time starting December 2026 / early 2027 with applications open now), AND
+- Open to a new grad (not requiring 3+ YOE or a graduate degree), AND
 - Free to apply / funded if there's a cost component.
 
 **Weak fit signals (mark "weak"):**
@@ -76,13 +78,19 @@ A local-first AI wellness app for "Quantified Self burnout" users (Whoop / Oura 
 
 **Repo:** lives in `AsperaMega` monorepo.
 
-### Interview bot — secondary
+### Interview-Me — secondary
 
-[**TODO — fill this in**] An interview practice / coaching agent. Currently undocumented in this profile. Useful to fill: language/framework, what kind of interview (technical / behavioral / both), where it runs (web / CLI / app), current pain points.
+Voice-first AI interview-practice app, deployed to production (github.com/Domross3/interview-me).
+Next.js 15, React 19, TypeScript (~6.5k LOC), Vercel serverless (7 API routes), Redis
+(Vercel KV/Upstash), Claude rubric-based scoring on 4 axes with anti-inflation, Whisper
+transcription. Adaptive question engine weights toward measured weaknesses (50/30/20
+struggle/stale/fresh, cooldowns, calibration loop). Deterministic heuristic fallbacks on
+every AI call — works with zero API keys. Caveats: personal tool, no external users, no tests.
 
 ### Personal website — tertiary
 
-[**TODO — fill this in**] Useful to fill: framework (Next.js / Astro / vanilla?), deployed where, what it's for (portfolio / blog / resume).
+domross.vercel.app — React + Vite + Tailwind education portfolio: course timeline plus
+natural-language site search.
 
 ### Morning Briefing (this bot)
 

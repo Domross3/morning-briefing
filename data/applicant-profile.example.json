@@ -16,7 +16,7 @@
     "school": "University of Michigan",
     "degree": "BS",
     "majors": ["Computer Science", "Cognitive Science"],
-    "graduationDate": "August 2027",
+    "graduationDate": "December 2026",
     "gpa": ""
   },
 
@@ -39,7 +39,7 @@
   },
 
   "preferences": {
-    "earliestStartDate": "August 2027",
+    "earliestStartDate": "January 2027",
     "openToRelocation": true,
     "howDidYouHear": "Company careers page"
   },
