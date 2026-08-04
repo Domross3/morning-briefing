@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmilwfbvv95cuxpohvdx1g0wgexm0m3x1jgzuvntzllnxzyudrxnghrdkf6v0lxz1liofjpdhjmsnvftwf3s1lswgv6nwrvnnlwsdjytwl1rfc",
+      "title": "Apply now for Climate Tech Fellowship Program 2026",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHVDX1g0WGExM0M3X1JGZUVNTzllNXZYUDRXNGhRdkF6V0lxZ1liOFJPdHJMSnVfTWF3S1lsWGV6NWRvNnlwSDJYTWl1RFczYzBGbGhoazNoX2NLa0c1eUNTTDVYVXljT3MtbWdndXVqMDZxdEduWnJXUnVLRkVYVWJDWXJ3NTh2bE14VUhsSXZ4QTgxcDNZ0gGcAUFVX3lxTE5TNlhhUXp5dG4xUVJnOWJrNUlWdXNCb3diR3B1QUVaYWJfUjF3Zm5qZV9rckVlenl0WVY2SXU4Z3JZb0RJckJkV2lRdnoyM0dpUDZpNXlzS3ZmVWJIN010VGFmYlN6cEl6Zmg0a0xiZncwdUx3a0RObGhmakxncmJQUzVMYmEtUERvRnhsaFRKQk9PbUVPaXRmNFFOSw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi6wfbvv95cuxpwjdlv3lud2pjsdrntgjedknia0v0vvhmq1recgxts09oa1vdru9zai12mef2cjd6m0jvzxbpv053m2h0bwhssgvfrvm1b1h",
+      "title": "Mark Cuban Foundation and UNC Asheville Bring Free AI Bootcamp to Asheville Teens",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjdLV3lUd2pJSDRNTGJEdkNia0V0VVhmQ1REcGxtS09Oa1VDRU9Zai12MEF2cjd6M0JvZXBPV053M2h0bWhSSGVfRVM1b1h6cVQzVkljMFhvR2R5RnRoMVJmNWhKQkVtWWQ1MmYzcnhIdENjbTdpSUdwWWRZRHUtSFhrcURvVHZQakR2aUFHblF3c3RoNmZBcHdUVGZmMi1nZi1LTXFJSmxsYVhjRXk0TjVsTFNicXg2am4yQ0JHUFVFQm42Qm5JTkFDV3NyWU1LeXowYjRFSmNzbTQ4S0ZRT3Q5VVlDOFpsUXAw0gHwAUFVX3lxTE55U3p3RUZzdnBMX3pDVV9hamdDajY5enFYZFNnRnRvZkM2ZVZYWE5nTWNpNk5EWEtiUDYwZG9NT2ZfQk9HRDdGWjFHa29NTWxCb2JQSm9kRXd0S3ljMkxxNFBrVGRsYmxRTzl2WkZ5VHZIWmVmU0I0YVZrb2hWaWJJa3JkSVQxVm1QSkdwR2U2NkRMbGI5ekJIQlJlbUZDcHA3TnkyOXNjWkVuS0ZvLTk3blBBOEhLQlMzRnBNanRsMndWdE8wNEh4VTFubFlsd2lWNjhMWktQWklMVzdYbmRaclVVUHk3Q3Zmc1NiY0w4Tw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Manila Times",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "github:lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-01964",
+      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+      "url": "https://huggingface.co/papers/2608.01964",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "Hacker News:github-com-makazhanalpamys-soup",
+      "title": "GitHub - MakazhanAlpamys/Soup: Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-04"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiwwfbvv95cuxqlwo5y19fc1g2qtqtaxpkqlniunridzlxzdrkumhiukhtemvsnk1pumvhvl8zbhbny2rowjhfefd5ms1glwdfb1vlzedwzdy",
+      "title": "What Every Employer Should Know About AI Governance Before the EU AI Act Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWo5Y19Fc1g2QTQtaXpKQlNIUnRidzlxZDRKUmhiUkhtemVsNk1pUmVhVl8zbHBNY2RoWjhFeFd5MS1GLWdfb1VLZEdwZDY4LU1BU1pXWEZ1QWtVYnpNOWtfTkgxZ2tVbEFlZVhaM0FkZVlIOHVLcXVDTlZPOUxOZ1Z5LUV4bGhQbFVkMjBYT1BJaE5xT2t4WVFaNmluNFNRVTJVRDIzZkFjdGVvSVFjWDdib0ZNWEJaSmlBcURKcUppY00?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Seyfarth Shaw",
+      "sentAt": "2026-08-04"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte96m0mxudflcxzku0fivzaxm2g5cdjmrwtlvmcznjzov2d1ws1pwjfocjrwbdhjswzbr1nrsedfognquudpbxzyulpjmzlnudd",
       "title": "DST INSPIRE Fellowship 2025-26 | Applications Open – Fully Funded Research Opportunity by DST",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96M0MxUDFLcXZKU0FIVzAxM2g5cDJMRWtLVmczNjZOV2d1WS1pWjFOcjRWbDhjSWZBR1NrSEdFOGNQUUdPbXZyUlpjMzlnUDdsWnlxc25JU2lhVTlIeTJtU3ZiTEZGNjZHZG9LYnpJd1NPUHVD0gF6QVVfeXFMUFUxNENNS3FpSUxlaEduOENZVkU1X1NXMVBrOU95YUx4ZFlqTm5aajRzcWhKbi01Ry1PcENyM0k2M1VLOHltdVV5Z3A1Z2o3WG1FRUY1NVRmRzR5LS1rVlpBeS1ZSi1VV3lvS0FsNnFNcWkyMkxEUW44Qmc?oc=5",
@@ -3460,55 +3516,6 @@
       "title": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "section": "github",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "github:VoltAgent/awesome-design-md",
-      "title": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "section": "github",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "github:anthropics/claude-cookbooks",
-      "title": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "section": "github",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "github:imthenachoman/How-To-Secure-A-Linux-Server",
-      "title": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-      "section": "github",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-separating-signal-from-noise-coding-evaluations",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "section": "ai",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-introducing-gpt-live",
-      "title": "Introducing GPT",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "section": "ai",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-off-switch-dual-use",
-      "title": "An off switch for dual use knowledge in AI models",
-      "url": "https://www.anthropic.com/research/off-switch-dual-use",
-      "section": "ai",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-government-national-security-partnerships",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "section": "ai",
       "sentAt": "2026-07-09"
     }
   ]
