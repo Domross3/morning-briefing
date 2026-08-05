@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmitwfbvv95cuxoltrhtnlbvfhpce9roxdutwheshreyvjibl9tufi3djzmm0vqt2rrzzrcmhptte1tz21vylgycgc0whbrbg13ou8yymu5zg9",
+      "title": "Discover the Latest AI Funding Opportunities for Social Impact and Innovation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTRhTnlBVFhpcE9ROXdUTWhESHREYVJibl9tUFI3djZmM0VqT2RrZzRCMHptTE1TZ21VYlgycGc0WHBrbG13OU8yYmU5ZG9ienQ4UGprbDgwMGZCNzlSMGs0SXFDMmhlbk0ySHNNTzRSOHV5dVBpQ1FubW11NmpCZHR2emlOWWV4b0tDS0VPOUVGMmt2ZE5ZM0kyQzV6ZUhZTzRCcFJmVXV2bzVpM0ZUVWJKYmpGVjjSAbwBQVVfeXFMTnVmYVpNalF3dFJBUzlfSE1xWGVRbU9NOEpRQnFhTGRCY1lPMGJ3QkZRcDVza0VXQjUtYWNMYUd2eHFBTDNaalRjQkVfNWNfd3VJSEhLT0R3QXRYaU5mMWdTUEZ2RU4yaGVCMDBqd0VHZUNBVHE0NVRXWXVlaTUtN3ltdERLa1VUUkI4Z0pEMlJmb3B1NFFzNURXSVVnY0dUQW5KbWJzYTVuNDNJclhxU003TG1DTlkyT18wWlk?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxqwje0mzi5vejvuln1uu1ltzbtx2vocluzqmlkdgfum01cqnp4uzdrmug2nmvzwtz1vexbswnruwvycefzwxpmmvjou255elh",
+      "title": "News from the world of Education: March 27, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjE0MzI5VEJvUlN1UU1lTzBTX2VOclUzQmlKdGFuM01CQnp4UzdrMUg2NmVzWTZ1VExBSWNrUWVycEFzWXpmMVJoU255elh5ZkdhYlhlcnc3VnFrYnFMQm1sYkdDQzYwUVdyd3JhMzVOSUZMMW5zakpOZm1SbGo3WTVqRU4xTGFfSVpHLXV2b19oSjhzMTkyc09TVHA0d3gyeVhn0gGqAUFVX3lxTE1sTDliUTVSdG9NWFg4bE5qSy05ZFdiakFFTHc5TFM4a05sT29SZUd2ckM2b2d0SnhVX0VDbUQ3U08wRDlTQW9LcllvVDNfU2Y5Qm8xb3Ywc0tJMTdwdUJITnVlN1NmWVFWZld4clJFUG43VlBKTlhiNFF0ckJLNWpsWTVRN3o1R3RIZ2F3ZG5TblREWVlEQjRVeElBZ2JMWm9mNHQ5Q25aNWhB?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Hindu",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "github:santifer/career-ops",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-03979",
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "url": "https://huggingface.co/papers/2608.03979",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "Hacker News:www-iowaattorneygeneral-gov-newsroom-attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "title": "Attorney General Brenna Bird Leads Coalition Demanding Transparency from OpenAI after AI Breach and",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmifkfvx3lxtfb3um0wtw9myvn3znewzu1smwxdtnnhyjm4cjg0oghwa2k5n3ywb3vfu2pvdehlr0nquvdwyuw5zm82wfnuaghgz0o2anzxn2p",
+      "title": "AI Act - Shaping Europe’s digital future",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Um0wTW9MYVN3ZnEwZU1sMWxDTnNHYjM4cjg0OGhWa2k5N3Ywb3VfU2pVdEhlR0NqUVdwYUw5Zm82WFNUaGhGZ0o2anZxN2p5MFBiRURiQlJEMkNpLXZ3UEtUbjMzTDJoYzVtRjF1UWNpcVZnQnVUVnhCb1Jwdw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Shaping Europe’s digital future",
+      "sentAt": "2026-08-05"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmilwfbvv95cuxpohvdx1g0wgexm0m3x1jgzuvntzllnxzyudrxnghrdkf6v0lxz1liofjpdhjmsnvftwf3s1lswgv6nwrvnnlwsdjytwl1rfc",
       "title": "Apply now for Climate Tech Fellowship Program 2026",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHVDX1g0WGExM0M3X1JGZUVNTzllNXZYUDRXNGhRdkF6V0lxZ1liOFJPdHJMSnVfTWF3S1lsWGV6NWRvNnlwSDJYTWl1RFczYzBGbGhoazNoX2NLa0c1eUNTTDVYVXljT3MtbWdndXVqMDZxdEduWnJXUnVLRkVYVWJDWXJ3NTh2bE14VUhsSXZ4QTgxcDNZ0gGcAUFVX3lxTE5TNlhhUXp5dG4xUVJnOWJrNUlWdXNCb3diR3B1QUVaYWJfUjF3Zm5qZV9rckVlenl0WVY2SXU4Z3JZb0RJckJkV2lRdnoyM0dpUDZpNXlzS3ZmVWJIN010VGFmYlN6cEl6Zmg0a0xiZncwdUx3a0RObGhmakxncmJQUzVMYmEtUERvRnhsaFRKQk9PbUVPaXRmNFFOSw?oc=5",
@@ -3467,55 +3523,6 @@
       "title": "Entergy Arkansas Power Your Future Scholarship now accepting applications to support technology students at HBCUs",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNak85OF9NeFFEbnlGb1d4YnQwTGNLcktrUG4tbjZfOWk5d2ppV0d2clYtNl81eTY2N2RsN3NQNVAwX09HZTVfQU5xRUxKc0xsNEpKZEstVFpUYmg0SW5tSzJCRU92SUdQUWo3Ui1lVXhSaXVIeGJ4aTN6cTdqLXJDQ3FaVjl5ZGFtdUVJQzBtMm02d0lkQ3BybnlPMVVPNm94NWc?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxozvhgqzncazhtaxdzvfvyxzhlazrpq3k3qtlgnw81aw52ekzzmtq1r1y2amdpvzkyr0jhrgtkvutrs3zkuta5b1z6zgoyzlb",
-      "title": "Student Abstract and Poster Program: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVhGQzNCazhTaXdzVFVyXzhlazRpQ3k3QTlGNW81aW52ekZzMTQ1R1Y2amdpVzkyR0JHRGtkVUtRS3ZkUTA5b1Z6ZGoyZlBta2VYeVlUWEdSVFUzOE41YmRNWUpjQ0V0TjFnQU1kRXNhWDJUMzJWRmxGaHRLU20zOE4zUVBvUnBWeDlsd3M2UENhanZPQkE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte1jwg9ouxpolxvfofjrovjsa05fmzh0bu9tcutjmeptvxradk84otk1lu9dsgvlcjdgdvlnztvuym9rdgruve5toug0rkvnykt",
-      "title": "Brandtech Group AI for Good Scholarship 2026 Opens for Young African Leaders Driving Responsible AI Innovation",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JWG9OUXpOLXVFOFJrOVJsa05fMzh0bU9tcUtjMEpTVXRadk84OTk1LU9DSGVLcjdGdVlnZTVuYm9rdGRuVE5tOUg0RkVNYktzNGVsa3ZtQjE0UWVOQUVKSndWNDVnYXotNDlfSkp5bw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte9nytvnn1ppvlc0wlrttum2cdrxv3fovxddrng2tllondr1uvhzqvdknzyxukjrv0dyethbuff2u3z5wwhhczvmd1hsa25vztf",
-      "title": "AAAI-24 Sponsor Program - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nYTVNN1pPVlc0WlRtTUM2cDRxV3FOVXdDRng2TlloNDR1UVhZQVdkNzYxUkJrV0dyeThBUFF2U3Z5WWhHczVmd1hSa25VZTF4aVNEcmtaMk5KVzFRUXRGbEVSbnlFM1BXRkFjeQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxptvfpahjjtm9quglxsmtidwjvzmrmwhvmmzntn1hgv3oyuev4umxwrxbnsenss0jxqvfcefdibvdin3a2bldtuw5teeprwjj",
-      "title": "Apple student scholarship winners won't get to WWDC in person this year. Instead, they'll win a jacket",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVFPaHJJTm9QUGlXSmtIdWJvZmRmWHVmMzNtN1hGV3oyUEV4UmxWRXBNSENsS0JXQVFCeFdibVdiN3A2bldtUW5teEprWjJIQXp3NDUwZFlBbzNkdlYxUE42Q0JZOWNRU29sQkZfWWw4NVlSdEYtZzkzY1gwV2VwbklnVmJRV19vRWp3cUlhWnFIb3VHXzAyYUVpbUVhMjY5TkFkam5ZYTkxaHpUcTF1akNMdTlOX3dQYmc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmigwfbvv95cuxpzkldx3pfemwxeexjvjhpq01haxriddl5umyxzfhymknwu0q5sdb1t3jucxiyrnfhchncsnazyjzjb1bku1zqdza1vm1snuh",
-      "title": "Employers say job interviews done by AI bots can uncover candidates they might otherwise miss",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZklDX3pfemwxeExJVjhPQ01haXRidDl5UmYxZFhYMkNwU0Q5SDB1T3JUcXIyRnFHcHNCSnAzYjZjb1BkU1ZqdzA1Vm1SNUhNWG1pQko4eUVFa2RiaXRRcG5QQ2ZpQmhFcGRYT2d2bkxUeTNjaGNqUXBiMFIzYnNkdmhNVQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "github:vxcontrol/pentagi",
-      "title": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "section": "github",
-      "sentAt": "2026-07-09"
-    },
-    {
-      "key": "github:unclecode/crawl4ai",
-      "title": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "section": "github",
       "sentAt": "2026-07-09"
     }
   ]
