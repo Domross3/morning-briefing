@@ -1,0 +1,5 @@
+{
+  "generatedAt": "2026-08-05T12:50:00Z",
+  "opportunities": [],
+  "searchLog": "WebSearch worked (returned results for OpenAI FDE roles etc.), but WebFetch returned HTTP 403 for every single URL attempted this run — Ashby/Greenhouse job-board APIs (OpenAI, Cohere, Together AI, Scale AI), company career pages (Databricks, Meta, Google, Microsoft, Stripe, Ramp, Notion, anthropic.com/careers), and even control URLs with no bot-protection (https://example.com, en.wikipedia.org). Only raw.githubusercontent.com succeeded. This is a session-wide WebFetch outage, not per-site blocking, so no candidate could be verified by actually loading its application page as the honesty rules require (open now, eligible, free). Rather than include anything sourced only from a search snippet, this run reports zero verified opportunities. Skipped re-verifying the 5 items already surfaced 2026-08-01 (Anthropic Applied AI Architect, Databricks APM New Grad 2027, Modal Jobs, Scale AI University Careers, Sierra early-career program) for the same reason — no fetch capability to confirm they're still open."
+}
