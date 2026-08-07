@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte56adfnzmczc2ytohvymmxiewxumlmxczjrt1dzwnkweg9smdjzzxvavgnodvvkdg4xztvjbjjvzzdlymrtmfozdfd1r1o0tg5",
+      "title": "5 Tech Fellowships Accepting Applications in August 2026",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56aDFNZmczc2YtOHVYMmxIeWxuMlMxczJRT1dZWnkweG9SMDJzZXVaVGNOdVVKdG4xZTVjbjJvZzdLYmRtMFozdFd1R1o0TG5nRXdZQnZqYzI5Rl9TTlk3bHVtdkljZDRYM3g1emo5TVh4YnlK?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Techloy",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxpq1daou00rzjumvowzhe0ofvdyzfiwdzwz2ptc1ltlw8ws3fydu9jz1vymujqdezpoupsuuo5shd2qulxdlncb2o1awpjcdl",
+      "title": "AI Is Taking Over This Crucial Part of the Recruiting Process: ‘It Was Very Realistic.’",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1daOU00RzJUMVowZHE0OFVDYzFIWDZWZ2pTc1ltLW8wS3FydU9jZ1VyMUJQdEZpOUpsUUo5SHd2QUlXdlNCb2o1aWpjcDlTZmMxbWxhZmVmbWZVRDgtTWk4dnpCbHB1THM2UmVTcFZDUkdTNnV2Mi1fSXllemc3bFFYUFQyY2lDaVlrQ0xGVXNwNmw4OGpQWXdvZmoyRHlDaDJ1YzFhUQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · entrepreneur.com",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi2afbvv95cuxpzklsvkcxdxlar19hbe81uhlxrhrowl96wmfgdlziykjjagyzzm9hdgy5m1o3ee1uohp2tkvfq2g5djzibxezlvb5q2xdald",
+      "title": "Phenom WorkOps Moves Enterprises to Multi-Agent Solutions for HR’s Biggest Challenges",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZklsVkcxdXlaR19hbE81UHlXRHRoWl96WmFGdlZiYkJJaGYzZm9HdGY5M1o3eE1uOHp2TkVFQ2g5djZibXEzLVB5Q2xDaldXeHpOSlhmQ0RvQkNORzByYzhFV1dUNUVFSzA1ekZtY1ZiZDN4N1pnWGpIZXBBSFRCdm5tLXI3dDRKNzQ2a0FKRmVJM3dFczYtd1N4X1VRcWxoUkJhMms4T3FrQWtiRVdscGNyb2VCckhwY0xwVDBTeTB5dzRQMUlaNGxxM2tvSDRRZFBnd1lwLVI?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Business Wire",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "github:PrimeIntellect-ai/prime-agent",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-06020",
+      "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+      "url": "https://huggingface.co/papers/2608.06020",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-improving-fable-5-s-biology-safeguards",
+      "title": "Improving Fable 5 Safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "Hacker News:www-shreveporttimes-com-story-news-local-louisiana-2026-07-28-is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impac",
+      "title": "Is New Orleans using AI to answer 911 calls instead of human dispatchers?",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-07"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmikafbvv95cuxpt3jjzvlwbmdzt0d3tvnhltdnwmtacjjsalp2uuxzuwvtr0j1bm5kr0zja2jsdnpbcvzsyvlpwmzut1rkbzzgsy1iekt4z0f",
+      "title": "What AI Regulation and Ownership Could Be",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3JJZVlWbmdZT0d3TVNhLTdNWmtacjJsalp2UUxZUWVTR0J1bm5KR0Zja2JsdnpBcVZSYVlPWmZUT1RKbzZGSy1iekt4Z0FSVDlZbUJhVlZiTVB1SzhLNkEtYTJRMmJvUC1ZUHhOQ0xTNEFWcWx0eDJjVjZDODVwTjMwT2tWT1FwdGZCNEtJWjk?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Mother Jones",
+      "sentAt": "2026-08-07"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmizwfbvv95cuxnazfjwnpynk53ehbgmwv6mwyzr3pkr0n1selhahfsqunus3hjtuplt3pjswtksepemkxvnvpktfawd3jqemzmy0jqnvvxrdb",
       "title": "Call For Applications: Cardtonic Upskill 4.0 Program 2026 (Win a MacBook Pro + Fully Funded Tech Scholarship)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNazFjWnpYNk53eHBGMWV6MWYzR3pkR0N1SElHaHFsQUNuS3hJTUplT3pjSWtkSEpEMkxvNVpkTFAwd3JqemZmY0JqNVVxRDByY2g4Y29mbE0zRWFrMEJJOGNtVGFRamxJb2htaENUZzZBNUcwcFVCc3M4aFp2QXRmSjFjamdoLWhEb0VhNExva0xWT3NUaTdfSC02M3NpeUtHVEZQcmhCd0N5cmI1MUVRa25aNDhjajdwZmI3d2lLb2Uxdl94VVRHU0hRUlIwTGM?oc=5",
@@ -3478,62 +3542,6 @@
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "section": "github",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "github:obra/superpowers",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "section": "github",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "github:davila7/claude-code-templates",
-      "title": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "section": "github",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "github:oven-sh/bun",
-      "title": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "section": "github",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "github:abseil/abseil-cpp",
-      "title": "abseil/abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "section": "github",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-chatgpt-for-your-most-ambitious-work",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "section": "ai",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-gpt-5-6-preferred-model-microsoft-365-copilot",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "section": "ai",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-hard-questions",
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "section": "ai",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-ust-claude",
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "section": "ai",
       "sentAt": "2026-07-10"
     }
   ]
