@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-08"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-hard-questions",
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-08-08"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-responding-next-frontier-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-08"
+    },
+    {
+      "key": "Hacker News:www-redhat-com-en-blog-cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "title": "The CPU is back: Rethinking the CPU",
+      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-08"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmifefvx3lxte5tczvswljhqnjmwhbhxzrov1g2v1e5ztrrcxdpqtnotulbbxottmrvtkljwlywtw5dumfuwgr4ukj4vzlfm2c4smjnsm9ltxk",
+      "title": "EU AI Act Enforcement Phase Begins",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TczVSWlJhQnJMWHBhXzROV1g2V1E5ZTRRcXdPQTNoTUlBbXotTmRvTklJWlYwTW5DUmFuWGR4UkJ4VzlfM2c4SmJNSm9LTXk0dXpHWGctbzFUY05TRVdzakdVU2FlRmdVY2ZzUnd3MUJOVktuMFVURE0xLXo?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Wilson Sonsini",
+      "sentAt": "2026-08-08"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte56adfnzmczc2ytohvymmxiewxumlmxczjrt1dzwnkweg9smdjzzxvavgnodvvkdg4xztvjbjjvzzdlymrtmfozdfd1r1o0tg5",
       "title": "5 Tech Fellowships Accepting Applications in August 2026",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56aDFNZmczc2YtOHVYMmxIeWxuMlMxczJRT1dZWnkweG9SMDJzZXVaVGNOdVVKdG4xZTVjbjJvZzdLYmRtMFozdFd1R1o0TG5nRXdZQnZqYzI5Rl9TTlk3bHVtdkljZDRYM3g1emo5TVh4YnlK?oc=5",
@@ -3508,41 +3548,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwR3VmVVcwSkJZRTZVU1oyODZpVlNVQ0d1cm5UZU9RMGNCclNNeDdQQTJYYUlTYkZJak5BaEJtZHUxZ0gtY1hPUHo3RzRnMWU5aVlDMmNlclRIT19rU29VSFBabXpkOHlqVkxvT28zRmU4XzN0Qmc?oc=5",
       "section": "legislation",
       "sentAt": "2026-07-11"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmixafbvv95cuxplxnusupvog9ivm1uvm1fbkk4rgrtnvbtrkhsyvbyqxprodnos1btlxzkmegyt0xxrllnog1juznxn19botdvd1b0du1wswt",
-      "title": "A $28 Billion AI IPO Trading at Just 7x Earnings: Too Cheap or Too Cyclical to Trust?",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXNuSUpVOG9iVm1UVm1Fbkk4RGRTNVBTRkhsYVBYQXpRODNoS1BTLXZkMEgyT0xxRllnOG1JUzNxN19BOTdvd1B0dU1WSWtZenY1Y3pDc2JQT1lBZS1Ebm04UW5OYjlZOUJrcnNFUUFlVllTOUNkUFBWa09SdEstbDMzckpJaW5HUE5NWGg4UTZrbnk2ekFzWU1ObnVjT3hQQmFvdGNCa2ZFay16UnY5YVFCLXBkYmdoQ1d6alVCVzE1ZDRz?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmitwfbvv95cuxoefhumm43u1btt3fraktcnk4waffpv0t2mgvmmwzrcdbymjbjnkftwxpkmlb5evr4qmfrwlvzcwl0cu02bfjgt0vobhjcz3n",
-      "title": "Building clean energy in New York state this summer",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFhuMm43U1BtT3FRaktCNk4waFFPV0t2MGVMMWZRcDBYMjBJNkFtWXpkMlB5eVR4QmFRWlVzcWl0cU02bFJGT0VobHJCZ3NxYm5YMndwVXdoS2s4Sk5rRjduaXNWTnB6MXFUekxPazBWRzZzcmVRRXNvSEFrSUpZemhBRFJtNmhHc0ZhVlloQ0R1a3hoR2dueU4ySEx2c2ZhSkgyTk9BRVdVV0xqWFhpZDNDZ1FZRHM?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxpnti2m3janwhsnm54elf0snu5og50vwplv01ntupfrevzalnntwduvwxrqunnn1qyalflstjnwmpmvjm5qktyz1pxbxztc2r",
-      "title": "The Institute for Security Studies (ISS) Junior Fellowship Programme 2026/2027 for young West Africans (Fully Funded to Dakar, Senegal)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTI2M3JaNWhsNm54elF0SnU5OG50VWpLV01NTUpFREVzalNnTWdUVWxRQUNnN1QyalFlSTJnWmpMVjM5QktYZ1pxbXZTc2RJQzQ5NlVpekhyQTFLR3lMUzRMc3NZZEVoYXBoM0pDcEY1WFFENmtITElYdUs5WEpma0d0cVNFQk5uU2oyWVlta2k3b0RxcWhrRGlXMGVLbzBPSTQ4Z0pLb0p1eFJOTjdtZml0Z2drci00VGc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxnshh2vneytm45cl80mk5iwmfvtmfbnwxyowjrsmktve1rzennredacnhisvi0nk1ht2zenjcyv1lioefjsmrbrvlkswvwouf",
-      "title": "UAlbany to Host National Summer Research Programs in Emerging Tech and RNA Science",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHh2VnEyTm45cl80Mk5iWmFVTmFBNWxYOWJrSmktVE1RZENnREdacnhiSVI0Nk1HT2ZENjcyV1liOEFJSmRBRVlkSWVwOUFjY0tCNmJTeGpyN0hBNUw0a0VTR0NvTE5WclBISUpwc3BwZlpGLUF5YjJZVWYzTDdubi02dlNzNXJ3ZTZ2alpScllhWl9XOFU1UEo0WWUwczlOd1NvYVNfcVhNTTMxejRMZUxid2V3R1VBV21seHNB?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-10"
-    },
-    {
-      "key": "github:google-labs-code/stitch-skills",
-      "title": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "section": "github",
-      "sentAt": "2026-07-10"
     }
   ]
 }
