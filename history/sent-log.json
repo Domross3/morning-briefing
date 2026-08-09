@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxtfbymnprwuvyzmrndxjyaknpuvzsrlfsm3ptaktsdvjaegx2v3izu0fsltvvnxbqr3l6d3dmsehrwdm4blzdshlpvzflafo2rnl",
+      "title": "NetHope Opens AI Fellowship Consultant Consultancy for Global Applicants - Apply by 17 August 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMnpRWUVyZmRndXJyakNPUVZsRlFSM3ptaktSdVJaeGx2V3IzU0FsLTVVNXBqR3l6d3dMSEhrWDM4blZDSHlPVzFlaFo2RnlEd1RJcEptNDVkOEFlcmpXczdPVG5BN290NGJzcWhoeHE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-08-09"
+    },
+    {
+      "key": "github:msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-09"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-learn-teach-chatgpt-work-codex",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-09"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-05987",
+      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.05987",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-09"
+    },
+    {
+      "key": "Hacker News:blog-n-ichol-ai-packaging-latent-reasoning-as-a-real-model",
+      "title": "Latent Reasoning",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-09"
+    },
+    {
       "key": "github:TauricResearch/TradingAgents",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
@@ -3512,41 +3552,6 @@
       "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
       "url": "https://huggingface.co/papers/2603.29616",
       "section": "ai",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "Hacker News:fazamhd-com-mental-models-networking",
-      "title": "Networking and the Internet, from First Principles",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "section": "tech",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "Hacker News:www-brown-edu-news-2026-07-09-chemical-bonds-relativity",
-      "title": "Einstein’s relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "section": "tech",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "Hacker News:www-nytimes-com-2026-07-10-climate-fcc-space-mirror-html",
-      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "section": "tech",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "Hacker News:tiki-li-blog-lucky-code-html",
-      "title": "Lucky Code",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "section": "tech",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmidkfvx3lxtfbwr3vmvvcwskjzrtzvu1oyodzpvlnvq0d1cm5uzu9rmgncclnneddqqtjyyultykzjak5baejtzhuxz0gty1hpuho3rzrnmwu",
-      "title": "Inside the alternative playbook to AI regulation",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwR3VmVVcwSkJZRTZVU1oyODZpVlNVQ0d1cm5UZU9RMGNCclNNeDdQQTJYYUlTYkZJak5BaEJtZHUxZ0gtY1hPUHo3RzRnMWU5aVlDMmNlclRIT19rU29VSFBabXpkOHlqVkxvT28zRmU4XzN0Qmc?oc=5",
-      "section": "legislation",
       "sentAt": "2026-07-11"
     }
   ]
