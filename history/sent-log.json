@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmigwjbvv95cuxqnutkm1fewkpkr2fsu1zpnfo4dw10rddirey3ehjxvvpkmvrtskzgvwsxzk11nhzibhjosvlrujljr0jhshzkvv84z1diluj",
+      "title": "Call For Applications: PIBBSS Winter Fellowship Program 2026–2027 in",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNUtkM1FEWkpkR2FsU1ZpNFo4dW10RDdiREY3eHJXVVpKMVRtSkZGVWsxZk11NHZibHJoSVlRUjlJR0JhSHZKVV84Z1dILUJhWjJrY085MVh2dF96VmRiZ01NR3FxaUdLajd0UXpPWDF3enBTXzlacmo1Sk45eUNIQS14WjFCOXJYYlpCaVZOdUNCUmtyY3d6cjBRaE5wWWxQVS0zZWJfd1BwNk5QVjRHQnh1SEVrWFpJV3BRLUM4T0V2UGpsWXQ0YWhoTDZnbkxmZVRCQU9ydll3X0xoMzRDOFpSb3N6WVhIR19jRnlxbnA2eERsYzZwanczZk95X2V5djNn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · MSME Africa",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxnak85of9neffebnlgb1d4ynqwtgnlcktrug4tbjzfowk5d2ppv0d2clytnl81ety2n2rsn3nqnvawx09hztvfqu5xruxkc0x",
+      "title": "Entergy Arkansas Power Your Future Scholarship now accepting applications to support technology students at HBCUs",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNak85OF9NeFFEbnlGb1d4YnQwTGNLcktrUG4tbjZfOWk5d2ppV0d2clYtNl81eTY2N2RsN3NQNVAwX09HZTVfQU5xRUxKc0xsNEpKZEstVFpUYmg0SW5tSzJCRU92SUdQUWo3Ui1lVXhSaXVIeGJ4aTN6cTdqLXJDQ3FaVjl5ZGFtdUVJQzBtMm02d0lkQ3BybnlPMVVPNm94NWc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Entergy",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "github:anthropics/skills",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-riemann-zeta",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-model-ml",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "Hacker News:github-com-activeing123-mcptoon",
+      "title": "GitHub - activeing123/mcptoon: Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.",
+      "url": "https://github.com/activeing123/mcptoon",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-11"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmixgfbvv95cuxoc3b0nvu1akxrogi2rll1m0dddwp6n3zdbetlek40udruvgnpx3dmmudkmffsm1ftntnsrldjtffrlwj6mkppwvvinjjfdgh",
+      "title": "AI in Nebraska education: Schools debate how much AI regulation is enough",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3B0NVU1akxrOGI2Rll1M0dDdWp6N3ZDbEtLek40UDRuVGNPX3dmMUdkMFFsM1FTNTNSRldjTFFrLWJ6MkpPWVVINjJFdGhZVi16SEhHazRCNVNyaHlVMWVMZFRUUHVVbGdrUHRzX0cxR3VISk9tendvaWlQWGYzLVRPNEZON2tyd2dJeXNrQ0p5bl9qTGczTFNFMmhhdnFvWmlYRS02VzdkUU50a25BaUwtYktDUWpCVW01SFFtUVhQV1VmcUE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Nebraska Public Media",
+      "sentAt": "2026-08-11"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte1ibdb6cw1jdk5lnunjafh5eez3ati4ts1rte00qwjqvlr1cnfnudztv2iymfhkrvzhq1vtdgfjwmpwduxwzjvqzhbryw5nuvd",
       "title": "WIPO Japan Opens 2026 Short-Term Fellowship Programme for International Students",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbDB6cW1jdk5lNUNJaFh5eEZ3aTI4TS1rTE00QWJQVlR1cnFNUDZtV2IyMFhkRVZhQ1VTdGFjWmpWdUxwZjVqZHBrYW5NUVdhY1VaWnRIcS1rbDBnbUtjQ1JDdnJJOHhCanJkRw?oc=5",
@@ -3516,55 +3572,6 @@
       "url": "https://odinbook.com/",
       "section": "tech",
       "sentAt": "2026-07-12"
-    },
-    {
-      "key": "Hacker News:app-ilograph-com-demo-ilograph-yt-dlp-download-2520a-2520youtube-2520video",
-      "title": "Ilograph Interactive Diagrams",
-      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-      "section": "tech",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiqafbvv95cuxqqnzjaxbra294rtrcx1veq2vvb1zxajfosldqtdm2nlphdk41tv9fczf3s1fdu3zxd05fmfpswvjeegpjcny4euoyynnwr3n",
-      "title": "Bellevue AI Startup Raises $50M in Series B Funding",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnZJaXBRa294RTRCX1VEQ2Vvb1ZxajFoSldQTDM2NlpHdk41TV9fczF3S1FDU3ZXd05FMFpSWVJEeGpjcnY4eUoyYnNwR3N4eTJvMVkzdjZhemVzam84akkwY1N0WDZzTjNPX0lURGY1eEpndVcyaDl5amVybGtzS0N4Zl9paFBHN1J1MUZNZFZpZ3FlWG9YVS1sSElYZlBoMnhHb0hpeE8?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizefvx3lxte1la0pvndnwaufxsmy2rc0tqv9svxo2tw5dbnjhzlfmu3hcb2y3dk12zdr5tjfhben3r1hyvfvqbtjbchz1zmn5awmyngfqtm9",
-      "title": "Summer Research Experience for Undergraduates - CSU/UC Berkeley",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1la0pVNDNWaUFXSmY2RC0tQV9SVXo2TW5DbnJhZlFmU3hCb2Y3dk12ZDR5TjFhbEN3R1hYVFVQbTJBcHZ1ZmN5aWMyNGFqTm9fQ2xXVHZueWozbFdIN1BiU0R0aUg?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxpc2njvxjsnvdtb0p6u2dzsdftavn4dmi1bketcen1dhhkwvfqrve1dddnzzjbz2dhqzm3z0vuqvzsr0rhnzhvmfzsdutxc2n",
-      "title": "‘War Force’ hiring initiative seeks federal tech talent at the Pentagon",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2NJVXJsNVdTb0p6U2dZSDFTaVN4dmI1bkEtcEN1dHhkWVFqRVE1dDdNZzJBZ2dhQzM3Z0VuQVZSR0RhNzhvMFZsdUtxc2NDUzEzWmM2R3l4RmZCLWhtU3RJZDdES2JPWDlERUxDTDdTS2pEY2dQUnRoeHVhWXhONzhrMnIyQ0pSLU0zOXpvdkVyM3dtcnQtUGtzczBPZU92STR4Z2c2aWplMzBNcGh4bDYxSnd4SGNtWmJZbmxKdXZzc1Zy?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqvelgzfgzmenvewtjnelmylhjve1tbhbzy0zvsmznthvvx3zmc1fotgnsay1nzfmyvnm3xy12nwlittnqc1rrd0nrn0hwvwx",
-      "title": "Medtronic Spark Scholarship Empowers Future Health Tech Leaders",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVElGZFgzMENveWtJNElMYlhJVE1TbHBzY0ZvSmZNTHVVX3Zmc1FOTGNSay1nZFMyVnM3Xy12NWliTTNqc1Rrd0NRN0hwVWxHd0dvdDVLXy1TQWNWQno2T2xZamduYlF1bDBWRE9TRkN4NUZhX1NXbW01NUc4R09Uc3o2N243ZmNBMExfaUY4eFJBR2M?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi6wfbvv95cuxpyvldqjlgawvsawvwnk9wbzrjc1lpwfpxntf3rfnvemjkyjatsmpvde1psnlhqvzzzgvnv2nfzkficwfwchi2ek5eslizumx",
-      "title": "IIT Delhi opens applications for AI deployment course",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYVlDQjlGaWVSaWVwNk9wbzRjc1lpWFpxNTF3RFNvemJkYjAtSmpVdE1PSnlhQVZzZGVNV2NFZkFicWFwcHI2ek5ESlIzUmx4b2Z5eFN1TnY2SlF4TnRqWTc1VVlaWHVaN1Q4NTIyS1gxQnRodzNxc256TzJuejY5NFVIWkFKWEVuMFNlWGsyMjdxRlhXZWZKamFLZmxuWUlocFdfUnZma3VySTdsc2pMTzl3blVHWldtb19zcHM2aWNMTWtiWjRRMURQNnRjaWxyYllJX0d2Y3RXX282SkdqRkFDa2FibVlzR0Nz?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxpzdh4lvp0thjqdkhqskfobg9yzgsxcnpowwvttupja3dsetfgutlvohnfzfjyttrktv9jcldiwjlswm1ms3r5q2o4zepid1d",
-      "title": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse'",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDh4LVp0THJqdkhQSkFobG9yZGsxcnpoWWVtTUpJa3dSeTFGUTlvOHNfZFJYTTRKTV9jcldIWjlsWm1mS3R5Q2o4ZEpid1dpNXdEUkp0MHhXLTBQSFJBT1NCSTBBR2hRZU9LN0VwNGR2T2tjU3hvR1ItRHpzd3YwRGdTd2xTdThCQlRvYUFR?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-11"
     }
   ]
 }
