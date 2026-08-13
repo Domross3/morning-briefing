@@ -2,6 +2,86 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte5qqvq2nutsve5vu0k1dmzptkwyxzzod3hfvupvzmzvawhidtjtr1nvt3fvqtlvufjnm0d6d215y2ttukrmdexwaxhvwfpotgz",
+      "title": "Cambridge ERA:AI Winter 2027 Fellowship Call for Applications With £10,000 Stipend and Full Funding, Visa Support & Tickets all Included",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QQVQ2NUtsVE5VU0k1dmZPTkwyXzZod3hFVUpvZmZvaWhidTJTR1NvT3FVQTlVUFJnM0d6d215Y2tTUkRmdExwaXhVWFpoTGZtaTNyOXNCZnVPQ0tKRkpRN1hnOU9BZmE0dFE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmisafbvv95cuxpde9cwkhiq2rxqwn0dxnrzgnrq1nmbunjtxvsnv8xzfn4nehidhdfmnjwuvryzjlfmknwsg02s0h5qxriqtm2m2fat3lncjl",
+      "title": "ASG Adds Eran Binyamin Zeitoun as Senior Technical Program Manager",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdE9CWkhIQ2RxQWN0dXNrZGNrQ1NMbUNjTXVSNV8xZFN4NEhIdHdFMnJWUVRyZjlFMkNWSG02S0h5QXRIQTM2M2FaT3lNcjlsbXdEcHI1Q2J2a2c5ODdVOFJsbVFMeHloM1VJX3BKeFVSZUpSQ1VOZzVGbHcxTkJDbEY0bWRuakhjVVpib3pmTTlOcC1oSzJnajNGSUVQNmtBbWNpamhQaWhPSTBqRE8xQg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · TVTechnology",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxoavlhazdiuwf3z1npmzzddmpmnk9zaunrdfhtelitcjhiadzzsfq2qki0u0vaqnnxdkvcs2hlauvhr3nkbnbhujfozzlevg5",
+      "title": "Call for Applications for Africa Education Teachers’ Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVlhazdiUWF3Z1NpMzZDdmpMNk9zaUNRdFhTelItcjhIaDZzSFQ2QkI0U0VaQnNxdkVCS2hLaUVHR3NkbnBHUjFoZzlEVG5lbWl2UUxmb3ltQ3lwbG1yZGpySWlGc0VyWTRyejh4SlMwdFI3Sjd1RWZjWWltZGNVa3llRFV4akNRQ3lOcXF0VQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Pulitzer Center",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxoege5dulfsudfafb3oxpiy0poznd0tvl2tfrkr1hwrfrwald5eg5pbe1itnlwef9qotrkum5toelhq2pfyufiejdosupgrw5",
+      "title": "Engineer the Future: Educators Can Apply for the Arduino Scholarship Now",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGE5dUlfSUdFaFB3OXpIY0poZnd0TVl2TFRkR1hWRFRwald5eG5pbE1ITnlWeF9qOTRkUm5TOElHQ2pfYUFIejdoSUpGRW5KcVJkUV9vSG5rLVBCd3dFb2JvNHcyQXBxb1I2ekgtcVJZOTY4U3dTc3h6bG5EUENjYjVDQl9NMmhycE1wRnQ0ZWhRN3BIUUNhVTBicXVUU3ZMUEdLUFB3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Yahoo Finance",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmilafbvv95cuxqtmpkamj4bjlswglcujfutdhbqzveb2j6dhn0b0xgr055u2owdfdsnwppq3hdahp3uulsbzhorldmykjrwe5kzfl0n0yyznl",
+      "title": "Morgan State University Launches Artificial Intelligence Degree With Quantum Machine Learning Courses",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmpkamJ4bjlsWGlCUjFUTDhBQzVEb2J6dHN0b0xGR055U2owdFdSNWpPQ3hDaHp3UUlSbzhoRldmYkJrWE5KZFl0N0YyZnlqVXRQb2MxZENjdmJ6WjlHWGNXZllGRzZWbHhxRnVkYVdGVFRseWE4cjJ6V2RzcUo1dlhpcmVjWC1uWVV0cllJUkQ4QWN6?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · NCHStats",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "github:unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-multiagent-systems",
+      "title": "Patterns and problems in multiagent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-reviewing-the-evidence-on-worker-retraining-programs",
+      "title": "How well do job retraining programs work?",
+      "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "Hacker News:sharktastica-co-uk-articles-pc-fxt-45",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-13"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmixgfbvv95cuxprhjumzhtztlcrnr0mgc4bfqtrtjqck1it09wrwlnuhn4atqxehi3mwrlx3hfmulnemrrbtr5njhwt2f6x2xuvmy3ckf2del",
+      "title": "EU AI Act’s Transparency Rules: What Went Into Effect on 2 August?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHJUMzhTZTlCRnR0MGc4bFQtRTJqck1iT09WRWlnUHN4aTQxeHI3MWRLX3hFMUlNemRrbTR5NjhwT2F6X2xuVmY3ckF2dElveDhEc01uZTVHenQ1ZjQzRXZWdGlJa3hLOTRQYkxJQUhENmE0X0NpSUQwWVY3UnZfMC0tekNRYnhieUluVzZscVNkUGFIOXJpUTZzSWxmTU9vSEdSQTNSVVlzMjdWVWRWNTVLTUp5dFFmZzNucmRydDBQZUFSTUE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Morgan Lewis",
+      "sentAt": "2026-08-13"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmikwjbvv95cuxobk1uzunzeepgmmq1rduzv2jkc2xpsfnttexpmgxlrhlycelydxq5tzjlsk5xq0tlbmx3ugotdlz1d0npnzbndnrortvrve9",
       "title": "For the 7th Time, Applied AI Leader Phenom Earns Spot on the 2026 Inc. 5000 List",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObk1UZUNzeEpGMmQ1RDUzV2Jkc2xpSFNTTExpMGxLRHlycElydXQ5TzJLSk5xQ0tlbmx3UGotdlZ1d0NPNzBNdnRoRTVrVE9NWVNvR2QzNGE1eVJJbkxveG01Tm5KSjYyckI2ZUpNVkZJT0p6S01NVG1URWdrZm9XQUtabks0NWNhMVFOcnVWaXJaTGVnVnNnLW16cXdJZnp0ZkJLWVB1LUxySi05V1dWOUxYbWVkZmVxaVgxWWdmY05WRHZtcXh3dzZidFZpZHZ0ZC02NVQ4cXhMQjEyRVFqYmhLNjF6M0lXREVNbnQ2Vy1fVFFSclNMTVM0cVBRazdpVHBmVFNJSU1aSXJQSEh4X2FINA?oc=5",
@@ -3513,76 +3593,6 @@
       "url": "https://huggingface.co/papers/2607.09657",
       "section": "ai",
       "sentAt": "2026-07-13"
-    },
-    {
-      "key": "Hacker News:www-wired-com-story-sfpd-drone-video-leak-surveillance",
-      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
-      "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-      "section": "tech",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "Hacker News:github-com-floodtide-dom-docx",
-      "title": "GitHub - floodtide/dom-docx: Convert semantic HTML fragments to native, editable Word documents (OOXML)",
-      "url": "https://github.com/floodtide/dom-docx",
-      "section": "tech",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "Hacker News:anderegg-ca-2026-07-12-an-infuriating-goodbye-to-photoshop",
-      "title": "An infuriating goodbye to Photoshop",
-      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-      "section": "tech",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "Hacker News:antirez-com-news-169",
-      "title": "Control the ideas, not the code - <antirez>",
-      "url": "https://antirez.com/news/169",
-      "section": "tech",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmi8afbvv95cuxpc3vkmgjrywrsr2dtdmf3otjcogjmcfdzww5vatmyajfyuun4rtnvq19ovwlrmfrzu1q4mxptqxnit0pvs19fmzvouhbkanp",
-      "title": "Compliance and Enforcement in Global AI Regulation: EU AI Act Risks and International Regulatory Challenges",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc3VkMGJRYWRSR2dTdmF3OTJCOGJMcFdZWW5VaTMyajFyUUN4RTNVQ19oVWlrMFRzU1Q4MXpTQXNIT0pvS19fMzVoUHBkanppQWdUbnJETVFoUXNzOFJNRnJpQXZNTF9RMHBMNE5KZVZWMUVEZS0wejI1OUl6ZkM1enpoN25VZUNFSGxIWGhPZFpVVHVaTGJBRF95ZWVtcGhkdzktTS0ybUtlMnNSYnRiSVJqSzI0b2RaTlR2QV90elRMOV9sT29SY3lIQUl6cDUtTXdfbUtMSlBXcHNEQU1XMlFnczdvdVVrM1ZmRDZ0SHI?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiwwfbvv95cuxpt2hydfawsffky2t4ymx5r0zwyuczvhzucddyr3lyu0nknxhpywxpx2tta2zxtnzmze96edrnbnnkzwrxuehovgp3vkfvetj",
-      "title": "Forward Deployed Engineer Is AI’s Hottest Job: OpenAI and Google Race to Hire FDEs",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2hYdFAwSFFKY2t4Ymx5R0ZWYUczVHZucDdYR3lYU0NkNXhpYWxPX2tta2ZXTnZMZE96eDRNbnNkZWRXUEhoVGp3VkFVeTJIb1BnRkxqc0g4cmYzdkdCd29oc0Q0NVJWWGNUMWJ5SUdlN3dqeTJFd2NRZlB0Nl9QU0tVSVBxTVY0Z2RPMENUS1hBYVVzRTFCWHlmRk91cTBCalRGMHhNY1pwNHY0VWlsNkNOSEFBVE85R3lhU213S3huVnc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxnrlrkajv5wtrswk9ilxdrbwzhseh0aurmywfjazjnufjjrzlwceuzmetczmfldlhnbnpznlnjv2hurghzdxhfaucwrhriwv8",
-      "title": "Discover 15+ Scholarships Supporting Academic Excellence",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlRKajV5WTRsWk9ILXdRbWZHSEh0aURmYWFjazJnUFJjRzlwcEUzMEtCZmFLdlhNbnpZNlNJV2hURGhzdXhfaUcwRHRiWV8tQk9JZ0k2aEdweVdIWnBsRWFWOWdzYVRZbzJYcXpGaklpM1pSYURuYXRDeDkxaHo0YTBaTm5ialJrb2VCTVlTOC05OEgzWkJEVDJn0gGfAUFVX3lxTE1iMUhlaDBlTFlkY0tnOXAwLThvVE90dndLTTlGSk5WUXVnZHJCVWpQNlloZnhoc2F6TGdFQjdjeTItWTZoX2VYWENJYU1aOV9Lc0Fyal96QUpsV21PQjc4U0lqMThDUUVIblg5OHZibFdLcGk0dDA3RVVKa01SNjk2WWYwSnIyaWhsQk5ZUkpEUjBYd3RRNlBlNVFFOG1kYw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixgfbvv95cuxpzhvwmtzfdlzonhbpbvhnstktyk5ytzban3botwc2njnhczhuwvjvtktlzld3wc0zegeyrefdzk1kwkfjnzbfaxv0m3jsmc1",
-      "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "github:Shubhamsaboo/awesome-llm-apps",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "section": "github",
-      "sentAt": "2026-07-12"
-    },
-    {
-      "key": "github:chen08209/FlClash",
-      "title": "chen08209/FlClash",
-      "url": "https://github.com/chen08209/FlClash",
-      "section": "github",
-      "sentAt": "2026-07-12"
     }
   ]
 }
