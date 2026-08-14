@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmi0gfbvv95cuxpas0zui1tu2nnm1fgb3dxsv83ci1fqy1vbgnrtvdhmmrjdu8zv2jzwefzn0ppstlavvozbdronznoqmllvkowu2f2ztbbrdj",
+      "title": "For the 7th Time, Applied AI Leader Phenom Earns Spot on the 2026 Inc. 5000 List",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaS0zUi1tU2NnM1FGb3dxSV83ci1fQy1VbGNrTVdHMmRjdU8zV2JzWEFZN0ppSTlaVVozbDRoNzNOQmllVkowU2F2ZTBBRDJYNk1oSFdmcC1WMmpKRGx1Q3FtdklmdGQ0bzZjTjRUZ1hQTS1yanlQaGdVZzB1RmpVMkdiV0ViREJQQ0pzdHdjeG9ianFUSzdRckVDNXF4bkV5MDdIY0hVMmUwaW1QeVpRSDRJcE11T1hWQ045SlZWc1dlTzdFWWZGSFk3TDB6VXRTdXc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Business Wire",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxpuexreejzsljmsm1jnw9zbxdpcg1jtunwukhockxqsjb1vjfqz2pbywpnsdrowlz1dk5ptdazqy16nvjxx1dvagllefhrv1r",
+      "title": "Forward Deployed Engineer: Second Talent on Asia’s 2026 Talent Shift",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUExreEJZSlJMSm1jNW9zbXdpcG1JTUNWUkhockxqSjB1VjFqZ2pBYWpnSDROWlZ1dk5PTDAzQy16NVJXX1dVaGlleFhRV1RFT1lkWl9qX0o4dlpKNXVKZ25GQmtwX3JYVk9uT3ZzMUpvMnhQTDlFcFlaMGxWb3oyXzd4a3JjQ0o0bGlDWlMxZnZYMmxnNlhmRjMtQ18tQVB0M2VPMklRTkdCem11R0RSM1g4SVlzc1Z2Qnpn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · HRTech Series",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "github:rustdesk/rustdesk",
+      "title": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "Hacker News:github-com-justvugg-lumabri",
+      "title": "GitHub - JustVugg/lumabri: Run huge MoE models from a swarm of peers, with the colibri engine. Pure C.",
+      "url": "https://github.com/JustVugg/lumabri",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-14"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmilgfbvv95cuxqb0rctdrhmdrib2drt2pndzy1rexqb0xybg1jyvhfctlscmktmvbnd19wvhphwerjmlzwqvn1r0vsqwt0eg1cs2h5am9dze1",
+      "title": "'We have a voice': Minnesota students help craft national AI policy",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0RCTDRhMDRIb2dRT2pNdzY1RExQb0xybG1jYVhfcTlscmktMVBnd19WVHpHWERjMlZWQVN1R0VSQWt0eG1CS2h5am9DZE13WERjSmYyTDJoMFBGVkJQQkpSaU5ONFhoMTNPNWJkRzdCWmpibXVaMmJBd3lLb2xLVGdwZWRpbjNCemlDcFdiUkQycGs5TFE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · MPR News",
+      "sentAt": "2026-08-14"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte5qqvq2nutsve5vu0k1dmzptkwyxzzod3hfvupvzmzvawhidtjtr1nvt3fvqtlvufjnm0d6d215y2ttukrmdexwaxhvwfpotgz",
       "title": "Cambridge ERA:AI Winter 2027 Fellowship Call for Applications With £10,000 Stipend and Full Funding, Visa Support & Tickets all Included",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QQVQ2NUtsVE5VU0k1dmZPTkwyXzZod3hFVUpvZmZvaWhidTJTR1NvT3FVQTlVUFJnM0d6d215Y2tTUkRmdExwaXhVWFpoTGZtaTNyOXNCZnVPQ0tKRkpRN1hnOU9BZmE0dFE?oc=5",
@@ -3543,55 +3599,6 @@
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "section": "github",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "github:OpenCut-app/OpenCut",
-      "title": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "section": "github",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-08964",
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "url": "https://huggingface.co/papers/2607.08964",
-      "section": "ai",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-09024",
-      "title": "Video Generation Models are General-Purpose Vision Learners",
-      "url": "https://huggingface.co/papers/2607.09024",
-      "section": "ai",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-04751",
-      "title": "Trust Region Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.04751",
-      "section": "ai",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-06553",
-      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-      "url": "https://huggingface.co/papers/2607.06553",
-      "section": "ai",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-06957",
-      "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
-      "url": "https://huggingface.co/papers/2607.06957",
-      "section": "ai",
-      "sentAt": "2026-07-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-09657",
-      "title": "Scalable Visual Pretraining for Language Intelligence",
-      "url": "https://huggingface.co/papers/2607.09657",
-      "section": "ai",
       "sentAt": "2026-07-13"
     }
   ]
