@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5023394008",
+      "title": "Anthropic Fellows Program",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "hunter:www-ycombinator-com-companies-gooseworks-jobs-uj4vh2f-founding-engineer",
+      "title": "Founding Engineer / Builder at Gooseworks",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+      "section": "opportunities",
+      "source": "Opportunity · Gooseworks (YC W23)",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "github:Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-13552",
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "url": "https://huggingface.co/papers/2608.13552",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-text-watermark",
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "Hacker News:www-anthropic-com-research-multiagent-systems",
+      "title": "Patterns and problems in multiagent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-16"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmioafbvv95cuxqrtfvcvzfx3pzn2jpaw45snbtsfbdt1vumxd5nkrpsxcwevn4bwxpd2daagm3v09wm19syzrlng4yqxqyc1vpednry2hizxj",
+      "title": "The Different Philosophies Driving AI Regulation Today",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTFvcVZfX3pzN2JpaW45SnBTSFBDT1VuMXd5NkRpSXcweVN4bWxpd2daaGM3V09WM19sYzRlNG4yQXQyc1VPeDNrY2hiZXJibnZIZG9wNVl5OTZtRGRpT2ZhZTNUdG1rX0J0RmkxbVZoUHcxd3lfdGxOMGxGZy1xcGFQWG84cFJyNzFGUHRLeHcxZC1hYkdRQlhkRHN0dFV6?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Knowledge at Wharton",
+      "sentAt": "2026-08-16"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxpow1nn2kzytmzexpbatf2s183c0lptnbvbxbdbs1uu2tzbgh6tgxycgviagzzvdhftgtlvu1asui5rvv0nexzawhwulhcwnc",
       "title": "Call For Applications: AGP Ascent Fellowship 2026 (Free Online Fellowship For Entrepreneurs)",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOW1NN2kzYTMzeXpBaTF2S183c0lpTnBVbXBDbS1UU2tzbGh6TGxYcGViaGZzVDhfTGtLVU1aSUI5RVV0NExzaWhWUlhCWnctcHhlSi1VcW9XSkdlRnVEblh5ME9jZFVhcExTR0Znai1xYWdMdGFhUHVYa3lWSkFqX1NwSk9ERFRqNjFfYkxTLXp0bkhVT1JaQ2tFMERaTkpyWUJKX2cydlF1Y2tvdjNEdzhQX3lFdUVsekUw?oc=5",
@@ -3563,55 +3619,6 @@
       "title": "How Canada uses Claude",
       "url": "https://www.anthropic.com/research/how-canada-uses-claude",
       "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-claude-plays-robotics",
-      "title": "How Claude Performs on Robotics Tasks",
-      "url": "https://www.anthropic.com/research/claude-plays-robotics",
-      "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-canadian-ai-research",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-05394",
-      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.05394",
-      "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-10383",
-      "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
-      "url": "https://huggingface.co/papers/2607.10383",
-      "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "Hacker News:github-com-danau5tin-ai-trains-ai",
-      "title": "GitHub - Danau5tin/ai-trains-ai: RL-training an AI agent to RL",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "section": "tech",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "Hacker News:arxiv-org-abs-2607-05188",
-      "title": "Latent Programming Horizons in Coding Agents",
-      "url": "https://arxiv.org/abs/2607.05188",
-      "section": "tech",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "Hacker News:docs-pasteurlabs-ai-projects-tesseract-core-latest-blog-2026-07-09-enzyme-lfortran-autodiff-html",
-      "title": "Differentiable Fortran with LFortran and Enzyme",
-      "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-      "section": "tech",
       "sentAt": "2026-07-14"
     }
   ]
