@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxndnlnlvizt2jxrldiaxladljfbmrry3fhwk9synk4sedunv91zc04zlhjzmx2ludnzjliu25rslvwztbwbfiydlnmb1hpyzz",
+      "title": "B&M hunts first data and AI chief in major hiring spree",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnlnLVIzT2JxRldIaXladlJFbmRRY3FhWk9sYnk4SEduNV91ZC04ZlhJZmx2LUdNZjliU25RSlVWZTBWbFIydlNMb1hPYzZrV01wR3FlWVJwaGZMTEMtb1c3SDRmbkFpYVBSZlkzS0JzWWR6OHFFVE55Sl9WZGd1NXp3X3ZYUHM4cjR3LVZ0ZUVUTXZHWWY0ak03d1dlVmxyRkE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · DecisionMarketing",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxptvfpahjjtm9quglxsmtidwjvzmrmwhvmmzntn1hgv3oyuev4umxwrxbnsenss0jxqvfcefdibvdin3a2bldtuw5teeprwjj",
+      "title": "Apple student scholarship winners won't get to WWDC in person this year. Instead, they'll win a jacket",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVFPaHJJTm9QUGlXSmtIdWJvZmRmWHVmMzNtN1hGV3oyUEV4UmxWRXBNSENsS0JXQVFCeFdibVdiN3A2bldtUW5teEprWjJIQXp3NDUwZFlBbzNkdlYxUE42Q0JZOWNRU29sQkZfWWw4NVlSdEYtZzkzY1gwV2VwbklnVmJRV19vRWp3cUlhWnFIb3VHXzAyYUVpbUVhMjY5TkFkam5ZYTkxaHpUcTF1akNMdTlOX3dQYmc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · USA Today",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "github:Graphify-Labs/graphify",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-13417",
+      "title": "Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development",
+      "url": "https://huggingface.co/papers/2608.13417",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-virgin-atlantic-chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "Hacker News:blog-roboflow-com-openai-gpt-5-6",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-17"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiowfbvv95cuxqofjad1zpdf9lehjhefzmr2pklvg4cgwxsejhwkoxzzr5tmfdvu9xughwstzmbufpwkvdlvfmse5walhsnhzia3ytywtvdl9",
+      "title": "Law School introduces largely permissive AI policy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFJad1ZPdF9leHJheFZMR2pkLVg4cGwxSEJhWkoxZzR5TmFDVU9XUGhwSTZMbUFPWkVDLVFmSE5WalhsNHZIa3YtYWtvdl9mUldsWDJfTE5BRlQzUXU5bXM0QnBLS3hTSEtUNTYyNVVITzYwNUhVa1kwd082bzB5WGlYYVhBYjlvTURFVmRlcEtEY2huNkxJVG9rLXBGUHJjNWw4?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Columbia Daily Spectator",
+      "sentAt": "2026-08-17"
+    },
+    {
       "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5023394008",
       "title": "Anthropic Fellows Program",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
@@ -3570,55 +3626,6 @@
       "title": "Ivy Tech receives nearly $200K grant to help low-income students",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGUzek1IS19TXzUtZjdRbFVjYUdBQXhQZmtqaElJc3lUYUV0OEkxd05IQTBBeUwybGVRb1N6TFJUVTJOQm1GaWpDUGotMzlxUTBRS2J2RFVtT0ZaZV9zUWg3R3JtcWFIRVNQNHhzZzU5ZkNoaWZDRktNZFN5Z1NiejhNbmxkemlWSlFWVlhwTTV2cDBTWUdsbnFGVQ?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "github:virattt/ai-hedge-fund",
-      "title": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "section": "github",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "github:Raphire/Win11Debloat",
-      "title": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "section": "github",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "github:penpot/penpot",
-      "title": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "section": "github",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "github:AIEraDev/Clypra",
-      "title": "AIEraDev/Clypra",
-      "url": "https://github.com/AIEraDev/Clypra",
-      "section": "github",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "github:par274/sharpemu",
-      "title": "par274/sharpemu",
-      "url": "https://github.com/par274/sharpemu",
-      "section": "github",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-claude-values-models-languages",
-      "title": "How Claude's values vary by model and language",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "section": "ai",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-how-canada-uses-claude",
-      "title": "How Canada uses Claude",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "section": "ai",
       "sentAt": "2026-07-14"
     }
   ]
