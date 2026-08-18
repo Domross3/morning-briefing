@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxns2lnovyxvu5nmxbjv3i5wufls2jtnlffyi14bvrcowdaovbuslq5yzzzd29utnzuvhzdv3mtuvjfbgp5u2lyrejos09zoxd",
+      "title": "Call for Applications: Information Controls Research Program 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2lNOVYxVU5NMXBJV3I5WUFlS2JtNlFFYi14bVRCOWdaOVBuSlQ5YzZZd29uTnZuVHZDV3MtUVJFbGp5U2lYREJOS09zOXdiMlVTbktLX0pQZlVac0dVeFRobUViaERSRy1HSGRneVZWOTljV1M3dWJMRWozaW02VDRseThaMi11WFBQNXlJLXQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Citizen Lab",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxplutuznptcktky19xnzbkdwjtb2ddavhqekfgtdh1ou5jrkxku2fnu0hktgzucdgtcffjtvhzdjjkdzdnuvhnvkdrnur3dxa",
+      "title": "Forward Deployed Engineers: India's Next Big Tech Export Role",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUtuZnptcktKY19xNzBkdWJtb2dDaVhQekFGTDh1OU5JRkxkU2FnU0hkTGZucDgtcFFjTVhZdjJkdzdnUVhnVkdRNUR3dXAxdDMyVl9NYzYtV28taF9DZzJmSDlwcTFWbnU3Z0JsbktmMms0azNTcUdmSTBmQWY2WGNjWHZOTGhTTVo5LWtCRWh5WFZzWWVZbmxSZ0h5MUQ5MUQxTTZFOXBTUE05YUFZZHkwYkNtVkdqcjd3a1d5bUxVdXlM?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Nasscom",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte4xdff1cllccwitoedas05ftzfeyvnws2plewjrqjfwslzjnfn4oenon3vnme9oa0jynxvtcuoyyuz6b0xkskhlwgxmefa5cuz",
+      "title": "10 Machine Learning Jobs That Pay the Highest in India 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xdFF1cllCcWItOEdaS05fTzFEYVNWS2pLeWJRQjFwSlZJNFN4OENoN3VNME9oa0JYNXVTcUoyYUZ6b0xkSkhLWGxmeFA5cUZfODdjWEt3UUUzbGlTM2wwVlJtNFE2QVRzVGhQRjc0QjA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Jaro Education",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "github:chaitanyagiri/munder-difflin",
+      "title": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-how-canada-uses-claude",
+      "title": "How Canada uses Claude",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-14905",
+      "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+      "url": "https://huggingface.co/papers/2608.14905",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-18"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmihafbvv95cuxpnfplwmo1bwlqmvlpsnvhytlxanvhs25mb280dkxtt0nuytryyuruze5oqlmyr1vbmu5lmduyaexdbfz4qwk0ztnrwu1abem",
+      "title": "When AI Regulation Becomes a Systems Bottleneck",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFpLWmo1bWlqMVlPSnVhYTlxanVHS25Mb280dkxtT0NuYTRyYURuZE5oQlMyR1VBMU5LMDUyaExDbFZ4QWk0ZTNrWU1abEM5ak5SWnlDd0lBVjRUZjBGcTlCaFBrN1RBdzF6eTQ0Z0NtZXVkQ1lsNnFRNE5YeUpzdUNMaVc?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Communications of the ACM",
+      "sentAt": "2026-08-18"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxndnlnlvizt2jxrldiaxladljfbmrry3fhwk9synk4sedunv91zc04zlhjzmx2ludnzjliu25rslvwztbwbfiydlnmb1hpyzz",
       "title": "B&M hunts first data and AI chief in major hiring spree",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnlnLVIzT2JxRldIaXladlJFbmRRY3FhWk9sYnk4SEduNV91ZC04ZlhJZmx2LUdNZjliU25RSlVWZTBWbFIydlNMb1hPYzZrV01wR3FlWVJwaGZMTEMtb1c3SDRmbkFpYVBSZlkzS0JzWWR6OHFFVE55Sl9WZGd1NXp3X3ZYUHM4cjR3LVZ0ZUVUTXZHWWY0ak03d1dlVmxyRkE?oc=5",
@@ -3578,55 +3634,6 @@
       "url": "https://jiga.io/about-us/",
       "section": "tech",
       "sentAt": "2026-07-15"
-    },
-    {
-      "key": "Hacker News:www-ft-com-content-3a023b95-66c3-41e1-b0ce-df752a499541",
-      "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
-      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-      "section": "tech",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmitgfbvv95cuxoemxksdjltm5uwhnmc0vtm1bouxhsaup1tux4dflssfk1be1uaejxqvdumghiow1nvjz0uxj0y1dvszbyx2j2cwrxrerqyzn",
-      "title": "Clean Energy Investments: Major energy-saving upgrades coming to 14 City buildings",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemxkSDJLTm5UWHNMc0VtM1BOUXhsaUp1TUx4dFlSSFk1bE1UaEJxQVdUMGhIOW1NVjZ0UXJ0Y1dVSzBYX2J2cWRXRERqYzN6TURyc2luX1RFeVdDLXF4U3ZjVVllWEpIYmhsbVl0WjBBYzk1c0pHUF83VFZuQ2tyV3VJbXBtYTIzUU96Zm51dTktbGM1R2J0cW1TM0dBNkRRLUNRME1faUdOMFhKUVhoQ2ZWTnpJdw?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmid0fvx3lxtfbznjzsy0toqud2mxvudgtobwxhcgrcatgxvudcczzgvhzxaeqxt1yznhvzavjpwg96rfl6sk5nbk5tckd4wjjllurodmt2rul",
-      "title": "Bar-Ilan University Opens Fully Funded Postdoctoral Fellowship in Digital Epidemiology: Apply by 31 July 2026",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNjZsY0tOQUd2MXVUdGtObWxHcGRCaTgxVUdCczZGVHZxaEQxT1YzNHVZaVJPWG96RFl6Sk5Nbk5Tckd4WjJlLURodmt2RUlZNVI1akl3QllydHctdVhaZUctTzQ2VmVHQk9lUnVjcURiQkN5T1dr?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiwgfbvv95cuxnu2prsul3wevgnvfomxhnumrfsji5zvjccw0yegl3bm9ymzz2ndzuthbhog1fvunymjrxz3bvluewrw9ytnzqz1nzy3ltwkv",
-      "title": "Alumni Career Services launches free Job Search Accelerator webinar series",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2prSUl3WEVGNVFOMXhNUmRFSjI5ZVJCcW0yeGl3bm9YMzZ2NDZUTHBHOG1FVUNYMjRXZ3BVLUEwRW9YTnZqZ1NZY3ltWkVza0VtTUp5MTVVdE1MYnpmRlVZTl93U2QxUllMc19WSnBtbndmb1duWlJGVWlxd2dpOURfX0ZqOFdWRUNiYjBMQ0xhM0xfbmVrS2VlSl8tX0VhR2FlbU1wa25jVV9mdTBNeFh1N3dlSV9vZkFzYzFlbl9Odw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxpwhl1vhnpcwfjmxjqt2zmsjvuewl1d0xqx0tkem92rnriauxeb2vud2n2aefta3hilxhackrhmnb5vtduq01bbnktq1rrajh",
-      "title": "PA Extends Low-Income Energy Assistance Program Application Period To May 8; President Calls For Eliminating The Program Next Year",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHl1VHNpcWFjMXJqT2ZMSjVUeWl1d0xqX0tkem92RnRiaUxEb2VUd2N2aEFTa3hILXhackRHMnB5VTdUQ01BbnktQ1RRajhlTThuQXpHa3FScEZKTWRYbG5CbW1nN3RyQ3UtTXlQTDJneUFSWVVTTkdOSC1tZ2tsVEFVenZtVGNrdjRKMnZ4b1haVE96N3c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte5mnklhcte3b1fiog1sztytq1vytzjzejnhulfvog5fujloszv1axzxnwnqtmd5nvpiu3zwbwtoy3dvzejowu9qafpqbjfzt0l",
-      "title": "Best Credit Cards For Low-Income Earners Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNklhcTE3b1FiOG1sZTYtQ1VYTzJZejNhUlFVOG5FUjloSzV1aXZXNWNqTmd5NVpIU3ZWbWtOY3dVZEJoWU9qaFpQbjFzT0lGWVNoTG9UREtRU1JOVlhDbFVaVjdVdVF6WTRXRw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnuguzek1is19txzutzjdrbfvjyudbqxhqzmtqaeljc3luyuv0oekxd05iqtbbeuwybgvrb1n6tfjuvtjoqm1gawpdugotmzl",
-      "title": "Ivy Tech receives nearly $200K grant to help low-income students",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGUzek1IS19TXzUtZjdRbFVjYUdBQXhQZmtqaElJc3lUYUV0OEkxd05IQTBBeUwybGVRb1N6TFJUVTJOQm1GaWpDUGotMzlxUTBRS2J2RFVtT0ZaZV9zUWg3R3JtcWFIRVNQNHhzZzU5ZkNoaWZDRktNZFN5Z1NiejhNbmxkemlWSlFWVlhwTTV2cDBTWUdsbnFGVQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-14"
     }
   ]
 }
