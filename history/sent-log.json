@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxnejdqnmjyv0p4vfy3awtpvk4xnuhhmlf0lufbdlz3tevkdglmag5yuknxsetgvjhkcudnlvfpn1fjulh4dezdyjj6bnjvahj",
+      "title": "a16z Talent Fellowship Signals AI Hiring Shift",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejdqNmJYV0p4VFY3aWtPVk4xNUhHMlF0LUFBdlZ3TEVKdGlMaG5yUkNxSEtGVjhkcUdNLVFPN1FJUlh4dEZDYjJ6bnJvaHJ3OTZxenVQN0RyMlBHRE9SYVB1enV4Q3Y3MXlrLWoydVF6WHlRMTJlVFdMSkJfLTdFZktQajdsX3ItU3V4NWRGWnVPZjJiMHZ3aHhSX2ZQUjF2TFE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · StartupHub.ai",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxqb2zgsgpucmexmnpla1lkqu5brutglwziumfpatvvtzvjujjqevf2vtnpcg52nfzrvuvtz3lruw5ux28yzhb0buj2cfnidwd",
+      "title": "LIHEAP Summer Subsidy applications opening soon; how to apply",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2ZGSGpucmExMnpla1lKQU5BRUtGLWZiUmFpaTVVTzVJUjJQeVF2VTNPcG52NFZRVUVTZ3lRUW5UX28yZHB0bUJ2cFNidWdUYTFKM1ozV1g4ZGFVSXA5MXVVeVJBM1NGdFhjeHFLUEl5YzlkYzAtS1RLMXpmblhDNFR2ZnJCLU42T3RCdU5xWVlnZEYwTVlVLTV4MThnRVAtRUNadlFjV2h3VjhVN0EzbzdZaDlSNjRvWjBrQXBFMkxITC1jcGRweEJDV0FyUU9ueXpFWjZDSQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WHAS11",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "github:AprilNEA/OpenLogi",
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-18565",
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "url": "https://huggingface.co/papers/2608.18565",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "Hacker News:simedw-com-2026-08-20-midi-autocomplete",
+      "title": "Training a 125M-parameter Model to Autocomplete Piano",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmihwfbvv95cuxpr0tpt1a4zxe2m2jqy2dhmvdsztvfrkffs3m2a3dwntm0cwrnwhbicvu5yulhwwftstuxdlhls3zpzgwzedaxs0eztufkwhh",
+      "title": "AI Regulation in Flux: What businesses should do",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0tPT1A4ZXE2M2JQY2dhMVdSZTVfRkFFS3M2a3dwNTM0cWRNWHBicVU5YUlHWWFtSTUxdlhlS3ZpZGwzeDAxS0EzTUFkWHhzSVVacmZoNDJpdEtUQWdJYTd3dmllSEJTZjF2ZUpqWHhMUVVVMVEwd3E5c25xSWtrdkdybVo0Um8?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · JD Supra",
+      "sentAt": "2026-08-20"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxnvwxqszjzdmfsowffalm4d3owb19btwtyuzboc2vfoe1gluo5a3jvcmj0zkvpb2dtvwh1bmnhafpuu3nnbkzisdfowhpxuml",
       "title": "Google Says Its AI Can Do the Work of Forward Deployed Engineers",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWxqSzJZdmFSOWFFalM4d3owb19BTWtYUzBOc2VfOE1GLUo5a3JvcmJ0ZkVPb2dtVWh1bmNhaFpuU3NnbkZISDFOWHpXUmlBZEcyY2RpY2xOWWl2M3NXSEtHLU9mazRyLWRmeE9CbXZiTDlJOHRkeEl5MWpiNldxOVJMSTRLamxGYkJSTmVITmV0WWNMSUJLUXpYeEtCZlQwQ1dSZHRtbw?oc=5",
@@ -3594,55 +3650,6 @@
       "title": "Michael Watson: Hedge Funds Should Fire Their Forward-Deployed Engineers and Hire Domain Experts With AI",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oYnI1Z2FJVm9sR25kbjlHdFlmMjZzVERmSnhwUmxmUXQzczAtWmozZmc0MjQyWllyOGU1TVJmZHhDYkplZXNVeWEyQmdiaFgzU3A1a3NsY1Q5a1E?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi-gfbvv95cuxocmdpn3d2nu1kd3uxyupretfbd096d0jscwxwmdfztvh4qtjjv0jurvnic0fyrm9ynujwngrtc2o5cjzxn2pevnpsuutpwgy",
-      "title": "IAMPHENOM Europe 2026 Speaker Lineup Focuses on Practitioners Redesigning HR Operations with AI, Agents and Automation",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcmdpN3d2NU1kd3UxYUpreTFBd096d0JScWxwMDFzTVh4QTJjV0JURVNIc0FyRm9YNUJWNGRTc2o5cjZxN2pEVnpSUUtPWGY3a2ltMUpkUkZyNkN0UWlkbm5MMGxZNEktaURzVHVldDNPRTlYZmNpUTF0eW1ZOU9uZF9oNDVWM3pwMkpSTVRiQ0ZtbHp0enAxTjA1TXpXalhvZFg1VDNXWTlzVlN6d0FzMmFKZ2o2RU5TYUtMSEQ4MUl0MlJoRllnYzllcUZEVzVXR3hQVVlndkVoc0U1MDgzMG5OeWJCeGlCNFotNTRZQXdKUDhCVGw1dWstYnVMUQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizgfbvv95cuxoujk5u3lmtxhibfldamrmm1cwqkxevmfmtfbnv0dauenyt0ixu3rvz3jodzk0bwf0tdlmufl6sjvhctj6vs1wtkzpehjqs3r",
-      "title": "Claude Corps Fellowship Pays $85K: Anthropic Admits Its AI Will Displace Workers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjk5U3lMTXhIbFlDamRmM1cwQkxEVmFmTFBnV0daUENYT0IxU3RvZ3JOdzk0bWF0TDlMUFl6SjVhcTJ6VS1wTkZPeHJQS3RXcDVsUmNJcXBHcGFKa2FzeWJrTng4UFVXenlacnhEZVJBa2dFOURaMkJ5ZjcyTEZVZFVSMHNaWUU3Ukl4TXpZblpGRU9CMkpGQl9saDN2Z21RRHZiYzFzVVNBNUJkUHpHMHBPdGNGbGMzYk9TVllWWkxiSS1IVHRUVzVzWXIzQQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte5fdgxntjhiqnf4vwnrodvyductmdlvwflcdxjwoen6yxnocm9wddnczkpwovfcwe14ag1kx2jisdhhwxrrx05itufiqupvcld",
-      "title": "Apply to the Millennium Fellowship Class of 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdGxNTjhiQnF4VWNrODVYdUctMDlvWFlCdXJWOEN6YXNocm9WdDNCZkpwOVFCWE14aG1KX2JISDhhWXRrX05ITUFIQUpVcldYWEN1VHZtcVVrNkRzRmY0SUFWNFFBUEZ1aDYxcjBqSUkwcU91U0E?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "github:openinterpreter/openinterpreter",
-      "title": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "section": "github",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "github:moeru-ai/airi",
-      "title": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "section": "github",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "github:HKUDS/DeepTutor",
-      "title": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "section": "github",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "github:HenryNdubuaku/maths-cs-ai-compendium",
-      "title": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "section": "github",
       "sentAt": "2026-07-15"
     }
   ]
