@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte9brdzus0dtrnfqsfzruktqbllzsjz4tu9ic19kvzj0sdnetvjod2vtsxd4n19sre4xzmnjbzdqme9swxjndxnwnepxakl3rnn",
+      "title": "Call for Applications: AICA × DataCamp Scholarship 2026/2027 for Africans",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BRDZUS0dTRnFqSFZRUktqbllZSjZ4TU9Ic19kVzJ0SDNETVJod2VTSXd4N19SRE4xZmNJbzdqME9SWXJndXNWNEpXakl3RnNsOV9DaU90VXNhU3lFbG81bHlULW5xSGxqcERGdnNB?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte42vnfwq1djcuxac2dyqjlzyldycvbusvpamm5fvvbcotf4rvy3txdzc3u4wufdmg5nbnrymzhncu9nqjjqym4wswixlwnkalc",
+      "title": "10 Companies Hiring Sales Engineers",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42VnFWQ1djcUxac2dyQjlzYldYcVBuSVpaMm5FVVBCOTF4RVY3TXdZc3U4WUFDMG5nbnRyMzhNcU9nQjJQYm4wSWIxLWNkalc0QmpPRmZMbWZwbDFUQ1hQMEd3aHRhczhld1VuRTRR?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Built In",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmizgfbvv95cuxoujk5u3lmtxhibfldamrmm1cwqkxevmfmtfbnv0dauenyt0ixu3rvz3jodzk0bwf0tdlmufl6sjvhctj6vs1wtkzpehjqs3r",
+      "title": "Claude Corps Fellowship Pays $85K: Anthropic Admits Its AI Will Displace Workers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjk5U3lMTXhIbFlDamRmM1cwQkxEVmFmTFBnV0daUENYT0IxU3RvZ3JOdzk0bWF0TDlMUFl6SjVhcTJ6VS1wTkZPeHJQS3RXcDVsUmNJcXBHcGFKa2FzeWJrTng4UFVXenlacnhEZVJBa2dFOURaMkJ5ZjcyTEZVZFVSMHNaWUU3Ukl4TXpZblpGRU9CMkpGQl9saDN2Z21RRHZiYzFzVVNBNUJkUHpHMHBPdGNGbGMzYk9TVllWWkxiSS1IVHRUVzVzWXIzQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Tech Times",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-19880",
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "url": "https://huggingface.co/papers/2608.19880",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-19799",
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "url": "https://huggingface.co/papers/2608.19799",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "Hacker News:github-com-yaroslav-kino",
+      "title": "GitHub - yaroslav/kino: A high-performance Ractor web server for Ruby 4.0+: Rack 3-based, with a Rust Tokio/Hyper front-end and Ractor-parallel Ruby workers and threaded fallback mode.",
+      "url": "https://github.com/yaroslav/kino",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-21"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmigwfbvv95cuxov2nbdhhhwknktvlvy0d1v1nxvuo3suremuzqelb3devwdzbstuttandqewvwrtfamjlvvwtelwfodzneem1gque2zwjmqkq",
+      "title": "Idaho middle school students help create AI policy",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2NBdHhhWkNKTVlvY0d1V1NxVUo3SUREMUZqelB3dEVWdzBsTUtTandQeWVwRTFaMjlvVWtELWFodzNEem1GQUE2ZWJMQkQ5NWdBV2Q1VEpkaFFFTVRFaDdyeFhiSEhTNUdDcnZWX0ZiRlNZYjVhS2JyYkpPTXZidDVuZw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · BYU-Idaho",
+      "sentAt": "2026-08-21"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxnejdqnmjyv0p4vfy3awtpvk4xnuhhmlf0lufbdlz3tevkdglmag5yuknxsetgvjhkcudnlvfpn1fjulh4dezdyjj6bnjvahj",
       "title": "a16z Talent Fellowship Signals AI Hiring Shift",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejdqNmJYV0p4VFY3aWtPVk4xNUhHMlF0LUFBdlZ3TEVKdGlMaG5yUkNxSEtGVjhkcUdNLVFPN1FJUlh4dEZDYjJ6bnJvaHJ3OTZxenVQN0RyMlBHRE9SYVB1enV4Q3Y3MXlrLWoydVF6WHlRMTJlVFdMSkJfLTdFZktQajdsX3ItU3V4NWRGWnVPZjJiMHZ3aHhSX2ZQUjF2TFE?oc=5",
@@ -3595,62 +3659,6 @@
       "url": "https://www.ssp.sh/blog/on-creation/",
       "section": "tech",
       "sentAt": "2026-07-16"
-    },
-    {
-      "key": "Hacker News:musklr-com-blog-2026-iphone-lock-screen-workout-tracking-live-activity",
-      "title": "Workout Live Activity on iPhone: Lock Screen & Dynamic Island",
-      "url": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
-      "section": "tech",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "Hacker News:www-bbc-com-news-articles-c5y680w62wno",
-      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-      "url": "https://www.bbc.com/news/articles/c5y680w62wno",
-      "section": "tech",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "Hacker News:www-latimes-com-business-story-2026-07-16-spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "section": "tech",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiggfbvv95cuxnrdrat2mxckhummnwvzjxzg1tcv9vbdfqdgzutgnmb1q0wmpqaetxuklpzmwzbtrlndy5qvnas3e5n1zvsxdiymvpexfscem",
-      "title": "Opinion | Is Private AI Regulation Constitutional?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDRaT2MxckhuMmNWVzJXZG1tcV9VbDFQdGZUTGNmb1Q0WmpQaEtxUklPZmwzbTRlNDY5QVNaS3E5N1ZVSXdiYmVPeXFScEM1aFRMcFNCVGxDUmU5VUM1MkJrOGJ3aXl0d0tzMUJLMnJjM0ZBR1ZYWkNOLVZBaGdPaW53?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiiwfbvv95cuxqa3jvuk5wemwtdmw4yxmwd285utzsc2y3v05un29hctnrbdheakdlaxjzu0tyt2lnrjftwjcxykdpaxdlvddjsxrbwwctwud",
-      "title": "The EU AI Act deadline moved, vendor questionnaires will not",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3JVUk5Wemwtdmw4YXMwd285UTZSc2Y3V05uN29hcTNrbDhEakdLaXJZU0tyT2lNRjFTWjcxYkdPaXdlVDdjSXRBWWctWUd3b0gtM01Nb3pwdTV5QXU0M28za05EOGRlQzZJVjlKWXZNYTVybm1IMHI2aW9MaFFGNHB2bjZXMldoWExJ?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmigwfbvv95cuxovurxz1i2tktpcjvou2vkwkxcrwltvjlurzfqxznymkphazy0r2hqyktvv2pxrhn6mdrnu0jzwezqquhym1fmbwnouvutvxk",
-      "title": "Despite revisions, GSA’s proposed AI acquisition rule still falls short, stakeholders say",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVURXZ1I2TktPcjVOU2VKWkxCRWlTVjlURzFqXzNyMkphazY0R2hqYktVV2pXRHN6MDRnU0JzWEZqQUhYM1FmbWNOUVUtVXk1Qko1T2xrTDR4NVpSWnd5V1Q1ZUpMRTNpd2c3TU0zUFhweDRBM3d6QzRKcjlncGVaNWpqbw?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte1fteyymuo4ber1mgqyrwnhbez1s1k0tnp1vu9tsnrzdxfhawzuzmcyeexlbg0zvkvazudjqjhzbc1ldljfulb3v25mu2n2cnn",
-      "title": "AI-4AI Academic Research Fellowship 2026: Opportunity for Aspiring African AI Researchers",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTEYyMUo4bER1MGQyRWNHbEZ1S1k0Tnp1VU9TSnRZdXFhaWZuZmcyeExLbG0zVkVaZUdjQjhzbC1LdlJfUlB3V25MU2N2cnNNbjZjOEhWVm5HeUdIWXVjanM0SWg1cnRXUjJqejVVaEU?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiw0fvx3lxte9oyni1z2fjvm9sr25kbjlhdflmmjzzvermsnhwumxmuxqzczatwmozzmc0mjqywllyogu1tvjmzhhdykplzxnveweyqmdiafg",
-      "title": "Michael Watson: Hedge Funds Should Fire Their Forward-Deployed Engineers and Hire Domain Experts With AI",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oYnI1Z2FJVm9sR25kbjlHdFlmMjZzVERmSnhwUmxmUXQzczAtWmozZmc0MjQyWllyOGU1TVJmZHhDYkplZXNVeWEyQmdiaFgzU3A1a3NsY1Q5a1E?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-15"
     }
   ]
 }
