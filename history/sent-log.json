@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-sierra-9738d0f0-13be-4e89-9fba-505e7cac288f",
+      "title": "Sierra APX Program (New Grad — Agent Engineer + Agent Product Manager rotation)",
+      "url": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f",
+      "section": "opportunities",
+      "source": "Opportunity · Sierra",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "hunter:openai-com-careers-emerging-talent",
+      "title": "OpenAI",
+      "url": "https://openai.com/careers/emerging-talent/",
+      "section": "opportunities",
+      "source": "Opportunity · OpenAI",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "github:n8n-io/n8n",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-14022",
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "url": "https://huggingface.co/papers/2608.14022",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-18580",
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "url": "https://huggingface.co/papers/2608.18580",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "Hacker News:munderdiffl-in",
+      "title": "Munder Difflin — Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiyafbvv95cuxou1vlzv9tt3plwm9kaezysmxvb2picjkwbgt1unzrnedknkxuatv1qknbb0u5bxrrwffrrulwvmhuwnfdoulksm9qvkdvefp",
+      "title": "Trending Issues in State AI Regulation as Seen Through Connecticut’s Omnibus AI Law (SB5)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1VlZV9tT3pLWm9KaEZySmxvb2picjkwbGt1UnZrNEdkNkxUaTV1QkNBb0U5bXRRWFFRRUlwVmhUWnFDOUlKSm9QVkdveFp1UWRITXliWGN4dzhJYnU1bFJTNV9JNlkyVUdHRzdlUC13MHJ0U0xyUl9kNnlDUGVGSHpXQ0Jad0FSYlhDU211Y0tMQTdnVTNiTzhqWmdlWDFYQ2VFMHJqSktPa3M5bzdrYU1ETzlaaU5reXhxcHgyNU5mTHBOWFpVTw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Sidley Austin",
+      "sentAt": "2026-08-22"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte9brdzus0dtrnfqsfzruktqbllzsjz4tu9ic19kvzj0sdnetvjod2vtsxd4n19sre4xzmnjbzdqme9swxjndxnwnepxakl3rnn",
       "title": "Call for Applications: AICA × DataCamp Scholarship 2026/2027 for Africans",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BRDZUS0dTRnFqSFZRUktqbllZSjZ4TU9Ic19kVzJ0SDNETVJod2VTSXd4N19SRE4xZmNJbzdqME9SWXJndXNWNEpXakl3RnNsOV9DaU90VXNhU3lFbG81bHlULW5xSGxqcERGdnNB?oc=5",
@@ -3609,55 +3665,6 @@
       "title": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "section": "github",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-project-fetch-phase-two",
-      "title": "Project Fetch: Phase two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-13960",
-      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
-      "url": "https://huggingface.co/papers/2607.13960",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-13285",
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "url": "https://huggingface.co/papers/2607.13285",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-05910",
-      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
-      "url": "https://huggingface.co/papers/2607.05910",
-      "section": "ai",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "Hacker News:www-ssp-sh-blog-on-creation",
-      "title": "The Act and the Outcome of Creation",
-      "url": "https://www.ssp.sh/blog/on-creation/",
-      "section": "tech",
       "sentAt": "2026-07-16"
     }
   ]
