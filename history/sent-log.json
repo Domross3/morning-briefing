@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte5crfpkau9rvehwym9qyxfzz3pwndngvwpyt2nhuwjmcmxpzkrut21evwvzwle1zvi5rzlkr2hzalbwwwzgrwrwzhrtv002cfd",
+      "title": "East-West Center Graduate Degree Fellowship 2027: Fully Funded Master’s & Doctoral Study at the University of Hawaiʻi - Apply By 1 December 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRFpKaU9RVEhwYm9QYXFzZ3pWNDNGVWpyT2NHUWJmcmxpZkRuT21EVWVzWlE1ZVI5RzlKR2hzalBwWWZGRWRwZHRtV002cFdaQmJ0Q1h2aUtrekQzODZHVm8tWWNTR0Z6TmlDWTc1NXBiVUpvbkE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxodnvyrelfulb2c0otam8trhvccufqcenfwllmnm9nzy1qzw1erdl5uevnswvpy200nxdotjlkcuvlmwm4yxd3tkvqdla4cvj",
+      "title": "Biolevate Expands Hiring Across AI, Security, and Life Sciences Functions",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnVyRElfUlB2c0otam8tRHVCcUFQcENFWllMNm9nZy1qZW1ERDl5UEVnSWVpY200NXdoTjlKcUVlMWM4YXd3TkVQdlA4cVJZUlFyX1FOaGZDNTVZT1JST1I3N01LemxjMU56UW9pdHZRaXJWMlVDVW5HUy1FU291Wjg1UE5ES0NueXl5YkQtTTk2N0lUbFhNTHVjeUVTbW5EZGw3U203NzFRWjBKNEFCUGd4eXF6NmxIU25R?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · TipRanks",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiigfbvv95cuxnsjjsawjurdlxuwxvofnrchbiofrtms1xz0prx2zvuv96a21nrhq4d3jste1fu050z0xms01fcvb3b05rdek0r25lm0fkm0f",
+      "title": "Codar Launches a 50 Million Tech Scholarship for 100 Africans",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjJsaWJuRDlXUWxvOFNRcHBIOFRtMS1xZ0pRX2ZVUV96a21nRHQ4d3JsTE1fU050Z0xmS01fcVB3b05rdEk0R25LM0FKM0FTRHk5ZVBYVkdLSjljOE91eDBGUFBBRW5FNU1kVFdPTUh6eXYzbmdCSzZNSVQxV240N3FWaDNua01PQnc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Punch Newspapers",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivkfvx3lxte40yzy4elpuavy0zwtdbmhnal8wc2pewwj1qw5mbhnolxr3azdxnu0wlwhlourycwd5nwnlvgzizzr5aed2amozaxlbqk9pq3y",
+      "title": "Introducing Claude Corps",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-20335",
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "url": "https://huggingface.co/papers/2608.20335",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-20336",
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "url": "https://huggingface.co/papers/2608.20336",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-23"
+    },
+    {
+      "key": "Hacker News:www-xda-developers-com-qwen-3-8-27b-reverse-engineering-job-frontier-model",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-23"
+    },
+    {
       "key": "hunter:jobs-ashbyhq-com-sierra-9738d0f0-13be-4e89-9fba-505e7cac288f",
       "title": "Sierra APX Program (New Grad — Agent Engineer + Agent Product Manager rotation)",
       "url": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f",
@@ -3610,62 +3674,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGh4NWlVTDN6dXNYazZBVW9xcHpfZjY5aTc1OGl3YTFCRmxKMWFtZnlsTU9Ga1pmb3ZWbUM0Y01lTXkzX3hxREwxWDlBRkNsOXpXQ2dVY0JOdWRJZXhoX3lYUTJHVGlYcXhXU3dUckFYTWNaZk1QQ3Vnc3hTUUdvQ3VVaEZrcVNjVWdRNENXNTRxZVJVV3UxMUxET21uTzN6WFpaRnVNS3JRT0NGdEE?oc=5",
       "section": "sustainability",
       "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxox2liovlcu0rvd3d3r3a4nnhvsffmsnrkeupheez3mxbna2ittdlgc0dls1jynnzbnjktbnu1ukp6nxjhv05edzfmnzzry0p",
-      "title": "Tennessee Tech University Scholarship 2026 in the USA | Fully Funded",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2liOVlCU0RVd3d3R3A4NnhvSFFmSnRKeUpheEZ3MXBNa2ItTDlGc0dlS1JYNnZBNjktbnU1Ukp6NXJHV05EdzFMNzZRY0pnVHdIVkZQdXdWNlc0eDY0NUl5dkt6aWw0ZUNHOGRUTEZYemhXWnUwaVZzUjlWalRWSjdpTTJwd1Y3R1NuMGk3RzQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmitafbvv95cuxnshv0zupebdldafftx1vsdtrkynjmqtjragyzqxazz25enjnzdgl0se01wmswvuxiqwduqlrteeheu1cxowzxd1bushvsutr",
-      "title": "Experts Discuss the Evolving Role of AI",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHV0ZUpEbDlDaFFTX1VSdTRkYnJMQTJraGYzQXAzZ25ENjNZdGl0SE01WmswVUxiQWduQlRteEhEU1cxOWZXd1BuSHVSUTRmWVVwZlF1YTRJSHJUVzhNVjZDZmY1NEhGTWtFYkF3aTc4ZkZxdlB2aWdvbFNjX1pnQjJMX1V5bEhqR2xScGtZWG14NkJldEhzT0JVV1FucURnSmNkaVZjVDlxc1RuRzBaWE9sbTY?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi2afbvv95cuxqu1bjwnd4sxc5q3izmdzssuy0vva1bnvoa3jnewdytupudmp4v0mzy2jdwdjdwi1iz2o2bnozwjhpqkxms3jwotkwa2vmmdi",
-      "title": "AI Vs Traditional IT Salaries: AI Skills May Help You Earn 38% More",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1BjWnd4SXc5Q3IzMDZsSUY0VVA1bnVOa3JneWdyTUpudmp4V0MzY2JDWDJDWi1IZ2o2bnozWjhPQkxMS3JWOTkwa2VmMDIxYV9XOHlsWkNFby01ZTBUMTlYQ2dIZjExWElURkhPRk5odzU0YkhobDFZWkRJVFYtQXRUZWowYnlXbWxHdjQwaWZTcTJLa2wzLUZlRFFTZ1VfeGZfaXFINU9ISlMwTzNobWFMWVB5Wmpha2ZHOXdiMWlkc3FfNlBwUmJHVTZZNlAwaDZxajdCQmjSAdgBQVVfeXFMUFNQY1p3eEl3OUNyMzA2bElGNFVQNW51TmtyZ3lnck1KbnZqeFdDM2NiQ1gyQ1otSGdqNm56M1o4T0JMTEtyVjk5MGtlZjAyMWFfVzh5bFpDRW8tNWUwVDE5WENnSGYxMVhJVEZIT0ZOaHc1NGJIaGwxWVpESVRWLUF0VGVqMGJ5V21sR3Y0MGlmU3EyS2tsMy1GZURRU2dVX3hmX2lxSDVPSEpTME8zaG1hTFlQeVpqYWtmRzl3YjFpZHNxXzZQcFJiR1U2WTZQMGg2cWo3QkJo?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "github:lobehub/lobehub",
-      "title": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "section": "github",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "github:PostHog/posthog",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "section": "github",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "github:github/copilot-sdk",
-      "title": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "section": "github",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "github:PrismML-Eng/Bonsai-demo",
-      "title": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "section": "github",
-      "sentAt": "2026-07-16"
-    },
-    {
-      "key": "github:ibelick/ui-skills",
-      "title": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "section": "github",
-      "sentAt": "2026-07-16"
     }
   ]
 }
