@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmi7wfbvv95cuxpselvs2w2mmhttmowbnc3qk9lvjl1nfvqmgprovk4cw85zmt6mnpaseplcm1ox29ln0tmnguwudfkq0fhrunzd01kzdj2lw5",
+      "title": "Blend to Grow Forward Deployed AI Engineering Force to 750 by 2027 as Enterprise AI Demand Accelerates",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSElVS2w2MmhtTmowbnc3Qk9LVjl1NFVqMGpROVk4cW85Zmt6MnpaSEpLcm1oX29LN0tmNGUwUDFkQ0FHRUNZd01KZDJ2LW5XbnEzN1JyZTIyak45RjNER1F2SXFoa25oLUNyYnNBQnZnSHRVNHRiOXgtNWJ1aW5uVFo5NlU2QXB6cEc4SDNSb1kzQTFaUTg4Wm1vUENWdHk1M212dXRDVnh3SGU5X2xWLVdVS1NCX0VTODlmUWpoZnVPc1drZ2VqUlNhcWplZGNQMW9teGRVdWxrbkc2S2VUUWttd1NSWHJ2aWVrWHotZw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · PR Newswire",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte1jzezzdxv3nwdowwnbylb1utjaqnz5ew5ayjfhyu9yruxrmmhqbwvbq3c1akqyy1jga0uymfi3mengce9is3z5rwxluxdxwgu",
+      "title": "This WTAMU program teaches AI and pays off with a scholarship",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jZEZZdXV3NWdoWWNBYlB1UTJaQnZ5eW5aYjFhYU9YRUxRMmhqbWVBQ3c1akQyY1JGa0UyMFI3MENGcE9IS3Z5RWxlUXdXWGU0MUxZczhHLWx4X0tpVDZYVXNwTHE0UmJ5T3c?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Amarillo Country Radio",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi2wfbvv95cuxpuvvlr2nwzgpzlxoztvnymwj2cflyaglnegvnbezswwytd3mzrloyaerougporlnyt0nvqwexmvpdb1zjyze3mjnpzjn5vhp",
+      "title": "Neuroscientist warns Gen Z first generation less cognitively capable than their parents",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUVVlR2NWZGpzLXozTVNyMWJ2cFlyaGlneGVNbEZSWWYtd3MzRloyaEROUGpoRlNyT0NVQWExMVpDb1ZJYzE3MjNpZjN5VHpjNU9yTTg2RUFUdm51ZEI0NVNtblltbE1qT004bjBDdkVfcGpDYXJIS0V5dzlpYXhUX3F3d3ZYVGRHSDUxMXdtX3VCWWNLN0VGQkVmU0ZkeHItaVdaRnhhUl9iRTgwSG8taThlTjVFMWpDcTBGWlZ2LXlzS0tjV3d4YWE3bmxxQVpIaU96TTRzVmRoWW8?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Fortune",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "github:apache/maka",
+      "title": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-16647",
+      "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
+      "url": "https://huggingface.co/papers/2608.16647",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-21156",
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "url": "https://huggingface.co/papers/2608.21156",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "Hacker News:risky-biz-risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras",
+      "title": "Risky Bulletin: Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxpndgyrel5ltvrtnfqauviq0vlrnzovhv0vvr4q2j1x0tqwwrrmtl0zunoujewdg9ong1jvxlqsep6avjvdtmzy3vhrxgxztj",
+      "title": "Discussion on AI Regulation & Containment Failures",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDgyREl5LTVRTnFQaUViQ0VLRnZoVHV0VVR4Q2J1X0tqWWRRMTl0ZUNOUjEwdG9ONG1jVXlQSEp6aVJVdTMzY3VhRXgxZTJ4ODI4VkxYMGlWcDA5OXNoUlRLMFlmQ1NpVG1qanBXNUVUdWtxcEcwZzRqdDItTld5R3dISjFwZW9KZndXWWZhaENTYnVybkxiT2p0X0FQYjl0UGpxSkJJVVU?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · C-SPAN",
+      "sentAt": "2026-08-24"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte5crfpkau9rvehwym9qyxfzz3pwndngvwpyt2nhuwjmcmxpzkrut21evwvzwle1zvi5rzlkr2hzalbwwwzgrwrwzhrtv002cfd",
       "title": "East-West Center Graduate Degree Fellowship 2027: Fully Funded Master’s & Doctoral Study at the University of Hawaiʻi - Apply By 1 December 2026",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRFpKaU9RVEhwYm9QYXFzZ3pWNDNGVWpyT2NHUWJmcmxpZkRuT21EVWVzWlE1ZVI5RzlKR2hzalBwWWZGRWRwZHRtV002cFdaQmJ0Q1h2aUtrekQzODZHVm8tWWNTR0Z6TmlDWTc1NXBiVUpvbkE?oc=5",
@@ -3617,62 +3681,6 @@
       "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
       "url": "https://huggingface.co/papers/2607.14935",
       "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "Hacker News:news-ycombinator-com-item-id-48945681",
-      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "url": "https://news.ycombinator.com/item?id=48945681",
-      "section": "tech",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "Hacker News:minikotlin-run",
-      "title": "minikotlin — a Kotlin compiler that runs in a browser tab",
-      "url": "https://minikotlin.run",
-      "section": "tech",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "Hacker News:www-ft-com-content-1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "section": "tech",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "Hacker News:www-kaggle-com-competitions-kaggle-measuring-agi-discussion-724918-3498423",
-      "title": "Measuring Progress Toward AGI",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "section": "tech",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiz0fvx3lxte9laxz1zjbrdfphudnnlvctdgrquxe3zmszsy1wlw5pcjvmynlycllocl85su9plxqtcxfyzgfrmhnwmjzwwlzvohpkqu9rt21",
-      "title": "The Shift: A New Era of AI Regulation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LaXZ1ZjBrdFphUDNNLVctdGRqUXE3ZmszSy1wLW5PcjVMYnlycllocl85SU9pLXQtcXFYZGFRMHNWMjZWWlZVOHpkQU9rT21Za2ZnN3dudmdzejF6QjZFNndmNDJCQ0E?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbminafbvv95cuxpumpesvkzn1bzwgrgeujsmzcxmhrgevlcx1btwutnrwvsei1ra2vbbuvlmwhwq3b5sfhqoghjemu4uejqzzbfufjhzexjuxv",
-      "title": "Open Joint Letter on the AI Act Regulating AI-embedded Medical Devices -",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmpESVkzN1BzWGRGeUJsMzcxMHRGeVlCX1BTWUtnRWVsei1Ra2VBbUVLMWhWQ3B5SFhQOGhjemU4UEJQZzBfUFJhZExJUXVIRXdZd0I1VTRFVC1TQ3ZWQ1lOR19IV2FUMFVSZFJLVHJRSkhjYVdiUDJHTGxBR0JzVmdTTG13U3I1bWdVSnhTSFV2d2NndUs5NXJHZTg?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmiogfbvv95cuxqbgh0uzrbb1nhcxfmbjroq0vdtlcyaggtetviqux5n0dtlwfqvevibdbvsgitrw9pzgs3x1nkykc3z0g1dwvrtgrttnj2cgi",
-      "title": "After Months of Debate, Virginia Fails to Pass Data Center Clean Energy Requirements",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGh0UzRBb1NhcXFmbjROQ0VDTlcyaGgteTViQUx5N0dtLWFqVEVIbDBVSGItRW9pZGs3X1NKYkc3Z0g1dWVrTGRtTnJ2cGIxam1sd2dxUE9Ka2swTHZ5RnZ4QnM1S1EyeWlvUFFOdEpQWlJ4TW1ENWY1cTVIZC1rLXRuYXlvQ3VJRHctdUxfbngtNHFDMVJBbFlMQkF1RWdHQWc?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmirgfbvv95cuxosgh4nwlvtdn6dxnyazzbvw9xchpfzjy5atc1ogl3ytfcrmxkmwftznlstu9ga1pmb3zwbum0y01ltxkzx3hxrewxwdlbrkn",
-      "title": "Opinion | America’s clean energy expansion isn’t doomed",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGh4NWlVTDN6dXNYazZBVW9xcHpfZjY5aTc1OGl3YTFCRmxKMWFtZnlsTU9Ga1pmb3ZWbUM0Y01lTXkzX3hxREwxWDlBRkNsOXpXQ2dVY0JOdWRJZXhoX3lYUTJHVGlYcXhXU3dUckFYTWNaZk1QQ3Vnc3hTUUdvQ3VVaEZrcVNjVWdRNENXNTRxZVJVV3UxMUxET21uTzN6WFpaRnVNS3JRT0NGdEE?oc=5",
-      "section": "sustainability",
       "sentAt": "2026-07-17"
     }
   ]
