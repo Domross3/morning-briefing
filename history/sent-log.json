@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxndxzialzcvdjsuus3otzku0uyoxyyunlad2uyx2uteezulvlnvmm1y21tatexehnbbkhptuhly0rjddlvzgutdldum3bcsk5",
+      "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXZIalZCVDJSUUs3OTZkU0UyOXYyUnlad2UyX2UteEZuLVlNVmM1Y21taTExeHNBbkhpTUhlY0RjdDlVZGUtdlduM3BCSk5abVhGOXlRM3d3WXhxQ0tuOEFHU0JWcEs3djhHWF9MU0h0d29ISl81YmNOMjFtV1JHUEdPMTNUdlVJeHBDNXpvT29YV0tkeFpsYQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Tech Policy Press",
+      "sentAt": "2026-08-25"
+    },
+    {
+      "key": "github:Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "url": "https://huggingface.co/papers/2608.23283",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-25"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-23189",
+      "title": "EchoWM: Open and Enterable Omnimodal World Models",
+      "url": "https://huggingface.co/papers/2608.23189",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-25"
+    },
+    {
+      "key": "Hacker News:www-laude-org-updates-headlong-a-microharness-for-persistent-agents",
+      "title": "Headlong: a microharness for persistent agents // Laude Institute",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-25"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiiafbvv95cuxpsjrlsxjutuzqcdyyajnob3lsdgdax2rvc0d4staxt1deuenwelfnwutxbjdjngl1z1ztvenycv8zmghtvdmzrvhsvhpxrev",
+      "title": "Colombia is Preparing a Poor Copy of the EU's AI Act",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjRlSXJUTUZQcDYyajNOb3lSdGdaX2RVc0d4STAxT1dEUENwelFnWUtXbjdjNGl1Z1ZtVENycV8zMGhTVDMzRVhSVHpXREVLeVZya1NFbVNhcmQzU1pqQVpsbkVPUS1iQ1RhbkY0cExiYzh0Z21yX0JMN3ZaZmkya1JDc1lPZTlF?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Tech Policy Press",
+      "sentAt": "2026-08-25"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmi7wfbvv95cuxpselvs2w2mmhttmowbnc3qk9lvjl1nfvqmgprovk4cw85zmt6mnpaseplcm1ox29ln0tmnguwudfkq0fhrunzd01kzdj2lw5",
       "title": "Blend to Grow Forward Deployed AI Engineering Force to 750 by 2027 as Enterprise AI Demand Accelerates",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSElVS2w2MmhtTmowbnc3Qk9LVjl1NFVqMGpROVk4cW85Zmt6MnpaSEpLcm1oX29LN0tmNGUwUDFkQ0FHRUNZd01KZDJ2LW5XbnEzN1JyZTIyak45RjNER1F2SXFoa25oLUNyYnNBQnZnSHRVNHRiOXgtNWJ1aW5uVFo5NlU2QXB6cEc4SDNSb1kzQTFaUTg4Wm1vUENWdHk1M212dXRDVnh3SGU5X2xWLVdVS1NCX0VTODlmUWpoZnVPc1drZ2VqUlNhcWplZGNQMW9teGRVdWxrbkc2S2VUUWttd1NSWHJ2aWVrWHotZw?oc=5",
@@ -3639,48 +3687,6 @@
       "title": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "section": "github",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-cars24",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14777",
-      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.14777",
-      "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-15257",
-      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "url": "https://huggingface.co/papers/2607.15257",
-      "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-15207",
-      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-      "url": "https://huggingface.co/papers/2607.15207",
-      "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14076",
-      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-      "url": "https://huggingface.co/papers/2607.14076",
-      "section": "ai",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14935",
-      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
-      "url": "https://huggingface.co/papers/2607.14935",
-      "section": "ai",
       "sentAt": "2026-07-17"
     }
   ]
