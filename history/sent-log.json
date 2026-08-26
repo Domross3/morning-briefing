@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxnyvhtq3pdlvnkberqufhywvzedlvtaegtevn4tza3z0t2zfq5wjr4elnfnfmtakfqwfrjyw5zvgvvevpxltvjc1pqwtdrm3f",
+      "title": "Open Call for Information Controls Research Program",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVhTQ3pDLVNKbERQUFhyWVZEdlVTaEgteVN4TzA3Z0t2ZFQ5WjR4elNfNFMtakFqWFRjYW5ZVGVveVpXLTVjc1pqWTdrM3FJaGpHNVp3VjdhQ1ZvS1FaMlBEY3lDVWRVenJJTzduUmd5WTk4aTJnSHUtMlpFN09vcnJHSkxtYVRWSVJza3lwelFmQ3dIYUVWT1F30gGaAUFVX3lxTE1hWFNDekMtU0psRFBQWHJZVkR2VVNoSC15U3hPMDdnS3ZkVDlaNHh6U180Uy1qQWpYVGNhbllUZW95WlctNWNzWmpZN2szcUloakc1WndWN2FDVm9LUVoyUERjeUNVZFV6cklPN25SZ3lZOThpMmdIdS0yWkU3T29yckdKTG1hVFZJUnNreXB6UWZDd0hhRVZPUXc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-26"
+    },
+    {
+      "key": "github:tt-a1i/archify",
+      "title": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-26"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-jalapeno-first-results",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-26"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-wellbeing-research-grants",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-08-26"
+    },
+    {
+      "key": "Hacker News:www-gatesnotes-com-work-make-ai-work-for-everyone-reader-a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-26"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxqa2vpv0hzslf2d1hxt08ycme3bunmbxdqrerhn3g3mfy5de44wfrjugnttnf6audmz09iawvzv1vvy0rkt1hhy21hwnb6agh",
+      "title": "AI Policy Will Increasingly Shape How State Agencies Deliver Programs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2VpV0hzSlF2d1hXT08ycmE3bUNMbXdQRERHN3g3MFY5dE44WFRjUGNtTnF6aUdMZ09iaWVZV1VvY0RkT1hhY21HWnB6aGhsS3pwUXEza1c2RG0wRUJUTEVaa2tYWmFJUkhnWnV3TGFHUVRoc0JOTUNiMWlSem1JQXRjN3ZLdk8tT25OWTZuaWxDa1JKdWUtOC0tR2xacDZ6cnRmWmRUa0U?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · National Conference of State Legislatures (NCSL)",
+      "sentAt": "2026-08-26"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxndxzialzcvdjsuus3otzku0uyoxyyunlad2uyx2uteezulvlnvmm1y21tatexehnbbkhptuhly0rjddlvzgutdldum3bcsk5",
       "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXZIalZCVDJSUUs3OTZkU0UyOXYyUnlad2UyX2UteEZuLVlNVmM1Y21taTExeHNBbkhpTUhlY0RjdDlVZGUtdlduM3BCSk5abVhGOXlRM3d3WXhxQ0tuOEFHU0JWcEs3djhHWF9MU0h0d29ISl81YmNOMjFtV1JHUEdPMTNUdlVJeHBDNXpvT29YV0tkeFpsYQ?oc=5",
@@ -3645,48 +3693,6 @@
       "title": "TCS takes on OpenAI, Anthropic, Amazon and Microsoft; to build a team of forward-deployed engineers; CEO",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPX0pfYjdRcGlxaUl0ekY0Mjh1TWoxci12QmJObW1DYnRVLUJHR3EyVXZqZV84YWZJanY5UVZFeXZoUGtGQXVqeWlFN2FLU2dtd3N3aS11S21zRXBRSUZOX3dfb3dVeE9hOE1BcTVvSXR3dmNiZmFJdWxpZ2hFOFJBVXRheHU3VUtnZ0NFdjdsRU5JbmJkNVM1RGFVUF9xOHB1c0YwMmtVbHBxVkJjRFZubXhoNmpqZlZRbVcwN29FVVFqMExzN29WN2NfUEdqelZFX1hNNjdHcGxVZm5KU1ZKMEJDZ01rZmFlSXhHTFdKQnh1TDF6SDZnVWJsXzl6TnRNQXlKTXRqR3dydk9RdmFwcHI1a3NUd3JBdUhJa0FkTGdnS3psSG5TTURQZE43R2xPT3RlRzYydkZiNDd1bnFXbXl6T3lJanPSAcwCQVVfeXFMTWtTMlJBMTRxNFlSRDVHcE80WERwRnhRTG1qLUVabnE2RkZnZFFpUVFTWW56RWJNcTFheVp6SUlabEl0N3c0Mm1pb2tTaWVpMUFaUmM5c056RG9QX3g3NDhOVEgyTmVELWljejFmcW9xZUp6WUZlTlQxMHlwZzE0OWdsa3ROX3NENEx5SDAtY1VJX3lxNU5wWG8xdFRYNzY0S2FIblprc3MxN3g2NjNXRHFZeEZ4YzE3NmRyWFRLVFJTa1dvZGo2bFEzNFd5YUg2LTFNejdWODY5VlJBRXhDT2FjRFVEQWRmZ1JfaEZfZGwtem5LRWtwM1d0dy1ic1VXOVl2cEZtd2tKTG4tS2UxdkR4SjJsMEpxdTJRREtiMnJ4UUxKSURFb3k2Mk9iandOenA2eWlPVzBFTVRwM19HQjlkSTFNYVNiekRSRUM?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxqwvneymzzdznnbk85wm4zvwjunfi1oxl6neqtm0w0y3oylwpvukmzoujhdm50vl96ruhym1ngtujgsuzpef8wsguxwk8tcvh",
-      "title": "Discover 25+ Scholarship Opportunities for High Academic Achievement",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVNEYmZZdzNNbk85Wm4zVWJuNFI1OXl6NEQtM0w0Y3oyLWpVUkMzOUJHdm50Vl96RUhYM1NGTUJGSUZPeF8wSGUxWk8tcVhtUi1Va0tROHJEZHBqUkhNak1TcEFhbEFGUzg0MklKaEVVbU15bGNEYklDNlhoRkZQMTlwd3Z5aElyenpNTDJlVkVVa1dMclJZLXdvQkttYlBPR05leWJvVzVQUdIBrwFBVV95cUxNVUJBT1Y5Ym4ybk82QXVNRldOdzg3b3BUanhjRE82T1VRUTlpM21STDU0dXNiUm51Njl3SEtNTm9YZzVvOTFobVVXelBRblMtclR6cmxsQXp1azY5WFA4SlphUHR2cS1BU2FIVFFPb3dvNHA4WVV0VlNWYzVQQmgxNVl0emwxa05TNEw2RnBCaEQxbzFlZ2xOY09WbTZzOGxOakNPSW8wWm9FXzlBUkNR?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "github:tirth8205/code-review-graph",
-      "title": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "section": "github",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "github:codecrafters-io/build-your-own-x",
-      "title": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "section": "github",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "github:protocolbuffers/protobuf",
-      "title": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "section": "github",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "github:docusealco/docuseal",
-      "title": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "section": "github",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "github:RyanCodrai/turbovec",
-      "title": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "section": "github",
       "sentAt": "2026-07-17"
     }
   ]
