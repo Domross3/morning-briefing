@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiwafbvv95cuxpy2fsduvsczz5ctlwcnfwzedtm2uwttr3vxk2vnntegdoafg0n1jiuwvzv1hpnkxfuxdyduz4rjvjtupnelzwqmdsr3i1uxr",
+      "title": "Google Africa Applied AI Lab Program for African AI entrepreneurs and researchers.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2FSdUVsczZ5cTlWcnFWZEdtM2UwTTR3VXk2VnNteGdOaFg0N1JiUWVzV1hPNkxfUXdydUZ4RjVJTUpnelZWQmdsR3I1UXR6ek12LVBnLVExUnFEWmlIQTU2dkpBVWFaZGg4TU0xbEs5MDNoWktjNV9JN3ZaQVdzRVBFQTVjZzU3S3hNbGxjWFFra0pZT2lhcGtWNXFBeWk2U3VpZ3JqQVJacVBod3RZRjgydVRsZDNYWnRGcVhFbEE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuafbvv95cuxnvg90rxu1s3futnpkeenhyxo1dwpivfzdqwu4eenuzghrtna0xzjqstexdy01dwjpqnlwu1dtedjvchl5s3ywlujkzk0xwjv",
+      "title": "Public Call for the Joint Research Program of Scientists from Serbia and China",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVG90RXU1S3FuTnpkeENhYXo1dWpIVFZDQWU4eENUZGhRTnA0XzJqSTExdy01dWJpQnlwU1dteDJvcHl5S3YwLUJKZk0xWjV2ZzNqWVZ1OExjLTdmUW1TMDBGNTMwdVM4cDdmWms2X3phMEpic1NqVEZHV3pqQXhQWkNwSHJXdG0zbzlkbHFEXzlleGd3Q083dDJlSHBnSUtBd0xzRkZZajRUdWNwcWJ3cGd1ZnkxcmxL0gG-AUFVX3lxTFBReGFBS2RabDdxM1NNemlNNXl6NGJPUERMOGNPUTMtZ2ktSElOWEs2Y2pkd3BEOVlOM0xLV2Q5WTFqVGtObGF6VVJFWENmb0RGRGJ1dzFoVkNZdEVjendUdVo0b1VKWnVGbnRmc1ZCVlR1V3k2bWExMTZmMExkcW83d2FFdzBmRlR2c1lLYlhTLTFCWEQtVFRiellTTGd4bkFMUGE1M2s3cVZOZEFlMGlkb3VyX21acWdfYUdMYVE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxqwvneymzzdznnbk85wm4zvwjunfi1oxl6neqtm0w0y3oylwpvukmzoujhdm50vl96ruhym1ngtujgsuzpef8wsguxwk8tcvh",
+      "title": "Discover 25+ Scholarship Opportunities for High Academic Achievement",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVNEYmZZdzNNbk85Wm4zVWJuNFI1OXl6NEQtM0w0Y3oyLWpVUkMzOUJHdm50Vl96RUhYM1NGTUJGSUZPeF8wSGUxWk8tcVhtUi1Va0tROHJEZHBqUkhNak1TcEFhbEFGUzg0MklKaEVVbU15bGNEYklDNlhoRkZQMTlwd3Z5aElyenpNTDJlVkVVa1dMclJZLXdvQkttYlBPR05leWJvVzVQUdIBrwFBVV95cUxNVUJBT1Y5Ym4ybk82QXVNRldOdzg3b3BUanhjRE82T1VRUTlpM21STDU0dXNiUm51Njl3SEtNTm9YZzVvOTFobVVXelBRblMtclR6cmxsQXp1azY5WFA4SlphUHR2cS1BU2FIVFFPb3dvNHA4WVV0VlNWYzVQQmgxNVl0emwxa05TNEw2RnBCaEQxbzFlZ2xOY09WbTZzOGxOakNPSW8wWm9FXzlBUkNR?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "github:K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-enabling-independent-research",
+      "title": "Enabling independent research on how people use Claude",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "Hacker News:twitter-com-wxnb-status-2092875025246261494",
+      "title": "Nahel Belgherze (@WxNB_) on X",
+      "url": "https://twitter.com/WxNB_/status/2092875025246261494",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-27"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmitafbvv95cuxodg1jndh1nkjbx3czc28zrufvrzewqkvqsk1wykpna0jlwgp3c3zfrudontdpzhp0d3hxzzvdmtdyejzzbnvuu2xtqm0xexv",
+      "title": "The OpenAI-TanStack incident shows why EU AI Act deployers need supplier-incident evidence",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG1JNDh1NkJBX3czc28zRUFVRzEwQkVqSk1wYkpna0JlWGp3c3ZfRUdoNTdPZHp0d3hxZzVDMTdyejZzbnVUU2xTQm0xeXVBRWRiN0hTcnhHMHB2bzZsNURMTzY4Y0N0eTZ3cWRjZ2JwVVpvaWdYZW5XT2VLR3FFRWlhQloySnlrNlBMMUs5V1VmcWpabDhVN1BUV21TSkphMWJIR1hJeGtaTFNOanJ5VGpsYjQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · IAPP",
+      "sentAt": "2026-08-27"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxnyvhtq3pdlvnkberqufhywvzedlvtaegtevn4tza3z0t2zfq5wjr4elnfnfmtakfqwfrjyw5zvgvvevpxltvjc1pqwtdrm3f",
       "title": "Open Call for Information Controls Research Program",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVhTQ3pDLVNKbERQUFhyWVZEdlVTaEgteVN4TzA3Z0t2ZFQ5WjR4elNfNFMtakFqWFRjYW5ZVGVveVpXLTVjc1pqWTdrM3FJaGpHNVp3VjdhQ1ZvS1FaMlBEY3lDVWRVenJJTzduUmd5WTk4aTJnSHUtMlpFN09vcnJHSkxtYVRWSVJza3lwelFmQ3dIYUVWT1F30gGaAUFVX3lxTE1hWFNDekMtU0psRFBQWHJZVkR2VVNoSC15U3hPMDdnS3ZkVDlaNHh6U180Uy1qQWpYVGNhbllUZW95WlctNWNzWmpZN2szcUloakc1WndWN2FDVm9LUVoyUERjeUNVZFV6cklPN25SZ3lZOThpMmdIdS0yWkU3T29yckdKTG1hVFZJUnNreXB6UWZDd0hhRVZPUXc?oc=5",
@@ -3638,62 +3702,6 @@
       "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
       "section": "tech",
       "sentAt": "2026-07-18"
-    },
-    {
-      "key": "Hacker News:charlesazam-com-blog-fable-5-gpt-5-6-sol-goal",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal Help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "section": "tech",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "Hacker News:boilingsteam-com-steam-machine-between-10k-and-15k-sold-per-week",
-      "title": "Steam Machine: Between 12k and 15k Sold per week",
-      "url": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
-      "section": "tech",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmivwfbvv95cuxpt2q1shptvnq2udnielnpni0wzwddtvvqsfhiszlswfpjt0xlz0y1mv9lc2znc1u1mgd2s2fpy1hkvxv5yzl0y20wbgvxdut",
-      "title": "A Fresh AI IPO Started Trading Today. Here’s What Investors Need To Know.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2Q1SHpTVnQ2UDNielNPNi0wZWdDTVVQSFhiSzlsWFpjT0xLZ0Y1MV9Lc2ZNc1U1MGd2S2FPY1hkVXV5Yzl0Y20wbGVXdUtQd2Y5bTdoOXFNSTdzaC0zbHo0UDUyT2hfdWVPUDBOcWJ5T0QzZlFNblpGcmhMTHFBOUpCRWctaERMUVJ2R1F4T0ZJeFozbDFHaE1wMDMwVUZ4bno0RXR2amlKOG90OW5yejVoNmpPMXV0STdnMm5kbw?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxqdgp4u0vscgvez0jdohbrqu5nzklzzda0egx2bdhjoxfzzjk4ofrxauvbsupnbw9pruxesdboddduumplu1jmsgferfrdmzi",
-      "title": "Summer 2027 Intern - Associate Product Manager (APM)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGp4U0VScGVEZ0JDOHBRQU5nZklZZDA0eGx2bDhjOXFzZjk4OFRXaUVBSUpNbW9PRUxESDBodDduUmplU1JMSGFERFRDMzI3VlFTZ0t0U09mdm5FbXUwNDFHWnV0V1lTdXhjSW9FOWp2WVhIT3BGdUc5VFB5S21TUWFoUkZ6elhobVdpSlZ3UDhlN2hNNF82ZjNUcU9fOTdWOHM2QW82bG5ZZw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxte9jazvjww5lu293bhezymvjwkdmmhhln0rgrdjgnlnrbuthmgnptxhvxzg1dmewblpquuzjy09ib0p2ujlbeddjzm1qohbic0z",
-      "title": "AAAI-25 Undergraduate Consortium: Call for Participation - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JazVjWW5LU293bHEzYmVJWkdmMHhLN0RGRDJGNlNRbUtHMGNpTXhvXzg1dmEwblpqUUZjY09ib0p2UjlBeDdjZm1QOHBic0ZFd1V1by16SUtuUDdldWxlSEJLWGxHOTcx?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxoagpfdxhszgjjcthpb1prd0iydmrvy00wvzzvmmy3lwjougdatudlne1px1lerkztcjdxtu0xzvvmn3noehdkqjlzt0dcsmk",
-      "title": "15 Fully Funded and Travel Abroad Fellowship Opportunities Currently Open – April 20, 2026",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGpfdXhsZGJJcThpb1pRd0IydmRVY00wVzZvMmY3LWJoUGdaTUdLNE1pX1lERkZTcjdxTU0xZVVMN3NOeHdKQjlZT0dCSmk2eGtCeVJvZlFsWlJrSUF3cV9aVlRmZjNheElFTmlxVkJzY05QdHBFdmZ2cFJraTJwQ0N1X0FVSXF4cndza2xzZDV0ZVA0UkwtRWtpYUt0end0bno5OF9BeDdyVGFOZDdRVlZPei1HTG9fLXZneVdfdEEwUWFJU1ow?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiz0fvx3lxte1mug1fcgjqbxrtsznnvevlmkzmdlhfauprwf9rrw5bvlk1vfc4uelyavayy2pwy05pew1pvtdtrnlhmw9fnxdrehhgowrtmxb",
-      "title": "TCS Plans Up to 8,900 Forward-Deployed AI Engineers",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUG1FcGJQbXRTSzNNVEVlMkZMdlhfaUpRWF9RRW5BVlk1VFc4UElYaVAyY2pWY05PeW1pVTdTRnlHMW9FNXdreHhGOWRTMXBDNDE4VVQzUkU3cVoyWkVMWHJQZGc5R0U?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixwjbvv95cuxpx0pfyjdrcglxaul0eky0mjh1twoxci12qmjobw1dynrvlujhr3eyvxzqzv84ywzjany5uvzfexzougtgqxvqewlfn2flu2d",
-      "title": "TCS takes on OpenAI, Anthropic, Amazon and Microsoft; to build a team of forward-deployed engineers; CEO",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPX0pfYjdRcGlxaUl0ekY0Mjh1TWoxci12QmJObW1DYnRVLUJHR3EyVXZqZV84YWZJanY5UVZFeXZoUGtGQXVqeWlFN2FLU2dtd3N3aS11S21zRXBRSUZOX3dfb3dVeE9hOE1BcTVvSXR3dmNiZmFJdWxpZ2hFOFJBVXRheHU3VUtnZ0NFdjdsRU5JbmJkNVM1RGFVUF9xOHB1c0YwMmtVbHBxVkJjRFZubXhoNmpqZlZRbVcwN29FVVFqMExzN29WN2NfUEdqelZFX1hNNjdHcGxVZm5KU1ZKMEJDZ01rZmFlSXhHTFdKQnh1TDF6SDZnVWJsXzl6TnRNQXlKTXRqR3dydk9RdmFwcHI1a3NUd3JBdUhJa0FkTGdnS3psSG5TTURQZE43R2xPT3RlRzYydkZiNDd1bnFXbXl6T3lJanPSAcwCQVVfeXFMTWtTMlJBMTRxNFlSRDVHcE80WERwRnhRTG1qLUVabnE2RkZnZFFpUVFTWW56RWJNcTFheVp6SUlabEl0N3c0Mm1pb2tTaWVpMUFaUmM5c056RG9QX3g3NDhOVEgyTmVELWljejFmcW9xZUp6WUZlTlQxMHlwZzE0OWdsa3ROX3NENEx5SDAtY1VJX3lxNU5wWG8xdFRYNzY0S2FIblprc3MxN3g2NjNXRHFZeEZ4YzE3NmRyWFRLVFJTa1dvZGo2bFEzNFd5YUg2LTFNejdWODY5VlJBRXhDT2FjRFVEQWRmZ1JfaEZfZGwtem5LRWtwM1d0dy1ic1VXOVl2cEZtd2tKTG4tS2UxdkR4SjJsMEpxdTJRREtiMnJ4UUxKSURFb3k2Mk9iandOenA2eWlPVzBFTVRwM19HQjlkSTFNYVNiekRSRUM?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-17"
     }
   ]
 }
