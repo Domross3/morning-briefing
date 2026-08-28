@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxoagpfdxhszgjjcthpb1prd0iydmrvy00wvzzvmmy3lwjougdatudlne1px1lerkztcjdxtu0xzvvmn3noehdkqjlzt0dcsmk",
+      "title": "15 Fully Funded and Travel Abroad Fellowship Opportunities Currently Open – April 20, 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGpfdXhsZGJJcThpb1pRd0IydmRVY00wVzZvMmY3LWJoUGdaTUdLNE1pX1lERkZTcjdxTU0xZVVMN3NOeHdKQjlZT0dCSmk2eGtCeVJvZlFsWlJrSUF3cV9aVlRmZjNheElFTmlxVkJzY05QdHBFdmZ2cFJraTJwQ0N1X0FVSXF4cndza2xzZDV0ZVA0UkwtRWtpYUt0end0bno5OF9BeDdyVGFOZDdRVlZPei1HTG9fLXZneVdfdEEwUWFJU1ow?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunity Desk",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmizefvx3lxtfbnnjbtmdz6ef9mvudwuevgtzhtwufozwo5wgtlb2jyv2toannozmjvaejrswytbhh3n19ka3kwq0zwsvjvmmnondnmahg4zgv",
+      "title": "IAAI-25: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNNjBTMDZ6eF9MVUdWUEVGTzhtWUFOZWo5WGtlb2JyV2tOanNOZmJVaEJRSWYtbHh3N19Ka3kwQ0ZWSVJVMmNONDNmaHg4ZGVyTXROVHcyNWU4b3hfTFQ3RFhxZ3U?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Association for the Advancement of Artificial Intelligence",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi1afbvv95cuxqtzfym3lzbnc1u09odjjtzjdaww54rvd0c2vyrtlid2fkz2v2detaavrbdhfoyi1yukr2m0vslvrts01da2uzrmdny003ntd",
+      "title": "Morrisey: 54K received school clothing allowance so far, including kids who didn’t apply",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTzFYM3lZbnc1U09OdjJTZjdaWW54RVd0c2VyRTlid2FkZ2V2dEtaaVRBdHFoYi1YUkR2M0VSLVRtS01Da2UzRmdnY003NTdLSmFlOG44V1NLbUFia3FUZDh6cmdOcFNHVnJIRGF4MTRYb0liUHFIYm1oWW1hR1l5clhuQURkRG9JVWp0OVdaUUlhVjN4TVY3aS1YZFIzZGRmVU9QZE1OUC1VZUVzbFdKZEI5OEdLVG9KVXY3YW84MHdGR2Nja2pHbi1mZlZfUFR6ZzZHdw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · West Virginia Watch",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "github:abhigyanpatwari/GitNexus",
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-model-hardware-standard-research-preview",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "Hacker News:www-nature-com-articles-d41586-026-02506-4",
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-28"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiykfvx3lxte8tvk43vxn5qtl1b1fbndbfmfbawhzwlwdbmzlya0hoqko2uwnwwg5qb2zcwtdgcxduc0ttlw1kanvsmvzjelfozlpmz1a4bel",
+      "title": "The EU AI Act gets real",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tVk43VXN5QTl1b1FBNDBfMFBaWHZwLWdBMzlYa0hoQko2UWNWWG5Qb2ZCWTdGcXdUc0tTLW1kanVSMVZjelFOZlpmZ1A4bEl6VVlJOUI1dHB6RVVlTjlNeGx3?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Axios",
+      "sentAt": "2026-08-28"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiwafbvv95cuxpy2fsduvsczz5ctlwcnfwzedtm2uwttr3vxk2vnntegdoafg0n1jiuwvzv1hpnkxfuxdyduz4rjvjtupnelzwqmdsr3i1uxr",
       "title": "Google Africa Applied AI Lab Program for African AI entrepreneurs and researchers.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2FSdUVsczZ5cTlWcnFWZEdtM2UwTTR3VXk2VnNteGdOaFg0N1JiUWVzV1hPNkxfUXdydUZ4RjVJTUpnelZWQmdsR3I1UXR6ek12LVBnLVExUnFEWmlIQTU2dkpBVWFaZGg4TU0xbEs5MDNoWktjNV9JN3ZaQVdzRVBFQTVjZzU3S3hNbGxjWFFra0pZT2lhcGtWNXFBeWk2U3VpZ3JqQVJacVBod3RZRjgydVRsZDNYWnRGcVhFbEE?oc=5",
@@ -3645,62 +3709,6 @@
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "section": "github",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "github:apache/ossie",
-      "title": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "section": "github",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14952",
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "url": "https://huggingface.co/papers/2607.14952",
-      "section": "ai",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14202",
-      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-      "url": "https://huggingface.co/papers/2607.14202",
-      "section": "ai",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-14189",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2607.14189",
-      "section": "ai",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-13188",
-      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
-      "url": "https://huggingface.co/papers/2607.13188",
-      "section": "ai",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-12800",
-      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.12800",
-      "section": "ai",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "Hacker News:data-stackexchange-com-stackoverflow-query-1953768-graph",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "section": "tech",
-      "sentAt": "2026-07-18"
-    },
-    {
-      "key": "Hacker News:velvetshark-com-ai-company-logos-that-look-like-buttholes",
-      "title": "Why do AI company logos look like buttholes?",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "section": "tech",
       "sentAt": "2026-07-18"
     }
   ]
