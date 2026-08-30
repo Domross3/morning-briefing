@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte1qvtlsofj2wk8tn0k1wghnuhpbduj1m1lhltjlzjdnwddknkrmohpszhnqchh1bu50utlxx1ngznnqrjuwr1d6uffmtg1gvdh",
+      "title": "Heilbronn AI Fellowships 2026–2027: DAAD Research Fellowship in Germany for International AI Researchers",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QVTlSOFJ2Wk8tN0k1WGhnUHpBdUJ1M1lhLTJlZjdNWDdkNkRmOHpSZHNqcHh1bU50UTlxX1NGZnNQRjUwR1d6UFFmTG1GVDhieUh1Y2IyVEYxbTcyTURaX0Y0N3NrY3gtcVdmcXNjTQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnzuhnewnumhzcsw5kymizz0dry1vtegc4rzbfd1vhmgnfsklrrko0ztbpwtroyvlgv21ice5ybvzlwxzxmhd0dvhndnk2nw4",
+      "title": "Apply Now: Summer Undergraduate Research Fellowship 2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUhneWNuMHZCSW5KYmIzZ0drY1VTeGc4RzBFd1VhMGNFSklRRko0ZTBPWTROYVlGV21IcE5ybVZlWXZxMHd0dVhNdnk2NW45Y054U3lQclphUHUyamNGdFQ0OEZSc21xYjE0VmlKdlFvYXpabGZ5ZVo4SmtqbVFNY2dPWVFRanA0OXZNdnQ3NlVZaTV3eTkzNHFBZ9IBoAFBVV95cUxOQU8tQkdCV0lrdVR3V1lXNmhZbnZXWm5oWGJMZmhWbVlkVGFWMHVXamtxanN0Y2dRQXU5ZTdLd1RMSHFYMXhhM3Z4VEo3UnY5enBCNmhmTVRVVTFybEIxTl9VMW0yb2F2UXNzWHRRU1NEbm9wdjNMOXQybENNS3A1eXhqTFBhemFJQmNLYXQ3eTFwd3lHeVV3ZmhDYkEta1pU?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiwwfbvv95cuxntwl4nhmyskttlwzbm2fos1pmzzc2zlrmne5zde9unw9eu0i3m1rtme5kb090oxjvafvtmu1wx09zrhrxageywxdma29gcu1",
+      "title": "The Cybersafe x SANS AI Security Fellowship 2026 for African women in cybersecurity (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTWl4NHMySktTLWZBM2FOS1pMZzc2ZlRMNE5zdE9uNW9EU0I3M1RtME5Kb090OXJvaFVtMU1wX09zRHRXaGEyWXdMa29GcU1Tb3BVcnVyZTMtTDFFOTZPQzJHbWpVNlFJUDZZc0dqZW1pTXREcTNVTnplaXgzblR4Z19SRWx4Nkpvb2VNSnBHVC03Y3Etc2hKX25zRUVxYTBReGtQUEJXcUpNZ0h5VkFodU84MkFlZk8wTlFFQWZCMjN0Xzg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmid0fvx3lxte52ztzlnflecfliddj6tziyd2fiskdiseezvxpuyxhtsel4q2htymx6smpommxmcnfmwlvwrdzwlvhhvgg4vl9mwee2zxhxwew",
+      "title": "Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The New York Times",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "github:THU-MAIC/OpenMAIC",
+      "title": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-25518",
+      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+      "url": "https://huggingface.co/papers/2608.25518",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2608-26872",
+      "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
+      "url": "https://huggingface.co/papers/2608.26872",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-08-30"
+    },
+    {
+      "key": "Hacker News:github-com-anthropics-claude-code-issues-66504",
+      "title": "[FEATURE] Session URL appended to commit messages and PR descriptions by default — should be opt-in · Issue #66504 · anthropics/claude",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-08-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmixgfbvv95cuxpuvz4qxzsuxjxbms1mmh1af8wnkzwweuxmejlx1nzd1nmcgxodtu5rlfbzxhumhowemttrzrrrfo2ctcwzldktgkyr1nmeuz",
       "title": "Call for Applications: CyberSafe × SANS AI Security Fellowship 2026 for African Women (Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVZ4QXZSUXJxbms1Mmh1aF8wNkZWWEUxMEJlX1Nzd1NMcGxodTU5RlFBZXhuMHowemttRzRRRFo2cTcwZldkTGkyR1NmeUZMTjRlWm1naXdGYkdRREMwUkVSeS0zMHl5bFRUbHY2ckoxTldneTJ5WUxUMDliYU1CenJvTVVfU2M4RXVCb3NKaDhrSGJxWWVuWHdVZlZhWUZKV0pUejc4R2QwSE1qUVF5S2JYS1M0M3ltSk83dzBZSkRyV1ZUenc?oc=5",
@@ -3663,62 +3727,6 @@
       "title": "10 Highest Paying Jobs in AI and Machine Learning (2026)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTdJUjZqVzhKV0pMbFJ3OTI0ZktINnFHTkVlc3ZBS0g1d05wYkUxQURvLXYzVE56YTdfQ3QwVUlWX3g2TDRQem15VUZZblVKekw0WFg5TlNTVnl1UFhzMFY3Y2dxV2pqY2t5N1BzbDRMTS00RXlHY1pkLXQwcUt4b01FTXlTYkE?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "github:AstrBotDevs/AstrBot",
-      "title": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "section": "github",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "github:thedaviddias/Front-End-Checklist",
-      "title": "thedaviddias/Front-End-Checklist",
-      "url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "section": "github",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "github:kvcache-ai/ktransformers",
-      "title": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "section": "github",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "github:andrewrabert/jellium-desktop",
-      "title": "andrewrabert/jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "section": "github",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "github:1jehuang/jcode",
-      "title": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "section": "github",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "Hacker News:quesma-com-blog-custom-deep-research-pipeline",
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "section": "tech",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "Hacker News:www-minecraft-net-en-us-article-minecraft-26-3-snapshot-4",
-      "title": "Minecraft 26.3 Snapshot 4",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "section": "tech",
-      "sentAt": "2026-07-19"
-    },
-    {
-      "key": "Hacker News:en-andros-dev-blog-0b8e451e-i-joined-the-indieweb-heres-what-i-learned",
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "section": "tech",
       "sentAt": "2026-07-19"
     }
   ]
