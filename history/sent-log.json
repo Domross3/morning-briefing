@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-sierra-149f368c-52d5-408f-ba26-ad888f318a00",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+      "section": "opportunities",
+      "source": "Opportunity · Sierra",
+      "sentAt": "2026-09-04"
+    },
+    {
+      "key": "github:magnitudedev/magnitude",
+      "title": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-04"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-playco-game-prototyping-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-04"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-04"
+    },
+    {
+      "key": "Hacker News:collusion-wiki",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-04"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmisgfbvv95cuxnbm9fag1mm1rsdvjzbee5dm4tb0s5nuluekxla2dzumpjctlsnuizdzb6mmtfmum3nenosfloq0jjxznkv2rkutnirtvmsfl",
+      "title": "When the Models Move Faster Than the Rules: Inside America’s AI Policy Crisis",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm9faG1MM1RSdVJzbEE5dm4tb0s5NUlUekxla2dZUmpjcTlSNUIzdzB6MmtFMUM3NENoSFlOQ0JJXzNKV2RKUTNIRTVMSFlkOTV4VVdRNEhodld3TDNIemRBTERheTQwMzNuTFVxd3FmTzZhdU83VkxvRUl4ODJzLVFZM3VlX1p1RzJyM2VhX3VUMy1iRHBCUkFqcEdhWndvVWNwakNYLTlLZHlhTEhVMVVn?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Spencer Fane",
+      "sentAt": "2026-09-04"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxqdkvkn1r0s0dzanziskrzqzhfbjloohnyt1hjz2tibu9rbwniwkc5ynk0wkj1s0lrtu1vcxp1dklnbty2nvpvav9kmwtrvwp",
       "title": "Apply Now: Youth Mental Health Education Fellowship Program (US)",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkVkN1R0S0dZanZISkRZQzhfbjloOHNYT1hjZ2tIbU9RbWNIWkc5Ynk0WkJ1S0lRTU1VcXp1dklNbTY2NVpvaV9KMWtrVWpKTzlzcmN0aXBucXlKcmpnQUNCdzdUdHF6NXo5c083SFhlazV2WTNKZS1GcGpsc0xncUM1ZHFQRjVlZHRBYjJTOWlXcnQ4LXdWd3lLZXpWcFlWa09QNnFpb9IBrAFBVV95cUxOSVFZSFNCdnp5RTQ1UU5xUUpYSVktOVhyd3hvZGdGT0NxbUdwd2Q5TTQzVGNfWXdfeENVd2dJRUlHWXQzakZLZFUzOTJsYU9YRXVjbHVPbUtOQjhLdVZJYVo5cXlfNUR4bFNpRGpnbFJzYzVTT2hNdkxHdGZhQU1oQU8xd1BFWUtPazU3Q3ZlZHZQWmc1SEZ1RjlVcDlTakxxX3pOLUlKejFHS2t2?oc=5",
@@ -3725,48 +3773,6 @@
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
       "section": "tech",
       "sentAt": "2026-07-22"
-    },
-    {
-      "key": "Hacker News:www-cole-k-com-2026-07-21-reddit",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "section": "tech",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "Hacker News:beej-us-blog-data-mystery-comment",
-      "title": "10 REM\"_(C2SLFF4",
-      "url": "https://beej.us/blog/data/mystery-comment/",
-      "section": "tech",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbminwfbvv95cuxpvxnyajdidflkvmffmkd5u0zddljibxe0outzu0q5cu9gmfdfz3lswnnrns1zyjfkujzddwnmzmjzrezun1jnrk5jrvpry0t",
-      "title": "Weak AI regulation may backfire, making products less safe",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXNyajdidFlKVmFFMkd5U0ZDdlJibXE0OUtzU0Q5cU9GMFdfZ3lSWnNrNS1ZYjFkUjZDdWNmZmJzREZuN1JNRk5JRVpRY0t4YkQ5ekhNekxiaDVCeS1leWx3alVRX01TM3VsS1o4S2UtX3I5ZVlVUjNvcE5kZnlaR2tSa1BsVkVCTmZMd2pXRVZJQ3cxb3ZrNWFzQlJYRU0?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmitgfbvv95cuxozwjwmzlmsk84audubnvdql9qwwlmv205cxdddfuwztj4vxzsdm9wegjmczr1uf9vbkrsndnmsnf4vuy4c3jista5cnbus21",
-      "title": "European Commission publishes guideline on transparency obligations under AI Act",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWJWMzlmSk84aUdUbnVDQl9QWWlMV205cXdDdFUwZTJ4VXZsdm9WeGJMczR1UF9VbkRSNDNmSnF4VUY4c3JISTA5cnBuS21fOTdmMjZRQm1hWWFyRktCbHlvVFdMSldFR0FoZllwOWNBbDFxTEVoSTlkVEJmcGNBekFUcHMyc0N1aXZuTnFhM0c3WVBMbVdISzhzTU1fVkVmY0I1YXhRcUlnQU10XzMtOWQwTkJSUQ?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmiv0fvx3lxtfbymxdquvdrws0xuxvuwuhnduhjeuheoepeckjiumhnm0zqtktzz1hbrexyylhhmnvfn1pjtjf5c0hlukdkttdltjb3m3oynly",
-      "title": "Critical minerals: The hidden resources powering the clean energy future",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByMXdqUVdRWS0xUXVuWUhNdUhJeUhEOEpEckJiUmhnM0ZQTktzZ1hBRExyYlhhMnVFN1pJTjF5c0hlUkdKTTdLTjB3M3oyNlY3YzAtNGtqcw?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbminafbvv95cuxqak9ld1vdug1pnzlfovbksgtkcwjia0xqam1yq2ttbm9azmj1a21dvld4zk5zc2zimjd4tgdzn0zqcexwcu1yq09umel2ddg",
-      "title": "The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians (N50,000 monthly stipend)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQak9Ld1VDUG1PNzlFOVBkSGtKcWJia0xQam1YQ2tTbm9aZmJ1a21DVld4Zk5zc2ZiMjd4TGdzN0ZQcExWcU1YQ09UMEl2dDgzeGMxYW0xcWxpcG5Sc1ZIV1ZNYnJDZXkxV2FRd2plcXE4bktsM2IyQVBUM1l3TmUtT3Q5cTAtb3lKM1o0Q0JvblN6ZG1NejVKUXhfdUY?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-21"
     }
   ]
 }
