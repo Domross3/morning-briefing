@@ -2,6 +2,86 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxqtmdfx2lga1zxdfv3ctbkmnnzznhkntjbykj1vgzmcuw2eehmqmn1exg4vdzwwvlkwljfnznuz3jxswnzmfjydle0vwzsbxz",
+      "title": "Open Call for Proposals for Pulitzer Center’s AI Accountability Fellowships (2026–2027)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmdfX2lGa1ZxdFV3cTBKMnNzZnhkNTJBYkJ1VGZMcUw2eEhmQmN1eXg4VDZwWVlKWlJFNzNuZ3JXSWNZMFJYdlE0VWZsbXZPOHhaNnVFUDVkRzR1VEtlUjZjbTc0NWUzaHRIMjFCS0oyYUUtVGdIYkFwQlJncFoxNUtDc2RDU1ZvcWIxYlhpRGo2cmxHOE11clg1RURSOWk5VTVwakVUaERZZUE1?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Pulitzer Center",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxnmlu1azm2lvzxos1xq2hic1ply0tithjqoflis0xknnfhbjjhwwxzrxfaqkvxynhwtvdjymkxb042oudet2e1yjbmnxp4ynf",
+      "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlU1azM2LVZXOS1xQ2hIc1pLY0tiTHJqOFliS0xKNnFhbjJhWWxzRXFaQkVXYnhWTVdJYmkxb042OUdET2E1YjBmNXp4YnFfeWZ4X2RjNkJ1YWZOVTdMZ3NQUHl6a2RTdE9JTVZPMDhPUDB6a0MzMW5NNE5Uakk1UWF1SXhyUEd0ZHhmNWdVaHhodw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · techpolicy.press",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxtfbfcjnkmeldm1bjoeexskt1albnzhlawjgxu1pywdm0odvmdtjryuhsxzrlsznbautesglgmnhvctbzmy1hddbmcm13ofn2cfi",
+      "title": "How to Apply for the FASPE Journalism Fellowship 2027: Fully Funded Two-Week Ethics and Leadership Program for Journalists",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcjNKMElDM1BjOEExSkt1alBnZHlaWjgxU1pyWDM0ODVMdTJrYUhsXzRlSzNBaUtESGlGMnhvcTBZMy1HdDBmcm13OFN2cFI0d1NQX2dHVHlVUGdqLThtSW8zY0lqVXBKVGowZw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxozw1wdtfvujdem2ywm1l2dktizfo0nhm2relxdfppbektwi1vc25mbg8ys2zgstzwagdncmtuuzdxzzhnsu4wqljpegfxmdb",
+      "title": "FAU Shapes local students' futures by paying for tuition in emerging scholars program",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZW1wdTFVUjdEM2YwM1l2dktIZFo0NHM2RElXdFppbEktWi1Vc25mbG8yS2ZGSTZwaGdncmtuUzdXZzhnSU4wQlJPeGFXMDBlWHktMXZrR0trR25aUjRHSk5nVFllZW1LVHFDc0NTZ0dCdmo3QWh6bnpscC1rSFRuNmtQU0UxZ243eUpDM0ZfNTFxU1U3XzR0Z2tkZTQwOWliZzVMZ0pqOGl6b1U?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WPEC",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnmxh4tu5gs2dooxbkczn3y1npc1hrv0prvze2akrlujnuslhqcvj5bwnqowjsamdurxhknm4yqzzeduzxm3nau3pecllymv9",
+      "title": "Fall scholarships for veterinary and veterinary technician students",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXh4TU5GS2dOOXBKczN3Y1Npc1hrV0pRVzE2akRLUjNuSlhQcVJ5bWNQOWJSamdURXhKNm4yQzZEdUZxM3NaU3pEcllyMV9SVUljYU5aYTBSaThXYWhmR0t1YVFyX3RlVG9IbzBUV3p6RXF1VkZ2b2haUkN6SVVONVNFa21TT2gyLWNlNzdDazd4VmpfZm1VNXRQOA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · DVM360",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "github:ruvnet/ruflo",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-formalizing-fermats-last-theorem",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-gpt-6-astra",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "Hacker News:terpstrakeyboard-com",
+      "title": "Terpstra Keyboard | 280 Color Changing Continuous Controllers",
+      "url": "http://terpstrakeyboard.com/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiy0fvx3lxte01rmjozkdzmwfnul82z183qmnvrxy2mfntu185ofbgx05zedv5dzvfannnvzjxy0p2sju5x0dhceitawlxcvzxevv2ada1v0z",
+      "title": "The Fight for Serious AI Regulation Just Won a Big Victory in Massachusetts",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01RmJoZkdZMWFnUl82Z183QmNvRXY2MFNtU185OFBGX05zeDV5dzVFanNnVzJxY0p2SjU5X0dHcEItaWlXcVZxeVV2aDA1V0ZjLWNzbk5icjZYV2VsckpkTmFMRdIBfkFVX3lxTE5MdjJpSV9zTkhlX0tJbkladXZNLThsTmJKWGppMUNXNEk5WXN6bGpFNWwxUklTc3R5SFNvY0Y0Zk5nZkdaZWczWFNGOHgxRy10UnlQWEtfVjF1aVRfZ21oaFprTzl6T0dEak0yUFQwUFNNVEsxdWZGVlFiak1aZw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · The Nation",
+      "sentAt": "2026-09-05"
+    },
+    {
       "key": "hunter:jobs-ashbyhq-com-sierra-149f368c-52d5-408f-ba26-ad888f318a00",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
@@ -3702,76 +3782,6 @@
       "title": "schollz/croc",
       "url": "https://github.com/schollz/croc",
       "section": "github",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "github:chrislgarry/Apollo-11",
-      "title": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "section": "github",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "github:shiyu-coder/Kronos",
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "section": "github",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-donation-public-first-action",
-      "title": "Donation Public First Action",
-      "url": "https://www.anthropic.com/news/donation-public-first-action",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-introducing-openai-presence",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-hugging-face-model-evaluation-security-incident",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-16617",
-      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
-      "url": "https://huggingface.co/papers/2607.16617",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-19064",
-      "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
-      "url": "https://huggingface.co/papers/2607.19064",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-18367",
-      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
-      "url": "https://huggingface.co/papers/2607.18367",
-      "section": "ai",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "Hacker News:blog-melashri-net-micro-back-to-kagi",
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "section": "tech",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "Hacker News:blog-fiddery-com-businesses-with-ugly-ai-menu-redesigns",
-      "title": "businesses with ugly AI menu redesigns!!!",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "section": "tech",
       "sentAt": "2026-07-22"
     }
   ]
