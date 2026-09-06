@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5116927008",
+      "title": "Applied AI Technical Evangelist, Startup Ecosystem",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "hunter:sierra-ai-careers-department-early-career",
+      "title": "Careers",
+      "url": "https://sierra.ai/careers?department=early-career",
+      "section": "opportunities",
+      "source": "Opportunity · Sierra",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "github:DietrichGebert/ponytail",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-04172",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "url": "https://huggingface.co/papers/2609.04172",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "Hacker News:dub-uu-nl-en-column-pencil-case-model-creativity",
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-06"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmic0fvx3lxte40m0j4ztzhblzwqllbmmu1mkn2ewffzuyty1uymzl5qmtxugt2r2zpvhjjdujdtne5zwjdy3jvn24ywdzjvznoz0syoddwcc1",
+      "title": "Exclusive: New bill cracks down on AI agents after Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M0J4ZTZhblZWQllBMmU1MkN2eWFFZUYtY1UyMzl5QmtxUGt2R2ZPVHJJdUJDTnE5ZWJDY3JVN24yWDZJVzNOZ0syODdWcC1oRXZMNVNuVE4tMWZDVVF3cHNaMjhsdmp4VWUtdFA3aGtLLTg?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Congressman Mike Lawler (.gov)",
+      "sentAt": "2026-09-06"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxqtmdfx2lga1zxdfv3ctbkmnnzznhkntjbykj1vgzmcuw2eehmqmn1exg4vdzwwvlkwljfnznuz3jxswnzmfjydle0vwzsbxz",
       "title": "Open Call for Proposals for Pulitzer Center’s AI Accountability Fellowships (2026–2027)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmdfX2lGa1ZxdFV3cTBKMnNzZnhkNTJBYkJ1VGZMcUw2eEhmQmN1eXg4VDZwWVlKWlJFNzNuZ3JXSWNZMFJYdlE0VWZsbXZPOHhaNnVFUDVkRzR1VEtlUjZjbTc0NWUzaHRIMjFCS0oyYUUtVGdIYkFwQlJncFoxNUtDc2RDU1ZvcWIxYlhpRGo2cmxHOE11clg1RURSOWk5VTVwakVUaERZZUE1?oc=5",
@@ -3734,55 +3790,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjc5UU5rWEFhQ0wtNjV2dDlIXzdCa0xpMlhDQXk1aXlKYXl1Nnc1ZVI0cjFsSnhlMnNWLXZzTmNiR1hETU5VVlp6R1lfUGJ4aGtjcUFsX1U4c3lQTjlhR19hMFFMdzBWTl92SGxKaC1NLUpGZGVUTWVtM3YtUXdpTGRpcERoNmdNS0REWXpVSERLMUowNnZFRGJDYWJucVdqUFhmMU1fTUc?oc=5",
       "section": "finance",
       "sentAt": "2026-07-23"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmilwfbvv95cuxpq3nvedz4cvvunzzywfjqb0v5axbdwc1lcni3yzfon3f1tmhfundbbu9psepwq0jwr0zlyxrjudbcmhaytfbsqm14zmt1bjj",
-      "title": "State legislatures are getting better at clean-energy permitting policy",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3NveDZ4cVVUNzZYWFJQb0V5aXBDWC1lcnI3YzFON3F1TmhFUndBbU9pSEpwQ0JwR0ZLYXRjUDBCMHAyTFBSQm14Zmt1bjJPUmkyMm5hdkcxQWhOVWxZX0xiRGxHQW9hTFdaUE1NUk5QU3VSS2JZdlJxWUxQNUN4ZVZRTEpmYkpLcDZPMFg5b2NQU2E0TFBF?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
-      "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi-afbvv95cuxpbtzvtthlekxzltdscuuxsevibvu3vlbfv09mylnwbm9ps05vvlbznc1ttwnxszfrslbbalhry0hnc003vi1iqxrmtevqmdl",
-      "title": "LTM CEO sees Microsoft's AI hiring as industry boost, not threat",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbTZvTThlekxZLTdScUUxSEVIbVU3VlBfV09mYlNWbm9pS05VVlBZNC1TTWNXSzFrSlBBalhrY0hnc003Vi1iQXRMTEVQMDlZc0ZLWG1mb2NBVGpERDVKVXlpLXRyX3pZd2VLeEVrNi1pbFpvV3BsbGdBeENOdDl6RjlUMFlVYkNLcExtSU40dWlWOTRPQkFLX2YycGZUMzFNUlpPOWJ6elVpYmxweVA4VlRyRXFjZk9NYU9mcWUzZ0lvU1c5RFFxVE1TQW56YnVnMElDaFRka1hXckQ0VndfZHRpYk1Rel9GVXIwd1hreEJFTV8tNnJ4Yw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxoefp3x25wr29dutzutvviek1vwnnnylhfsgltu3hsmw5rmkv5mtbfzlpjd2pyzkx1bk5kt05fq1n6blfhrfjnturmbm5pruj",
-      "title": "Unlock Top Opportunities for Educational Funding",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFp3X25WR29DUTZUTVViek1VWnNnYlhFSGlTU3hSMW5RMkV5MTBFZlpJd2pYZkx1bk5kT05FQ1N6blFHRFJnTURmbm5PRUJXdkVHeHBuZzVkVFRFVy1VOXV6c19NNEt1MTkwSzBwcWdJeC1KQkR3M1JlMFZPUGJhaVhlUlpqWjRPNG9jd183cm7SAZYBQVVfeXFMTTVOV05HTUw3SkpkRnJhYTd4cTQxa1hLREpFSDdRRUJUSjJLS2tJVHhtdFp0ZktJWkh1LWdMaEd5Ny00Nk01eXB6NTdzdE1XVnlSTDdDX21Oc1IyUEFodUFuYU1lMGxNUllxSVp3Qms4eW9Xck5fZzI3WTlNcExOQ3B1dVpJR3B6OC10M2xUb3lCVGM1MVd3?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "github:agegr/pi-web",
-      "title": "agegr/pi-web",
-      "url": "https://github.com/agegr/pi-web",
-      "section": "github",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "github:koala73/worldmonitor",
-      "title": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "section": "github",
-      "sentAt": "2026-07-22"
-    },
-    {
-      "key": "github:schollz/croc",
-      "title": "schollz/croc",
-      "url": "https://github.com/schollz/croc",
-      "section": "github",
-      "sentAt": "2026-07-22"
     }
   ]
 }
