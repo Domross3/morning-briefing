@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-sierra-d9c445da-c7b4-43a3-8d71-d367681c3015",
+      "title": "APX (New Grad 2027)",
+      "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+      "section": "opportunities",
+      "source": "Opportunity · Sierra",
+      "sentAt": "2026-09-07"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5183044008",
+      "title": "Anthropic Fellows Program, AI Safety & Security",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-07"
+    },
+    {
+      "key": "github:heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-07"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-research-acceleration-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-07"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-02750",
+      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+      "url": "https://huggingface.co/papers/2609.02750",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-07"
+    },
+    {
+      "key": "Hacker News:devz-cl-posts-i-spent-my-vacations-de-brainrotting",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-07"
+    },
+    {
       "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5116927008",
       "title": "Applied AI Technical Evangelist, Startup Ecosystem",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008",
@@ -3747,48 +3795,6 @@
       "title": "Understanding the AI economy",
       "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
       "section": "tech",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "Hacker News:www-reuters-com-business-retail-consumer-alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23",
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "section": "tech",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "Hacker News:frame-work-desktop-tab-192gb-coming-soon",
-      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
-      "section": "tech",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "Hacker News:www-theguardian-com-technology-2026-jul-23-eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "section": "tech",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiowfbvv95cuxpeglvt29znhn2z1dcy0pjms1maxfbqwltnlv3vxfilwdlbm1ibzrqveptrf9ed2t2oed5wjhzb25tcwz3wkhlwjnsckhbmwd",
-      "title": "Connecticut Extends AI Regulation to Subscriptions",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGlvT29zNHN2Z1dCY0pjMS1maXFBQWlTNlV3VXFiLWdlbm1ibzRQVEptRF9Ed2t2OEd5WjhZb25tcWZ3WkhLWjNSckhBMWdud2U4MkRLWFdiVnlpbk5mSUJwU0dnV3NfMjdjNU5LMlMxM0VjQktWbGFCNE14bWJCaDB5VzRFdnN1UFZST1JqdTFLWVlIMlVjY3YyUFBRZEg1WEtz?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmipgfbvv95cuxpmlywd1fnsfqwc0jsrhdstzzjnw1rdwhzte9bu0r1b0dqzmvybgfzqna2vhhyvs1odwpkaxg0rfzinjniy00xx0xxbm5uaew",
-      "title": "Opinion: Increasing AI funding is not the solution UCLA students need",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlYwd1FnSFQwc0JSRHdsTzZJNW1rdWhZTE9BU0R1b0dqZmVybGFZQnA2VHhyVS1OdWpkaXg0RFZINjNiY00xX0xxbm5UaEwzUmFMbjE3VUpMUzNfZnBqR2RZOUEybGQ5ODBoWWw1WU9VbFNqSTladHJNQWV2anN4LWFQT18wTWdra1p4S3NBZzl4S2h1UnJwdlMwTFZhd01qQjNaRldR?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiqafbvv95cuxqvjc5uu5rwefhq0wtnjv2ddlixzdca0xpmlhdqxk1axlkyxl1nnc1zvi0cjfssnhlmnnwlxzztmnir1hetu5vvlp6r1lfugj",
-      "title": "Moonshot AI IPO: Everything You Need to Know About Moonshot AI",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjc5UU5rWEFhQ0wtNjV2dDlIXzdCa0xpMlhDQXk1aXlKYXl1Nnc1ZVI0cjFsSnhlMnNWLXZzTmNiR1hETU5VVlp6R1lfUGJ4aGtjcUFsX1U4c3lQTjlhR19hMFFMdzBWTl92SGxKaC1NLUpGZGVUTWVtM3YtUXdpTGRpcERoNmdNS0REWXpVSERLMUowNnZFRGJDYWJucVdqUFhmMU1fTUc?oc=5",
-      "section": "finance",
       "sentAt": "2026-07-23"
     }
   ]
