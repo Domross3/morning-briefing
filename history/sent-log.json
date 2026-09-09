@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxoce5vcjfnskjnyurwagpjadhvenbfbgjlnv94am5gwuj4ylr2avv3dw1yze5xmuhou0fha2pssnfkc3j1teo3zzjpdeu2rwl",
+      "title": "When AI Ranks the Résumés, Who Explains the Decision?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcE5VcjFNSkJnYURwaGpJaDhvenBfbGJLNV94am5GWUJ4YlR2aVV3dW1yZE5xMUhOU0FHa2pSSnFkc3J1TEo3ZzJPdEU2RWlsY19EV2FVWTY1TkQ3UlVmcUlQU0hHTWNRMUJpTHhaekRfU3ZxWUNLaU5NRnRZN09ScnBDWnBZWEdvOEw5UzhzOA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · dice.com",
+      "sentAt": "2026-09-09"
+    },
+    {
+      "key": "github:vastsa/PI-Desktop",
+      "title": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-09"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-teen-development-research-grants",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-09"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-codex-quantum-computing-experiments",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-09"
+    },
+    {
+      "key": "Hacker News:desertant-com-blog-introducing-desert-ant-labs",
+      "title": "On-device intelligence for every product",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-09"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiogfbvv95cuxnrvfayupqbunitg9xrmv4dmhfa3vhrgxkm19fd0tcrwe2rfn1snbucw1nmnfon3hjdkvprmt1ekpurlnsq0t5zuznzfvpcwl",
+      "title": "Can the EU AI Act’s Transparency Rules Strengthen Democratic Resilience?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVFaYUpqbUNITG9xRmV4dmhfa3VHRGxKM19Fd0tCRWE2RFN1SnBucW1nMnFON3hjdkVPRmt1ekpuRlNSQ0t5ZUZnZFVpcWlJbjJUVjhTbVNZZTFGY19pa1NLU282RlppZ3ZRMnpmQUJ1cHpjUDZXR1JySXRpUEEzdWdYVS1hdmJEZGhvUzRudmc3bDM1Z0pqNFdQSEhmWUxkOGc?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Tech Policy Press",
+      "sentAt": "2026-09-09"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxtfbys09fduh3mgrdakt6r2ruvla5mlz2uvnotgf5y005sv9pqmzxqmdxlwrzsxdzalbjnv84y1zpmllmtvvsexg0dkhnavrgyi1",
       "title": "Teach For All is Hiring Globally: Remote Opportunities in Fellowship Programs, AI, Education and Leadership",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYS09fdUh3MGRDakt6R2RUVlA5MlZ2UVNoTGF5Y005SV9pQmZxQmdXLWRzSXdzalBjNV84Y1ZPMllMTVVSeXg0dkhnaVRGYi1xVWtlejFIYUZnY0puMm1VS0l3UllIV3FnUlZBQw?oc=5",
@@ -3765,48 +3813,6 @@
       "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
       "section": "tech",
       "sentAt": "2026-07-24"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmi1gfbvv95cuxqdw9emxdmtjlouxe5ekdtehvza0vxow10a256buz4wenwwxluctdfy3pwbkzmzwxza1hnqs1sd3plb3cwz1fnvhptu3h4ck5",
-      "title": "ICYMI: Chairman Guthrie Joins Fox Business Network to talk AI Policy and the Ratepayer Protection Act",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdW9EMXdmTjlOUXE5ekdTeHVZa0VxOW10a256bUZ4WENwWXlucTdfY3pWbkZMZWxza1hnQS1Sd3pLb3cwZ1FnVHpTU3h4ck5hZVU2TkhnbkxrVGFDX0RfeTdMRThkby1DSVNFa212MnRVU0pudm1HWng4TEttQ21mbEJrVWVLUC0ybDhSeERNdUJHQk5rMHdDMGtEcmtqbnZLZXcxa3BBcVhLRXZPTVdnZTh0THE1MXlqUC1zMkgzQ3Y5MkNhWktVQ2lQNDFhdUdkdzRmNmFR?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmigafbvv95cuxnul8wymfmoxr5uwrdqngwbmjpzlfzxzjinnzxem96lw9wsmdptlredldirdrps2twburgdjrmnvq0wuf3vkdhtufhrunedjd",
-      "title": "Moonshot, DeepSeek, and the Great Chinese AI IPO Rush",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl8wYmFmOXR5UWRDQngwbmJpZlFZXzJINnZxem96LW9wSmdpTlREdldIRDRPS2twbURGdjRMNVQ0WUF3VkdHTUFhRUNEdjdaZHlvSE5rb1UxMzlRcGpKWlRoM3cxeWx4eklRTThXX2UzVXBWdEdoTmsydXJ2N0h3Ng?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte95ry1od3lgdkwzcmm2n1foww9xrev2ngneewlyvkowudm2enhibzjonklwbhplq2vatdfwsjhadnfttjryn2fux09xsesxdkf",
-      "title": "Pathfinder Fellowship Fall 2026 Applications Open for Student Leaders Advancing AI Safety and AI Policy",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95Ry1od3lGdkwzcmM2N1FoWW9XREV2NGNEeWlyVkowUDM2enhibzJoNklWbHpLQ2VaTDFWSjhadnFTTjRYN2FuX09XSEsxdkFrekw5STY4a083TDBON3lXZWh1RU5KWUFQVzlWZWhIemtSRmR6eEE?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxprw13mlhonnewdzlhn2ngatnhbg8ynk9irdbttjfvagjvafq3rkhuz1nqcufcvxjwbnpylwc0yni0vgxryunflxnru0dvzll",
-      "title": "Build vs. Rent: Should You Hire an In-House Forward Deployed Engineer or Bring In Fractional FDE Talent?",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW13MlhoNnEwdzlHN2NGaTNhbG8yNk9IRDBTTjFvaGJVaFQ3RkhuZ1NqcUFCVXJWbnpyLWc0YnI0VGxrYUNFLXNRU0dvZllySGlRMmNWMlpLeHZ3T29Yb0Z2ZW5uTDZ5eUdoZ25FamVuU25LY1lOOG1FSjRqLWhlWkxPTlNiV2JUdVp4b0JiXzR6bmFIcFcxWUJ2cEhTU1hPR0E5WkhTVHNwOXlyTU9tdURUX3Z0bm5qUUlNSGtSUUFibV9ieWlnMGhiM2Zjc19kS05nLWpmNA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxqrwywq29wcwrrynfqc2gzsgdms1dxdlhkz3zfrtdpcw83cw1trvhpexjnx25pm1zuvflpthf3ngfwvgvosmfzrxvhd0ctde9",
-      "title": "AWS joins OpenAI and Anthropic in race to embed engineers inside enterprises",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWYwQ29WcWRRYnFQc2gzSGdmS1dxdlhkZ3ZfRTdPcW83cW1TRVhPeXJnX25PM1ZUVFlpTHF3NGFWVGVOSmFzRXVHd0ctdE9YOHo5MzlGLW9VeTc2V1VYenBsWXQtdmYzazduTkxzdDV1QVJwRlRSMC1TVnhaNnlJc1Q5bmdSZnZ0UUIxZUtEUmpIUE9ZUnZvYmsyQVFHaE96ZzJn?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-23"
-    },
-    {
-      "key": "github:alibaba/open-code-review",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "section": "github",
-      "sentAt": "2026-07-23"
     }
   ]
 }
