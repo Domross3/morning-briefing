@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxqazdrqklxwmdolxziy2t1a0pvwjzlzwffeme1snvqr1fjaldioefqwgfac2ppbzr4vepgbk8wnxzqunbpcedayus1vffcnnj",
+      "title": "Wipro’s AI push frees capacity equivalent to 20,000 workers, CTO says",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazdrQklXWmdoLXZiY2t1a0pvWjZLZWFfemE1SnVQR1FjaldiOEFqWGFac2pPbzR4VEpGbk8wNXZQUnBpcEdaYUs1VFFCNnJuQjZQRlJET3VUcG50WVdZNEd3ZS1MLS1Ic19aS0FvQ3BKbEVQaTF3NE9iRlB1ZWFnckhOWVEwZmQ2em5QZ01VY09BdTEwNy1kME1FSQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Mighty 790 KFGO",
+      "sentAt": "2026-09-10"
+    },
+    {
+      "key": "github:AlexsJones/llmfit",
+      "title": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-10"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-ai-policy-window",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-alignment-assessment-cybersecurity-incidents",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-10"
+    },
+    {
+      "key": "Hacker News:consumerrights-wiki-w-sony-playstation-digital-game-ownership-lawsuit",
+      "title": "Sony PlayStation digital game ownership lawsuit",
+      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-10"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxoce5vcjfnskjnyurwagpjadhvenbfbgjlnv94am5gwuj4ylr2avv3dw1yze5xmuhou0fha2pssnfkc3j1teo3zzjpdeu2rwl",
       "title": "When AI Ranks the Résumés, Who Explains the Decision?",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcE5VcjFNSkJnYURwaGpJaDhvenBfbGJLNV94am5GWUJ4YlR2aVV3dW1yZE5xMUhOU0FHa2pSSnFkc3J1TEo3ZzJPdEU2RWlsY19EV2FVWTY1TkQ3UlVmcUlQU0hHTWNRMUJpTHhaekRfU3ZxWUNLaU5NRnRZN09ScnBDWnBZWEdvOEw5UzhzOA?oc=5",
@@ -3777,41 +3817,6 @@
       "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
       "url": "https://huggingface.co/papers/2607.20061",
       "section": "ai",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2605-09635",
-      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
-      "url": "https://huggingface.co/papers/2605.09635",
-      "section": "ai",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "Hacker News:militarywatchmagazine-com",
-      "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
-      "url": "https://militarywatchmagazine.com/",
-      "section": "tech",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "Hacker News:www-eyosias-dev-blog-llms-are-still-toxic-and-bad-at-math",
-      "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
-      "url": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
-      "section": "tech",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "Hacker News:psychotechnology-substack-com-p-em-dashes-are-fucking-amazing",
-      "title": "Em dashes are fucking amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "section": "tech",
-      "sentAt": "2026-07-24"
-    },
-    {
-      "key": "Hacker News:www-bruh-ltd-blog-programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code",
-      "title": "Programming language file extensions that match an ISO 3166-1 alpha-2 country code | Blog",
-      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-      "section": "tech",
       "sentAt": "2026-07-24"
     }
   ]
