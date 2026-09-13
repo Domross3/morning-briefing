@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte41snfln0c4vhnwa2tnrk1wvjy5budwcllatnnqmudluu9csvhjexvzrxplzjlgznrpzvnoawtbak45odfrwglwznozrvfswui",
+      "title": "Yenching Academy of Peking University 2027 Fully Funded Master’s Fellowship for International Students",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41SnFlN0c4VHNWa2tnRk1wVjY5bUdwcllaTnNQMUdlUU9CSVhJeXVZRXplZjlGZnRPZVNOaWtBak45ODFRWGlwZnozRVFSWUIzY0RXamRvVmNmbnR1TzVJXzRFSEtoUWI5MDR1WTA4aDA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · globalsouthopportunities.com",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxqsgdsbhlkz1jdvg5sngfnwwrjb2rirvrnmvzsrzrnrtlyrna4u1bpnnywq0fty2fynxlkqjfbmglkze81y2c0v0ljadqzmld",
+      "title": "Top 10 Forward Deployed Engineering Courses in 2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGdsbHlKZ1JDVG5sNGFNWWRJb2RiRVRNMVZsRzRNRTlyRnA4U1BpNnYwQ0FTY2FYNXlKQjFBMGlkZE81Y2c0V0lJaDQzMldtTW9sUUZJNnlWeGhaVVdlVkdUUXppQWlJRkhfcHBsVzhkWDZabWpBS3pJUzFSbDZ4S1dneExvSW1ZWXJlYVZ4NjVrcUV1MTF0UjFJUQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · analyticsindiamag.com",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxnuvbiww5qcjfflwnhshg0dfmzbl9tyuoyumjzrghotxprqjm1u3bju2u2r3o0dvlszjf6m3rzrenlrmtwtuxktg03andsnwl",
+      "title": "Mark Cuban Foundation to host free AI bootcamp for Columbus high school students",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVBiWW5QcjFfLWNhSHg0dFMzbl9tYUoyUmJzRGhOTXprQjM1U3BjU2U2R3o0dVlSZjF6M3RzRENlRmtwTUxkTG03andSNWlZWmN3SjE1dTlCcHZSSDJZMFcxeTd5ODRUYXB0X250dGp2dXRmZVVWZ2hGZlA5MEx4VWpEMkxnb3lSMEh6dC1Lc0NyWDQ0Y21nNXZ6UDI3MnBRY0drRkRoNm1MQ3RJeGhvYVhueFBDS3B2anc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WSYX",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "github:alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-the-agents-api",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-05903",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "url": "https://huggingface.co/papers/2609.05903",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "Hacker News:ras-ac-uk-news-and-press-research-highlights-fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-13"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi5afbvv95cuxqu25gzkryem03m2x0n0q4ouz3vzfazudpa2zxtgnoruflog5jqnjtv2dnvmy3ls1gnhhuwetvrll1zlc2cf9mellyt09swnp",
+      "title": "Lawmakers clash on safety testing language for in-development AI legislation, people familiar say",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU25GZkRyem03M2x0N0Q4OUZ3VzFaZUdpa2ZxTGNoRUFLOG5JQnJTV2dNVmY3LS1GNHhUWEtVRll1Zlc2cF9MellyT09SWnp4clljOHZUOThaeE5JaVNXaHc4c25PeDdHUXNqQzNPWnRYSUtKTlRBb3J3S2pDNEZJdjU4R19wWVIyZ1ZsaFRiWFhlakZGNENvd2hNVnJtUnRfV1BIYzVVUy0xS2daR3hCMjZMSkRuVFJLV2o0bURPZzBDNllSWlR5cVFacTlGMU9rcmdHWkRuYW1STmp4R3VyUnpMNDk?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · nextgov.com",
+      "sentAt": "2026-09-13"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmi6wfbvv95cuxochnmvvzdmllgqzn1ejrtt2vkmi1fxzvtyxqwtuv5sjrkajvxvtb2snjzew5rvkruu1dadmppbnkxc28wsk00cvllrvf4yvn",
       "title": "UP Divyangjan Sashaktikaran Yojana 2026: Objective, Benefits, Eligibility, Required Documents & How to Apply",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcHNMVVZDMllGQzN1ejRTT2VkMi1FXzVtYXQwTUV5SjRKajVXVTB2SnJzeW5RVkRuU1dadmpPbnkxc28wSk00cVlLRVF4YVNHYlZNOHo1WXpDYzJnZDNWRUJqTE5leFRwYVlLYWcyMlJaNW5KSU83SjJBTzcwUVVGc1pnVjJIbFlkOXd2aElYVV9JS2xRQXpEaF9oWmRzSUd0bDViV3RXWXdGQlphR204RkpjVWZCUGd0UEEzVUg5a3BJVkczcEhjTGpMSlY5T1llY1Y3QTB1XzRnRGVCZ1lmTk45cnotc1FiMFo00gHyAUFVX3lxTE43VGZkVmZKdkxXR0dKQnRocjVJUm5WUUJBVy15R25IRjctYTliSkZPTkF3XzdfalZxckNna1JhVy16VXdTUGUwRDNKOVZvNzdqYXF3TWJuVWRocjFwRTJHdGkyS2tsdDR6LXZBNHZWbnZYS2otbGxJcFExV3V2bkZJQUFtV0p1SUt1ZW5kWGlSMVBOT1A1cGduZ05SM25HU0wtYWxMeWk2SE9wUTdUWXZvRWdyQk9vdE9JcDdzWjB4RnV6djFyV01YYjhncUJFajNhc1JCZDBUUUx3dkd3dzhlaTJFeWlvcHhteTJ0a1NkQ1BB?oc=5",
@@ -3779,62 +3843,6 @@
       "title": "What Is a Forward Deployed Engineer? Inside Tech's Hottest New Job—and How to Prepare for It",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GbktjWGJTb0FpSmpzLVRQcEhtYXdCUlpmOEtIWExObXpFYml0RE9HdTRnZFVpLVlfZjJOa0FLdk54RTExNlFPVnBOS0FkTEpqcmtzcHVwVkpFb281N0xZ?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "github:permissionlesstech/bitchat",
-      "title": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "section": "github",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "github:palmier-io/palmier-pro",
-      "title": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "section": "github",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-project-pilot",
-      "title": "Project Pilot: Can AI models fly drones?",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "section": "ai",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "section": "ai",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-21556",
-      "title": "Visual Contrastive Self-Distillation",
-      "url": "https://huggingface.co/papers/2607.21556",
-      "section": "ai",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-21072",
-      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
-      "url": "https://huggingface.co/papers/2607.21072",
-      "section": "ai",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-21553",
-      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "url": "https://huggingface.co/papers/2607.21553",
-      "section": "ai",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-12746",
-      "title": "Color Pass-Through via Camera-Display Coupling",
-      "url": "https://huggingface.co/papers/2607.12746",
-      "section": "ai",
       "sentAt": "2026-07-25"
     }
   ]
