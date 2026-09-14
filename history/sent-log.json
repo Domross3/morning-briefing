@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-lever-co-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "title": "Palantir Technologies - Forward Deployed Software Engineer, New Grad",
+      "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "section": "opportunities",
+      "source": "Opportunity · Palantir Technologies",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5183051008",
+      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5183053008",
+      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "github:debpalash/VoiceStudio",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-14"
+    },
+    {
+      "key": "Hacker News:tenderlovemaking-com-2026-09-11-what-a-time-to-be-alive",
+      "title": "What a time to be alive",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-14"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte41snfln0c4vhnwa2tnrk1wvjy5budwcllatnnqmudluu9csvhjexvzrxplzjlgznrpzvnoawtbak45odfrwglwznozrvfswui",
       "title": "Yenching Academy of Peking University 2027 Fully Funded Master’s Fellowship for International Students",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41SnFlN0c4VHNWa2tnRk1wVjY5bUdwcllaTnNQMUdlUU9CSVhJeXVZRXplZjlGZnRPZVNOaWtBak45ODFRWGlwZnozRVFSWUIzY0RXamRvVmNmbnR1TzVJXzRFSEtoUWI5MDR1WTA4aDA?oc=5",
@@ -3795,55 +3851,6 @@
       "url": "https://github.com/andrewyng/aisuite",
       "section": "github",
       "sentAt": "2026-07-26"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-20734",
-      "title": "LLMs Get Lost in Evolving User Intent",
-      "url": "https://huggingface.co/papers/2607.20734",
-      "section": "ai",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "Hacker News:www-wsj-com-tech-google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "section": "tech",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "Hacker News:discuss-grapheneos-org-d-40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "section": "tech",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "Hacker News:pkg-go-dev-golang-org-x-tools-go-analysis",
-      "title": "analysis package - golang.org/x/tools/go/analysis",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "section": "tech",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "Hacker News:english-mapn-ro",
-      "title": "Ministry of National Defence",
-      "url": "https://english.mapn.ro/",
-      "section": "tech",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxqmzuyvvjoq0lwbupnv3zvowtkvxluz3hxdzjln1e3qje1vupkr0ktql9fm3vlredyrnhoqkdyruw2x2tizxlizdhune5xtjd",
-      "title": "Apply Now: PW AI Startup Challenge 2026 (India)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzUyVVJoQ0lwbUpnV3ZVOWtkVXlUZ3hXdzJLN1E3QjE1VUpkR0ktQl9FM3VlREdYRnhoQkdYRUw2X2tiZXliZDhUNE5XTjd1S3pUS3BVQURiNXdKN0tzRjVReEhFdk1McnE2a1ZjUVFtMjNLVXhuZVNBYnFFUjJVcXdKeFgxNkhOODBPUEs1c9IBlAFBVV95cUxQOWV5UkdCSlN1OERxdG5RMmZNUmczSHltRXJTalFfQWgwSHFXU2EtUmFsaG0zNVduZHVCZE9GZHdrakhWOWNMNUdReGlrZHBobG5UQmpHRXBOQkl1M2o3cmYtRm9YZVY4S1lYVDJYQks5N0IybTBMRk1rNm9fb0c5TXRLeVVRY19jRDBvb1Y0Z3owWjcw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-25"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmix0fvx3lxte9gbktjwgjtb0fpsmpzlvrqcehtyxdculpmoetiwexobxpfyml0re9hdtrnzfvplvlfzjjoa0fldk54rtexnlfpvnbos0fktep",
-      "title": "What Is a Forward Deployed Engineer? Inside Tech's Hottest New Job—and How to Prepare for It",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GbktjWGJTb0FpSmpzLVRQcEhtYXdCUlpmOEtIWExObXpFYml0RE9HdTRnZFVpLVlfZjJOa0FLdk54RTExNlFPVnBOS0FkTEpqcmtzcHVwVkpFb281N0xZ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-25"
     }
   ]
 }
