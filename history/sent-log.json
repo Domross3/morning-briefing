@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-applied-31140958-d768-452c-8498-0b1c7f403943",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943",
+      "section": "opportunities",
+      "source": "Opportunity · Applied Intuition",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "hunter:jobs-nvidia-com-careers-job-893397577503-domain-nvidia-com",
+      "title": "Careers at NVIDIA Corporation",
+      "url": "https://jobs.nvidia.com/careers/job/893397577503?domain=nvidia.com",
+      "section": "opportunities",
+      "source": "Opportunity · Nvidia",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-openai-00207abc-49b7-465c-a219-f7c1140f8047",
+      "title": "Forward Deployed Software Engineer - SF",
+      "url": "https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047",
+      "section": "opportunities",
+      "source": "Opportunity · OpenAI",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "github:earendil-works/pi",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-13356",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "url": "https://huggingface.co/papers/2609.13356",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "Hacker News:rmoff-net-2026-01-14-alternatives-to-minio-for-single-node-local-s3",
+      "title": "Alternatives to MinIO for single",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-15"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiigfbvv95cuxncmdwagowz1vtyv9oy2ttvgs3ngdid3zjr29zchz0bnhdywfld29nwuz0wmdzawtmx2ppuudqdupscjmxyknnahbyclp4zzd",
+      "title": "The Unlikely Political Bedfellows on A.I. Regulation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmdWaGowZ1VTYV9oY2tTVGs3NGdId3ZjR29ZcHZ0bnhDYWFld29NWUZ0WmdZaWtMX2pPUUdQdUpScjMxYkNNaHBYclp4ZzdjcWhGTjVhX3F3MUVGd29XUzZKWkZOakNSVENqcDZUMUFia1RyVzRqS241OXVvc1NsRjItbHRydFBKWEE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · The New York Times",
+      "sentAt": "2026-09-15"
+    },
+    {
       "key": "hunter:jobs-lever-co-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
       "title": "Palantir Technologies - Forward Deployed Software Engineer, New Grad",
       "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
@@ -3795,62 +3859,6 @@
       "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
       "section": "tech",
       "sentAt": "2026-07-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxns0vtvm9kyvzxv2f0qvlrcgpesgxax0twwg5hswjvbxfxzffiq2xuqu1pvzjlwe5adl9yoglumzfrvg5lc0reevdta0fuznv",
-      "title": "Call For Applications: Bridge Leadership Bootcamp 2026 for Nigerian Students( Fully Funded)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0VTVm9kYVZxV2F0QVlRcGpESGxaX0twWG5HSWJVbXFxZFFiQ2xuQU1pVzJlWE5adl9YOGluMzFRVG5Lc0REeVdTa0FUZnVTWVUyQU9SbnNSN3AyTzAtMzFNQW4yNl9mdTlxTC1OWnVvajNDTmRPU29hcGF0SldIS1EzckcyOF9zYnZfcVFsdjdfUzVwck5kNGlvSW4wc1JvZHdldUNqUDZmMnNVUnk3bmpQb01heERXZ3c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxptwdhnwitvjrpzxbrntnnx3pinhv5atjqstczt21wc19bn091alninm54rkf4dwnnsl9osur1n3lqwkiyvkg5sdzhuehime9",
-      "title": "Apply Now: Sandoz Scholarship for Young Leaders",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWdHNWItVjRpZXBRNTNnX3piNHV5aTJqSTczT21wc19BN091alNINm54RkF4dWNnSl9OSUR1N3lqWkIyVkg5SDZHUEhIME90cUdQT05tVmMxVGdpc01UVlYtRnJxSThUeXNFRFlTcWc2aHE0VndoN3lIS2t2UnhNaDZIUEVBdXZxX0NuTEhqS3BlQdIBlwFBVV95cUxQa01PRmtncVdKbXVOeWpXY1J0S0NOdE1HUHN1ZzNuQXdOYTFldUVzMkJITkJMeS1FaVBFOVhWXzZoMW9VVUdwTXRrTF85MXlrbnpaekRESzVvOXVoSTFOVjlMa0lOZEw4NERJWEFZT0Q1VG1PVGpKUDYzdjVzV3Q4VkZHSFF4TjMzb2dxTFpEd05yV3d2dUZN?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixwfbvv95cuxqtjnhs1zhvukzytfcogl1s0jwmxu5rm1ksnzfndrzu3fta2hjvlzmtc13q0dnbnnivfbfmljorvg5n0o5sjixn3pkuzbstm1",
-      "title": "Studying Tech-Based Engg? You Could Get A Scholarship",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjNhS1ZhVUkzYTFCOGl1S0JWMXU5Rm1KSnZFNDRZU3FTa2hjVlZmTC13Q0dNbnNIVFBfMlJoRVg5N0o5SjIxN3pkUzBsTm1od1JoQzBrSGFkeW1CdWVRWWZRRDNsa1lMelZZbTZMZnBoNFRRbmVhRzdyUGxqVDU3V2JZT1ZpNmt2RW5UcWZPU2s0cTNlMmFkVkUxbTlKcEFvUEpmV09sOFFmOTB2dm1NRkJOeTBfbm9RLVpHbElTOW1IcW94dXZF0gHKAUFVX3lxTFBBMzVUeTByNWdUOWh5T2lZY21paEt4M1RpUkJsUndJUExXcTNOel82Q2NlbDd4RWJyd2p2T01ZWWtuU1NpWDVPY2VfR091ZWNRZHJoa1R2YjhxRmtQN2xuRzFUZHV1MWhTZktONTFGVWVSMWtrMmpoem55cHBtbkxCNEJldVpxVjRFZDFQV1V0T0F0NmRzekFxUkZ6QWtqUDVLdGVHRV9NdzFnaVBPOGgzSVRpQTNTUVNRdW5FU1lHZDRsRExjS3VxS0E?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "github:OtterMind/Chat2DB",
-      "title": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "section": "github",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "github:pingdotgg/t3code",
-      "title": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "section": "github",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "github:nodejs/node",
-      "title": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "section": "github",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "github:pbakaus/impeccable",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "section": "github",
-      "sentAt": "2026-07-26"
-    },
-    {
-      "key": "github:andrewyng/aisuite",
-      "title": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "section": "github",
-      "sentAt": "2026-07-26"
     }
   ]
 }
