@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:www-ycombinator-com-companies-kyber-jobs-eturrar-forward-deployed-engineer",
+      "title": "Forward Deployed Engineer at Kyber",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+      "section": "opportunities",
+      "source": "Opportunity · Kyber (YC W23)",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-notion-b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "title": "Business Development Representative, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "section": "opportunities",
+      "source": "Opportunity · Notion",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "github:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "url": "https://huggingface.co/papers/2609.16679",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-17523",
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "url": "https://huggingface.co/papers/2609.17523",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "Hacker News:github-com-officefloor-impactgate",
+      "title": "GitHub - officefloor/ImpactGate: Code review via the change impact measure",
+      "url": "https://github.com/officefloor/ImpactGate",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-16"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmilgfbvv95cuxowxnqbhjdwfdhc3z4netqtdfvrnkzbje4svzwwdrnzetragowslpirhhbzhfltuxon3hgz29ndzr6chm0c2ttr295zi1srfi",
+      "title": "AI Regulation in APAC: Diverging Approaches Across the Region",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXNQbHJDWFdhc3Z4NEtQTDFvRnkzbjE4SVZwWDRnZEtRaGowSlpiRHhBZHFLTUxoN3hGZ29ndzR6cHM0c2tTR295Zi1sRFItTnRldU9wcmRLV3FtdWV0U2pLaUxCbVdJOXU5aENyaWFpN1Q0cEJwWWktSWwyNUhYM2UteUZPYTZwbklzZFpvVkpUaWlxc1E?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Latham & Watkins LLP",
+      "sentAt": "2026-09-16"
+    },
+    {
       "key": "hunter:jobs-ashbyhq-com-applied-31140958-d768-452c-8498-0b1c7f403943",
       "title": "Forward Deployed Engineer",
       "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943",
@@ -3809,55 +3865,6 @@
       "title": "Introducing Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-how-ai-is-expanding-what-people-do-at-work",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-21653",
-      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.21653",
-      "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-21503",
-      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-      "url": "https://huggingface.co/papers/2607.21503",
-      "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "Hacker News:xcancel-com-hedgiemarkets-status-2081534588485296565",
-      "title": "Hedgie (@HedgieMarkets)",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "section": "tech",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "Hacker News:incredible-pm",
-      "title": "The Incredible Proof Machine",
-      "url": "https://incredible.pm/",
-      "section": "tech",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "Hacker News:ledger-worseonpurpose-com-brands",
-      "title": "Worse on Purpose",
-      "url": "https://ledger.worseonpurpose.com/brands",
-      "section": "tech",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "Hacker News:www-omgubuntu-co-uk-2026-07-chrome-arm64-linux-available",
-      "title": "Google Chrome lands on Arm64 Linux (with Widevine DRM)",
-      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-      "section": "tech",
       "sentAt": "2026-07-27"
     }
   ]
