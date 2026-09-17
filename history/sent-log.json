@@ -2,6 +2,78 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:scale-com-careers-new-grad-strategic-projects",
+      "title": "Careers at Scale AI",
+      "url": "https://scale.com/careers/new-grad/strategic-projects",
+      "section": "opportunities",
+      "source": "Opportunity · Scale AI",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-modal-9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
+      "title": "Forward Deployed Engineer - ML",
+      "url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
+      "section": "opportunities",
+      "source": "Opportunity · Modal Labs",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-cohere",
+      "title": "Cohere Jobs",
+      "url": "https://jobs.ashbyhq.com/cohere",
+      "section": "opportunities",
+      "source": "Opportunity · Cohere",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-openai",
+      "title": "OpenAI Jobs",
+      "url": "https://jobs.ashbyhq.com/openai",
+      "section": "opportunities",
+      "source": "Opportunity · OpenAI",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "github:Tencent/BrowserSkill",
+      "title": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-model-misalignment-reporting-framework",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "Hacker News:manticoresearch-com-blog-auto-chunking",
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-17"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivgfbvv95cuxquthjaun6c2v5cwjimhv0rgpsb1dycvb0bvhqtdriwgz4uc1yy01ydm1fyuw0rvfjbk1dbtbku2xcb21omkfzrhz2wlllbnp",
+      "title": "AI Regulation Needs More Than Amodei’s Warning–Here’s The Real Agenda",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUThJaUN6c2V5cWJiMHV0RGpsb1dycVB0bVhQTDRiWGZ4UC1yY01ydm1fYUw0RVFJbk1DbTBKU2xCb21OMkFzRHZ2WllLbnplRTVIQ1hMc0trM2hpUHhSODFGMGN0VHJfYTFsLVVnc05UODhlSjM0dEt4ZURndEktazBJY01pVThBX0dqRW5hRklvOVdWd2V1V0RPWFI3VzZBekZudHlVc2lfN1dDWEh4a0Y0QXdGOGxwcmdDRnd3?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Forbes",
+      "sentAt": "2026-09-17"
+    },
+    {
       "key": "hunter:www-ycombinator-com-companies-kyber-jobs-eturrar-forward-deployed-engineer",
       "title": "Forward Deployed Engineer at Kyber",
       "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
@@ -3802,69 +3874,6 @@
       "title": "Call For Applications: NYSC to Tech Job ₦250 Million Scholarship Fund for Nigerian Graduates and Corps Members",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVXFpSVlteTZTaFQ1aXd0UjV2NF9BdGtvUGRKTERoODJJYXozR21KbnlzV244cVVUTTNPQlA3N3BlaGpfTjU1bUE5b3ZOODVBc1BJRUlwamJya1lnNjBqb1hhVndvZW1QM1ZQZmViVVZwYzYxelNXTENPZTRkTFUwSnNUdTVGVVl4OGlORTZHeThqTVhXMHVBdlA4UUpYMTRxZ3pBUW44am1nRmctR2hfSko3cVBBVnlhRWc5enM0THpHNjdzSW5KQ195dTlxelNnT01LbDJCQ3JhUmVyQXZxQW1rcVVvenFmaVJyTllaVmNzdw?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmie0fvx3lxtfbmtdh3eezxtti3a1v0q3v3nxbqmvuyz0locezqc3pjahhps2fiqw9lymrtrtzkufpdejuwmnbvzdvkqmzjluu4sxvkuf9zcmj",
-      "title": "10 Scholarships And Grants For Adults Going Back To School",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMTDh3eEZxTTI3a1V0Q3V3NXBqMVUyZ0locEZQc3pjaHhpS2FiQW9LYmRtRTZKUFpDejUwMnBVZDVkQmZJLUU4SXVKUF9zcmJ4MG9vRlJmY3c3NjJMTXhfQ1NVUFZyUUdFYXVkd0lnOTdFN2FaVHdUUjlaVQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "github:amnezia-vpn/amnezia-client",
-      "title": "amnezia-vpn/amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "section": "github",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "github:jenkinsci/jenkins",
-      "title": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "section": "github",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "github:bradautomates/claude-video",
-      "title": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "section": "github",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "github:ocornut/imgui",
-      "title": "ocornut/imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "section": "github",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "github:vudovn/ag-kit",
-      "title": "vudovn/ag-kit",
-      "url": "https://github.com/vudovn/ag-kit",
-      "section": "github",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-22375",
-      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
-      "url": "https://huggingface.co/papers/2607.22375",
-      "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-redeploying-fable-5",
-      "title": "Redeploying Claude Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "section": "ai",
-      "sentAt": "2026-07-27"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-sonnet-5",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "section": "ai",
       "sentAt": "2026-07-27"
     }
   ]
