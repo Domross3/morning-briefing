@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:cloudflare/security-audit-skill",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-19"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-hex-gpt-6-astra",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-19"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-20784",
+      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.20784",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-19"
+    },
+    {
+      "key": "Hacker News:med-stanford-edu-news-all-news-2026-09-two-separate-brains-html",
+      "title": "Human brain is two separate organs, Stanford Medicine",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-19"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipwfbvv95cuxnwuxebtnpoghvmznfrmnsnxh3smntoghom0lwnevvvezpalbxn2psazk2whqzehexvvfvtjl3nmhkmwfhmhfjr1zkau8zynd",
+      "title": "You Don't Have to Sell It to Be Bound by It: GPAI and the EU AI Act",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUxEbTNpOGhVMzNfRmNsNXh3SmNtOGhOM0lWNEVvVEZpalBXN2pSazk2WHQzeHExVVFVTjl3NmhKMWFHMHFJR1ZkaU8zYndET2FnR2hYY2dXZEFvX2pTVmpzWlpPTEF5cV9LYm5VMGxpODFabEJ2Vm1lcWxoNFppTGlJQXU3Y2dxVnZ4VHVlV0dIWjFRem9MX0h5S1REZE81aDhSaDFoSQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Lawfare",
+      "sentAt": "2026-09-19"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte50vffmturhc051rm9ltk8wtlm0wxznal83t1ptrtlkzmlxlwv5ce96axvoshnwrjhtt0tryv95mwnvv0zmbg55zw9wb01dnl9",
       "title": "Constellation Astra Fellowship 2026: Fully Funded AI Safety Fellowship in Berkeley with US$8,400 Monthly Stipend",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VFFMTURHc051Rm9lTk8wTlM0WXZnal83T1ptRTlKZmlxLWV5cE96aXVoSHNwRjhTT0tRYV95MWNvV0ZmbG55ZW9Wb01DNl9SU2VGeEUtZDRhbG8zaVlneDBDaHFJQTFQRlpGLQ?oc=5",
@@ -3852,41 +3892,6 @@
       "title": "UC Berkeley Haas launches AI certificate to prepare first generation of AI business leaders",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSlB6OWg2blpWamJYd0ZrRHZnVERmelBKcVRzZzkyOVpFT1U5Y3h6NWlLenFQNjM1OG10cUpmRnhYWC1pTzlfcWVqSlVPVF9vUmlyRHFFS2FWWHJ6WjZoSGxyY3hvUlpPZ2cwX1JERXN6amN4ck9menRDSzh4VnNCX0RZdXlLd1ZJMTBvMnQ1aXJmcWRJRnBPT09rTGNOdEc3MmZQLWhIekhRekx0RE5Ga2dDckpVYlhsRE0tcXRhdlM4U00?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxpq0g0adbtzg5vak1zdxu3ogxua0u3tm5sywttyknsmu9tds1tzhhpm3pltevlzxvhs19yy3hanwrbrlfievdmywhlai1xehp",
-      "title": "AI Concierge is available to Non-Administrator Users in Oracle Fusion Data Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0g0aDBTZG5vak1ZdXU3OGxua0U3Tm5SYWttYkNsMU9tdS1TZHhPM3pLTEVLZXVhS19yY3haNWRBRlFieVdMYWhLai1XeHpRQzZrWXNBUHJzRjNZdXdlb2RqckU2WWNlaURWSU05NWZIa1FWZTRyTUM5UmJQZVo1TGJVaElKR1NObnVvLWVUcGRkajd1bVQ0VFVJWnd0WHhGVC1hZEFXYUI5VlBWZk12THN6UHVUNG13WWc?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "github:huggingface/speech-to-speech",
-      "title": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "section": "github",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "github:microsoft/agent-governance-toolkit",
-      "title": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "section": "github",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "github:pascalorg/editor",
-      "title": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "section": "github",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "github:virgiliojr94/book-to-skill",
-      "title": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "section": "github",
       "sentAt": "2026-07-28"
     }
   ]
