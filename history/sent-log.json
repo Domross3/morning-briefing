@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:c3-ai-job-description-gh-jid-8804558002",
+      "title": "Forward Deployed Engineer, New Grad 2027",
+      "url": "https://c3.ai/job-description?gh_jid=8804558002",
+      "section": "opportunities",
+      "source": "Opportunity · C3 AI",
+      "sentAt": "2026-09-20"
+    },
+    {
+      "key": "github:BuilderIO/agent-native",
+      "title": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-20"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-unlocking-new-ways-of-working",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-20"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-20"
+    },
+    {
+      "key": "Hacker News:softwarecrisis-dev-letters-llmentalist",
+      "title": "The LLMentalist Effect: how chat-based Large Language Models rep…",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipwfbvv95cuxobfdru1yyam81vezybzizy25frtrwv1uzduvksznynhbdnuxlzmn6d245cndqqnfmwhzwlwzvazy0nvpsbhlazmpjymlczkj",
+      "title": "University of Alaska regents consider draft AI policy",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFdrU1Yyam81VEZYbzIzY25FRTRwV1UzdUVKSzNyNHBDNUxlZmN6d245cndQQnFmWHZWLWZVazY0NVpSbHlaZmpJYmlCZkJZOTl0Qi1td2dncVZSU3lRS0hoMElzUTZ1bGhJSFVHbjI4cXppeWdubnFGbDA1UzdpRjlyVVI5OUNMR1J5SzJhQ3Q2REdaaGRCUFgyR3ExSnlrdzlnZ19yNA?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Alaska Public Media",
+      "sentAt": "2026-09-20"
+    },
+    {
       "key": "github:cloudflare/security-audit-skill",
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
@@ -3851,48 +3899,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDlFZTdnZjlDbFBEZlRmZVEyT3hwbnkzYURKYU9iWXVJVmhYU1JvNTdBVDFLdXpDbUQ0NUV5NE9pLVZtTlJZNHUzYXZaM2hCSnA1ODY3RVl2dnpNc2F2N0F1Y2gyb3VqT0tHSXlZTEVZcVBHUWVsX3BHRHFhMURrNllmdi1hTW91OHRDLUMyOFhHdjRScXF6eGx3?oc=5",
       "section": "legislation",
       "sentAt": "2026-07-29"
-    },
-    {
-      "key": "finance:news-google-com-rss-articles-cbmiogfbvv95cuxqtvizvhvodlq0wwxjrtncyvhytxz6mjlzqkrqtfzusgx1zvziv0rlwxbhmzv2uwrwmkxvougyuwhkvjjeemnwwnlxt0p0qvf",
-      "title": "Marvell Technology (MRVL) Stock Slides As AI Funding Doubts Hit Chip Stocks",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVIzVHVodlQ0WWxjRTNCYVhYTXZ6MjlzQkRqTFZUSGx1ZVZiV0RLWXBhMzV2UWRwMkxVOUgyUWhKVjJEemNWWnlXT0p0QVFTODUxRmxhd054Tk5pZXFrazVFeWJqczVCZVpzQk83VWk4RW5WTmxnWjE0MmZuM0FOa09YOUlLN3I5Q2JSbjBsekVJXzVENTZsMlA2VUZ4TEt1eHc?oc=5",
-      "section": "finance",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmiiafbvv95cuxosetusfboqvrsmwprv29drmzlx21xbnfickstbnvwdhvrwdm2uwc2wc1lmeuyanq3sgoyvlnhy0oymhvzbuzwqw1yrkzycef",
-      "title": "More Countries Are Factoring Fairness Into the Clean Energy Transition",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEtUSFBoQVRsMWprV29DRmZlX21xbnFIckstbnVWdHVRWDM2UWc2WC1lMEUyanQ3SGoyVlNHY0oyMHVZbUZWQW1yRkZYcEFCbzlfS3ZpUmtZSk5SUzkyeEkyUmlJOWVudGVROUZoMlUtdFNpRDdRbHFSbHJ2bWZfdm9mWGM5NXk2?oc=5",
-      "section": "sustainability",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiykfvx3lxte5wbfzmazdqb1q1zwtyruftajlxvhrjze50tdfsy2m3tjrrzvg0wtvzqwpuam8tsdrvwed3t0ndbddja2gzsuwxtfayajluyzn",
-      "title": "US Humphrey Fellowship opens for 2027–28: 9-month fully funded programme with monthly stipend",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wbFZmazdqb1Q1ZWtYRUFTajlxVHRJZE50TDFSY2M3TjRrZVg0WTVzQWpUam8tSDRvWEd3T0NDbDdJa2gzSUwxTFAyajlUYzNyVjFYUjJ6NW9ub1lFck1pU2NB0gFvQVVfeXFMTTJlTzhFWXo3UDhNTVh2WWVWbVc1RkV5bkRjRFVoN01TbG1XdmJsYzU2ZnZtU0xCUGppVHpUYmVPaUFyeWVpYnJsUm55YWQwU2ZMUlZiQjVwNVhMWVdMbkVWOVhiaGYxdzY1Q0tFbGlj?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxnvddurefotnran3l5di1bbknzb1zqwuz0tmnioes3setjdk9jew10bexbdi1suudjy00wmnzxr0g3cnpic1i0mljmyvffmta",
-      "title": "Bolder Futures Fellowship: AI for Social Good 2026",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDdUREFOTnRaN3l5di1BbkNZb1ZQWUZ0TmNiOEs3SEtjdk9jeW10bExBdi1SUUdJY00wMnZXR0g3cnpic1I0MlJMYVFfMTA0bmhSR1lUcHRsb3g3eFBSNVMzUTJ4bzA5NU9rV0JsUDhqdHEyVFlicWt1Q3d5MVJlRWtRbm5IWTgtODhGTkpqcDJlaU0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizefvx3lxte5tlxk4mvlyangwenjmmjlym3zlbld4rdvonfrnc2tmry16ngzlefpws01yme5jvgxwq1hevwpov0dhmu5ioegtbezvn2hlttr",
-      "title": "Can AI help states prepare for Medicaid changes coming in 2027?",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tLXk4MVlyangwenJmMjlYM3ZLbld4RDVONFRNc2tMRy16NGZleFpwS01YME5jVGxwQ1hEVWpOV0dhMU5iOEgtbEZVN2hLTTRDdHVOeEtOel9WT0J1alhaRXRZSUM?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-28"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiwwfbvv95cuxpslb6owg2blpwamjyd0zrrhznvermelbkcvrzzzkyovpft1u5y3h6nwllenfqnjm1og10cupmrnhywc1ptzlfcwvqslvpvf9",
-      "title": "UC Berkeley Haas launches AI certificate to prepare first generation of AI business leaders",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSlB6OWg2blpWamJYd0ZrRHZnVERmelBKcVRzZzkyOVpFT1U5Y3h6NWlLenFQNjM1OG10cUpmRnhYWC1pTzlfcWVqSlVPVF9vUmlyRHFFS2FWWHJ6WjZoSGxyY3hvUlpPZ2cwX1JERXN6amN4ck9menRDSzh4VnNCX0RZdXlLd1ZJMTBvMnQ1aXJmcWRJRnBPT09rTGNOdEc3MmZQLWhIekhRekx0RE5Ga2dDckpVYlhsRE0tcXRhdlM4U00?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-28"
     }
   ]
 }
