@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmisgfbvv95cuxnujvtum14t1rhwjnveeiybhn3bzjzvdnyszz0mflxt2jowetfukxmm0pawu94zvjybznxcelael85tzlls3psd2h3mdlyvta",
+      "title": "Call For Applications: Citizen AI Arts & Technology Fellowship 2026-2027 | $3,000 Stipend",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVtUm14T1RhWjNVeEIybHN3bzJZVDNySzZ0MFlXT2JoWEtfUkxMM0paWU94ZVJybzNXcElael85TzllS3pSd2h3MDlYVTA3aGNVMS1LTGtKS0Q1TG9JT2FmNHBMOFlrbHlxSVhXQV93UmEtZ0daeVphNkI0N3ZFRllGNkZOSWIzSDN4QTZSMlRfNW5WUzlNcmlYNUI1Zlg0WVp5bzhhLUxBMEFtOXB0X0lB?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · MSME Africa",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxtfbnsxi5endzumlwz212ahr4dc1zaxhzsglgzhhbshpod1vprenox1dqtmvyvwjeze03snjym3rkrg1yznvta1fytw02bxrpwjj",
+      "title": "Apply for the Cambridge Boston Alignment Initiative (CBAI) Fall Research Fellowship in AI Safety 2026: Fully Funded 10-Week Research Opportunity in the USA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSXI5endZUmlwZ212aHR4dC1zaXhzSGlGZHhBSHpOd1VPRENOX1dqTmVYVWJEZE03SnJYM3RKRG1yZnVta1FYTW02bXRPWjJ1VF9zTjhXdmw0VzlrVDZWVWJCM01ja1h1?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxqwunptvm0vgzvb2nfqlztovffm0dmyw5rwejuykpfdnjpou9mrxr3szzoq2hoqvu1vgtjos1yn0houg1qb25kcldsvfh1d0f",
+      "title": "MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUNPTVM0VGZvb2NFQlZTOVFfM0dMYW5rWEJuYkpfdnJPOU9MRXR3SzZoQ2hOQVU1VGtJOS1yN0hoUG1qb25kcldSVFh1d0FiZ201TU1pakJRYi1vVGFqdlFCQ195OHhkc0o1Wk1QMmlNdUI4UDBZSVJRVlpjUWtKd3dqZENHRzFlOVdMdkZLblhRZw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · opportunitydesk.org",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "github:Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-v7",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-accenture-embedded-evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "Hacker News:consumerrights-wiki-w-disney-2b-ad-policy-change",
+      "title": "Disney+ ad policy change",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-21"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijwfbvv95cuxpbndvyjl4bdhduevwu2xlunftnunerfzydwpszez3wmprzjroc2sxoxjty29wsvros1pbog1hogfmsw94uu5jrzfaulvimnf",
+      "title": "Amid AI angst, New York moves forward with implementing landmark AI legislation",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbndVYjl4bDhDUEVwU2xLUnFtNUNERFZydWpsZEZ3WmpRZjRoc2sxOXJTY29wSVROS1pBOG1HOGFMSW94UU5JRzFaUlViMnFad3hETHNVMmpXSkRiS1p3ekZoaldPVlNyYzhnNFU5WGRWdldDZ1ZsRFk4Skx3bWRTUzJmdlJ2dGdXLVZVUnNQTQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Politico",
+      "sentAt": "2026-09-21"
+    },
+    {
       "key": "hunter:c3-ai-job-description-gh-jid-8804558002",
       "title": "Forward Deployed Engineer, New Grad 2027",
       "url": "https://c3.ai/job-description?gh_jid=8804558002",
@@ -3842,62 +3906,6 @@
       "title": "Scientific computing in the age of agentic AI",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-24223",
-      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
-      "url": "https://huggingface.co/papers/2607.24223",
-      "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-25565",
-      "title": "ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition",
-      "url": "https://huggingface.co/papers/2607.25565",
-      "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-24368",
-      "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-      "url": "https://huggingface.co/papers/2607.24368",
-      "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "Hacker News:github-blog-security-supply-chain-security-disrupting-supply-chain-attacks-on-npm-and-github-actions",
-      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "section": "tech",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "Hacker News:jcgt-org-published-0015-02-01",
-      "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
-      "url": "https://jcgt.org/published/0015/02/01/",
-      "section": "tech",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "Hacker News:pulsepathgame-netlify-app",
-      "title": "Pulse Path",
-      "url": "https://pulsepathgame.netlify.app/",
-      "section": "tech",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "Hacker News:www-euronews-com-culture-2026-07-29-dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-      "title": "DJ Kavinsky, best known for 'Nightcall', found dead in Paris home",
-      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-      "section": "tech",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmimgfbvv95cuxpndlfztdnzjldbfbezlrmzveyt3hwbnkzyurkyu9iwxvjvmhyu1jvntdbvdfldxpdbuq0nuv5ne9plvzttljznhuzyxzam2h",
-      "title": "EU AI Act Amendments Defer and Clarify Obligations",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDlFZTdnZjlDbFBEZlRmZVEyT3hwbnkzYURKYU9iWXVJVmhYU1JvNTdBVDFLdXpDbUQ0NUV5NE9pLVZtTlJZNHUzYXZaM2hCSnA1ODY3RVl2dnpNc2F2N0F1Y2gyb3VqT0tHSXlZTEVZcVBHUWVsX3BHRHFhMURrNllmdi1hTW91OHRDLUMyOFhHdjRScXF6eGx3?oc=5",
-      "section": "legislation",
       "sentAt": "2026-07-29"
     }
   ]
