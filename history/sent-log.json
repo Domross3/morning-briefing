@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiekfvx3lxte9pvulwum10mhc1s2vcntlqadzqtgzptwnwdxhystv2b3zballuttbesvfhr1l6zu5ynhd0t3nmb0xrsmg5z3hxwvi3c0rorhg",
+      "title": "Infor Uses Forward-Deployed Engineering To Move AI Into ERP Execution",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pVUlWUm10MHc1S2VCNTlqaDZQTGZpTWNwdXhYSTV2b3ZBallUTTBESVFHR1l6ZU5YNHd0T3NMb0xRSmg5Z3hxWVI3c0RoRHg3VEkwSWNUU3poMVdzMU1pczUycjdEdFJnMWF1SlN2SVFsc0M2bkVIbkV3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · ERP Today",
+      "sentAt": "2026-09-22"
+    },
+    {
+      "key": "github:CherryHQ/cherry-studio",
+      "title": "CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-09-22"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-24983",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://huggingface.co/papers/2609.24983",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-22"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-09-22"
+    },
+    {
+      "key": "Hacker News:albertoarena-it-posts-will-open-source-survive-the-agents-that-replaced-it",
+      "title": "Will Open Source Survive the Agents That Replaced It?",
+      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-22"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmic0fvx3lxtfbzu0ittxhwexdnbws1ulfuotzbaw8ya3g4wgczuwtwrglvb1i5a2pfmhyzzjjhvlzyzjrsmtvoek1ltezfwfnrvuzzb0oymjn",
+      "title": "Reps. Lawler, Gottheimer Introduce Bipartisan Bill to Stop Rogue AI Agents and Keep People In Control",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZU0ItTXhWeXdNbWs1UlFuOTZBaW8ya3g4WGczUWtWRGlvb1I5a2pFMHYzZjJHVlZYZjRsMTVoek1lTEZFWFNrVUZZb0oyMjNYTXV5TnJwVjRkeEN0RHpuYVYxZlVMOVlPS1JBaVlHclozOUU?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Congressman Mike Lawler (.gov)",
+      "sentAt": "2026-09-22"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmisgfbvv95cuxnujvtum14t1rhwjnveeiybhn3bzjzvdnyszz0mflxt2jowetfukxmm0pawu94zvjybznxcelael85tzlls3psd2h3mdlyvta",
       "title": "Call For Applications: Citizen AI Arts & Technology Fellowship 2026-2027 | $3,000 Stipend",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVtUm14T1RhWjNVeEIybHN3bzJZVDNySzZ0MFlXT2JoWEtfUkxMM0paWU94ZVJybzNXcElael85TzllS3pSd2h3MDlYVTA3aGNVMS1LTGtKS0Q1TG9JT2FmNHBMOFlrbHlxSVhXQV93UmEtZ0daeVphNkI0N3ZFRllGNkZOSWIzSDN4QTZSMlRfNW5WUzlNcmlYNUI1Zlg0WVp5bzhhLUxBMEFtOXB0X0lB?oc=5",
@@ -3864,48 +3912,6 @@
       "title": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "section": "github",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "github:microsoft/VibeVoice",
-      "title": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "section": "github",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "github:different-ai/openwork",
-      "title": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "section": "github",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "github:maderix/ANE",
-      "title": "maderix/ANE",
-      "url": "https://github.com/maderix/ANE",
-      "section": "github",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-teaching-claude-why",
-      "title": "Teaching Claude why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-discovering-cryptographic-weaknesses",
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "section": "ai",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-scientific-computing-agentic-ai",
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "section": "ai",
       "sentAt": "2026-07-29"
     }
   ]
