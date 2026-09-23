@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-retell-ai-161bcfc9-56dd-4d0c-869d-e5de1431a940",
+      "title": "Forward Deployed Engineer, New Grad",
+      "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940",
+      "section": "opportunities",
+      "source": "Opportunity · Retell AI",
+      "sentAt": "2026-09-23"
+    },
+    {
+      "key": "github:davila7/claude-code-templates",
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-parallel-cuts-time-and-cost-with-astra",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-23"
+    },
+    {
+      "key": "Hacker News:filmstudio-rxlab-app",
+      "title": "RxFilmStudio",
+      "url": "https://filmstudio.rxlab.app",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-23"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiugfbvv95cuxnencxqnvwyvdfnuteq3fkzi1zbfvbmvczwmryme4wvlbizgh0mev2eey3rxngdmotmkrfeuxaafnnd2j5rdrvnvd6efpwvgh",
+      "title": "The SANDBOX Act Uses AI Policy as a Trojan Horse for Unfettered Deregulation",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNencxQnVwYVdFNUtEQ3FKZi1zbFVBMVczWmRYME4wVlBIZGh0MEV2eEY3RXNGdmotMkRfeUxaaFNNd2J5RDRVNVd6eFpWVGhJZ01kdkxiRjQ3TS0xRVNKYTN3ejZObkpQM1ozNmEtSmxndkVVN1BESkJDNlY2WU9KVXpRbm0tWUhJSWZsN1Ntek51X01CMFVZSUxuVnNGemxkSHZSOEotQTYxcUxEQnZjbzVpOW9qckFpVmc?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Center for American Progress",
+      "sentAt": "2026-09-23"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiekfvx3lxte9pvulwum10mhc1s2vcntlqadzqtgzptwnwdxhystv2b3zballuttbesvfhr1l6zu5ynhd0t3nmb0xrsmg5z3hxwvi3c0rorhg",
       "title": "Infor Uses Forward-Deployed Engineering To Move AI Into ERP Execution",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pVUlWUm10MHc1S2VCNTlqaDZQTGZpTWNwdXhYSTV2b3ZBallUTTBESVFHR1l6ZU5YNHd0T3NMb0xRSmg5Z3hxWVI3c0RoRHg3VEkwSWNUU3poMVdzMU1pczUycjdEdFJnMWF1SlN2SVFsc0M2bkVIbkV3?oc=5",
@@ -3871,48 +3919,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkN0STNCa1MxSkVybjVuNk9ya2xnVW83a3ZKRzl6bThFWEkwaUhUSzJkUFdXSHdmSm1WRXNMYjFtWGplb1lrMzkwWkl4U1J2RHFjcUJZOFo0ZWJMQ3NZUktFUnlmMDdXNE9iN2hPbGMwWk5Xdi0tUVptd2ZaSHl5YURzdEZMTWRpb2duWDNuc0ZLR09XU0ZfckJ3ckpYdDg?oc=5",
       "section": "finance",
       "sentAt": "2026-07-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxtfbhatvjajlvrwrgve04deh5bvntu1zmnhbxy2g4zhuzykvjovnxynjhqzvxa2vrzwq1zdaxwgutnvpnrmu3t0tubhltuti3cgh",
-      "title": "Apply for the UC Berkeley CHAI Research Fellowship 2026: Fully Funded Opportunity with Visa Sponsorship in the United States",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhaTVjajlvRWRGVE04dEh5bVNTU1ZMNHBXY2g4ZHUzYkVJOVNXYnJHQzVxa2VRZWQ1ZDAxWGUtNVpNRmU3T0tUbHlTUTI3cGhPRUNwcVVraFczR1JIajRVdzhJTGtqZTBQcy1N?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmic0fvx3lxte1bml9oc211yv9ps2dmzthvwhdpuvhprhvqdeoxvtbusejangjwztr4vdb2s25uwgdnuem2ekhzz3pbwmjyeunmzjqxzxd4c3b",
-      "title": "Prestigious Humboldt University of Berlin 3 Year Postdoctoral Fellowship: Call for Political Science Researchers to Apply",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BMl9oc211YV9pS2dmZThvWHdpUVhpRHVQdEoxVTBUSEJaNGJwZTR4VDB2S25UWGdNUEM2ekhzZ3pBWmJyeUNMZjQxZXd4c3BDZW5nZzNBMU1ydzJGdW1fdkt0WG5WMjhqa09wTEoxTV9FYTA?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizgfbvv95cuxod3julupjewxos1pfvw1uavy4uufzmxlszw5cb0zmyktmss1ubtzmrvvuymllyxh1nhdxthlmu3dtc3dwml9dv1j5nlr0tzr",
-      "title": "Weave Bio Expands Commercial and Customer-Facing Hiring for AI Life Sciences Platform",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3JULUpjeWxoS1pFVW1UaVY4UUFzMXlsZW5Cb0ZMYktMSS1UbTZmRVVUYmlLYXh1NHdxTHlMU3dTc3dWMl9DV1J5NlR0TzRESEw5SmdjWmU3dU1kRDJhR3J5bWpUeVdDd1h0czBxU0NTZ0ZDYXFEa1RRaVpSeVhNQWRfREdiOHBEMmlHaDIzZXdRaWc0eTJnRk51bEhTbGtjTWc4ODd6cGcyMnlFd0JGZXVFaTAyRUZkLWFTUzNkbWYxQ0cwOEYxcEE4X0dydw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi6wfbvv95cuxnsenssw9pq0x6bl9fdkhhzha4vehkzxaxamnmshbithhjsexjywj4x2y4vwv0ckwtve56aevinxfkcvc2owmzzvk2su9gyup",
-      "title": "How to Apply for the ₦250 Million NYSC-to-Tech Scholarship Fund (And How to Choose the Right Tech Track)",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSENsSW9PQ0x6bl9FdkhHZHA4VEhKZXAxamNmSHBITHhJSExJYWJ4X2Y4VWV0ckwtVE56aEViNXFKcVc2OWMzZVk2SU9GYUpUYTdnb1JtTl9INi11YmlqZV85WW9WeTRIRjQ2TUttX3dnXzA2TUNLdzFSWjRyOW5FYzc0bXNKYmxrSldpcDEyemZ2VV9MLWwyUmM0XzFOcnpaSEkwRk1ab3VxOWZueWRwQUxFaE9FaFJZa0oyaEFQaE16b2x0UUZicDdUekJ3QTZSZ2tLOGZoVnMtSG9uWVVKSERTaWdqR3pJTlRV?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "github:grokability/snipe-it",
-      "title": "grokability/snipe-it",
-      "url": "https://github.com/grokability/snipe-it",
-      "section": "github",
-      "sentAt": "2026-07-29"
-    },
-    {
-      "key": "github:deepfakes/faceswap",
-      "title": "deepfakes/faceswap",
-      "url": "https://github.com/deepfakes/faceswap",
-      "section": "github",
-      "sentAt": "2026-07-29"
     }
   ]
 }
