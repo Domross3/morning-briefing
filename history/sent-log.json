@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:scale-com-careers-4552957005",
+      "title": "Careers at Scale AI",
+      "url": "https://scale.com/careers/4552957005",
+      "section": "opportunities",
+      "source": "Opportunity · Scale AI",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5057647008",
+      "title": "Applied AI Engineer, Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-project-swap",
+      "title": "Project Swap: What happens when agents trade for us?",
+      "url": "https://www.anthropic.com/research/project-swap",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "Hacker News:github-com-bertaye-agentic-cuda-optimizer",
+      "title": "GitHub - bertaye/agentic-cuda-optimizer: A langgraph based workflow with a C++ CUDA suite to optimize CUDA kernels",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-25"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmif0fvx3lxte5wvfzydjg0czfotzzxbhmyng1la1piq2vfvnltvjfvc2v1ulbfywxgedfyvhfkvm0yd0jdsw1kdlotcur4txzpv1nxevk0ae5",
+      "title": "Italy's AI framework: Operationalizing the EU AI Act",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wVFZYdjg0czFOTzZxbHMyNG1la1pIQ2VFVnlTVjFvc2V1UlBFYWxGeDFYVHFKVm0yd0JDSW1KdlotcUR4TXZPV1NXeVk0aE5aNnJmTzlXTVRxY21OQ3k4amJFT0NodTRNQW9rWlpqVzlzTzZmaXczWUR1bWVzRGs?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · iapp.org",
+      "sentAt": "2026-09-25"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9hzedwoweyx2tpxy16nxvgcc11bmfuctiyz18tbkvbcvq1ofpbuupct2tnehpsukvwu2zfbldhmugzaxzsvmo3m3fitti3sk8",
       "title": "King’s Commonwealth Fellowship Programme Undergraduate Fellowships 2027: Fully Funded Undergraduate Study for Students from Commonwealth Small Island Developing States",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hZEdWOWEyX2tpXy16NXVGcC11bmFUcTIyZ18tbkVBcVQ1OFpBUUpCT2tneHpsUkVWU2ZFbldhMUgzaXZsVmo3M3FITTI3Sk8zY1RFWVBhdHVqRExvOHV5Zy1nREE0bDNCLTBkODNCQ3YzTTdkUEE?oc=5",
@@ -3878,55 +3934,6 @@
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "section": "github",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "github:shareAI-lab/learn-claude-code",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "section": "github",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "github:ansible/ansible",
-      "title": "ansible/ansible",
-      "url": "https://github.com/ansible/ansible",
-      "section": "github",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "github:ChromeDevTools/chrome-devtools-mcp",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "section": "github",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "github:microsoft/AI-For-Beginners",
-      "title": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "section": "github",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-gpt-5-6-frontier-intelligence-efficiency",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "section": "ai",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "section": "ai",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-27191",
-      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-      "url": "https://huggingface.co/papers/2607.27191",
-      "section": "ai",
       "sentAt": "2026-07-30"
     }
   ]
