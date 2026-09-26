@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:shareAI-lab/learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-09-26"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-yes-claude-can-do-nine-loops",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-28416",
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.28416",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-09-26"
+    },
+    {
+      "key": "Hacker News:floci-io",
+      "title": "Floci",
+      "url": "https://floci.io",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-26"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivgfbvv95cuxpakm0z3fss2paruyyujzrrhm2q1huvkfqbndrzjzpexhrqy16tw13rmxbxza2m04ts0psednzvfv4ulvfzmwwaernsddxyut",
+      "title": "New Mexico AG Torrez urges Congress for AI regulation after attempted OpenAI hack on UNM",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakM0Z3FSS2paRUYyUjZrRHM2Q1hUVkFQbndRZjZpeXhrQy16TW13RmxBXzA2M04tS0pseDNzVFV4UlVfZmwwaERNSDdXYUtLUVJfOHA1bGM2Y09FYW85ZzNWNjh6ZDZWeW5UZ1JhclpyeXhGZkJmT193LVhJUncyVjJYVDFfWlpUeEx4czE5cUxDWm9XTnlJOG1JVnNnNEVoMVpTVl9RdnF6VFRlNWdtN1RvNGhfNzY1UXRiQ0VR?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Source New Mexico",
+      "sentAt": "2026-09-26"
+    },
+    {
       "key": "hunter:scale-com-careers-4552957005",
       "title": "Careers at Scale AI",
       "url": "https://scale.com/careers/4552957005",
@@ -3900,41 +3940,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazY1cUZnMkdIdUZwM0pMRDkxS3VOTEI1U1pzamJMSG1NVmdvNEEzakFpQ1JFNTJZV250dkdLa3JLMnFuTHRKSmRUTUNmdVdpMmFOM3dWcXBFdUxGX0l3dF9qWURIWDE4dzA1bkllQXcxcjJ0eGtXOHpwSXFpbGlmazNSUnRvQWJ3QXZTME5KeFdFNWx6WFBGX0J2aElvWXRjRzNINkRzSQ?oc=5",
       "section": "legislation",
       "sentAt": "2026-07-31"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiswfbvv95cuxqywsxoe40exk2r2jdmws4t0pyqmdzselvetetc3vpyju2sjfwtgdvqmx2tkhyse56dulscv9zuxlvme1yzfzfzgpcv0jir0w",
-      "title": "Call for Applications: TechUp Africa TAMP Free DataCamp Tech Skills Scholarship 2026",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWsxOE40eXk2R2JDMWs4T0pyQmdZSElVeTEtc3VpYjU2SjFwTGdvQmx2TkhYSE56dUlscV9ZUXlvME1yZFZfZGpCV0JIR0wxU0pFUGNuSGlLWXliWm5PRUh2c2dPQTBfbmFXRTEtWFZKWGdCLXBGRG0ybGVCdEdMQTFMOEFsMEd4WTZ1V1FaMVh2RkpRYXJvV0poSjF0dkluRTJiLUk1aXZNRlczNUdscUQxSQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9vdf9mv21uq3zytgtwy0lklw5fczj3wvo3lupydtl4zfbsnllldjfgetzizmoxwwlny3hhnhlfovrhzfhhenltdw5ayl9echi",
-      "title": "GovAI Opens Applications for DC Winter Fellowship 2027 Focused on US AI Policy and Governance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vdF9MV21uQ3ZYTGtWY0lkLW5FczJ3WVo3LUpYdTl4ZFBSNllLdjFGeTZiZmoxWWlnY3hhNHlFOVRhZFhHenlTdW5aYl9EcHI1OGo5MFlXcUxwWEduell3dU9ZSmc2ZEl6c3A2YkNOZHJ5RmtQV2c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizwfbvv95cuxob0cxauvpwgl6vumwvxu1nxzlughmoej2m2vlv2jzmgjjbw9kq2lytxjsz2dsogtzzegyrhnoduw1dni4n2hnyjg4bmn3mjr",
-      "title": "Indiana pays Notre Dame for AI coaching for low-income entrepreneurs",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0cxaUVPWGl6VUMwVXU1NXZlUGhMOEJ2M2VLV2JzMGJjbW9kQ2lyTXJSZ2dsOGtzZEgyRHNodUw1dnI4N2hNYjg4bmN3MjRCMDNZd19MVTBhSUdBbFlGdnJIeHk2dWtZTWVYeTFqOXJ5WkFxclppc2MyeTJXUzhvazlfd05yUG9WU1I0MS1FR0NpbmNDZmlCQ0Z0TEd5Wnd1RmotaDFYeC0tLTYwcjkxUXd1bl9sVmdNNnlqRWVrVVFJQ1ZVcWRqSTVwMFNsT2c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxoretilvherdbyceutbe83y1lov2l4vznstfptqufudm82ufbzvkrwwlnslvdyb0nrqkxin2hmt0pkzkk1xzzywldzanmxrks",
-      "title": "AI Is Coming for Your Job Title",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREtILVhERDBycEUtbE83Y1loV2l4VzNsTFptQUFudm82UFBZVkRwWlNSLVdyb0NrQkxIN2hMT0pkZkk1XzZyWldzanMxRkswaG53WUZ6NnUxUUc4ZDdCTHREWmFkRWZ0bGdHLXlhZ2oxaFlIekxmU1gzb3NIYVZ2NFFLMHN6aG5HS3hSTVBn?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-30"
-    },
-    {
-      "key": "github:Significant-Gravitas/AutoGPT",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "section": "github",
-      "sentAt": "2026-07-30"
     }
   ]
 }
