@@ -2,6 +2,38 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5406982008",
+      "title": "Applied AI Architect, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-27"
+    },
+    {
+      "key": "github:Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-09-27"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-discovers-novel-enzyme-system",
+      "title": "Claude discovers a novel enzyme system",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-09-27"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-sam-altman-un-security-council-remarks",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-27"
+    },
+    {
       "key": "github:shareAI-lab/learn-claude-code",
       "title": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
@@ -3911,34 +3943,6 @@
       "title": "Customer Success Engineer",
       "url": "https://tasklet.ai/careers/customer-success-engineer",
       "section": "tech",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "Hacker News:hughhowey-com-the-end-of-an-era",
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "section": "tech",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiqgfbvv95cuxquhjnvwxksvrmqxv2skiwmxdon1utzuhxzkpqai1nq05jblzmvlpochhizjbry01hqvm1smrstxjwdwvusgdsdkx4bngxv2j",
-      "title": "The EU AI Act Delay Is Not a Pause Button for Global Employers",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHJNVWxKSVRmQXV2SkIwMXdoN1UtZUhXZkpqai1nQ05jblZmVlpOcHhiZjBrY01hQVM1SmRsTXJWdWVUSGdsdkx4bngxV2JZdVV6Q3Jxb0dBcGMyYU1VcS16OXA3QzRSU2dGd3VfZkp2Q2d2LXBJbGJZSk50UkpWU1VXX1htV1pfakZhY3lMV2t4dDVDbUxaOEtrbm1jSUhZWXJqNnZ3NnZQZw?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiugfbvv95cuxndnbsmxhmmhexwwhiaffam3yybvrznkvxsvnate1xrznfownlvwxdbvpevmk2mjf2rdrzaw1kuktizwzid29nzvzrwwfwuhv",
-      "title": "European Commission Issues EU AI Act Transparency Guidelines",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnBsMXhmMHExWWhiaFFaM3YybVRzNkVxSVNaTE1xRzNfOWNLVWxDbVpEVmk2MjF2RDRzaW1KUktiZWZid29NZVZRWWFwUHVyc1pSMXFkYm9aRFdUZDZGeGVUVlVqcDJ3NUhUQ2Y0NktmdFZTbkJSV3d3cjBwMzhsWkFEX1c1bDYxNXBnMnRqeHVYbWMtLWlla2hhWFpmam9NVWlLMlQtRF9wOTlwYW1CY2NfTnl6V1ROVGc?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmipwfbvv95cuxnazy1cuznmkdiduzwm0pmrdkxs3votei1u1pzamjmsg1nvmdvneezakfpq1jfntjzv250dkdla3jlmnfuthrksmrutunmdvd",
-      "title": "Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazY1cUZnMkdIdUZwM0pMRDkxS3VOTEI1U1pzamJMSG1NVmdvNEEzakFpQ1JFNTJZV250dkdLa3JLMnFuTHRKSmRUTUNmdVdpMmFOM3dWcXBFdUxGX0l3dF9qWURIWDE4dzA1bkllQXcxcjJ0eGtXOHpwSXFpbGlmazNSUnRvQWJ3QXZTME5KeFdFNWx6WFBGX0J2aElvWXRjRzNINkRzSQ?oc=5",
-      "section": "legislation",
       "sentAt": "2026-07-31"
     }
   ]
