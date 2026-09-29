@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiyafbvv95cuxox1m3t2hcrje2dflgm1ravdlwemc2wvdpyjfhoflkqmtrb0hyvfgxrzm2n3atce9iqudjshk0rknyqlqtyuvtttdbt2xfww9",
+      "title": "Sample Grant Proposal on “AI Scholarship Navigator for First-Generation Women Students”",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1M3T2hCRjE2dFlGM1RaVDlwemc2WVdpYjFHOFlkQmtRb0hYVFgxRzM2N3AtcE9iQUdJSHk0RkNYQlQtYUVtTTdBT2xFWW9OdWRlMWswbU91aGhiRnpsV2V2SFJBVG9TeEkxcXFyandwUm5xTUthbzF4SDBUTDAwXzZHc0ljV3RWY0o5cWhnSWlNYVBwMGlOQnNiYWZCWUR0cy1lZjRLSGR3VnlfQmk3UWFxN0RJSFBRZnZaYV9lQ1VRSUdQVlhYUA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiwgfbvv95cuxpx1dtodywexjwa1noeervwnldc1loru9msefooudkuxhzd2dpn2fqn1hwb2t2stdwrna0nhp3u2zit1dvcu1youqzblnzenv",
+      "title": "The Airtel Africa Foundation Tech Scholarship 2026/2027 for young Zambian students.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1dTODYweXJwa1NoeERvWnlDc1loRU9MSEFoOUdkUXhzd2dPN2FqN1hWb2t2STdWRnA0NHp3U2ZIT1dVcU1YOUQzblNZenVnbEh4bDhBbXVHaXVIQ2Fnckl2SDJibUVqR1RpS2dhXzV1X3JuSG1UNFcyVmVWdHpuc0gwZ09sbTFOWGMxZ1BhTDAyUTF5WF9PWEh3d1JGaDNod3NMSVFHcndtenI3X3RKSk1WMkJ3NTJZdVhYNUc5V3Yzdw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmihafbvv95cuxqr1bncxrlq2ctlvjsn3pyrfaxau41ukzzdefsefdfegtuue1uyuvlbnnablvpml9xs1dswmutb3z4d0tllxfarxnrqnhaouo",
+      "title": "Universal Music Group Names Òscar Celma as Company’s First Senior VP, Applied AI & Machine Learning",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1BncXRLQ2ctLVJsN3pyRFAxaU41UkZzdEFseFdFeGtuUE1uYUVlbnNablVPMl9xS1dSWmUtb3Z4d0tlLXFaRXNrQnhaOUo4YjV3OEhpOV9aNWVmR3A5SDh0cFZZWkxaa3ZyU29SNEljSl83a2V3LVVoZ0RZc3lfS1RDRWc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Billboard",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "github:f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-form-codex-originals",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-09-29"
+    },
+    {
+      "key": "Hacker News:github-com-posthog-jeeves",
+      "title": "GitHub - PostHog/jeeves: Jeeves – Reasoning improves Jev",
+      "url": "https://github.com/PostHog/jeeves",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-29"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte43ytzkyuo3emtex2uxvvhkbhhlcwtmckhtzxvmnmz3yjvjyxvuqkr5nxr2stkxty1fz253a3hhakhvn2itshjfwwfusg83btd",
       "title": "Apply for the Funded Humanitarian AI Research Fellowship 2026 at NetHope: The fellowship is Part-time, Remote & Internationally Open",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43YTZkYUo3emtEX2UxVVhKbHhlcWtMckhtZXVmNmZ3YjVjYXVUQkR5NXR2STkxTy1FZ253a3hhakhvN2ItSHJfWWFuSG83bTdiZ1NPZFVDbmcxSU5rZlQwd1ltRWFvUmNYZkZaTFMwS0lUVjBWWUE?oc=5",
@@ -3906,55 +3962,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owMDdLal8yZHJmbkNZTVBtcFpVZHRmbnVveTl1bXNwVDItTEltNW5CZlNCeWdOUzVnM1FQLXBpdUhENHZnT2RUcTQ0TjFJb0JCZVh6djNGQV9XODJVcFktTmdsc3UtTFZvQWNaeVA3VDVTWWVTaVJjR0RwUkpNTWRBVXRwREVrM3c?oc=5",
       "section": "sustainability",
       "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxpdnrolve1y2x1aznwvlndv2tpotnobxzubdjitzytalvuttbnt2hpcge2d0y3nghea2zad21iajlzwwjeetdcqni4mfb1anb",
-      "title": "Applications open for Tech Fellowship Programme 2027 (Netherlands)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnROLVE1Y2x1azNwVlNDV2tPOTNObXZUbDJITzYtalVUTTBnT2hPcGE2d0Y3NGhEa2Zad21iajlzWWJEeTdCQnI4MFB1anBpdWx3Si1PRzdqdWM3VUZ1MHY4ZmxrekwtTDBvQnBkdklOT1A1SU1yZVpNZ3RwYy01ai1YaTU5emxnQVRPQXhOdmluQ2tENlI4ZnprY004UTRTT1pqd0RBTlRjTjTSAasBQVVfeXFMT3Z0Ti1RNWNsdWszcFZTQ1drTzkzTm12VGwySE82LWpVVE0wZ09oT3BhNndGNzRoRGtmWndtYmo5c1liRHk3QkJyODBQdWpwaXVsd0otT0c3anVjN1VGdTB2OGZsa3pMLUwwb0JwZHZJTk9QNUlNcmVaTWd0cGMtNWotWGk1OXpsZ0FUT0F4TnZpbkNrRDZSOGZ6a2NNOFE0U09aandEQU5UY040?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
-      "title": "Applications Open for Social Science Research Fellowship",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxqegd3sfqtnwhcmjdqwkz1mwhydzj3b25xs2zjzkvtyu5urdzymwnpus1wvuzmedfuadhssefyu05htm5tzgnkwerrquzbdgx",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGd3SFQtNWhCMjdqWkZ1MWhYdzJ3b25XS2ZjZkVtYU5uRDZyMWNPUS1WVUZmeDFUaDhSSEFyU05hTm5tZGNKWERRQUZBdGxCbmZWQl9jTDdEelc3eTQ3WTdMdldhbEZQWnI3M3RQMHJZRmFfM2piOVluRXJSOEpGYUVJTVJEZTJHX0VHU3YwQVRIRnpHb3JHMFBXWDk4Vll6YnFOYTYtbWNxUQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxos3pyszzyburybg5vu2vobtlyugjywvjvwkparehlevdzetdyogftq3huvdniyjvuqwh0ohpfdmvwztv2zkcxwvbxby0tmwo",
-      "title": "Amazon is investing $1B in a hot new tech role. Here's what the job entails.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3pYSzZybURybG5VU2VObTlyUGJYWVJvWkpaREhLeVdZeTdYOGFtQ3hUVDNIYjVUQWh0OHpfdmVWZTV2ZkcxWVBXby0tMWoxdU1hVGhVZDl0NF9uOFpiM211dXVlTzZLNWRaOF9FZzUwWTVmVUFIQXRHTEtQdFlnT2U3cmRydk9IZUo3enhUNDRjU1cwVzNQSkVqdGU0U0hZS28weFJn?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "github:langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "section": "github",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "github:NousResearch/hermes-agent",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "section": "github",
-      "sentAt": "2026-07-31"
-    },
-    {
-      "key": "github:firecrawl/firecrawl",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "section": "github",
-      "sentAt": "2026-07-31"
     }
   ]
 }
