@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5425724008",
+      "title": "Associate Applied AI, Rotational Program, London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-09-30"
+    },
+    {
+      "key": "github:langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-09-30"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-your-thoughts-on-ai",
+      "title": "What do you want from AI?",
+      "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-30"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-09-30"
+    },
+    {
+      "key": "Hacker News:www-gevernova-com-news-press-releases-nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor at Tennessee Valley Authority’s Clinch River site",
+      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-09-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiyafbvv95cuxox1m3t2hcrje2dflgm1ravdlwemc2wvdpyjfhoflkqmtrb0hyvfgxrzm2n3atce9iqudjshk0rknyqlqtyuvtttdbt2xfww9",
       "title": "Sample Grant Proposal on “AI Scholarship Navigator for First-Generation Women Students”",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1M3T2hCRjE2dFlGM1RaVDlwemc2WVdpYjFHOFlkQmtRb0hYVFgxRzM2N3AtcE9iQUdJSHk0RkNYQlQtYUVtTTdBT2xFWW9OdWRlMWswbU91aGhiRnpsV2V2SFJBVG9TeEkxcXFyandwUm5xTUthbzF4SDBUTDAwXzZHc0ljV3RWY0o5cWhnSWlNYVBwMGlOQnNiYWZCWUR0cy1lZjRLSGR3VnlfQmk3UWFxN0RJSFBRZnZaYV9lQ1VRSUdQVlhYUA?oc=5",
@@ -3926,41 +3966,6 @@
       "title": "News from Google (@NewsFromGoogle) on X",
       "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
       "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:github-com-burntsushi-ripgrep-issues-3494",
-      "title": "x86_64-unknown-linux-musl binaries occasionally segfault during very-large searches · Issue #3494 · BurntSushi/ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:www-ycombinator-com-companies-kontigo-jobs-xao6tmt-founding-engineer",
-      "title": "Founding Engineer at Kontigo",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:ramen-haus",
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmirwfbvv95cuxnagpox2p5bkxmm0czq2nbmjhuzndjwjezvmwyz2rds0fqdw5rwhf3vk1gm3b4eve2mlbwm0v4wjvgdhbiodrjv3jswlnqafd",
-      "title": "How Trump v. Slaughter Strengthens the Case for Third-Party AI Regulation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGpoX2p5bkxmM0czQ2NBMjhUZndJWjEzVmwyZ2RDS0FqdW5RWHF3Vk1GM3B4eVE2MlBwM0V4WjVGdHBiODRJV3JSWlNQaFdYbGRuTl9FcC1hVGVUM05EQlJ6QXNKTUpFQVlUVnVQZTVIelNCUHFmVmZiQ1EwcWdUU2RvNkE1bVVyQlkxRzlGWUtSTHIyRzl3RzZDRDhGLU9PSHRvQUhzYm5lbzJwdHhj?oc=5",
-      "section": "legislation",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "sustainability:news-google-com-rss-articles-cbmiigfbvv95cuxpt3owmddlal8yzhjmbknztvbtcfpvzhrmbnvvetl1bxnwvditteltnw5czlncewdouzvnm1fqlxbpduhenhznt2ructq0tjf",
-      "title": "New Mexico’s clean energy success story",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owMDdLal8yZHJmbkNZTVBtcFpVZHRmbnVveTl1bXNwVDItTEltNW5CZlNCeWdOUzVnM1FQLXBpdUhENHZnT2RUcTQ0TjFJb0JCZVh6djNGQV9XODJVcFktTmdsc3UtTFZvQWNaeVA3VDVTWWVTaVJjR0RwUkpNTWRBVXRwREVrM3c?oc=5",
-      "section": "sustainability",
       "sentAt": "2026-08-01"
     }
   ]
