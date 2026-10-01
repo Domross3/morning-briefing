@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-01"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-01"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-what-work-can-robots-do",
+      "title": "Can we predict the jobs robots will do?",
+      "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-01"
+    },
+    {
+      "key": "Hacker News:arstechnica-com-tech-policy-2026-09-immigration-advocate-sues-border-agents-for-demanding-his-cell-phone",
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-01"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipwfbvv95cuxowuteszn4vu5mbkv0nwhcrujqb1hktglgzdvzy0tqre9nbtdizuhwmgktaglltddomurqd0doc1zpq3hmdffnrngzsetrbwd",
+      "title": "Oregon Is Latest State to Move on Frontier AI Regulation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUtESzN4VU5MbkV0NWhCRUJQb1hKTGlGZDVzY0tqRE9NbTdIZUhwMGktaGllTDdOMURqd0doc1ZpQ3hmdFFNRngzSEtRbWdsZF9KZUl6NHJsSllackV0bXpVVVJieUNnRnY3ZDFPVXEzb042c2JkVm0yQ1UtREo5UmZUMndmUzlmbHJUNG9WWUJOVmEzb2tnZWh5b2JHc2p4ZDBpVG0zYw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · GovTech",
+      "sentAt": "2026-10-01"
+    },
+    {
       "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5425724008",
       "title": "Associate Applied AI, Rotational Program, London",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
@@ -3931,41 +3971,6 @@
       "title": "PhiZero: A World Model Built Around Physical Language",
       "url": "https://huggingface.co/papers/2607.28624",
       "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-27380",
-      "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
-      "url": "https://huggingface.co/papers/2607.27380",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-28595",
-      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.28595",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-28022",
-      "title": "Flux-OPD: On-Policy Distillation with Evolving Contexts",
-      "url": "https://huggingface.co/papers/2607.28022",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-28618",
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-      "url": "https://huggingface.co/papers/2607.28618",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:twitter-com-newsfromgoogle-status-2083249962150760610",
-      "title": "News from Google (@NewsFromGoogle) on X",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-      "section": "tech",
       "sentAt": "2026-08-01"
     }
   ]
