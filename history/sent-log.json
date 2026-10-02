@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-notion-05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "title": "Business Development Representative, New York",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "section": "opportunities",
+      "source": "Opportunity · Notion",
+      "sentAt": "2026-10-02"
+    },
+    {
+      "key": "github:firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-02"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-claude-shaped-science",
+      "title": "Claude",
+      "url": "https://www.anthropic.com/research/claude-shaped-science",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-02"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-35690",
+      "title": "Agent Priors-guided Policy Learning",
+      "url": "https://huggingface.co/papers/2609.35690",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-02"
+    },
+    {
+      "key": "Hacker News:github-com-kvoltmer-audionaut",
+      "title": "GitHub - kvoltmer/Audionaut: Audionaut professional audio editing and audio recording",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-02"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmihgfbvv95cuxnyvdgx09ulu8zsxrizvvmbgjacxfox0l1btutwfjlsvcwuflowuzzqtllynnrwfrimtnwu3nobgh5ugrvylkwudywzdvqzug",
+      "title": "New Mexico to jump into frontier AI regulation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdGX09uLU8zSXRIZVVMbGJacXFOX0l1bTUtWFJlSVcwUFloWUZzQTllYnNrWFRIMTNWU3NObGh5UGRVYlkwUDYwZDVQZUgwakRXdlBPeTZuZnkxdzhTR1l5bm52T1ZBWndGTUxWeTk5cE4zelRqU2NzMmd2NU5RbTd1WDE1Zw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Politico",
+      "sentAt": "2026-10-02"
+    },
+    {
       "key": "github:NousResearch/hermes-agent",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
@@ -3929,48 +3977,6 @@
       "title": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:ollama/ollama",
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:abus-aikorea/voice-pro",
-      "title": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:zhaoxuya520/reverse-skill",
-      "title": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:microsoft/generative-ai-for-beginners",
-      "title": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-28568",
-      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
-      "url": "https://huggingface.co/papers/2607.28568",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-28624",
-      "title": "PhiZero: A World Model Built Around Physical Language",
-      "url": "https://huggingface.co/papers/2607.28624",
-      "section": "ai",
       "sentAt": "2026-08-01"
     }
   ]
