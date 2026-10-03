@@ -2,6 +2,38 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-03"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-03"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-claude-frontier-academy",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-03"
+    },
+    {
+      "key": "Hacker News:tej-as-blog-aleph-alpha-kolibri",
+      "title": "Aleph Alpha Kolibri: How the Sovereign German LLM Works",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-03"
+    },
+    {
       "key": "hunter:jobs-ashbyhq-com-notion-05e14247-17c4-4e98-9a13-53828a4e2f13",
       "title": "Business Development Representative, New York",
       "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
@@ -3949,34 +3981,6 @@
       "title": "UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5",
       "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi0wfbvv95cuxpemjszvvkcvjhzzk4z1lwqmm2uflyne44udhqdetsyxvgadjfrzvmuknrwdc1bdlgztvhvvp1ceplz25irgnym0iwnmhumhd",
-      "title": "Call For Applications: Women Techsters Cohort 5.2 Bootcamp 2026 (Free Virtual Tech Training for African Women)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemJsZVVKcVJhZzk4Z1lwQmM2UFlyNE44UDhqdEtSYXVGaDJfRzVMUkNrWDc1bDlGZTVhVVp1cEpLZ25IRGNyM0IwNmhUMHdiVEZfbGF6NmVuTlFkYmhzNmlFdHl3SndRMTdfUkZSdnZHV2lBM1BWaWFpVnhXQk1mYTIyYlVXWUY0WEhQWF9CMVJ5Y0g4Zy1tTnY5cWhDQmE5bnVGMF9KRWVDV2Jjdi1WNzVpbm80T28xbU5oY2V1aWRlakoyZjMzTzk0MlBPSWlkaDYw?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpvmrzci1nuvl5dlizamnoeujjewizdfbutgp1tgtsnuw5s0rjm2ngtlvonxpsvtleuy1yvhdravplq1lsdtm0b3cxwnnhujf",
-      "title": "Are AI ‘Forward Deployed Engineers’ the New BS Prompt Engineers?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmRzci1nUVl5dlIzamNOeUJjeWIzdFBuTGp1TGtSNUw5S0RjM2NGTlVONXpsVTlEUy1yVHdRaVpLQ1lSdTM0b3cxWnNHUjFyeDBBaHctUzJtVW5rNzhIOEtvQ1J6b0trYmhacHcxTFlnRGZHdFNjRDBzYUtzU1BzSHl4c3paWElCZEo5S1l3aHNnaU56UDRxZWo3WEpwM1lmLXBTTkVn?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxpb2lfzff6n1d3vmfdnnzrr2h1lxbly3bfegfdchdxbw15vufsx0xozth0v0q4oxa0m2p4bnbfzwdntxflze53nc1xrvvlqmz",
-      "title": "Unlock 35+ Prestigious Scholarships for High Academic Achievement",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2lfZFF6N1d3VmFDNnZRR2h1LXBlY3BFeGFDcHdxbW15VUFsX0xoZTh0V0Q4OXA0M2p4bnBFZWdnTXFlZE53NC1xRVVlQmZiakNuZ2J2SXhwNzFDVEphZWFhdVRIMGxQMnFLejRnRktTa2FpZlJYRzhSeHlTX281Y0hZUUxKcFBJazJNLUNFTmhhOWFOWFhEMVJBU2xnbXF5bWlydk530gGrAUFVX3lxTFBNQ0hrbG5pUTc4cjJwOE1STVNuRUsxeC1oeVREQTVIbEV2czFqdDZtYVZqTGdxMXd6RUpydDZqaUYwcGc4ZktXOXl5RFNBV1RVYjJqMUg4d2JteUR0ejlzMVIyaG91ZDVxOW5GdVJkdnFacEhRTGhDaF9La0lVM1U5Mlp3SWV5blItNUpfWEx0aUF0ZFJPR21GV0JtYnB2RDhmaG9wZlY2aGl6QQ?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:bytedance/deer-flow",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "section": "github",
       "sentAt": "2026-08-01"
     }
   ]
