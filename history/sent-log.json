@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-netic-f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
+      "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+      "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
+      "section": "opportunities",
+      "source": "Opportunity · Netic",
+      "sentAt": "2026-10-04"
+    },
+    {
+      "key": "github:coreyhaines31/marketingskills",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-04"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-barclays-scales-claude",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-04"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-35259",
+      "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+      "url": "https://huggingface.co/papers/2609.35259",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-04"
+    },
+    {
+      "key": "Hacker News:nolanlawson-com-2026-10-03-why-dont-more-developers-use-the-platform",
+      "title": "Why don’t more developers “use the platform”?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-04"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmihwfbvv95cuxqwhrnr2nysxlxy1bnmejem0rvcvluqwq1b0p1bg5vzxvgaxj5al85rnles1u1wvdbwjy2a1plmjd4uhdzcun0bkldzno2slr",
+      "title": "Wes Moore calls for AI regulation at Baltimore summit",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHRNR2NYSXlxY1BNMEJEM0RvcVluQWQ1b0p1bG5vZXVGaXJ5al85RnlES1U1WVdBWjY2a1plMjd4UHdzcUN0bklDZno2SlRGdEVVbkxCeGFUWGNkYjFrc2RzUm5mY3NlV01KdHItajZseW1qNk9SanFYZW9lVVZwS1VETFN2cEU?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · WBAL-TV",
+      "sentAt": "2026-10-04"
+    },
+    {
       "key": "github:JuliusBrussee/caveman",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -3939,48 +3987,6 @@
       "title": "The 14 steps it takes to open my office door with a new phone",
       "url": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
       "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxpa0gyx3zfzjbpd1cytmvccex1adfodkjcnuqxts1orwfmm25jntrjn1lzv1rvbngwofhurgm1vwezu192dtgtyjhtnviwdxj",
-      "title": "Break Into Tech AI Developer Scholarship 2026 (Fully-funded)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0gyX3ZfZjBPd1cyTmVCcEx1aDFOdkJCNUQxTS1ORWFmM25jNTRJN1lZV1RvbngwOFhuRGM1VWEzU192dTgtYjhtNVIwdXJtVWw5ei1sX2V2NW9HQWNhdkF1U0NoTHprRTZGYVd1cG1wY3p6Q1I0enUyckMxQXZpWnBlUjFESnNaVkZLeUtB?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-global-workspace",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-27919",
-      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
-      "url": "https://huggingface.co/papers/2607.27919",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:diataxis-fr",
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "section": "tech",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxte1bwtfoedj0bwdzsfbtswtiazjtmkjucfbisnjewux6uvaztzl2znqywtjccthws1fxuk5uz1hummnpnutudhprzxbunlj1ejr",
-      "title": "UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5",
-      "section": "opportunities",
       "sentAt": "2026-08-01"
     }
   ]
