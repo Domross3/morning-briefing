@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:thedotmack/claude-mem",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-02304",
+      "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+      "url": "https://huggingface.co/papers/2610.02304",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2609-38078",
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.38078",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-05"
+    },
+    {
+      "key": "Hacker News:techfundingnews-com-europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqgfbvv95cuxpvvrnb1nzm2s0cev0ejvrbm9bz1hmsvkzme9petzbchkyqll3snjpywpzlwppzlzcrlpdwk9neesxr0e4ztc3owflng1tbgd",
+      "title": "State-linked actor targets US AI policy experts in credential phishing campaigns",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVRnb1NZM2s0cEV0ejVRbm9BZ1hmSVkzME9PeTZBcHkyQll3SnJpYWpzLWpPZlZCRlpDWk9neEsxR0E4ZTc3OWFLNG1tbGdXNUgwSWEwYkNlMktFS2tCbENKcElycXRLMzB6R1hSSVMyeDNZYXVIWlgzUktXbDB6UDdBNHc2OWFMRWlOYW85dmZ2SHQ1WW02Zmt4RzdQREdIRm56MWpUMmE2QQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Cybersecurity Dive",
+      "sentAt": "2026-10-05"
+    },
+    {
       "key": "hunter:jobs-ashbyhq-com-netic-f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
       "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
       "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
@@ -3952,41 +3992,6 @@
       "title": "Modal Jobs",
       "url": "https://jobs.ashbyhq.com/modal",
       "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hunter:scale-com-careers-university",
-      "title": "Scale AI's University Student Careers",
-      "url": "https://scale.com/careers/university",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hunter:sierra-ai-early-career-program",
-      "title": "Build your future with Sierra",
-      "url": "https://sierra.ai/early-career-program",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "github:iv-org/invidious",
-      "title": "iv-org/invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "section": "github",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2607-26497",
-      "title": "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms",
-      "url": "https://huggingface.co/papers/2607.26497",
-      "section": "ai",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "Hacker News:shub-club-writings-2026-august-14-steps-to-open-a-door",
-      "title": "The 14 steps it takes to open my office door with a new phone",
-      "url": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
-      "section": "tech",
       "sentAt": "2026-08-01"
     }
   ]
