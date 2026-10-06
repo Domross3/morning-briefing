@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:jobs-ashbyhq-com-ramp-b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+      "title": "Software Engineer, Forward Deployed AI Solutions",
+      "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+      "section": "opportunities",
+      "source": "Opportunity · Ramp",
+      "sentAt": "2026-10-06"
+    },
+    {
+      "key": "github:earthtojake/text-to-cad",
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-06"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-wayfair",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-06"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-eu-text-provenance",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-06"
+    },
+    {
+      "key": "Hacker News:pola-rs-posts-release-polars-2",
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-06"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmixafbvv95cuxqawf6x0tkwwnvsu93cfvmtdr6ru5fm1lwtxpiykzbb1voampwodnyt0jvdm95u1zrwdfzmllublb6r0v0wvrezvvtdw5eek5",
+      "title": "Issue spotlight: North Dakota US House candidates discuss AI regulation, data centers",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaWF6X0tkWWNVSU93cFVmTDR6RU5fM1lwTXpIYkZBb1VOampwODNYT0JVdm95U1ZrWDFzMllublB6R0V0WVREZVVTdW5Eek5Bak1hWV9wWjg0dU00TTlUVW8zbXkxNy1BaGNzck1hSERkb3FlWTlCWjI1blYyaXpqU0FDNk1XYlBFQmk5SXE1c05TOENMVThmbENSU2s0bEJ6RVRERlV1THRpbnBMLTViTDdvRlVwQnhoaWJfcU9XeGFnZEdE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · North Dakota Monitor",
+      "sentAt": "2026-10-06"
+    },
+    {
       "key": "github:thedotmack/claude-mem",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
@@ -3951,48 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZWZUQ2V3aE90aHA1MlZ4cEdad09NZXBJa1JudW9SdWVUdzAwTFNyUHBDNFFkc1V1cjBoMy1fQWUtaFA5YVF2WW9xLVhsZHR6U0IzRDNNZU8tcjJia0pSekxUQXFjajk4WVhFMVp6WQ?oc=5",
       "section": "opportunities",
       "sentAt": "2026-08-02"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiwwfbvv95cuxocmpzaxdzu3q5z3nivtnauurinulhd3jwcdvqvnmyzdjseljkwuitnndjq0xkvtnesmvmte5ewk9pmxfkcvk5ymhplwrmrne",
-      "title": "Switzerland Invites STEM Students To Apply For Fully Funded Summer Internship",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmpzaXdzU3Q5Z3NIVTNaUURINUlhd3JWcDVqVnMyZDJSelJKWUItNndJQ0xkVTNESmVmTE5EWk9PMXFkcVk5YmhPLWRmRnE0ZmZucmRiSm11RmJReG9KRlNUSHRpVHNONXRoSTJsX3V6VWw1a1ZUN1p2VldEbUJKZW96SnNueWFPeldJZTI3b1Z4ZUhENmZjek1ERG01eVpTRnJSSWc0YnpQMDBiLWhxcVVXRkFYcGxtQkxKSWVmdFloUDTSAcsBQVVfeXFMT0J6Z1V2X1BjU1l2TGpZWnRNWUJqRVlJR3V2SDdIN1JkTXV4T2x2Y0tZOHo2dDRvb0U2MFd6aU1sZjlsVlpIR29XTW5vMUhSMTllNlhMM2ZRWE5Na3I2R2FDZmgzM2VZdThvRGlmcm56c3MtU0FxY3JwT3pFN1hlc1JyLUx5dmhObmpXLTAtZjdDV2kybVpjODBocFAyMEtVOTJNbG11WkxlbS1qaXF3SzZPekJnenV6aFlPWmwxeno4RWVTblNEVzByd2c?oc=5",
-      "section": "opportunities",
-      "sentAt": "2026-08-02"
-    },
-    {
-      "key": "github:affaan-m/ECC",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "section": "github",
-      "sentAt": "2026-08-02"
-    },
-    {
-      "key": "Hacker News:twitter-com-polynoamial-status-2083467194663571701",
-      "title": "Noam Brown (@polynoamial) on X",
-      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-      "section": "tech",
-      "sentAt": "2026-08-02"
-    },
-    {
-      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5192805008",
-      "title": "Applied AI Architect, Commercial",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hunter:www-databricks-com-company-careers-university-recruiting-associate-product-manager-new-grad-2027-start-7586263002",
-      "title": "Associate Product Manager, New Grad (2027 Start)",
-      "url": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-modal",
-      "title": "Modal Jobs",
-      "url": "https://jobs.ashbyhq.com/modal",
-      "section": "opportunities",
-      "sentAt": "2026-08-01"
     }
   ]
 }
