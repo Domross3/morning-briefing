@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:www-databricks-com-company-careers-university-recruiting-product-associate-product-manager-new-grad-2027-start-7586263002",
+      "title": "Associate Product Manager, New Grad (2027 Start)",
+      "url": "https://www.databricks.com/company/careers/university-recruiting---product/associate-product-manager-new-grad-2027-start-7586263002",
+      "section": "opportunities",
+      "source": "Opportunity · Databricks",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "hunter:jobs-ashbyhq-com-openai-55150071-fce8-48f5-aea4-14ed78b83511",
+      "title": "Software Engineer, Applied Emerging Talent (2027)",
+      "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+      "section": "opportunities",
+      "source": "Opportunity · OpenAI",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "github:mksglu/context-mode",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-investigating-unintended-model-actions",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "Hacker News:news-vt-edu-articles-2026-10-research-fralinbiomed-upfhutelin-html",
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-10"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqwfbvv95cuxodwtscg5kc0uxa2vodnpdtjbdwvb2swnfmkdazxo1akj5ukhnohvnumzyyjjhbwx5q2s5egnlrjvqqjridnv4ogxzrl85z1f",
+      "title": "High Commissioner Türk: The clock on AI regulation is ticking",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWtScG5Kc0Uxa2VOdnpDTjBDWVB2SWNfMkdaZXo1akJ5UkhNOHVnUmZyYjJHbWx5Q2s5eGNlRjVqQjRidnV4OGxzRl85Z1FsVWp6NW9pVk4wREYtWHRPY3BqckxLQmJlblRaeTFfR1RqaUlKTWlwY3BPb1M0aGx2dWF4NWlnS3YzQXBzLTc5V3hCYzh1MkNSbTduV1YyNnpWbldiVS1FMUVuTEU?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · ohchr",
+      "sentAt": "2026-10-10"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxobettuhjomdflmgxhsi1rc2pdwwq1rf84ywtwqxa4nkk0bzfjwtjvdw42ykzfse9fmkc2bfnvvvyxdg1xmgt1azditxyztjl",
       "title": "Applications for federal energy aid program now open for low-income families",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObEtTUHJoMDFlMGxHSi1Rc2pDWWQ1RF84YWtwQXA4Nkk0bzFjWTJvdW42YkZfSE9FMkc2bFNVVVYxdG1XMGt1azdiTXYzTjl3cDhMYTB1ZTA0UVd0VGtYMmhVei02YWt6WUM1a19rV2RZNDVLX2tzVzFwSHdJWFprMHdEOGRSeGtmbnZrekxEMHBaSzhHSkNmcQ?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "github",
       "source": "GitHub Trending",
       "sentAt": "2026-08-07"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-06020",
-      "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
-      "url": "https://huggingface.co/papers/2608.06020",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-improving-fable-5-s-biology-safeguards",
-      "title": "Improving Fable 5 Safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "Hacker News:www-shreveporttimes-com-story-news-local-louisiana-2026-07-28-is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impac",
-      "title": "Is New Orleans using AI to answer 911 calls instead of human dispatchers?",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmikafbvv95cuxpt3jjzvlwbmdzt0d3tvnhltdnwmtacjjsalp2uuxzuwvtr0j1bm5kr0zja2jsdnpbcvzsyvlpwmzut1rkbzzgsy1iekt4z0f",
-      "title": "What AI Regulation and Ownership Could Be",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3JJZVlWbmdZT0d3TVNhLTdNWmtacjJsalp2UUxZUWVTR0J1bm5KR0Zja2JsdnpBcVZSYVlPWmZUT1RKbzZGSy1iekt4Z0FSVDlZbUJhVlZiTVB1SzhLNkEtYTJRMmJvUC1ZUHhOQ0xTNEFWcWx0eDJjVjZDODVwTjMwT2tWT1FwdGZCNEtJWjk?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Mother Jones",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizwfbvv95cuxnazfjwnpynk53ehbgmwv6mwyzr3pkr0n1selhahfsqunus3hjtuplt3pjswtksepemkxvnvpktfawd3jqemzmy0jqnvvxrdb",
-      "title": "Call For Applications: Cardtonic Upskill 4.0 Program 2026 (Win a MacBook Pro + Fully Funded Tech Scholarship)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNazFjWnpYNk53eHBGMWV6MWYzR3pkR0N1SElHaHFsQUNuS3hJTUplT3pjSWtkSEpEMkxvNVpkTFAwd3JqemZmY0JqNVVxRDByY2g4Y29mbE0zRWFrMEJJOGNtVGFRamxJb2htaENUZzZBNUcwcFVCc3M4aFp2QXRmSjFjamdoLWhEb0VhNExva0xWT3NUaTdfSC02M3NpeUtHVEZQcmhCd0N5cmI1MUVRa25aNDhjajdwZmI3d2lLb2Uxdl94VVRHU0hRUlIwTGM?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · MSME Africa",
-      "sentAt": "2026-08-06"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxozvhgqzncazhtaxdzvfvyxzhlazrpq3k3qtlgnw81aw52ekzzmtq1r1y2amdpvzkyr0jhrgtkvutrs3zkuta5b1z6zgoyzlb",
-      "title": "Student Abstract and Poster Program: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVhGQzNCazhTaXdzVFVyXzhlazRpQ3k3QTlGNW81aW52ekZzMTQ1R1Y2amdpVzkyR0JHRGtkVUtRS3ZkUTA5b1Z6ZGoyZlBta2VYeVlUWEdSVFUzOE41YmRNWUpjQ0V0TjFnQU1kRXNhWDJUMzJWRmxGaHRLU20zOE4zUVBvUnBWeDlsd3M2UENhanZPQkE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · The Association for the Advancement of Artificial Intelligence",
-      "sentAt": "2026-08-06"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte9nytvnn1ppvlc0wlrttum2cdrxv3fovxddrng2tllondr1uvhzqvdknzyxukjrv0dyethbuff2u3z5wwhhczvmd1hsa25vztf",
-      "title": "AAAI-24 Sponsor Program - The Association for the Advancement of Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nYTVNN1pPVlc0WlRtTUM2cDRxV3FOVXdDRng2TlloNDR1UVhZQVdkNzYxUkJrV0dyeThBUFF2U3Z5WWhHczVmd1hSa25VZTF4aVNEcmtaMk5KVzFRUXRGbEVSbnlFM1BXRkFjeQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · The Association for the Advancement of Artificial Intelligence",
-      "sentAt": "2026-08-06"
     }
   ]
 }
