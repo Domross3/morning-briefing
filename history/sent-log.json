@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:www-ycombinator-com-companies-weave-3-jobs-kiw3gef-founding-business-development-representative",
+      "title": "Founding Business Development Representative at Weave",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/kIw3GEF-founding-business-development-representative",
+      "section": "opportunities",
+      "source": "Opportunity · Weave (YC W25)",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "hunter:www-ycombinator-com-companies-weave-3-jobs-d74yywq-forward-deployed-engineer",
+      "title": "Forward Deployed Engineer at Weave",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/d74yywq-forward-deployed-engineer",
+      "section": "opportunities",
+      "source": "Opportunity · Weave (YC W25)",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "hunter:www-ycombinator-com-companies-weave-3-jobs-cvp3fnw-founding-gtm-engineer",
+      "title": "Founding GTM Engineer at Weave",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/Cvp3fnW-founding-gtm-engineer",
+      "section": "opportunities",
+      "source": "Opportunity · Weave (YC W25)",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "github:puppeteer/puppeteer",
+      "title": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-06100",
+      "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
+      "url": "https://huggingface.co/papers/2610.06100",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-11"
+    },
+    {
+      "key": "Hacker News:nitter-net",
+      "title": "nitter.net",
+      "url": "https://nitter.net",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-11"
+    },
+    {
       "key": "hunter:www-databricks-com-company-careers-university-recruiting-product-associate-product-manager-new-grad-2027-start-7586263002",
       "title": "Associate Product Manager, New Grad (2027 Start)",
       "url": "https://www.databricks.com/company/careers/university-recruiting---product/associate-product-manager-new-grad-2027-start-7586263002",
@@ -3944,62 +4000,6 @@
       "section": "ai",
       "source": "Anthropic News",
       "sentAt": "2026-08-08"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-responding-next-frontier-critical-cyber-capabilities",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-08"
-    },
-    {
-      "key": "Hacker News:www-redhat-com-en-blog-cpu-back-rethinking-cpu-gpu-split-llm-inference",
-      "title": "The CPU is back: Rethinking the CPU",
-      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-08"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmifefvx3lxte5tczvswljhqnjmwhbhxzrov1g2v1e5ztrrcxdpqtnotulbbxottmrvtkljwlywtw5dumfuwgr4ukj4vzlfm2c4smjnsm9ltxk",
-      "title": "EU AI Act Enforcement Phase Begins",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TczVSWlJhQnJMWHBhXzROV1g2V1E5ZTRRcXdPQTNoTUlBbXotTmRvTklJWlYwTW5DUmFuWGR4UkJ4VzlfM2c4SmJNSm9LTXk0dXpHWGctbzFUY05TRVdzakdVU2FlRmdVY2ZzUnd3MUJOVktuMFVURE0xLXo?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Wilson Sonsini",
-      "sentAt": "2026-08-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidefvx3lxte56adfnzmczc2ytohvymmxiewxumlmxczjrt1dzwnkweg9smdjzzxvavgnodvvkdg4xztvjbjjvzzdlymrtmfozdfd1r1o0tg5",
-      "title": "5 Tech Fellowships Accepting Applications in August 2026",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56aDFNZmczc2YtOHVYMmxIeWxuMlMxczJRT1dZWnkweG9SMDJzZXVaVGNOdVVKdG4xZTVjbjJvZzdLYmRtMFozdFd1R1o0TG5nRXdZQnZqYzI5Rl9TTlk3bHVtdkljZDRYM3g1emo5TVh4YnlK?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Techloy",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxpq1daou00rzjumvowzhe0ofvdyzfiwdzwz2ptc1ltlw8ws3fydu9jz1vymujqdezpoupsuuo5shd2qulxdlncb2o1awpjcdl",
-      "title": "AI Is Taking Over This Crucial Part of the Recruiting Process: ‘It Was Very Realistic.’",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1daOU00RzJUMVowZHE0OFVDYzFIWDZWZ2pTc1ltLW8wS3FydU9jZ1VyMUJQdEZpOUpsUUo5SHd2QUlXdlNCb2o1aWpjcDlTZmMxbWxhZmVmbWZVRDgtTWk4dnpCbHB1THM2UmVTcFZDUkdTNnV2Mi1fSXllemc3bFFYUFQyY2lDaVlrQ0xGVXNwNmw4OGpQWXdvZmoyRHlDaDJ1YzFhUQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · entrepreneur.com",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi2afbvv95cuxpzklsvkcxdxlar19hbe81uhlxrhrowl96wmfgdlziykjjagyzzm9hdgy5m1o3ee1uohp2tkvfq2g5djzibxezlvb5q2xdald",
-      "title": "Phenom WorkOps Moves Enterprises to Multi-Agent Solutions for HR’s Biggest Challenges",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZklsVkcxdXlaR19hbE81UHlXRHRoWl96WmFGdlZiYkJJaGYzZm9HdGY5M1o3eE1uOHp2TkVFQ2g5djZibXEzLVB5Q2xDaldXeHpOSlhmQ0RvQkNORzByYzhFV1dUNUVFSzA1ekZtY1ZiZDN4N1pnWGpIZXBBSFRCdm5tLXI3dDRKNzQ2a0FKRmVJM3dFczYtd1N4X1VRcWxoUkJhMms4T3FrQWtiRVdscGNyb2VCckhwY0xwVDBTeTB5dzRQMUlaNGxxM2tvSDRRZFBnd1lwLVI?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Business Wire",
-      "sentAt": "2026-08-07"
-    },
-    {
-      "key": "github:PrimeIntellect-ai/prime-agent",
-      "title": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-07"
     }
   ]
 }
