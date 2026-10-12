@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte4ydwjumwlyrxpkvkvintq3b0w4nxvsbznqntjcnfy0b3jjbefzueh3nglxwhq2ctb3offiqkj0lwpuwuvtv2f6uvfvu3vkdkw",
+      "title": "FASPE Fellowship 2027: Fully Funded Professional Ethics Fellowship in Germany and Poland",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydWJuMWlYRXpKVkViNTQ3b0w4NXVSbzNQNTJCNFY0b3JjbEFzUEh3NGlXWHQ2cTB3OFFiQkJ0LWpuWUVTV2F6UVFVU3VKdkwtM18wV3hIaFdrRWdjTHdRMlpkWHN6Y1ozM3VseA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte9muzndvfrnzzuxndvmog0ytxnzmi1uqnjdnkowbdlxyl80y1pebhywudnfqxpkdehocdbjmfbomvlwu25zmdfvd3loski5s09",
+      "title": "UC Berkeley Alaa Lab PhD Opportunities 2027 – Computational Health and Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MUzNDVFRnZzUxNDVmOG0yTXNzMi1UQnJDNkowbDlXYl80Y1pEbHYwUDNFQXpkdEhocDBJMFBOMVlWU25zMDFVd3loSkI5S09kakwtVW9haG9GVnFuZWQwTDc5YV9sSGRJMm53cmpsSTQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxodlrwotnomkhmd2rwq2k4ske3tfdnz01gnut2rffjrnhsofz4rgrnuhftdwzouwtgsmdirdrxdtcyzklnmdbnt1zsrzbmofn",
+      "title": "Weave Signals Growth With 12-Person Hiring Push Across Engineering and GTM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlRWOTNoMkhmd2RWQ2k4SkE3TFdNZ01GNUt2RFFJRnhsOFZ4RGRnUHFTdWZOUWtGSmdiRDRxdTcyZklnMDBnT1ZSRzBmOFNVWmRoV3BHc0I5Q2FRRThBYmx2dzJBdW81clo3SkhVUE9jN3RJejQzQnBlSnlNSkc0eFlPblQzYVNDaGdzLVU3dUVVRS1kRGNGRGRfa1pfRVlmTDhhcGt3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · news.lavx.hu",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "github:lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-anthropic-cyber-mission",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-12"
+    },
+    {
+      "key": "Hacker News:www-cnbc-com-2026-10-07-anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says-html",
+      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-12"
+    },
+    {
       "key": "hunter:www-ycombinator-com-companies-weave-3-jobs-kiw3gef-founding-business-development-representative",
       "title": "Founding Business Development Representative at Weave",
       "url": "https://www.ycombinator.com/companies/weave-3/jobs/kIw3GEF-founding-business-development-representative",
@@ -3944,62 +4000,6 @@
       "section": "legislation",
       "source": "AI Policy · JD Supra",
       "sentAt": "2026-08-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxtfbymnprwuvyzmrndxjyaknpuvzsrlfsm3ptaktsdvjaegx2v3izu0fsltvvnxbqr3l6d3dmsehrwdm4blzdshlpvzflafo2rnl",
-      "title": "NetHope Opens AI Fellowship Consultant Consultancy for Global Applicants - Apply by 17 August 2026",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMnpRWUVyZmRndXJyakNPUVZsRlFSM3ptaktSdVJaeGx2V3IzU0FsLTVVNXBqR3l6d3dMSEhrWDM4blZDSHlPVzFlaFo2RnlEd1RJcEptNDVkOEFlcmpXczdPVG5BN290NGJzcWhoeHE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-08-09"
-    },
-    {
-      "key": "github:msitarzewski/agency-agents",
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-09"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-learn-teach-chatgpt-work-codex",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-09"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-05987",
-      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.05987",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-09"
-    },
-    {
-      "key": "Hacker News:blog-n-ichol-ai-packaging-latent-reasoning-as-a-real-model",
-      "title": "Latent Reasoning",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-09"
-    },
-    {
-      "key": "github:TauricResearch/TradingAgents",
-      "title": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-08"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-hard-questions",
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-08-08"
     }
   ]
 }
