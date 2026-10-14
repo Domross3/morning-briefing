@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmivkfvx3lxte9tb3fcdvhfruq0qnz3yxbmcjjunfbxylk4bmhmowh4thpxtffflwzmtva2ckozzc1cshzuatv6v3bocf8yzvzauzm3s1dsbhb",
+      "title": "i-SEA Fellowship 2026 Singapore: Fully Funded for Student Content Creators",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tb3FCdVhFRUQ0QnZ3YXBMcjJuNFBxYlk4bmhMOWh4THpXTFFfLWZmTVA2ckozZC1CSHZuaTV6V3BocF8yZVZaUzM3S1dsbHBJNVl1Q3Bn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · aksfellowship.com",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiz0fvx3lxte9zmuszwjzjsllxvlm2t2uyujj2njhoq3hpz0zuwffov2v5nglszuxtrv80bxnjvuvkdhh5m0d6vi1wytlkdwh6sc1st2nftkv",
+      "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zMUszWjZjSllxVlM2T2UyUjJ2NjhoQ3hpZ0ZUWFFoV2V5NGlSZUxTRV80bXNJVUVkdHh5M0d6Vi1WYTlkdWh6SC1sT2NFTkVXWVJjeU9taG5NVFBfZ084QjhMVlZQTU0?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Next Web",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "github:ifixai-ai/iFixAi",
+      "title": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-the-eus-next-chapter-in-ai-is-agentic",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-singapore-office-opening",
+      "title": "Singapore office and government MOU",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "Hacker News:swedenherald-com-article-tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-14"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmixgfbvv95cuxnmdfkujn4mkl1alb2uwtxme82rexma3bus0u2wuuzmgq3am41vehjbefymjzir3yxswpzcg9gtljfwlduahdjuuvmbxl0u3p",
+      "title": "Opinion: New York still needs more AI regulation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDFkUjN4Mkl1alB2UWtxME82RExma3BUS0U2WUUzMGQ3am41VEhJbEFyMjZIR3YxSWpzcG9GTlJfWldUaHdJUUVMbXl0U3p5WS0xYlJSVEZrY29OYWlnNmthOThoeFZrYWF1NkhZWHEzM0NPWDdvV2F3a2c0ZmRKNXY4VjJ0bmtOdUl4bXhKZVNGMjluOGRkaTRMNTlIcWUzdENqYkp1bHBmVFNRM0wwLWJPM3pJZG1kRVVGYndGcERVVlFUUmc?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · City & State New York",
+      "sentAt": "2026-10-14"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmizkfvx3lxte1znjezc1ixutjunwnlzjawtno2m295vwc4qtrhcjludjbcbgflqnzeq3a1wjd5oe13rjc5envvtudvegrqzvzxc01ywhdsnxr",
       "title": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNjEzc1IxUTJuNWNLZjAwTno2M295VWc4QTRhcjlUdjBCbGFlQnZEQ3A1Wjd5OE13Rjc5enVVTUdveGRQZVZXc01YWHdSNXRNVzFuYWY0Z2VhNDNTSHJNX1NCR2w2Zw?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "github",
       "source": "GitHub Trending",
       "sentAt": "2026-08-11"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-riemann-zeta",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "section": "ai",
-      "source": "Anthropic Research",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-model-ml",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "Hacker News:github-com-activeing123-mcptoon",
-      "title": "GitHub - activeing123/mcptoon: Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.",
-      "url": "https://github.com/activeing123/mcptoon",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmixgfbvv95cuxoc3b0nvu1akxrogi2rll1m0dddwp6n3zdbetlek40udruvgnpx3dmmudkmffsm1ftntnsrldjtffrlwj6mkppwvvinjjfdgh",
-      "title": "AI in Nebraska education: Schools debate how much AI regulation is enough",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3B0NVU1akxrOGI2Rll1M0dDdWp6N3ZDbEtLek40UDRuVGNPX3dmMUdkMFFsM1FTNTNSRldjTFFrLWJ6MkpPWVVINjJFdGhZVi16SEhHazRCNVNyaHlVMWVMZFRUUHVVbGdrUHRzX0cxR3VISk9tendvaWlQWGYzLVRPNEZON2tyd2dJeXNrQ0p5bl9qTGczTFNFMmhhdnFvWmlYRS02VzdkUU50a25BaUwtYktDUWpCVW01SFFtUVhQV1VmcUE?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Nebraska Public Media",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte1ibdb6cw1jdk5lnunjafh5eez3ati4ts1rte00qwjqvlr1cnfnudztv2iymfhkrvzhq1vtdgfjwmpwduxwzjvqzhbryw5nuvd",
-      "title": "WIPO Japan Opens 2026 Short-Term Fellowship Programme for International Students",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbDB6cW1jdk5lNUNJaFh5eEZ3aTI4TS1rTE00QWJQVlR1cnFNUDZtV2IyMFhkRVZhQ1VTdGFjWmpWdUxwZjVqZHBrYW5NUVdhY1VaWnRIcS1rbDBnbUtjQ1JDdnJJOHhCanJkRw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-08-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte5uv2m4wxlrvzzwnk9tsvrjngh2zkzwb28teflprzbctm85uxz2vkf2y1jstxnfngxlvfderkdeelbtq1rkbkldzc1hx19qv1d",
-      "title": "AI Alignment Foundation Opens 8-Week AI Safety Research Fellowship with $12,000 Stipend: Fully Remote Opportunity",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UV2M4WXlrVzZwNk9TSVRJNGh2ZkZwb28teFlPRzBCTm85UXZ2VkF2Y1JSTXNFNGxLVFdERkdEelBTQ1RkbklDZC1hX19qV1dXZjBkMy1lQXFHTk5fNW1wMlJVQTFwM0xBWnNUc1VPYw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-08-10"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmifefvx3lxte9otgezb0x0qus1vxphby01mnj6z1basthwbgnrr3pzcf9uevnhvexymjfyrdnatmzeu3fld2jivzjkxzizwwlzz2nozwfub1h",
-      "title": "Transfyr AI Fellowship 2026-2027 (up to $125,000)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oTGEzb0x0QUs1VXphby01MnJ6Z1BaSThWbGNRR3pzcF9ueVNHVExYMjFyRDNaTmZEU3FLd2JIVzJKXzIzWWlzZ2NoZWFUb1hpNGlRWU5weDNWLTlfNFZLV1dkWkdkbUtmQWV3N1oxQ2NDTGFpWUc0el9aalA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Opportunity Desk",
-      "sentAt": "2026-08-10"
     }
   ]
 }
