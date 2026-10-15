@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiw0fvx3lxte10avhirklym1vru1fhdgrgsvrdnm9luxnsymc4tvn4tl9ycjvuvednn3ljzwlqnkw4r1jmwxnxetzyexpyntbxzeutn1zpvy0",
+      "title": "Call for Applications: Impact AI Fellowship 2027 – Digital Society Blog - Alexander von Humboldt Institut für Internet und Gesellschaft",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aVhIRklyM1VrU1FHdGRGSVRDNm9lUXNsYmc4TVN4Tl9ycjVuVEdNN3ljZWlQNkw4R1JMWXNxeTZYeXpYNTBXZEUtN1ZPVy0tQ2lRTmpPdnd1b2c?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Alexander von Humboldt Institut für Internet und Gesellschaft",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiwgfbvv95cuxnnwjjc0ztcg1fmzjpdekyq3kxb3c4bfrqrujjvwzieknrtza4tthkn1rhbwtlakm0bkdadfhtqmrdngl6qtntakjgwwl2rfd",
+      "title": "Elon students help lead international journal issue on AI and undergraduate research",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWJJc0ZTcG1FMzJPdEkyQ3kxb3c4bFRQRUJJVWZiekNRTzA4TThKN1RhbWtLakM0bkdadFhTQmRDNGl6QTNtakJGWWl2RFdRR3RoNE9SR2NfMmVHM3U4Y2oyTEQ4VDNVVkVHWl9adS04YXhJZFRIZnVWaEVDZTBmdThHbzZIc3ZQWXJHNnRxQ3N4Q2J1VW56NTFKdExuLXFhZG9nSW0yT1BydkhnUmZtSHJjenJ3UHFHZkN0WHJwcWh3UQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Elon University",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-third-moment-research",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "Hacker News:www-theguardian-com-technology-2026-oct-15-israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "title": "Online ads weaponised to deliver ‘zero",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-15"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijgfbvv95cuxoszzonmd2njbtywfydeh2b1btqulddlqzqmrlx1nmzjjrcejdczn1lurrm29dbdfznxj0ckxfsxhzx1rknlvyu044mehotxz",
+      "title": "NCAN Takes Vegas: 2026 National Conference Tackles AI, Policy Threats, College Value, & More",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzZoNmd2NjBtYWFYdEh2b1BTQUlDdlQzQmRlX1NmZjJrcEJDczN1LURrM29DbDFZNXJ0ckxFSXhZX1RkNlVYU044MEhoTXZsZmxJLWFwaWVwanUwRmFUWVlSd0VlYkRFZ1RlMlRzcXQwTjRta0RQenZpQjJsU1RCM0ZwRXlRR0lORzJadG13?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · NCAN",
+      "sentAt": "2026-10-15"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmivkfvx3lxte9tb3fcdvhfruq0qnz3yxbmcjjunfbxylk4bmhmowh4thpxtffflwzmtva2ckozzc1cshzuatv6v3bocf8yzvzauzm3s1dsbhb",
       "title": "i-SEA Fellowship 2026 Singapore: Fully Funded for Student Content Creators",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tb3FCdVhFRUQ0QnZ3YXBMcjJuNFBxYlk4bmhMOWh4THpXTFFfLWZmTVA2ckozZC1CSHZuaTV6V3BocF8yZVZaUzM3S1dsbHBJNVl1Q3Bn?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "github",
       "source": "GitHub Trending",
       "sentAt": "2026-08-12"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-daybreak-models-are-now-available-on-aws",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "Hacker News:discoveredmaterials-com-research",
-      "title": "Research",
-      "url": "https://discoveredmaterials.com/research/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmihgfbvv95cuxpotltz28wnlfvztu3ogf6zhdva0xzmfc5b2nuszjucc1ycdgwzmexbuhsshf1wxk4mxlcalvzdnvtdmhfdwzywv9dz2w5alh",
-      "title": "AI Regulation in Flux: U.S. and global shift toward “lighter touch”",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTlTZ28wNlFVZTU3OGF6ZHdVa0xZMFc5b2NUSzJUcC1YcDgwZmExbUhsSHF1WXk4MXlCalVZdnVTdmhfdWZYWV9DZ2w5alhBTG1oYWxFUjdqYVNTUk4wTmJyNzV3a1FGWTZHYUxIQWdyZVNTbTJyT0JocmJvTmhtbGZvaWJ0dw?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · JD Supra",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmigwjbvv95cuxqnutkm1fewkpkr2fsu1zpnfo4dw10rddirey3ehjxvvpkmvrtskzgvwsxzk11nhzibhjosvlrujljr0jhshzkvv84z1diluj",
-      "title": "Call For Applications: PIBBSS Winter Fellowship Program 2026–2027 in",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNUtkM1FEWkpkR2FsU1ZpNFo4dW10RDdiREY3eHJXVVpKMVRtSkZGVWsxZk11NHZibHJoSVlRUjlJR0JhSHZKVV84Z1dILUJhWjJrY085MVh2dF96VmRiZ01NR3FxaUdLajd0UXpPWDF3enBTXzlacmo1Sk45eUNIQS14WjFCOXJYYlpCaVZOdUNCUmtyY3d6cjBRaE5wWWxQVS0zZWJfd1BwNk5QVjRHQnh1SEVrWFpJV3BRLUM4T0V2UGpsWXQ0YWhoTDZnbkxmZVRCQU9ydll3X0xoMzRDOFpSb3N6WVhIR19jRnlxbnA2eERsYzZwanczZk95X2V5djNn?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · MSME Africa",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxnak85of9neffebnlgb1d4ynqwtgnlcktrug4tbjzfowk5d2ppv0d2clytnl81ety2n2rsn3nqnvawx09hztvfqu5xruxkc0x",
-      "title": "Entergy Arkansas Power Your Future Scholarship now accepting applications to support technology students at HBCUs",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNak85OF9NeFFEbnlGb1d4YnQwTGNLcktrUG4tbjZfOWk5d2ppV0d2clYtNl81eTY2N2RsN3NQNVAwX09HZTVfQU5xRUxKc0xsNEpKZEstVFpUYmg0SW5tSzJCRU92SUdQUWo3Ui1lVXhSaXVIeGJ4aTN6cTdqLXJDQ3FaVjl5ZGFtdUVJQzBtMm02d0lkQ3BybnlPMVVPNm94NWc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Entergy",
-      "sentAt": "2026-08-11"
-    },
-    {
-      "key": "github:anthropics/skills",
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-11"
     }
   ]
 }
