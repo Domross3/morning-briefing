@@ -2,6 +2,78 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmigwjbvv95cuxqnutkm1fewkpkr2fsu1zpnfo4dw10rddirey3ehjxvvpkmvrtskzgvwsxzk11nhzibhjosvlrujljr0jhshzkvv84z1diluj",
+      "title": "Call For Applications: PIBBSS Winter Fellowship Program 2026–2027 in",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNUtkM1FEWkpkR2FsU1ZpNFo4dW10RDdiREY3eHJXVVpKMVRtSkZGVWsxZk11NHZibHJoSVlRUjlJR0JhSHZKVV84Z1dILUJhWjJrY085MVh2dF96VmRiZ01NR3FxaUdLajd0UXpPWDF3enBTXzlacmo1Sk45eUNIQS14WjFCOXJYYlpCaVZOdUNCUmtyY3d6cjBRaE5wWWxQVS0zZWJfd1BwNk5QVjRHQnh1SEVrWFpJV3BRLUM4T0V2UGpsWXQ0YWhoTDZnbkxmZVRCQU9ydll3X0xoMzRDOFpSb3N6WVhIR19jRnlxbnA2eERsYzZwanczZk95X2V5djNn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · MSME Africa",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxqmfyxoedybgq3rdmzdufzb2jsrwvbufrpv3rvb2lks1vot2lhac1ubm9sq20yugu5bjdwa1boduc2c0tsztleshvrwhbetlf",
+      "title": "USF Bellini College of Artificial Intelligence, Cybersecurity and Computing hosts inaugural summer research program ahead of fall launch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFYxOEdYbGQ3RDMzdUFZb2JsRWVBUFRPV3Rvb2lkS1VoT2lHaC1ubm9SQ20yUGU5bjdwa1BodUc2c0tSZTlESHVRWHBETlFPVE9YUEkwbkRLUEFyY2NXNlFjWFlyNnpXdTFjZzdnUkEzZGdrR2FscUF1S1NXOGNvemQ1R3FXeWJhdTF0MjNXNGdkbTVLTEsyekhn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · University of South Florida",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqc0dty200szdonhlzwwltszdsa3bqtfrzd2vgcjh3xzbucndst1ytvzc1qlaxbzm0dxftrtzltk1vovpuohvscef4auq4z09",
+      "title": "Montana Tech scholarship applications open October 15",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0dtY200SzdoNHlZWWltSzdSa3BQTFRZd2VGcjh3XzBUcndsT1YtVzc1QlAxbzM0dXFtRTZLTk1vOVpUOHVScEF4aUQ4Z09xSmtVZHlub0wyci1QV2dGdTNqRDI1UmJkRWlGQUFZLTQ3cnFGdUMtYk92akN4b0lYZ25ZRFhpdEg0dGVUYnlXdGpPTUE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Montana Tech",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxovng3dtdxdflky1viwgjanlrmmgpzuwzrvfzry2flufq2z2p4nhjhm1btq0dmyzn0zlliawfwy29mcljfyjm5cghldetvmhi",
+      "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVng3dTdXdFlkY1VIWGJaNlRMMGpZUWZrVFZrY2FLUFQ2Z2p4NHJHM1BtQ0dmYzN0ZllIaWFwY29mclJFYjM5cGhldEtvMHI4YUlmM21yb3JvZGxFV2hVQ3NnY3VocGg3SzVpSWFVVXFiczlENWQ5UDE5Slgxc3dpQmZ2dE5DS3c0bFJaY0w5V19oTzh3Rk93TkVXTXJBSTh3R2FCMEtidw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · NASA (.gov)",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-an-update-on-independent-evaluators",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-2026-us-midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "Hacker News:www-jamesfmackenzie-com-2026-10-13-i-love-software-rendering",
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-16"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivafbvv95cuxowk5qowt6v0n1rey4m1btmjzdowtidvjjz2rdvkr4qxmwzmx6ajr2bnd3wfv1tlzsmgcxmjaxunfyd1lxcedtwlfxvwkyaex",
+      "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWk5QOWt6V0N1REY4M1BtMjZDOWtIdVJjZ2RDVkR4QXMwZmx6ajR2bnd3WFV1TlZsMGcxMjAxUnFYd1lXcEdTWlFXVWkyaExyMllZbFVZRW9KdF9KT3ZDeE9tM0JuMzZOYnZqSEE1WWh0T21keGN2NWFSbVNzaTRRckdYQW41T3RkZDRTY3ktVk5Ba0JPWkRfRGppVWtXTVhnMFkyOE02Rm0wUkFjdHJqZ3NuT0Nrb0FQWDFvRw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Littler Mendelson P.C.",
+      "sentAt": "2026-10-16"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiw0fvx3lxte10avhirklym1vru1fhdgrgsvrdnm9luxnsymc4tvn4tl9ycjvuvednn3ljzwlqnkw4r1jmwxnxetzyexpyntbxzeutn1zpvy0",
       "title": "Call for Applications: Impact AI Fellowship 2027 – Digital Society Blog - Alexander von Humboldt Institut für Internet und Gesellschaft",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aVhIRklyM1VrU1FHdGRGSVRDNm9lUXNsYmc4TVN4Tl9ycjVuVEdNN3ljZWlQNkw4R1JMWXNxeTZYeXpYNTBXZEUtN1ZPVy0tQ2lRTmpPdnd1b2c?oc=5",
@@ -3928,78 +4000,6 @@
       "section": "ai",
       "source": "Anthropic Research",
       "sentAt": "2026-08-13"
-    },
-    {
-      "key": "Hacker News:sharktastica-co-uk-articles-pc-fxt-45",
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-13"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmixgfbvv95cuxprhjumzhtztlcrnr0mgc4bfqtrtjqck1it09wrwlnuhn4atqxehi3mwrlx3hfmulnemrrbtr5njhwt2f6x2xuvmy3ckf2del",
-      "title": "EU AI Act’s Transparency Rules: What Went Into Effect on 2 August?",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHJUMzhTZTlCRnR0MGc4bFQtRTJqck1iT09WRWlnUHN4aTQxeHI3MWRLX3hFMUlNemRrbTR5NjhwT2F6X2xuVmY3ckF2dElveDhEc01uZTVHenQ1ZjQzRXZWdGlJa3hLOTRQYkxJQUhENmE0X0NpSUQwWVY3UnZfMC0tekNRYnhieUluVzZscVNkUGFIOXJpUTZzSWxmTU9vSEdSQTNSVVlzMjdWVWRWNTVLTUp5dFFmZzNucmRydDBQZUFSTUE?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Morgan Lewis",
-      "sentAt": "2026-08-13"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwjbvv95cuxobk1uzunzeepgmmq1rduzv2jkc2xpsfnttexpmgxlrhlycelydxq5tzjlsk5xq0tlbmx3ugotdlz1d0npnzbndnrortvrve9",
-      "title": "For the 7th Time, Applied AI Leader Phenom Earns Spot on the 2026 Inc. 5000 List",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObk1UZUNzeEpGMmQ1RDUzV2Jkc2xpSFNTTExpMGxLRHlycElydXQ5TzJLSk5xQ0tlbmx3UGotdlZ1d0NPNzBNdnRoRTVrVE9NWVNvR2QzNGE1eVJJbkxveG01Tm5KSjYyckI2ZUpNVkZJT0p6S01NVG1URWdrZm9XQUtabks0NWNhMVFOcnVWaXJaTGVnVnNnLW16cXdJZnp0ZkJLWVB1LUxySi05V1dWOUxYbWVkZmVxaVgxWWdmY05WRHZtcXh3dzZidFZpZHZ0ZC02NVQ4cXhMQjEyRVFqYmhLNjF6M0lXREVNbnQ2Vy1fVFFSclNMTVM0cVBRazdpVHBmVFNJSU1aSXJQSEh4X2FINA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Voice of Alexandria",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi2afbvv95cuxqbni3ogtjr1lwywtkcjzjtjdiy0pktxezu2nwsnfbtdryewfkcku3snc2cfburlrva3hqwnqxuhdzu1jnete2mlpjvlpymxv",
-      "title": "GCCs outpace Indian IT services firms in hiring Forward Deployed Engineers",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbnI3OGtjR1lwYWtkcjZjTjdiY0pKTXEzU2NwSnFBTDRyeWFKckU3Snc2cFBuRlRVa3hqWnQxUHdZU1JNeTE2MlpjVlpYMXVtWGhsUFRtS3I0RmEtbDRtMnVSWUlaaUdWdnJnNEstVWhQOGdxSUE3czNyUXpTXzNaQ0xNcEhoc0pVeEZncTdTVWYzVklKc1h0NHliNkhvVEFLZDJESW9iRTVOWVZlQndyS1J4UnZJbGJFQ3RjY3EtS19pQWF0b3JfR3FwRWZsZmFYMFVRdlAwY1TSAd8BQVVfeXFMTzJkLXc2b0o2M25Ia0k1U3FrWE01QUpMN1ZjOEVaeGVjY3dENmNkdXMyaHdHc2d3V0ZFY21VUTJFUl9XVFUxX0QyalkxZkk5M0lQb1VXLUs5R0V5TXR1dXBlZ2c1VmFHZlRCUGFJeFkzZ21BSVhXU1hORnF1cXA3TTBJaUhvT3ZFd1VPOFNzWkpNSW80dEtzQlh6Z09MdWdqZ0wxMmhyRUZOTnV6M3M5WVczaTNWa2pBRzNmazJFS2NRMFREX3BXckI3OFpMT0x2M0FFSWl6NDAxVnB2TEtESQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · BusinessLine",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmirwfbvv95cuxomtq4oujrtwq4nvlnlxbvy1lxlurtwxh1mgptbedyzdndwdi2sjjfrtr2a2dur29qqxzrodnmvzniytf5wdjmwkzalwmwwhr",
-      "title": "Forward Deployed Engineer: Second Talent on Asia's 2026 Talent Shift",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTQ4OUJRTWQ4NVlNLXBvY1lXLURTWXh1MGptbEdyZDNDWDI2SjJFRTR2a2dUR29QQXZRODNmVzNiYTF5WDJmWkZaLWMwWHR2SExmQTBvN2pMUzdIVVRoaHFiaFFRS0lKaDFCV3JpMno4aV9QQUFtV0J3b3NqSDE0c0RVd2ZwS0JNdmtOcDVyd3h3NktUdzZ4YnVPYUVmZ1V6dzJkOVpPeU90V01YTlE0?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · EIN News",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmib0fvx3lxte9vnulkbujgbxbcogjheurasergmhfnmmg3bkgtdghwwwrkaxf6vmxomgj0sdlhu1y1ak05aniznujpr2z0bmpkvwxgmc12vjn",
-      "title": "Introducing the OpenAI Safety Fellowship",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VNUlKbUJGbXBCOGJheURaSERGMHFnMmg3bkgtdGhWWWRkaXF6VmxOMGJ0SDlhU1Y1ak05anIzNUJpR2Z0bmpKVWxGMC12VjN2bUxWVXU3cV9VcDFnVDIwOVN4U21LMzZOWHVkY0RLOA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · openai.com",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmizefvx3lxte1la0pvndnwaufxsmy2rc0tqv9svxo2tw5dbnjhzlfmu3hcb2y3dk12zdr5tjfhben3r1hyvfvqbtjbchz1zmn5awmyngfqtm9",
-      "title": "Summer Research Experience for Undergraduates - CSU/UC Berkeley",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1la0pVNDNWaUFXSmY2RC0tQV9SVXo2TW5DbnJhZlFmU3hCb2Y3dk12ZDR5TjFhbEN3R1hYVFVQbTJBcHZ1ZmN5aWMyNGFqTm9fQ2xXVHZueWozbFdIN1BiU0R0aUg?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · University of Nebraska–Lincoln",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijgfbvv95cuxpzdh4lvp0thjqdkhqskfobg9yzgsxcnpowwvttupja3dsetfgutlvohnfzfjyttrktv9jcldiwjlswm1ms3r5q2o4zepid1d",
-      "title": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse'",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDh4LVp0THJqdkhQSkFobG9yZGsxcnpoWWVtTUpJa3dSeTFGUTlvOHNfZFJYTTRKTV9jcldIWjlsWm1mS3R5Q2o4ZEpid1dpNXdEUkp0MHhXLTBQSFJBT1NCSTBBR2hRZU9LN0VwNGR2T2tjU3hvR1ItRHpzd3YwRGdTd2xTdThCQlRvYUFR?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Fortune",
-      "sentAt": "2026-08-12"
-    },
-    {
-      "key": "github:infiniflow/ragflow",
-      "title": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-12"
     }
   ]
 }
