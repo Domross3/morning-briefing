@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxte1kzmdptg5sbjbrnkpebmd4afn5wtfmedr4t2hrtgk2mzi0otjurjrou1vwug1sculxrvvpt1dwbjvtrnrwcmdyampemw1xte1",
+      "title": "Anthropic Fellows Program 2027: AI Safety and Security Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kZmdpTG5sbjBrNkpEbmd4aFN5WTFmeDR4T2hrTGk2MzI0OTJURjROU1VwUG1scUlxRVVPT1dWbjVTRnRwcmdYampEMW1xTE13bURMZXhzdTRBQUJVOGE1Z183Z3h0S0RKY0dmclZUU19uZw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxtfbnbjg0d1hqs21mtmjdwdvmbfzwyjvtuefpwhfdwnngwnjxmm9tehboshawbuj0dur6ahpweg1ksjrxy3hxtvbjrunrvxrrrhd",
+      "title": "Call for Applications: AI, Ethics and Climate Governance Fellowship 2026",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnbjg0d1hQS21mTmJDWDVmbFZwYjVtUEFPWHFDWnNGWnJxMm9TeHBoSHAwbUJ0dUR6aHpWeG1kSjRXY3hxTVBjRUNRVXRrRHdRczAyWkxEaDlWOGkwM3dRWkozb0U5QUNrdUVERDZoZWYxQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "github:anomalyco/opencode",
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-ai-expectations-gap",
+      "title": "The AI expectations gap",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-employment-at-anthropic",
+      "title": "How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "Hacker News:sphinx-six-theta-vercel-app",
+      "title": "Sphinx — outsource your thinking, not your understanding",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-18"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqwfbvv95cuxnrjvpevi1zwyweun0lu9tsmdfls1mvuxxrtdiwktedvc5ug5vdtrevtn4suz6zvfqskton0rmujdcnurxdxbemxu0ofhldxc",
+      "title": "RELEASE: Gottheimer Discusses AI Policy at the University of Pennsylvania",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVpeVI1ZWYweUN0LU9tSmdFLS1mVUxXRTdiWktEdVc5UG5VdTREVTN4SUZ6ZVFQSktoN0RMUjdCNURXdXBEMXU0OFhLdXc2R21BckRuQkczWm5KNWdfM0VkSFJsWlloZEhCS1QybTZtdk1JOF85SWFlSnpxMEVRQlBfMHd6V2tLaWpKSV9DcV94WXJ4M2pHUkwwRTY2bzljbUZxLUpKM0c2b28?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · House.gov",
+      "sentAt": "2026-10-18"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmirgfbvv95cuxqn2hud3bhd0w2udrht1vjogfkn2d3dwfha0fzbhhon3nlwtvizvnmdwmxr2ryoflux0pubzlltmm3vs01qjytqzjud2rbdy1",
       "title": "Call for Contributions: GenAI and the Future of (International) Legal Scholarship",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2hud3BHd0w2UDRHT1VjOGFKN2d3dWFHa0FzbHhoN3NlWTVIZVNMdWMxR2RyOFluX0pubzlLTmM3VS01QjYtQzJUd2RBdy1ZTklUTkNTRG9LTGZoVS1kSDBSYkNvQ3BjblJFR0E5R2NnWHdrUXFQUTFkLWdJOHRzbnk5Y3RGVHBRMzZoYzF2TXExODV6OFdKZmQzYl9SYTFTaGZjTjlrTll0T3kwRlE?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "ai",
       "source": "HF Daily Papers",
       "sentAt": "2026-08-15"
-    },
-    {
-      "key": "Hacker News:sankalp-bearblog-dev-autoresearch",
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmimwfbvv95cuxncgd2ow9seudcnvpvejvjwi1douzea2juaxlqrms5c3qymjddrjnhahzertmttwnongn2n0jwwxpwyunmnhplcwf3wddybfr",
-      "title": "OpenAI: AI policy will still be made in the states",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGd2OW9seUdCNVpvejVJWi1DOUZEa2JUaXlQRms5c3QyMjdDRjNHaHZERTMtTWNoNGN2N0JwWXpWYUNMNHplcWF3WDdYbFRtQXVGXzZ5TnpjbC05cm9wbVVyNE1DMEk1M1AxM1d5RkhodjA5ODBrNlkzVl9OdC1uMWsxVGtsdUNocXdsQTBtZGd6LVBBMHhFOHgxTQ?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Politico",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi0gfbvv95cuxpas0zui1tu2nnm1fgb3dxsv83ci1fqy1vbgnrtvdhmmrjdu8zv2jzwefzn0ppstlavvozbdronznoqmllvkowu2f2ztbbrdj",
-      "title": "For the 7th Time, Applied AI Leader Phenom Earns Spot on the 2026 Inc. 5000 List",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaS0zUi1tU2NnM1FGb3dxSV83ci1fQy1VbGNrTVdHMmRjdU8zV2JzWEFZN0ppSTlaVVozbDRoNzNOQmllVkowU2F2ZTBBRDJYNk1oSFdmcC1WMmpKRGx1Q3FtdklmdGQ0bzZjTjRUZ1hQTS1yanlQaGdVZzB1RmpVMkdiV0ViREJQQ0pzdHdjeG9ianFUSzdRckVDNXF4bkV5MDdIY0hVMmUwaW1QeVpRSDRJcE11T1hWQ045SlZWc1dlTzdFWWZGSFk3TDB6VXRTdXc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Business Wire",
-      "sentAt": "2026-08-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxpuexreejzsljmsm1jnw9zbxdpcg1jtunwukhockxqsjb1vjfqz2pbywpnsdrowlz1dk5ptdazqy16nvjxx1dvagllefhrv1r",
-      "title": "Forward Deployed Engineer: Second Talent on Asia’s 2026 Talent Shift",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUExreEJZSlJMSm1jNW9zbXdpcG1JTUNWUkhockxqSjB1VjFqZ2pBYWpnSDROWlZ1dk5PTDAzQy16NVJXX1dVaGlleFhRV1RFT1lkWl9qX0o4dlpKNXVKZ25GQmtwX3JYVk9uT3ZzMUpvMnhQTDlFcFlaMGxWb3oyXzd4a3JjQ0o0bGlDWlMxZnZYMmxnNlhmRjMtQ18tQVB0M2VPMklRTkdCem11R0RSM1g4SVlzc1Z2Qnpn?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · HRTech Series",
-      "sentAt": "2026-08-14"
-    },
-    {
-      "key": "github:rustdesk/rustdesk",
-      "title": "rustdesk/rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-14"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-builders-guide-to-gpt-5-6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-14"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-14"
     }
   ]
 }
