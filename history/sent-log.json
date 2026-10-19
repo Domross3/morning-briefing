@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxtfa3be1itkhxzdbwy2jcmi1exzdjcghyynpxmdrpzu45cvbhmgxgexdcsjfhrlu3yvvma1hkswvetmj1qwcts0vic0jprhn2rk9",
+      "title": "Call for Applications: Climate Risk Lab Fully Funded Data Science & Machine Learning Fellowship 2027 in Cape Town - MSc and First Class Honours Graduates Invited to Apply",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bE1iTkhXZDBWY2JCMi1EXzdjcGhYYnpxMDRpZU45cVBhMGxGeXdCSjFHRlU3YVVma1hkSWVETmJ1QWctS0Vic0JPRHN2Rk90WkdkOWpvYUNDY3h0X0NzVFlZRVplcmlHUklrcXEyS2ZucnVHaFE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-19"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiigfbvv95cuxovfatnvzpq0zpctfhtlqxyxl3nujqs18tue9ys3i3clhmbvbvyu03ulctdm1nsmlgq0pqsgznmulmv2ztzgk5cfzxc1dtc28",
+      "title": "Ujjwal Ratan Appointed Chief AI Officer, Optum Insight at Optum",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFAtNVZPQ0ZpcTFhTlQxYXl3NUJqS18tUE9yS3I3clhmbVBvYU03Ulctdm1nSmlGQ0pQSGZNMUlMV2ZtZGk5cFZxc1dTc28tcFJ5YVhIOHUwNGdXMFVDRVdXVjhoVFVnWk1RSU9KWllCX1htSS1teVpOdV95ZUlfR0xwa0RiWTQwOUE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · https://hrtoday.in/",
+      "sentAt": "2026-10-19"
+    },
+    {
+      "key": "github:headroomlabs-ai/headroom",
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-19"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-expectations-for-the-future",
+      "title": "Working at the frontier shapes expectations for the future",
+      "url": "https://www.anthropic.com/research/expectations-for-the-future",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-19"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-19"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmickfvx3lxte1kzmdptg5sbjbrnkpebmd4afn5wtfmedr4t2hrtgk2mzi0otjurjrou1vwug1sculxrvvpt1dwbjvtrnrwcmdyampemw1xte1",
       "title": "Anthropic Fellows Program 2027: AI Safety and Security Research Fellowship",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kZmdpTG5sbjBrNkpEbmd4aFN5WTFmeDR4T2hrTGk2MzI0OTJURjROU1VwUG1scUlxRVVPT1dWbjVTRnRwcmdYampEMW1xTE13bURMZXhzdTRBQUJVOGE1Z183Z3h0S0RKY0dmclZUU19uZw?oc=5",
@@ -3959,46 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaURzQUFTOG80RFZ4RXBxR3oyNF9QVm5hcWplTkRKZkNmemZsa0h6cEZOZWt6ZGFST3JKcVVsUlRIeVJ0eVltVDhyMGlzY3d5amxOeVZKNWc4TndoWWJSSWhIVkVYSXZ5dmtBWXRoR2RxRUh5T3BOdnFLSUZsSXZmbXZDSlJRc0ZLREpUeElYT0lXSGhZMmhiTU51Wl9majhEVGItSWJkZHdaa2NvUHBpZFBTRUFOUlhVZHFRYVJNTC1zd3Boai1NRnhUMnlGR2JhLUJvUkJiSnZ3eC1iNENiY1BoVTczeEJC0gHuAUFVX3lxTFA4S2pycVdoemlBWHdhc1hhNngtck9pamR2b2tfcHVtUUd3a0tmU2JkTnZMb2cxMGpON0hiNllDMGJjOUcyWG1FaXI1YTkzTElSQ3J2MF9ieFBiVGJMdlZBcElWS1dLMkl1c2w1dGFVRVd1UDdZZkRha09TQUhKX2p4bHp1QlJvU3M0Ti1xMFZySldTai1HUDkxS3FNMFh1RmJrUC04T0RkQVREYmFyS1M5M3l5QlVZckhhNUNFVWxYclNXcDM2VWdxZDFVajh2UlE3QXFUM2ZyTkZacW5FcVZEYXNCczdORTJ5SFdBWUE?oc=5",
       "section": "opportunities",
       "source": "Opportunity · manilatimes.net",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi6gfbvv95cuxowuxowejzzxr2lwppu1pjmlbenwhlr0ezze9suvlxmhvuqjmyyxzxdg9ywfzjumpyns1kn0xdeutomnlmouxuylhxreozvey",
-      "title": "Mark Cuban Foundation and Gearbox Labs Bring Free AI Bootcamp to Milwaukee Teens",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWUxOWEJZZXR2LWppU1pjMlBENWhlR0EzZE9sUVlxMHVuQjMyYXZXdG9YWFZJUmpYNS1KN0xDeUtoMnlMOUxUYlhxREozVEY5TTlYWG5Cczg4X19QVkVNOUdjWWdycFg5RkktTmcySmF5b2ozR2ROei1oeDVINjB2alY5T1FuOXJLRmdQeURiOFE5TVJzRmthS2xzZjB5YWhUYnRxRmd4cjQ1Sl9XanFLbkNhbzRCSV9od2lBUVBoWVJTLXotM1h5UGl2RUU0eVJCaTRNS3dHLWR2YnJqUU9lbTVIRllKVVh2a3fSAe8BQVVfeXFMTmpTOXlySVJxQk0xWm5jUnczWWdnTDFXaEJ3bENRUGJMWVROR1Y5dldaVzh6Q1RDQ1c1ek9fNnhaOFhrejNTeDh3ZUJMSDdNUnlISjQ1SVVBQU1GYUN2NktIZzJYM1JyNDNEOHZGM2d6ZDlhSzJkMHluRE5mRzZBUkRzcW52TTVQdmdpUERXLUVTSWNDU3hTWGoyemZkUWc0eGhKNEVSVXBfQ0lVTGxCdHVCUGVTLU9URGFNb0k1Ml9yMi0wLUUzd01QRVUzWndxWUJjbFAtR1FhUjVKQnlXWGduR0QyYVdhamJyX0JCRXM?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · manilatimes.net",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmigwfbvv95cuxoltq0wxlnee11tdllb2e0rlfmy3nlbmo3uxbiwndfnglodettaulqb1lhbzbvtfz4q1hgy0r1t0hcau9nc25kdeh4mfjhv1r",
-      "title": "Art Students League Seeks the Next Generation of Public Artists",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTQ0WXlneE11TDllb2E0RlFMY3Nlbmo3UXBiWndfNGlodEttaUlqb1lHbzBvTFZ4Q1hGY0R1T0hCaU9nc25kdEh4MFJhV1RkeE9YNTlpX3YxWDFlSGt0TS1EN1hGdkItMHA0eXctM21KOXNTMldVcTFqeS1xNmpIbVhKQdIBiwFBVV95cUxQX01pRVlwTmZSTnBGQjFxU1VISVFmQlp0enJUQzZaN1ByWHJLVXQxSG9jakxsX1pDWTVib3VJS25xRjJEcHFqdTV2TjRfLXB0UzRLOXRNSXlFaHlvNXR0Y3NJekpmYl9YUzBUQUZvYkZZcFpjcTdDdDZUNHFrYkZiRUJOS2FxbUdPc1Vj?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Artnet News",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "github:HKUDS/CLI-Anything",
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-13505",
-      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
-      "url": "https://huggingface.co/papers/2608.13505",
-      "section": "ai",
-      "source": "HF Daily Papers",
       "sentAt": "2026-08-15"
     }
   ]
