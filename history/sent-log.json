@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:www-anthropic-com-careers-jobs",
+      "title": "Applied AI Engineer, Startups",
+      "url": "https://www.anthropic.com/careers/jobs",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-claudecorps-jobs-4250200009",
+      "title": "Claude Corps",
+      "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4250200009",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic / CodePath / Social Finance",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "github:sickn33/agentic-awesome-skills",
+      "title": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-24087",
+      "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+      "url": "https://huggingface.co/papers/2610.24087",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-22791",
+      "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+      "url": "https://huggingface.co/papers/2610.22791",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "Hacker News:github-com-deepseek-ai-deepinfer",
+      "title": "GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-20"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivafbvv95cuxnafzpyxpyz1fjtzh4n1lmsvi4vevpv1pjeln1wlrxshltddnlb1rocjrmtwhmm2vxbnljs1lbcwn1wthmy29mdjbruvvtenj",
+      "title": "Most New York school districts don't have an AI policy | NCPR News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFZPYXpyZ1FjTzh4N1lMSVI4VEVPV1pjelN1WlRxSHlTdDNlb1RocjRMTWhMM2VxbnlJS1lBcWN1WThMY29mdjBrUVVtenJRc3RVV0JyS29sVGNqdTJjOG42R2lOdWRfUnZjODJla2gwNUpkVG9nN2oxNnZTSUxDdVkxVWwwMEItWEY1TVVGRnhaMUtmaDBUTjlCcFA5eUFWbi1oX29MQktFUVRlcEJEQ0tMT3RBcWQ4Y2lXUw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · NCPR: North Country Public Radio",
+      "sentAt": "2026-10-20"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxtfa3be1itkhxzdbwy2jcmi1exzdjcghyynpxmdrpzu45cvbhmgxgexdcsjfhrlu3yvvma1hkswvetmj1qwcts0vic0jprhn2rk9",
       "title": "Call for Applications: Climate Risk Lab Fully Funded Data Science & Machine Learning Fellowship 2027 in Cape Town - MSc and First Class Honours Graduates Invited to Apply",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bE1iTkhXZDBWY2JCMi1EXzdjcGhYYnpxMDRpZU45cVBhMGxGeXdCSjFHRlU3YVVma1hkSWVETmJ1QWctS0Vic0JPRHN2Rk90WkdkOWpvYUNDY3h0X0NzVFlZRVplcmlHUklrcXEyS2ZucnVHaFE?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-08-16"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmioafbvv95cuxqrtfvcvzfx3pzn2jpaw45snbtsfbdt1vumxd5nkrpsxcwevn4bwxpd2daagm3v09wm19syzrlng4yqxqyc1vpednry2hizxj",
-      "title": "The Different Philosophies Driving AI Regulation Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTFvcVZfX3pzN2JpaW45SnBTSFBDT1VuMXd5NkRpSXcweVN4bWxpd2daaGM3V09WM19sYzRlNG4yQXQyc1VPeDNrY2hiZXJibnZIZG9wNVl5OTZtRGRpT2ZhZTNUdG1rX0J0RmkxbVZoUHcxd3lfdGxOMGxGZy1xcGFQWG84cFJyNzFGUHRLeHcxZC1hYkdRQlhkRHN0dFV6?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Knowledge at Wharton",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxpow1nn2kzytmzexpbatf2s183c0lptnbvbxbdbs1uu2tzbgh6tgxycgviagzzvdhftgtlvu1asui5rvv0nexzawhwulhcwnc",
-      "title": "Call For Applications: AGP Ascent Fellowship 2026 (Free Online Fellowship For Entrepreneurs)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOW1NN2kzYTMzeXpBaTF2S183c0lpTnBVbXBDbS1UU2tzbGh6TGxYcGViaGZzVDhfTGtLVU1aSUI5RVV0NExzaWhWUlhCWnctcHhlSi1VcW9XSkdlRnVEblh5ME9jZFVhcExTR0Znai1xYWdMdGFhUHVYa3lWSkFqX1NwSk9ERFRqNjFfYkxTLXp0bkhVT1JaQ2tFMERaTkpyWUJKX2cydlF1Y2tvdjNEdzhQX3lFdUVsekUw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · MSME Africa",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxpnvnmds1urzl5a2ladvgxquzkdw13ellsrjnszu9mnmj0renocmxga0znd29tzjheshfoefj5m0jpbw80ndjqeellv3r0ny0",
-      "title": "For the 7th Time, Applied AI Leader Phenom Earns Spot on the 2026 Inc. 5000 List",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVNMdS1URzl5a2ladVgxQUZkdW13ellsRjNsZU9MNmJ0RENOcmxGa0Znd29tZjhESHFoeFJ5M0JPbW80NDJqeEllV3R0Ny00eVFPWnFyLS1zTHlmNFRiV1p0MFFCdXFZcmgxLTNZTG1SZ0JRUHN0TVdtbmFuOVZfcnBTdVIzRG41MDhyQkdlQTFRSG1McFhRNzZIaGpxWmFFYktuOGlvb0FnNVFfMV8tc05PT3VvS1VELUhzV2l0WGxhd0hMdGFLejZuRUN0OTlNc3R0QUNPNA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Morningstar",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipgfbvv95cuxnevzxzlbyb1bpseitqxm2ujnidgnhou9vwtdocfdawwzdc1otzexzm1febmz0dxbmzk5lbhv5ltvdulzhcnhnt3bjv0jhb1v",
-      "title": "CADET SUMMER RESEARCH PROGRAM 2026 PREPARES CADETS FOR FUTURE MISSIONS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeVZxZlByb1BPSEItQXM2UjNidGNhOU9vWTdocFdaWWZDc1otZExzM1FEbmZ0dXBMZk5lbHV5LTVDUlZhcnhnT3BjV0JHb1VvajdhWFMxeFdqU1JrS0hFeXNmQThjbUhGLWU2ZTlRRk9sOUJWWElTMGkySWtCVVpIWW5nVW1SbXJkS3dDWVp0cm41bmxidnAtdXliekVkbi1iLUZUaWNR?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · DVIDS",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi2gfbvv95cuxnzxzzdlbrrep0z1ztwdzhc1diajkytejwsfban09nujz6qlprz3lglxnauu1vt19fwg1yrvn4d2xnqwxtdffbdtm5yxhlwur",
-      "title": "Homeland Security Professional Opportunities for Student Workforce to Experience Research Program (HS-POWER)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZXZzdlBrREp0Z1ZTWDZHc1diajkyTEJWSFBaN09NUjZ6QlprZ3lGLXNaUU1vT19fWG1YRVN4d2xnQWxtdFFBdTM5YXhlWURRT0YzWlZxV2NiTHFESFhVOEZNc2p6UGtadzQxc3E1dnlNUTd2UWQwVURBWTlwWENkbklJejFTcWJaSlBVcGhHR0ZScU9Gb3kwYXVRcFNKMXJtdEJBeWVpMG5xSnZnd2RVT2w0OFJkeDZnVUZaQVZuZXUzRnF3NTM2Yl9MMFR6MzNXNEhJZ3Jyb2Frdw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Homeland Security (.gov)",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxpuwnenhddazhjwmfhwnnzwelvwvnksvz3nnpbc1v6nhvfrmdyoc1qweppmwdnctlnz1m5wtdztnnldnljmhm3bhftaehebfd",
-      "title": "Obama, Airbnb’s Brian Chesky launch $100M in scholarships",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWNENHdDazhJWmFHWnNZWElVWVNKSVZ3NnpBc1V6NHVfRmdYOC1QWEppMWdncTlNZ1M5WTdzTnNLdnljMHM3bHFtaEhEbFdHWHQ4UEpzN2drMHVmTlduTVhzZnhpa2RDUG9KeC1YYThSSmZ0Mk43V0UzX1Q3dUk2amV2dXFhS2VwSTJfS0Y5a9IBowFBVV95cUxPWVFROHIxeGJVNUpDMWp4YjVHMXYzQXNuZDUwenBSWWwtcWN4T193clBMRUJySFprSDVUb3NTdXN4dGRPRkN0aVNnR3A1Mk5fWnVYQ3A2SUJyZXRDSzdoXzF1eUpEUS1GM2VzaGFaRm4yZ0VFaFh5MWFDYWF1aXdrc2d4cS1USE9lS3hNR1JiVFctRk9ueWhydl9NM1MwbXl6RHJv?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · WWNY",
-      "sentAt": "2026-08-15"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi6afbvv95cuxnaurzquftog80rfz4rxbxr3oynf9qvm5hcwpltkrkzknmemzsa0h6cezozwt6zgfst3jkcvvsulrievj0evltvdhymglzy3d",
-      "title": "Mark Cuban Foundation and Quizlet Bring Free AI Bootcamp to San Francisco Teens",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaURzQUFTOG80RFZ4RXBxR3oyNF9QVm5hcWplTkRKZkNmemZsa0h6cEZOZWt6ZGFST3JKcVVsUlRIeVJ0eVltVDhyMGlzY3d5amxOeVZKNWc4TndoWWJSSWhIVkVYSXZ5dmtBWXRoR2RxRUh5T3BOdnFLSUZsSXZmbXZDSlJRc0ZLREpUeElYT0lXSGhZMmhiTU51Wl9majhEVGItSWJkZHdaa2NvUHBpZFBTRUFOUlhVZHFRYVJNTC1zd3Boai1NRnhUMnlGR2JhLUJvUkJiSnZ3eC1iNENiY1BoVTczeEJC0gHuAUFVX3lxTFA4S2pycVdoemlBWHdhc1hhNngtck9pamR2b2tfcHVtUUd3a0tmU2JkTnZMb2cxMGpON0hiNllDMGJjOUcyWG1FaXI1YTkzTElSQ3J2MF9ieFBiVGJMdlZBcElWS1dLMkl1c2w1dGFVRVd1UDdZZkRha09TQUhKX2p4bHp1QlJvU3M0Ti1xMFZySldTai1HUDkxS3FNMFh1RmJrUC04T0RkQVREYmFyS1M5M3l5QlVZckhhNUNFVWxYclNXcDM2VWdxZDFVajh2UlE3QXFUM2ZyTkZacW5FcVZEYXNCczdORTJ5SFdBWUE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · manilatimes.net",
-      "sentAt": "2026-08-15"
     }
   ]
 }
