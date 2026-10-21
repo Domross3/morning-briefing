@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5455961008",
+      "title": "Applied AI Demo Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "hunter:nvidia-wd5-myworkdayjobs-com-en-us-nvidiaexternalcareersite-job-solutions-architect-wwfo-new-college-graduate-2027-jr2024999",
+      "title": "Solutions Architect, Worldwide Field Operations — New College Graduate 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Solutions-Architect--WWFO---New-College-Graduate-2027_JR2024999",
+      "section": "opportunities",
+      "source": "Opportunity · Nvidia",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5447080008",
+      "title": "Conceptual Reasoning Fellow",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "github:vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-claude-scorpion-toxin-binder-design",
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "Hacker News:layerfs-ai",
+      "title": "LayerFS: the filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-21"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmifkfvx3lxtfb3um0wtw9myvn3znewzu1smwxdtnnhyjm4cjg0oghwa2k5n3ywb3vfu2pvdehlr0nquvdwyuw5zm82wfnuaghgz0o2anzxn2p",
+      "title": "AI Act - Shaping Europe’s digital future",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Um0wTW9MYVN3ZnEwZU1sMWxDTnNHYjM4cjg0OGhWa2k5N3Ywb3VfU2pVdEhlR0NqUVdwYUw5Zm82WFNUaGhGZ0o2anZxN2p5MFBiRURiQlJEMkNpLXZ3UEtUbjMzTDJoYzVtRjF1UWNpcVZnQnVUVnhCb1Jwdw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Shaping Europe’s digital future",
+      "sentAt": "2026-10-21"
+    },
+    {
       "key": "hunter:www-anthropic-com-careers-jobs",
       "title": "Applied AI Engineer, Startups",
       "url": "https://www.anthropic.com/careers/jobs",
@@ -3936,70 +4000,6 @@
       "section": "ai",
       "source": "OpenAI Research",
       "sentAt": "2026-08-17"
-    },
-    {
-      "key": "Hacker News:blog-roboflow-com-openai-gpt-5-6",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-17"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiowfbvv95cuxqofjad1zpdf9lehjhefzmr2pklvg4cgwxsejhwkoxzzr5tmfdvu9xughwstzmbufpwkvdlvfmse5walhsnhzia3ytywtvdl9",
-      "title": "Law School introduces largely permissive AI policy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFJad1ZPdF9leHJheFZMR2pkLVg4cGwxSEJhWkoxZzR5TmFDVU9XUGhwSTZMbUFPWkVDLVFmSE5WalhsNHZIa3YtYWtvdl9mUldsWDJfTE5BRlQzUXU5bXM0QnBLS3hTSEtUNTYyNVVITzYwNUhVa1kwd082bzB5WGlYYVhBYjlvTURFVmRlcEtEY2huNkxJVG9rLXBGUHJjNWw4?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Columbia Daily Spectator",
-      "sentAt": "2026-08-17"
-    },
-    {
-      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5023394008",
-      "title": "Anthropic Fellows Program",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-      "section": "opportunities",
-      "source": "Opportunity · Anthropic",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "hunter:www-ycombinator-com-companies-gooseworks-jobs-uj4vh2f-founding-engineer",
-      "title": "Founding Engineer / Builder at Gooseworks",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-      "section": "opportunities",
-      "source": "Opportunity · Gooseworks (YC W23)",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "github:Panniantong/Agent-Reach",
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "section": "github",
-      "source": "GitHub",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-13552",
-      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "url": "https://huggingface.co/papers/2608.13552",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-text-watermark",
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-08-16"
-    },
-    {
-      "key": "Hacker News:www-anthropic-com-research-multiagent-systems",
-      "title": "Patterns and problems in multiagent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-16"
     }
   ]
 }
