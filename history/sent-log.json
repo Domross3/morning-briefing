@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmingfbvv95cuxorghirdlomtnxsxvnqk5hqzvvbgzjz2k0q1vdq1rncmdov0wtchotogzlbkt2neducmfsaetsv2zusghkq2d1qwvhekvbsfb",
+      "title": "AI and National Security Convergence Fellowship 2026-2027",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGhIRDloMTNXSXVNQk5HQzVvbGZJZ2k0Q1VDQ1RncmdoV0wtcHotOGZlbkt2NEdUcmFSaEtSV2ZUSGhkQ2d1QWVHekVBSFBwYUQyRTJxRnZYSldudFczc3FkdWZKZmR5STJYT245akRVaTFUWnFibzhWYnZNZnZ6eXJ0V0Zfc0NHNzFqWTltZmIyTHp4TzFGVGpiYXdaQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunity Desk",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmioafbvv95cuxqelztwfzkc3humglhqtfgsc1jsjzvnwpwmg5fazliexjqsfgwemdrbkc3atzhbvjhdhhfmk9nsgvvys1ztwv5mjd2zglyq01",
+      "title": "Low Income Housing Energy Assistance Program now open for enrollment",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQelZtWFZkc3huMGlHQTFGSC1JSjZVNWpWMG5fazlieXJqSFgwemdrbkc3aTZhbVJhdHhFMk9nSGVVYS1ZTWV5Mjd2ZGlYQ01XSTIzSDk1MllnM0gtYVlkZkNFNndjYkNoVFBfN090YlBJREpsdW1YRjN1Zjh1cER5N3NTRHhNNnlRSENJLXA2VVJ2a2ZiOFhDZ2dLUi1HaWh10gG0AUFVX3lxTE1PektPdEtNUDJUZ2VFQVM0Qll1QnM4NWdyekJ5QW1qckJfQXFBamh2ZlUzclpPdzFiNHYzRDEyMnFaMWhkUzFlR0o0T3RiT2hCMUdKcEZRMDRTVkZhcHdXMkZGT29YR2RVTFA3X2diRVQtZjhoSWxITl9IeDY2anMzVVF4S01RcmctbHVLNXZfSmhwY2VNZmFSTXZyM2VFaWVVWTk2d3J0TWZtb1dwY1V3bTFFeA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WVIR",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxplutuznptcktky19xnzbkdwjtb2ddavhqekfgtdh1ou5jrkxku2fnu0hktgzucdgtcffjtvhzdjjkdzdnuvhnvkdrnur3dxa",
+      "title": "Forward Deployed Engineers: India's Next Big Tech Export Role",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUtuZnptcktKY19xNzBkdWJtb2dDaVhQekFGTDh1OU5JRkxkU2FnU0hkTGZucDgtcFFjTVhZdjJkdzdnUVhnVkdRNUR3dXAxdDMyVl9NYzYtV28taF9DZzJmSDlwcTFWbnU3Z0JsbktmMms0azNTcUdmSTBmQWY2WGNjWHZOTGhTTVo5LWtCRWh5WFZzWWVZbmxSZ0h5MUQ5MUQxTTZFOXBTUE05YUFZZHkwYkNtVkdqcjd3a1d5bUxVdXlM?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Nasscom",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "github:Graphify-Labs/graphify",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-formal-verification",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-donating-agent-skills-to-the-agentic-ai-foundation",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "Hacker News:github-com-openssl-openssl-releases-tag-openssl-4-1-0",
+      "title": "Release OpenSSL 4.1.0 · openssl/openssl",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-23"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbminafbvv95cuxqenvtclc0yunut3pwogdevjhrc1c2vffos1pyv0nob2vvmmztsemtvtfmzu5veetvwwg4bkwzvddpnehlekvvtwfkxzfssmt",
+      "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenVtclc0YUNuT3pwOGdEVjhrc1c2VFFoS1pyV0Nob2VVMmZtSEMtVTFmZU5veEtVWWg4bkwzVDdpNEhlekVVTWFKXzFSSmtkVUU4enE0elBacXRXWTFQdy0xWTc2V3NYUVkwQzktYno1WjFrajlicUdYN0ZJSlZldUZFOHNfbmRYdnA5SnZkdzJsc1NndXVEQTU2Qm8?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Lawfare",
+      "sentAt": "2026-10-23"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxnwxczcnvzuvlkctjirnfqsu1zctnhs19dm1u1efjuythzm1pkcm5cdgdmqw9jbvbva0fqym41mdzhyknqlwjpr25ranllr2g",
       "title": "Applications open for Research Fellowship Program in Kuwait - fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXczcnVzUVlKcTJIRnFQSU1ZcTNhS19DM1U1eFJuYThzM1pkcm5CdGdmQW9jbVBva0FqYm41MDZHYkNqLWJPR25ranllR2gzM0Q4SEVBWWxPMzk0NW4zS2ljcF9nQUFNX2tHcEV6RDBwVGw4RUlOV2JtOThraE1nTm1ReVFkUGkzS0hLWDQ4dzBrOUY4cC14QmlqaGdsM2wyclFDeUxpWW9QZ9IBqgFBVV95cUxNWXczcnVzUVlKcTJIRnFQSU1ZcTNhS19DM1U1eFJuYThzM1pkcm5CdGdmQW9jbVBva0FqYm41MDZHYkNqLWJPR25ranllR2gzM0Q4SEVBWWxPMzk0NW4zS2ljcF9nQUFNX2tHcEV6RDBwVGw4RUlOV2JtOThraE1nTm1ReVFkUGkzS0hLWDQ4dzBrOUY4cC14QmlqaGdsM2wyclFDeUxpWW9QZw?oc=5",
@@ -3935,70 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMU9aYzJ3SFk0QUgyLXB0S2R2ZkJBZ0JlZi15MEotMGxoTXlfZU9oV1JuLXJkOTZ6UDVJY0duaUN0b3BBZFVyaHFZOGFFYzd5Z3dOLVh4U3hfYmFuYk9SVW9IS0IxVmRvSVFmNlZfXzhqQ1UxNHZWTmpxY1V6cWhyYUxlOG9xZFk?oc=5",
       "section": "opportunities",
       "source": "Opportunity · Opportunity Desk",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi0gfbvv95cuxnvkzxavzom2nnawlmbg5kai1twuxvavbizmpwsvpiemprb2nuruzoyzdmqueyzuezcnz2otvtlwhzswc0yvnptjzlvujrv0h",
-      "title": "Michigan Central Art and Newlab Detroit Opens Applications for its Expanded 2026 Creative Residency Program",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkZxaVZoM2NNaWlmbG5kai1tWUxvaVBiZmpwSVpIemprb2NuRUZoYzdmQUEyZUEzcnZ2OTVTLWhzSWc0YVNPTjZlVUJRV0hXdE9HTGREN3dlaE5jSHI5VUFOQm1EdkRaUnJuclZPVlJfRTBYc2Y4UTQ0ZVpIVW1nV3NNNlp5ckVCTXctaFZselZDV3FIbEtramRnRTFsTmhFWTFWYmNmV1ZFM21HbG5YbUpEajZUY05vNFlDUWJTTVNCdmdSZFNXUXhkRV9BMzJXRUE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Michigan Central",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxpwhl1vhnpcwfjmxjqt2zmsjvuewl1d0xqx0tkem92rnriauxeb2vud2n2aefta3hilxhackrhmnb5vtduq01bbnktq1rrajh",
-      "title": "PA Extends Low-Income Energy Assistance Program Application Period To May 8; President Calls For Eliminating The Program Next Year",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHl1VHNpcWFjMXJqT2ZMSjVUeWl1d0xqX0tkem92RnRiaUxEb2VUd2N2aEFTa3hILXhackRHMnB5VTdUQ01BbnktQ1RRajhlTThuQXpHa3FScEZKTWRYbG5CbW1nN3RyQ3UtTXlQTDJneUFSWVVTTkdOSC1tZ2tsVEFVenZtVGNrdjRKMnZ4b1haVE96N3c?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · PA Environment Digest Blog",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqvelgzfgzmenvewtjnelmylhjve1tbhbzy0zvsmznthvvx3zmc1fotgnsay1nzfmyvnm3xy12nwlittnqc1rrd0nrn0hwvwx",
-      "title": "Medtronic Spark Scholarship Empowers Future Health Tech Leaders",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVElGZFgzMENveWtJNElMYlhJVE1TbHBzY0ZvSmZNTHVVX3Zmc1FOTGNSay1nZFMyVnM3Xy12NWliTTNqc1Rrd0NRN0hwVWxHd0dvdDVLXy1TQWNWQno2T2xZamduYlF1bDBWRE9TRkN4NUZhX1NXbW01NUc4R09Uc3o2N243ZmNBMExfaUY4eFJBR2M?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · IIE",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnuguzek1is19txzutzjdrbfvjyudbqxhqzmtqaeljc3luyuv0oekxd05iqtbbeuwybgvrb1n6tfjuvtjoqm1gawpdugotmzl",
-      "title": "Ivy Tech receives nearly $200K grant to help low-income students",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGUzek1IS19TXzUtZjdRbFVjYUdBQXhQZmtqaElJc3lUYUV0OEkxd05IQTBBeUwybGVRb1N6TFJUVTJOQm1GaWpDUGotMzlxUTBRS2J2RFVtT0ZaZV9zUWg3R3JtcWFIRVNQNHhzZzU5ZkNoaWZDRktNZFN5Z1NiejhNbmxkemlWSlFWVlhwTTV2cDBTWUdsbnFGVQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · WFIE | 14 News",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "github:akitaonrails/ai-memory",
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-pacing-model-development-cyber-capabilities",
-      "title": "Pacing model development in an era of cyber",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-14036",
-      "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
-      "url": "https://huggingface.co/papers/2608.14036",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "Hacker News:yassa9-github-io-osint-gralhix-004",
-      "title": "gralhix #004",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "section": "tech",
-      "source": "Hacker News",
       "sentAt": "2026-08-19"
     }
   ]
