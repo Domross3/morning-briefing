@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:google-gemini/gemini-cli",
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-24"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-alignment-assessment-ukaisi",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-24"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-24"
+    },
+    {
+      "key": "Hacker News:torrentfreak-com-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn’t Exist * TorrentFreak",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-24"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmivkfvx3lxte9zd282znheczlome5wdfd1x0vlyy1kt0hqq0lxbezhwthnuvndn3hdrvlhce11s2nsn2fubxrvd0hfshhachexyxnpvdfgwvr",
+      "title": "What’s new in Homeland Security’s updated AI policy",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zd282ZnhEczlOME5WdFd1X0VLYy1KT0hqQ0lxbEZhWThnUVNDN3hDRVlhcE11S2NsN2FubXRVd0hFSHhacHExYXNPVDFGWVRBdHk1ZUhn?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · FedScoop",
+      "sentAt": "2026-10-24"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmingfbvv95cuxorghirdlomtnxsxvnqk5hqzvvbgzjz2k0q1vdq1rncmdov0wtchotogzlbkt2neducmfsaetsv2zusghkq2d1qwvhekvbsfb",
       "title": "AI and National Security Convergence Fellowship 2026-2027",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGhIRDloMTNXSXVNQk5HQzVvbGZJZ2k0Q1VDQ1RncmdoV0wtcHotOGZlbkt2NEdUcmFSaEtSV2ZUSGhkQ2d1QWVHekVBSFBwYUQyRTJxRnZYSldudFczc3FkdWZKZmR5STJYT245akRVaTFUWnFibzhWYnZNZnZ6eXJ0V0Zfc0NHNzFqWTltZmIyTHp4TzFGVGpiYXdaQQ?oc=5",
@@ -3960,46 +4000,6 @@
       "section": "ai",
       "source": "OpenAI Research",
       "sentAt": "2026-08-20"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-18565",
-      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
-      "url": "https://huggingface.co/papers/2608.18565",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-20"
-    },
-    {
-      "key": "Hacker News:simedw-com-2026-08-20-midi-autocomplete",
-      "title": "Training a 125M-parameter Model to Autocomplete Piano",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-20"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmihwfbvv95cuxpr0tpt1a4zxe2m2jqy2dhmvdsztvfrkffs3m2a3dwntm0cwrnwhbicvu5yulhwwftstuxdlhls3zpzgwzedaxs0eztufkwhh",
-      "title": "AI Regulation in Flux: What businesses should do",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0tPT1A4ZXE2M2JQY2dhMVdSZTVfRkFFS3M2a3dwNTM0cWRNWHBicVU5YUlHWWFtSTUxdlhlS3ZpZGwzeDAxS0EzTUFkWHhzSVVacmZoNDJpdEtUQWdJYTd3dmllSEJTZjF2ZUpqWHhMUVVVMVEwd3E5c25xSWtrdkdybVo0Um8?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · JD Supra",
-      "sentAt": "2026-08-20"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmipwfbvv95cuxnvwxqszjzdmfsowffalm4d3owb19btwtyuzboc2vfoe1gluo5a3jvcmj0zkvpb2dtvwh1bmnhafpuu3nnbkzisdfowhpxuml",
-      "title": "Google Says Its AI Can Do the Work of Forward Deployed Engineers",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWxqSzJZdmFSOWFFalM4d3owb19BTWtYUzBOc2VfOE1GLUo5a3JvcmJ0ZkVPb2dtVWh1bmNhaFpuU3NnbkZISDFOWHpXUmlBZEcyY2RpY2xOWWl2M3NXSEtHLU9mazRyLWRmeE9CbXZiTDlJOHRkeEl5MWpiNldxOVJMSTRLamxGYkJSTmVITmV0WWNMSUJLUXpYeEtCZlQwQ1dSZHRtbw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · The Information",
-      "sentAt": "2026-08-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmihwfbvv95cuxomu9ayzj3sfk0qugylxb0s2r2zkjbz0jlzi15meotmgxotxlfzu9ov1julxjkotz6udvjy0duaun0b3bbzfvyahfzogffyzd",
-      "title": "Endeavour Women in Tech Scholarship 2026 (up to $10,000)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMU9aYzJ3SFk0QUgyLXB0S2R2ZkJBZ0JlZi15MEotMGxoTXlfZU9oV1JuLXJkOTZ6UDVJY0duaUN0b3BBZFVyaHFZOGFFYzd5Z3dOLVh4U3hfYmFuYk9SVW9IS0IxVmRvSVFmNlZfXzhqQ1UxNHZWTmpxY1V6cWhyYUxlOG9xZFk?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Opportunity Desk",
-      "sentAt": "2026-08-19"
     }
   ]
 }
