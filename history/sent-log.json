@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxns0vtvm9kyvzxv2f0qvlrcgpesgxax0twwg5hswjvbxfxzffiq2xuqu1pvzjlwe5adl9yoglumzfrvg5lc0reevdta0fuznv",
+      "title": "Call For Applications: Bridge Leadership Bootcamp 2026 for Nigerian Students( Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0VTVm9kYVZxV2F0QVlRcGpESGxaX0twWG5HSWJVbXFxZFFiQ2xuQU1pVzJlWE5adl9YOGluMzFRVG5Lc0REeVdTa0FUZnVTWVUyQU9SbnNSN3AyTzAtMzFNQW4yNl9mdTlxTC1OWnVvajNDTmRPU29hcGF0SldIS1EzckcyOF9zYnZfcVFsdjdfUzVwck5kNGlvSW4wc1JvZHdldUNqUDZmMnNVUnk3bmpQb01heERXZ3c?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · MSME Africa",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixefvx3lxte9rb3fitjrlzmdwx2fpsm9adw9gac1mnfa3snfpb3e2yjllbxrvov9js21zcgryturhdzhpa2gwnnbyugjyzgr1wdzma2ztd09",
+      "title": "Hiring: Sales Engineer w/ experience in Network Observability / Performance (Twin Cities F/T remote)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Rb3FiTjRLZmdWX2FpSm9adW9GaC1mNFA3SnFpb3E2YjlLbXRvOV9JS21zcGRYTURHdzhpa2gwNnByUGJyZGR1WDZMa2Ztd09YYUNvRGZOYTJ3Q3Q3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · YouTube",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi1wfbvv95cuxqb2zgsgpucmexmnpla1lkqu5brutglwziumfpatvvtzvjujjqevf2vtnpcg52nfzrvuvtz3lruw5ux28yzhb0buj2cfnidwd",
+      "title": "LIHEAP Summer Subsidy applications opening soon; how to apply",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2ZGSGpucmExMnpla1lKQU5BRUtGLWZiUmFpaTVVTzVJUjJQeVF2VTNPcG52NFZRVUVTZ3lRUW5UX28yZHB0bUJ2cFNidWdUYTFKM1ozV1g4ZGFVSXA5MXVVeVJBM1NGdFhjeHFLUEl5YzlkYzAtS1RLMXpmblhDNFR2ZnJCLU42T3RCdU5xWVlnZEYwTVlVLTV4MThnRVAtRUNadlFjV2h3VjhVN0EzbzdZaDlSNjRvWjBrQXBFMkxITC1jcGRweEJDV0FyUU9ueXpFWjZDSQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WHAS11",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-31066",
+      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+      "url": "https://huggingface.co/papers/2610.31066",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-announcements",
+      "title": "Announcements",
+      "url": "https://www.anthropic.com/news/announcements",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "Hacker News:github-com-krushnavardhanreddy-paperpilot",
+      "title": "GitHub - KrushnaVardhanReddy/PaperPilot: Your local AI copilot for documents",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-26"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiwkfvx3lxtfb6amrzbjzlrkdsuepyttdvcm80uflnuxffrhmyav9wvgvide1jnlcznlizatjtsu8tm0judzcxudnjczjmx0itttnwd0ljvdz",
+      "title": "The AI Bill is coming",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6amRzbjZLRkdsUEpYTTdVcm80UFlNUXFFRHMyaV9WVGVidE1JNlczNlIzaTJTSU8tM0JudzcxUDNJczJMX0ItTTNWd0ljVDZpNWJqWHcyVFJIdw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Databricks",
+      "sentAt": "2026-10-26"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte8tm2fnczvirlyyuwhtsmxhtwnmwdrdtg1nvexjotrmndq0du1nzm5vtmdnvnlsu21vcwsxcxvnavy2zjrux00xt1hlmuhwvdd",
       "title": "Eric Bleumink Fellowship 2027–2028: Fully Funded Master’s Scholarship at the University of Groningen, Netherlands",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tM2FnczViRlYyUWhtSmxhTWNmWDRDTG1nVExJOTRmNDQ0dU1NZm5vTmdnVnlsU21vcWsxcXVNaVY2ZjRuX00xT1hLMUhwVDdsVnMtVmFBZlRGQ3lMLU9ncjNxekVfbnBsd29QN3M1eWtZRFJRS2c?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "opportunities",
       "source": "Opportunity · Sierra",
       "sentAt": "2026-08-22"
-    },
-    {
-      "key": "hunter:openai-com-careers-emerging-talent",
-      "title": "OpenAI",
-      "url": "https://openai.com/careers/emerging-talent/",
-      "section": "opportunities",
-      "source": "Opportunity · OpenAI",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "github:n8n-io/n8n",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-14022",
-      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
-      "url": "https://huggingface.co/papers/2608.14022",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-18580",
-      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
-      "url": "https://huggingface.co/papers/2608.18580",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "Hacker News:munderdiffl-in",
-      "title": "Munder Difflin — Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiyafbvv95cuxou1vlzv9tt3plwm9kaezysmxvb2picjkwbgt1unzrnedknkxuatv1qknbb0u5bxrrwffrrulwvmhuwnfdoulksm9qvkdvefp",
-      "title": "Trending Issues in State AI Regulation as Seen Through Connecticut’s Omnibus AI Law (SB5)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1VlZV9tT3pLWm9KaEZySmxvb2picjkwbGt1UnZrNEdkNkxUaTV1QkNBb0U5bXRRWFFRRUlwVmhUWnFDOUlKSm9QVkdveFp1UWRITXliWGN4dzhJYnU1bFJTNV9JNlkyVUdHRzdlUC13MHJ0U0xyUl9kNnlDUGVGSHpXQ0Jad0FSYlhDU211Y0tMQTdnVTNiTzhqWmdlWDFYQ2VFMHJqSktPa3M5bzdrYU1ETzlaaU5reXhxcHgyNU5mTHBOWFpVTw?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Sidley Austin",
-      "sentAt": "2026-08-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte9brdzus0dtrnfqsfzruktqbllzsjz4tu9ic19kvzj0sdnetvjod2vtsxd4n19sre4xzmnjbzdqme9swxjndxnwnepxakl3rnn",
-      "title": "Call for Applications: AICA × DataCamp Scholarship 2026/2027 for Africans",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BRDZUS0dTRnFqSFZRUktqbllZSjZ4TU9Ic19kVzJ0SDNETVJod2VTSXd4N19SRE4xZmNJbzdqME9SWXJndXNWNEpXakl3RnNsOV9DaU90VXNhU3lFbG81bHlULW5xSGxqcERGdnNB?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-08-21"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibkfvx3lxte42vnfwq1djcuxac2dyqjlzyldycvbusvpamm5fvvbcotf4rvy3txdzc3u4wufdmg5nbnrymzhncu9nqjjqym4wswixlwnkalc",
-      "title": "10 Companies Hiring Sales Engineers",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42VnFWQ1djcUxac2dyQjlzYldYcVBuSVpaMm5FVVBCOTF4RVY3TXdZc3U4WUFDMG5nbnRyMzhNcU9nQjJQYm4wSWIxLWNkalc0QmpPRmZMbWZwbDFUQ1hQMEd3aHRhczhld1VuRTRR?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Built In",
-      "sentAt": "2026-08-21"
     }
   ]
 }
