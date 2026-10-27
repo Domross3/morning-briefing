@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
+      "title": "Applications Open for Social Science Research Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Cambodianess",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmifefvx3lxte5fyxnfskxsywdkznjht3dwrdlwb18zdda3emdgbvmwazrkluhxuwdlmtb4wmlydglht096reqxtxzhajjqzujknlvoqmt6mtn",
+      "title": "10 Companies Hiring Forward Deployed Engineers",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FYXNfSkxSYWdKZnJhT3dWRDlwb18zdDA3emdGbVMwazRkLUhXUWdLMTB4WmlYdGlhT096REQxTXZhajJqZUJKNlVOQmt6MTNkYW8tcDRGeXVBNlhMcXZ4SHN4Y05PNDNCOEZoaW9OQ0drQkpwS05RRi1iaGs?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Built In",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmilafbvv95cuxqbva0venervmzb3pxotjutnfznhboskzfbwzzampkwnjqqwd2am92b1dwnxzbluxyt1zksu1iuwu0bgnawhlluwh4tvjcsvy",
+      "title": "IndiaAI Fellowship 2026: Can Students Get Paid to Build AI Projects?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVA0VENERVMzb3pXOTJuTnFzNHBoSkZFbWZZampKWnJQQWd2am92b1dwNXZBLUxYT1ZKSU1IUWU0bGNaWHllUWh4TVJCSVYzS3hRR2dMcEFtMnpXQTZ3bHN6MHlISngtVEM3dzRLREw4TGViMWEweUc3YnFCWFBReDZ1a0FQdXRCdlAwcWIxZXFkakQ2?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Youth Incorporated Magazine",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxptvfpahjjtm9quglxsmtidwjvzmrmwhvmmzntn1hgv3oyuev4umxwrxbnsenss0jxqvfcefdibvdin3a2bldtuw5teeprwjj",
+      "title": "Apple student scholarship winners won't get to WWDC in person this year. Instead, they'll win a jacket",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVFPaHJJTm9QUGlXSmtIdWJvZmRmWHVmMzNtN1hGV3oyUEV4UmxWRXBNSENsS0JXQVFCeFdibVdiN3A2bldtUW5teEprWjJIQXp3NDUwZFlBbzNkdlYxUE42Q0JZOWNRU29sQkZfWWw4NVlSdEYtZzkzY1gwV2VwbklnVmJRV19vRWp3cUlhWnFIb3VHXzAyYUVpbUVhMjY5TkFkam5ZYTkxaHpUcTF1akNMdTlOX3dQYmc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · USA Today",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "github:nightly-labs/openbot",
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-27"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijafbvv95cuxpqmfoy3a4oxdqwwexaxznt0vgsmrfvwk4b05bshhozxnaqtflt1e3ul90zdd1vlfmnv9evwxyrulitjmtt0fyzhqzahb6b2d",
+      "title": "NJ Democrats eye data center, AI regulation if Congress changes hands",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmFoY3A4OXdQWWExaXZNT0VGSmRfVWk4b05BSHhOZXNaQTFLT1E3Ul90ZDd1VlFmNV9EVWxYRUliTjMtT0FyZHQzaHB6b2duQTdoeFBySXJhYzRUZnFIQldpSzJFSE9GMlBacjh3SXBTcVZUb0lISVlfRGUwZ3F0RFdVSjh5bHRsLVBiNw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · New Jersey Monitor",
+      "sentAt": "2026-10-27"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxns0vtvm9kyvzxv2f0qvlrcgpesgxax0twwg5hswjvbxfxzffiq2xuqu1pvzjlwe5adl9yoglumzfrvg5lc0reevdta0fuznv",
       "title": "Call For Applications: Bridge Leadership Bootcamp 2026 for Nigerian Students( Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0VTVm9kYVZxV2F0QVlRcGpESGxaX0twWG5HSWJVbXFxZFFiQ2xuQU1pVzJlWE5adl9YOGluMzFRVG5Lc0REeVdTa0FUZnVTWVUyQU9SbnNSN3AyTzAtMzFNQW4yNl9mdTlxTC1OWnVvajNDTmRPU29hcGF0SldIS1EzckcyOF9zYnZfcVFsdjdfUzVwck5kNGlvSW4wc1JvZHdldUNqUDZmMnNVUnk3bmpQb01heERXZ3c?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "opportunities",
       "source": "Opportunity · Global South Opportunities",
       "sentAt": "2026-08-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxodnvyrelfulb2c0otam8trhvccufqcenfwllmnm9nzy1qzw1erdl5uevnswvpy200nxdotjlkcuvlmwm4yxd3tkvqdla4cvj",
-      "title": "Biolevate Expands Hiring Across AI, Security, and Life Sciences Functions",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnVyRElfUlB2c0otam8tRHVCcUFQcENFWllMNm9nZy1qZW1ERDl5UEVnSWVpY200NXdoTjlKcUVlMWM4YXd3TkVQdlA4cVJZUlFyX1FOaGZDNTVZT1JST1I3N01LemxjMU56UW9pdHZRaXJWMlVDVW5HUy1FU291Wjg1UE5ES0NueXl5YkQtTTk2N0lUbFhNTHVjeUVTbW5EZGw3U203NzFRWjBKNEFCUGd4eXF6NmxIU25R?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · TipRanks",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiigfbvv95cuxnsjjsawjurdlxuwxvofnrchbiofrtms1xz0prx2zvuv96a21nrhq4d3jste1fu050z0xms01fcvb3b05rdek0r25lm0fkm0f",
-      "title": "Codar Launches a 50 Million Tech Scholarship for 100 Africans",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjJsaWJuRDlXUWxvOFNRcHBIOFRtMS1xZ0pRX2ZVUV96a21nRHQ4d3JsTE1fU050Z0xmS01fcVB3b05rdEk0R25LM0FKM0FTRHk5ZVBYVkdLSjljOE91eDBGUFBBRW5FNU1kVFdPTUh6eXYzbmdCSzZNSVQxV240N3FWaDNua01PQnc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Punch Newspapers",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmivkfvx3lxte40yzy4elpuavy0zwtdbmhnal8wc2pewwj1qw5mbhnolxr3azdxnu0wlwhlourycwd5nwnlvgzizzr5aed2amozaxlbqk9pq3y",
-      "title": "Introducing Claude Corps",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Anthropic",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "github:tinyhumansai/openhuman",
-      "title": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-20335",
-      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-      "url": "https://huggingface.co/papers/2608.20335",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-20336",
-      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-      "url": "https://huggingface.co/papers/2608.20336",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "Hacker News:www-xda-developers-com-qwen-3-8-27b-reverse-engineering-job-frontier-model",
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-23"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-sierra-9738d0f0-13be-4e89-9fba-505e7cac288f",
-      "title": "Sierra APX Program (New Grad — Agent Engineer + Agent Product Manager rotation)",
-      "url": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f",
-      "section": "opportunities",
-      "source": "Opportunity · Sierra",
-      "sentAt": "2026-08-22"
     }
   ]
 }
