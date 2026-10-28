@@ -2,6 +2,78 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxqvenwcy1zaehvueu5undvmdloefvqqtznsk5xshv0em45d1rzuldovxhtctzxqxe0vg5kuc12mgzragdevhb3ylftnuhqtzl",
+      "title": "Lester B. Pearson International Scholarship Program 2026/2027 for Undergraduate study at the University of Toronto, Canada (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVENWcy1ZaEhvUEU5UndVMDloeFVQQTZNSk5XSHV0em45d1RzUldoVXhTcTZXQXE0VG5kUC12MGZRaGdEVHB3YlFTNUhQTzlzV3Jqbk5SRDdhUm5mY1BPekhrWDdKUUltNnpSSkUzeVBaR1VJM2RDSnlwSnVqYkFwejJkQ2lidjVHcUxFcWFEaWZNNmp4RTJheG5pRm1NblRtUmZjNA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxtfbprnbmutgtukwzew0wyuncdfn6d1d3tvhfvthmntzeu3c1ze1pv0hjwevwn291nup1clnwalpkohbpz2przjl6ovjtt2g1sdh",
+      "title": "Fully Funded Pivotal AI Safety Research Fellowship 2027 in London: Earn Up to £18,000 and Work With Leading AI Experts",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRnBmUTgtUkwzeW0wYUNCdFN6d1d3TVhFVThmNTZEU3c1ZE1pV0hjWEVWN291NUp1clNwalpKOHBpZ2prZjl6OVJtT2g1SDhRZUQyUHJtcFBDcEJrRmlGVGoyOURvSXNoS3dTUQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmijwfbvv95cuxnuw9pyvrmwxrhwnrit1jscwlxnupque1gnfrnzmzxetzkuhdcq18wtklroepjujzuu00za1riynjhngfzu2dgmjraszzxuu1",
+      "title": "Good to Go! Offers discounted tolls on two stretches of highway through low income program",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUW9pYVRMWXRhWnRIT1JscWlXNUpQUE1GNFRNZmZXeTZKUHdCQ18wTklROEpjUjZUU00za1RIYnJhNGFzU2dGMjRaSzZxUU1fZTdOZkNWMXpkS0ZqNTNfVnQ5cHpTZWhWc1RhalB1OERod19HVjBhdk9LUmtoTkVZd043RUJrN2Q3S2pZMktIZw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Yahoo",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmivkfvx3lxte40yzy4elpuavy0zwtdbmhnal8wc2pewwj1qw5mbhnolxr3azdxnu0wlwhlourycwd5nwnlvgzizzr5aed2amozaxlbqk9pq3y",
+      "title": "Introducing Claude Corps",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Anthropic",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-legora-agentic-operating-system-for-legal-work",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-retell-ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "Hacker News:www-anthropic-com-research-early-progress-drug-development",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-28"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiigfbvv95cuxnafvfdnrbbzzzcfh6oxi1bgg4ee9rd3rgc3f1y0vcykzeutyyqnvxekjkafk2bc1pmzvpz2htufjmnexrtxm4anbmvkrwquo",
+      "title": "AI regulation push gains steam ahead of midterms",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFVFdnRBbzZzcFh6OXI1bGg4eE9rd3RGc3F1Y0VCYkZEUTYyQnVxekJkaFk2bC1PMzVPZ2htUFJmNExrTXM4anBMVkRwQUo2RVFwQkxIdkp2X01WTFpVRUZja3VrOE9YT3hOS1hfU0M2MndiTi0zWGFZSFBnby1XT0VsZFMxbHc5a0E?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · CFO Dive",
+      "sentAt": "2026-10-28"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoefpfy05pdjhfrgl1t0cxr2zzd1p5uk1suhaway12vk84ckn5sxpiavnkbunpyzq5wdlqwxpnuhptd28wtfhtd3fru2fxodv",
       "title": "Applications Open for Social Science Research Fellowship",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFpFY05pdjhFRGl1T0cxR2ZZd1p5Uk1sUHAway12Vk84ckN5SXpIaVNKbUNPYzQ5WDlqWXpnUHptd28wTFhtd3FrU2FxODV4azMwcnBhUjRpWUhGT3ZZTTRqT2NCRFFjN0szWE84M1BBRXlkRVFyaVNPSnVaX2kxUGVrdEVWX3k2a1JQd0ROSl82Nk0?oc=5",
@@ -3928,78 +4000,6 @@
       "section": "legislation",
       "source": "AI Policy · Tech Policy Press",
       "sentAt": "2026-08-25"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi7wfbvv95cuxpselvs2w2mmhttmowbnc3qk9lvjl1nfvqmgprovk4cw85zmt6mnpaseplcm1ox29ln0tmnguwudfkq0fhrunzd01kzdj2lw5",
-      "title": "Blend to Grow Forward Deployed AI Engineering Force to 750 by 2027 as Enterprise AI Demand Accelerates",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSElVS2w2MmhtTmowbnc3Qk9LVjl1NFVqMGpROVk4cW85Zmt6MnpaSEpLcm1oX29LN0tmNGUwUDFkQ0FHRUNZd01KZDJ2LW5XbnEzN1JyZTIyak45RjNER1F2SXFoa25oLUNyYnNBQnZnSHRVNHRiOXgtNWJ1aW5uVFo5NlU2QXB6cEc4SDNSb1kzQTFaUTg4Wm1vUENWdHk1M212dXRDVnh3SGU5X2xWLVdVS1NCX0VTODlmUWpoZnVPc1drZ2VqUlNhcWplZGNQMW9teGRVdWxrbkc2S2VUUWttd1NSWHJ2aWVrWHotZw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · PR Newswire",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiakfvx3lxte1jzezzdxv3nwdowwnbylb1utjaqnz5ew5ayjfhyu9yruxrmmhqbwvbq3c1akqyy1jga0uymfi3mengce9is3z5rwxluxdxwgu",
-      "title": "This WTAMU program teaches AI and pays off with a scholarship",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jZEZZdXV3NWdoWWNBYlB1UTJaQnZ5eW5aYjFhYU9YRUxRMmhqbWVBQ3c1akQyY1JGa0UyMFI3MENGcE9IS3Z5RWxlUXdXWGU0MUxZczhHLWx4X0tpVDZYVXNwTHE0UmJ5T3c?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Amarillo Country Radio",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi2wfbvv95cuxpuvvlr2nwzgpzlxoztvnymwj2cflyaglnegvnbezswwytd3mzrloyaerougporlnyt0nvqwexmvpdb1zjyze3mjnpzjn5vhp",
-      "title": "Neuroscientist warns Gen Z first generation less cognitively capable than their parents",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUVVlR2NWZGpzLXozTVNyMWJ2cFlyaGlneGVNbEZSWWYtd3MzRloyaEROUGpoRlNyT0NVQWExMVpDb1ZJYzE3MjNpZjN5VHpjNU9yTTg2RUFUdm51ZEI0NVNtblltbE1qT004bjBDdkVfcGpDYXJIS0V5dzlpYXhUX3F3d3ZYVGRHSDUxMXdtX3VCWWNLN0VGQkVmU0ZkeHItaVdaRnhhUl9iRTgwSG8taThlTjVFMWpDcTBGWlZ2LXlzS0tjV3d4YWE3bmxxQVpIaU96TTRzVmRoWW8?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Fortune",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "github:apache/maka",
-      "title": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-16647",
-      "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
-      "url": "https://huggingface.co/papers/2608.16647",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-21156",
-      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
-      "url": "https://huggingface.co/papers/2608.21156",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "Hacker News:risky-biz-risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras",
-      "title": "Risky Bulletin: Slovakia finds Russian backdoor in traffic speed cameras",
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxpndgyrel5ltvrtnfqauviq0vlrnzovhv0vvr4q2j1x0tqwwrrmtl0zunoujewdg9ong1jvxlqsep6avjvdtmzy3vhrxgxztj",
-      "title": "Discussion on AI Regulation & Containment Failures",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDgyREl5LTVRTnFQaUViQ0VLRnZoVHV0VVR4Q2J1X0tqWWRRMTl0ZUNOUjEwdG9ONG1jVXlQSEp6aVJVdTMzY3VhRXgxZTJ4ODI4VkxYMGlWcDA5OXNoUlRLMFlmQ1NpVG1qanBXNUVUdWtxcEcwZzRqdDItTld5R3dISjFwZW9KZndXWWZhaENTYnVybkxiT2p0X0FQYjl0UGpxSkJJVVU?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · C-SPAN",
-      "sentAt": "2026-08-24"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte5crfpkau9rvehwym9qyxfzz3pwndngvwpyt2nhuwjmcmxpzkrut21evwvzwle1zvi5rzlkr2hzalbwwwzgrwrwzhrtv002cfd",
-      "title": "East-West Center Graduate Degree Fellowship 2027: Fully Funded Master’s & Doctoral Study at the University of Hawaiʻi - Apply By 1 December 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRFpKaU9RVEhwYm9QYXFzZ3pWNDNGVWpyT2NHUWJmcmxpZkRuT21EVWVzWlE1ZVI5RzlKR2hzalBwWWZGRWRwZHRtV002cFdaQmJ0Q1h2aUtrekQzODZHVm8tWWNTR0Z6TmlDWTc1NXBiVUpvbkE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-08-23"
     }
   ]
 }
