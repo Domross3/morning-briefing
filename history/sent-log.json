@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxolwpdywtkotjeul8xmg95cfblak1zowvgufdrms0wtnvub05lvzhxz3lux1vcdkjes1jdzvhzs0l2ugwxue9mmdh2rgznnxk",
+      "title": "Medtronic Spark Scholarship Applications Now Open for Students Pursuing Careers in Healthcare Technology",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWpDYWtkOTJEUl8xMG95cFBLak1zOWVGUFdrMS0wTnVub05LVzhXZ3lUX1VCdkJES1JDZVhzS0l2UGwxUE9MMDh2RGZNNXk5bmFudDJ4VXZSakVvUl9jUm1WbUJsclhwYmNXek9CTUlhQUtBMF9mRW9YcFQ2WEhyeUJWVjFkcGdqLUdoWkVLZ3AxQXdsYU41RU1WUHFjLUQ1VUpsRVRGMlZFNVZtNGR6eWR0d296Qzdtc0tyNXB3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · CSRwire",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxoltkyd293t0rlv1fsmjhuzmtimmflsmnkahuxqknvr01hctflowddsfdrejm2bzfttme3z09pzgv3vmnhnekttzfnbgfpajr",
+      "title": "Computer science major explores undergraduate research",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTkyd293T0RLV1FSMjhuZmtIMmFLSmNKaHUxQkNVR01hcTFlOWdDSFdrejM2bzFtTmE3Z09pZGV3VmNhNEktTzFnbGFpajRlbVdFYW5LNGFqQ0Z6a2tCRWtBSWxsYkFrZjNWeWVldG94bFVGU0hsS01WN3RXUW5SSDNDa2NWSl8yZXp6WFhCa3FmQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Mizzou Engineering",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "github:Donchitos/Claude-Code-Game-Studios",
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-agents-judgment-calls",
+      "title": "How AI agents shape experts’ judgment calls",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-openai-servicenow-partnership-expansion",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "Hacker News:ir-doordash-com-news-news-details-2026-doordash-to-acquire-instacart-to-help-local-stores-win-default-aspx",
+      "title": "DoorDash to Acquire Instacart",
+      "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-29"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiuwfbvv95cuxoshvrb19stutsd0hqzw9vsnhqam1fqvfmqnp6adffy1v5rf9lrhcwb29lcetfcdb2d1bkelrqbhjmmi0zogrqq1dvmljwdel",
+      "title": "Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHVRb19STUtSd0hqZW9VSnhqam1FQVFmQnp6aDFFY1V5RF9LRHcwb29LcEtFcDB2d1BKelRqbHJmMi0zOGRqQ1dvMlJwdElDM2YzcWhMbXpGMU03MDREdE5PSmFlSHpQcUxiVkNPQ3hSTG5VSGwySS1FYmJBeDJjakIydWMxLWNJZXFYM3gwQUVhbWtKX3BGYUtZdVZMQ1plMGN0UjVkNTdwY1VqSkVnZlh4OThnLXlmUGpR?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · IAPP",
+      "sentAt": "2026-10-29"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmipafbvv95cuxqvenwcy1zaehvueu5undvmdloefvqqtznsk5xshv0em45d1rzuldovxhtctzxqxe0vg5kuc12mgzragdevhb3ylftnuhqtzl",
       "title": "Lester B. Pearson International Scholarship Program 2026/2027 for Undergraduate study at the University of Toronto, Canada (Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVENWcy1ZaEhvUEU5UndVMDloeFVQQTZNSk5XSHV0em45d1RzUldoVXhTcTZXQXE0VG5kUC12MGZRaGdEVHB3YlFTNUhQTzlzV3Jqbk5SRDdhUm5mY1BPekhrWDdKUUltNnpSSkUzeVBaR1VJM2RDSnlwSnVqYkFwejJkQ2lidjVHcUxFcWFEaWZNNmp4RTJheG5pRm1NblRtUmZjNA?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-08-26"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxqa2vpv0hzslf2d1hxt08ycme3bunmbxdqrerhn3g3mfy5de44wfrjugnttnf6audmz09iawvzv1vvy0rkt1hhy21hwnb6agh",
-      "title": "AI Policy Will Increasingly Shape How State Agencies Deliver Programs",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2VpV0hzSlF2d1hXT08ycmE3bUNMbXdQRERHN3g3MFY5dE44WFRjUGNtTnF6aUdMZ09iaWVZV1VvY0RkT1hhY21HWnB6aGhsS3pwUXEza1c2RG0wRUJUTEVaa2tYWmFJUkhnWnV3TGFHUVRoc0JOTUNiMWlSem1JQXRjN3ZLdk8tT25OWTZuaWxDa1JKdWUtOC0tR2xacDZ6cnRmWmRUa0U?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · National Conference of State Legislatures (NCSL)",
-      "sentAt": "2026-08-26"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxndxzialzcvdjsuus3otzku0uyoxyyunlad2uyx2uteezulvlnvmm1y21tatexehnbbkhptuhly0rjddlvzgutdldum3bcsk5",
-      "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXZIalZCVDJSUUs3OTZkU0UyOXYyUnlad2UyX2UteEZuLVlNVmM1Y21taTExeHNBbkhpTUhlY0RjdDlVZGUtdlduM3BCSk5abVhGOXlRM3d3WXhxQ0tuOEFHU0JWcEs3djhHWF9MU0h0d29ISl81YmNOMjFtV1JHUEdPMTNUdlVJeHBDNXpvT29YV0tkeFpsYQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Tech Policy Press",
-      "sentAt": "2026-08-25"
-    },
-    {
-      "key": "github:Shubhamsaboo/awesome-llm-apps",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "url": "https://huggingface.co/papers/2608.23283",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-25"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2608-23189",
-      "title": "EchoWM: Open and Enterable Omnimodal World Models",
-      "url": "https://huggingface.co/papers/2608.23189",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-08-25"
-    },
-    {
-      "key": "Hacker News:www-laude-org-updates-headlong-a-microharness-for-persistent-agents",
-      "title": "Headlong: a microharness for persistent agents // Laude Institute",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-25"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiiafbvv95cuxpsjrlsxjutuzqcdyyajnob3lsdgdax2rvc0d4staxt1deuenwelfnwutxbjdjngl1z1ztvenycv8zmghtvdmzrvhsvhpxrev",
-      "title": "Colombia is Preparing a Poor Copy of the EU's AI Act",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjRlSXJUTUZQcDYyajNOb3lSdGdaX2RVc0d4STAxT1dEUENwelFnWUtXbjdjNGl1Z1ZtVENycV8zMGhTVDMzRVhSVHpXREVLeVZya1NFbVNhcmQzU1pqQVpsbkVPUS1iQ1RhbkY0cExiYzh0Z21yX0JMN3ZaZmkya1JDc1lPZTlF?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Tech Policy Press",
-      "sentAt": "2026-08-25"
     }
   ]
 }
