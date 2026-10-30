@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmixkfvx3lxte1im2tryth3enlwzxo3qvlavevumzbrdtz1atznugu1bwdirg1hywnrelk2yl9xd1axbmpfmlnhv0hseulomm5kynyxujnvekv",
+      "title": "4 Paid AI Fellowships for 2027, From Abuja to London, You Can Apply to Now",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IM2tRYTh3enlWZXo3QVlaVEVUMzBRdTZ1aTZNUGU1bWdIRG1HYWNRelk2Yl9xd1AxbmpFMlNHV0hSeUloMm5KYnYxUjNVekVLSWVXeGVCaVRPSDMwRHc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Techloy",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi7gfbvv95cuxqdldqqjqzblbxughox0nbsv9immhleknhzwx4znjhexi5ugrvegzfdektrnmzceqtogplctf1uerht3ppak1vdtborg5uewt",
+      "title": "Institute for Physical Artificial Intelligence launches new interdisciplinary postdoctoral research program",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdldQQjQzblBXUGhoX0NBSV9IMmhLekNhZWx4ZnJHeXI5UGRveGZfdEktRnMzcEQtOGpLcTF1UERHT3pPak1vdTBORG5ueWtUNVVsM2xkdDNfQmtpbUVyelJQM0VLNlNvY3JWQk1BMHR1Y3BBUGtXZ25CUllObjBuRTBCMU1OajhxRXpRTWVoRmFFdHlYbzZReklzXzBrTk54RUk4X1l0NnVvZ2p5ZHBTTzRWbXkzRUQwV3lpQ21rZU5na1lXSnBDS1Vnc3VpUzJiWTRiRmU2OUFuYlJrY3BxUm5GY29ibGZTUG5Kalh3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Purdue University",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxodkhvdk0xztnqdv8xv2q4dge1es12tc1ps2g0oeztzljvwlznqwljn2k4eldfzlrmnuvotjzbsg1ydhi5ltrqde5waeyxyvv",
+      "title": "Pacific Power wins industry award for AI-powered analysis tools",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkhvdk0xZTNqdV8xV2Q4dGE1eS12TC1pS2g0OEZTZlJvWlZnQWljN2k4eldFZlRmNUVOTjZBSG1ydHI5LTRQdE5WaEYxYVVMMTFYU2NVMGtLcldvQUhfQk9VRHB4VkRMOThrbXhBNkRuNkFfUmk0Q3VzcGJVRHR3Yld3SUxBME03amJWNWhRUTlwWmZuVGJFT08wMDBta2wwc05IWkJ3c0tJQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Daily Energy Insider",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "github:pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and institutions",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "Hacker News:doublepulsar-com-anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-10-30"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipgfbvv95cuxpr1vuatffbev3zm5vb1lvy3rum0rqywnswuqwu2nvvu9ma0jywvfnqm5mbzlyquytmfnidnhsrulmn0nhoe5ucnvonxz5mk1",
+      "title": "A Starting Point for Your City’s AI Policy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1VuaTFFbEV3Zm5Vb1lvY3RUM0RqYWNsWUQwU2NVVU9Ma0JyWVFnQm5mbzlYQUYtMFNidnhsRUlMN0NHOE5ucnVONXZ5Mk16VmFaeGFQZ2kydFM5c1lPM2RocndMWGlnV0xJbEJ2bkJnVkp2OURBVjNKSUtka2pVLVF5aUZHRTJvRGZiTlF1SUpaSkRYUU1ZRzJ2U3l6NmFBQUhjQXVn?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · League of Minnesota Cities",
+      "sentAt": "2026-10-30"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxolwpdywtkotjeul8xmg95cfblak1zowvgufdrms0wtnvub05lvzhxz3lux1vcdkjes1jdzvhzs0l2ugwxue9mmdh2rgznnxk",
       "title": "Medtronic Spark Scholarship Applications Now Open for Students Pursuing Careers in Healthcare Technology",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWpDYWtkOTJEUl8xMG95cFBLak1zOWVGUFdrMS0wTnVub05LVzhXZ3lUX1VCdkJES1JDZVhzS0l2UGwxUE9MMDh2RGZNNXk5bmFudDJ4VXZSakVvUl9jUm1WbUJsclhwYmNXek9CTUlhQUtBMF9mRW9YcFQ2WEhyeUJWVjFkcGdqLUdoWkVLZ3AxQXdsYU41RU1WUHFjLUQ1VUpsRVRGMlZFNVZtNGR6eWR0d296Qzdtc0tyNXB3?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "ai",
       "source": "Anthropic Research",
       "sentAt": "2026-08-27"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-27"
-    },
-    {
-      "key": "Hacker News:twitter-com-wxnb-status-2092875025246261494",
-      "title": "Nahel Belgherze (@WxNB_) on X",
-      "url": "https://twitter.com/WxNB_/status/2092875025246261494",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-27"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmitafbvv95cuxodg1jndh1nkjbx3czc28zrufvrzewqkvqsk1wykpna0jlwgp3c3zfrudontdpzhp0d3hxzzvdmtdyejzzbnvuu2xtqm0xexv",
-      "title": "The OpenAI-TanStack incident shows why EU AI Act deployers need supplier-incident evidence",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG1JNDh1NkJBX3czc28zRUFVRzEwQkVqSk1wYkpna0JlWGp3c3ZfRUdoNTdPZHp0d3hxZzVDMTdyejZzbnVUU2xTQm0xeXVBRWRiN0hTcnhHMHB2bzZsNURMTzY4Y0N0eTZ3cWRjZ2JwVVpvaWdYZW5XT2VLR3FFRWlhQloySnlrNlBMMUs5V1VmcWpabDhVN1BUV21TSkphMWJIR1hJeGtaTFNOanJ5VGpsYjQ?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · IAPP",
-      "sentAt": "2026-08-27"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimgfbvv95cuxnyvhtq3pdlvnkberqufhywvzedlvtaegtevn4tza3z0t2zfq5wjr4elnfnfmtakfqwfrjyw5zvgvvevpxltvjc1pqwtdrm3f",
-      "title": "Open Call for Information Controls Research Program",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVhTQ3pDLVNKbERQUFhyWVZEdlVTaEgteVN4TzA3Z0t2ZFQ5WjR4elNfNFMtakFqWFRjYW5ZVGVveVpXLTVjc1pqWTdrM3FJaGpHNVp3VjdhQ1ZvS1FaMlBEY3lDVWRVenJJTzduUmd5WTk4aTJnSHUtMlpFN09vcnJHSkxtYVRWSVJza3lwelFmQ3dIYUVWT1F30gGaAUFVX3lxTE1hWFNDekMtU0psRFBQWHJZVkR2VVNoSC15U3hPMDdnS3ZkVDlaNHh6U180Uy1qQWpYVGNhbllUZW95WlctNWNzWmpZN2szcUloakc1WndWN2FDVm9LUVoyUERjeUNVZFV6cklPN25SZ3lZOThpMmdIdS0yWkU3T29yckdKTG1hVFZJUnNreXB6UWZDd0hhRVZPUXc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · fundsforNGOs",
-      "sentAt": "2026-08-26"
-    },
-    {
-      "key": "github:tt-a1i/archify",
-      "title": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-08-26"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-08-26"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-wellbeing-research-grants",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-08-26"
-    },
-    {
-      "key": "Hacker News:www-gatesnotes-com-work-make-ai-work-for-everyone-reader-a-turbulent-ai-era-and-critical-choices-to-make",
-      "title": "Bill Gates: The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-08-26"
     }
   ]
 }
