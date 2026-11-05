@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmic0fvx3lxtfbqbdg5dhnpse15bmldqw5gqmnenk5hbv9sndlqvnzjd1nfcuc1ytvwylphri1ytepicvctanlgd1z1qm9aag9km2ztthvdcmp",
+      "title": "EDSAFE AI Fellowship 2027",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQbDg5dHNPSE15bmlDQW5GQmNENk5hbV9SNDlqVnZJd1NFcUc1YTVWYlphRi1YTEpIcVctanlGd1Z1Qm9aaG9KM2ZTTHVDcmpsZ1VpNHFKRkNZTC14SWFWVHg2ZWFsOEZfUVc1d0MyZHBUQ0E?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunity Desk",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9ste53rhlsn29avnnzv0hjcgzclwf3svlurhnxsmtux2i3ngpys0gztlviq3dfa0xuynl0se5nzeflzutpefzymw81sejvbtr",
+      "title": "SPARC-AI Fellowship 2026: Empowering Rural Women Through Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9STE53RHlsN29aVnNZV0hjcGZCLWF3SVluRHNxSmtUX2I3NGpyS0gzTlViQ3dFa0xUYnl0SE5NZEFlZUtPeFZYMW81SEJVbTRxbi1vVy1XcEVCTFphbWcwQnZQaGcxVnVOQkQtMERkY0c5Z0owcnc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuafbvv95cuxqvg9moxbxlxj1ae9lylpgx1drc0vuoghttkizc3ptsutywhfoagryeulflv9galdtuhr1c282z2rubeztvmxjq2f4oxnzsgh",
+      "title": "CT Regulators Establish 5-Tier Low-Income Discount Rate for Gas Heating Customers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVG9mOXBxLXJ1aE9lYlpGX1dRc0VUOGhtTkIzc3pTSUtYWHFOaGRyeUlfLV9GaldTUHR1c282Z2RubEZTVmxjQ2F4OXNzSGh5S2lrUURrUk42bEdyZ0paOHFqUUxRYmY4VU9YTWdmb0IwUWMwSVJHUy0zZ0pqVzdnNWJIVFNmVTdOZ2xMTS1PRE1iMVF4S1doTlFEZ0JtYm5NSzk0THlBU1hQVzBHRFVQVGZndXZsWG110gHPAUFVX3lxTE1razRpY3psWEMxZkFzNm92b0FWRGxuSkVzZjVvTy11b2V2WmJrUTduV0xJYlJqbzFFX18yeEpsYUM3X2JURXRSOVdhall3ejFNaFExWFB6aFE2RFVpQ3ViRTlPM0x1dlJIcWpXRmN1RUhpWF9XZEhhRzZYLXA0THlqMnoxb1hhY3hidUhKVnN3cWZhbV82SWVvZjhueXJ0eWlnd2szQU9JT1VITXlTajM4Nlg2Mm5jUThHMFpBMzB2MldaN0ZydUw1ZVdNclF3dw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Patch",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi2wfbvv95cuxpuvvlr2nwzgpzlxoztvnymwj2cflyaglnegvnbezswwytd3mzrloyaerougporlnyt0nvqwexmvpdb1zjyze3mjnpzjn5vhp",
+      "title": "Neuroscientist warns Gen Z first generation less cognitively capable than their parents",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUVVlR2NWZGpzLXozTVNyMWJ2cFlyaGlneGVNbEZSWWYtd3MzRloyaEROUGpoRlNyT0NVQWExMVpDb1ZJYzE3MjNpZjN5VHpjNU9yTTg2RUFUdm51ZEI0NVNtblltbE1qT004bjBDdkVfcGpDYXJIS0V5dzlpYXhUX3F3d3ZYVGRHSDUxMXdtX3VCWWNLN0VGQkVmU0ZkeHItaVdaRnhhUl9iRTgwSG8taThlTjVFMWpDcTBGWlZ2LXlzS0tjV3d4YWE3bmxxQVpIaU96TTRzVmRoWW8?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Fortune",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "github:vercel-labs/agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-investigating-vault-particles-with-claude",
+      "title": "Investigating vault particles with Claude",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2611-06910",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "https://huggingface.co/papers/2611.06910",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-05"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmijwfbvv95cuxqq3oyexg3tmdytkfianrjnfqzsmj3efhtnjzhu1fpx1jwy0pbdui2mw84n19oak03quxwoth6v1lxrhvysk4xr2ttu2w4vmh",
+      "title": "What the blue tsunami means for AI policy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3oyeXg3TmdYTkFianRJNFQzSmJ3eFhtNjZHU1FPX1JwY0pBdUI2MW84N19oak03QUxWOTh6V1lXRHVySk4xR2tTU2w4VmhreHI5bDctdEpWeDBUMko1eWswWVUtUFVMX1ZubVNMVjZmMU96U1JOSjBmc05NX2NrdEhBUHdFRFN3ZnAxcTVVRQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Transformer | Substack",
+      "sentAt": "2026-11-05"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmirgfbvv95cuxqdw9swjcxnzhpbjvyxzb1c1yxanznbvlgce9xam5yrxpjte44vtbqvjjerdaxrmnmeu44ave2qwnzrk9wwxbpyuhosujndfp",
       "title": "Call for Applications: DC Summer Fellowship 2027",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW9SWjcxNzhpbjVyXzB1c1YxanZnbVlGcE9xam5yRXpJTE44VTBQVjJERDAxRmNMeU44aVE2QWNzRk9wWXBPYUhoSUJNdFpDUF8yNDJzNUpLOTdIY0gxTTRfODlmZUptd3psLU55UURhNGZheUVOZ1BsZU5wdHpUbXhBNUNGWDVPaWlXNkxFQ085dWFMT0lvRDJrMF9WdTdYSjVPMnVXMVl2M3drTWfSAa4BQVVfeXFMUHVvUlo3MTc4aW41cl8wdXNWMWp2Z21ZRnBPcWpuckV6SUxOOFUwUFYyREQwMUZjTHlOOGlRNkFjc0ZPcFlwT2FIaElCTXRaQ1BfMjQyczVKSzk3SGNIMU00Xzg5ZmVKbXd6bC1OeVFEYTRmYXlFTmdQbGVOcHR6VG14QTVDRlg1T2lpVzZMRUNPOXVhTE9Jb0QyazBfVnU3WEo1TzJ1VzFZdjN3a01n?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "opportunities",
       "source": "Opportunity · FinancialContent",
       "sentAt": "2026-09-02"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte5mnklhcte3b1fiog1sztytq1vytzjzejnhulfvog5fujloszv1axzxnwnqtmd5nvpiu3zwbwtoy3dvzejowu9qafpqbjfzt0l",
-      "title": "Best Credit Cards For Low-Income Earners Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNklhcTE3b1FiOG1sZTYtQ1VYTzJZejNhUlFVOG5FUjloSzV1aXZXNWNqTmd5NVpIU3ZWbWtOY3dVZEJoWU9qaFpQbjFzT0lGWVNoTG9UREtRU1JOVlhDbFVaVjdVdVF6WTRXRw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Forbes",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "github:career-ops-hq/career-ops",
-      "title": "career-ops-hq/career-ops",
-      "url": "https://github.com/career-ops-hq/career-ops",
-      "section": "github",
-      "source": "GitHub",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-path-to-astra",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "Hacker News:multiversecomputing-com-resources-introducing-quasar-438b-europe-s-leading-ai-model",
-      "title": "Introducing Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiqgfbvv95cuxntetdukt0mmpsavjwuzhnx0nwmkxid2hun2m5tlpfumvgakw0vxrhdzfacu5dovrqc2n1c2kxqthmtkphohfoq2vusujxz1p",
-      "title": "US pushes looser approach to AI regulation, while EU pushes new law",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEtDUkt0MmpsaVJwUzhNX0NWMkxid2hUN2M5TlpFUmVGakw0VXRhdzFacU5DOVRqc2N1c2kxQThmTkphOHFOQ2VuSUJXZ1psRHc5VllISEVkRkptSXRhUzl1Mmo3QjFUb0NWZmo0UGE3X3dzdE5semlwQkxBY0dzdWItbWF1S0MtN1JZUXNzWDFsR0FpWS1oM2dtUWJzMXl5SC1yMU1qNkZPUdIBrwFBVV95cUxNUE1ES3VydkJuZWU2WXc0dW5VUm1UMlBILXhPa1lFaEJpNHQ3ellYbmdDZWNLM2dkUktkdlM0Xzh6bjVCOFpwM0hGamZNUl96SF9fRktLZXdReTdRV2NLS3oxU3lPUDR3aWhEZ3JNdXlKT3V1ZnRtU3dxZF9GcHNrODhVOFpMelktWWtvb1BWTWs1cG1LZ0FwNndVT2VEaFpQV0sxTkxDd1FKcmN2MVZN?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Al Jazeera",
-      "sentAt": "2026-09-02"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiiwfbvv95cuxqqllscwq0rf9cetcztetyqwvodnzwdunyunjrdjlnvnq3ugptrjcyml9knmlprjj5vhdxeg1ezjflrtrad2pzbhllsupvlvi",
-      "title": "Institute for Law & AI Summer Fellowship 2027 (Stipend available)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQllScWQ0RF9CeTczTEtYQWVOdnZWdUNYUnJrdjlnVnQ3UGptRjcyMl9KNmlpRjJ5VHdXeG1EZjFLRTRad2pZbHlLSUpVLVI2OEFlMlVHTG1pS0FkMFE0MWRkSnFvMk41ME41bXRMM0M5djFxWEdGdFFsWjdhbEhQV0hQSjk3YVZNc1B3?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Opportunity Desk",
-      "sentAt": "2026-09-01"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxte9nbwswrupwohrnenzhvzi2cdjrckjcv3pidtdltvq5mgjdbfd5mmftm0lhz2jmctu2adrtzddlmdatn1zrn29twjnsdy1unju",
-      "title": "Mercor Research Fellowship 2026: Earn Up to $80,000 to Advance AI Evaluation and Economic Research",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nbWswRUpwOHRNenZhVzI2cDJRckJCV3pIdTdlTVQ5MGJDbFd5MmFTM0lHZ2JmcTU2aDRTZDdLMDAtN1ZRN29tWjNsdy1uNjU1cktFU0lKQlBqdW1XQ3RVNzhFemtCaGh4dTlj?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-01"
     }
   ]
 }
