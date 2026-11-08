@@ -2,6 +2,46 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:thedaviddias/Front-End-Checklist",
+      "title": "thedaviddias/Front-End-Checklist",
+      "url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "section": "github",
+      "source": "GitHub",
+      "sentAt": "2026-11-08"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-08"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-features",
+      "title": "Features",
+      "url": "https://www.anthropic.com/news/features",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-11-08"
+    },
+    {
+      "key": "Hacker News:www-lorekit-io-blog-open-agent-memory-format",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-08"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmipgfbvv95cuxna25bbc1brkxlvw96wkx6ylfoslvrmwvwchfrshp3mkxqthm0athktjlwdfjrelfnrfd1tnridy1bbeljrgy5vmutmnmway1",
+      "title": "OpenAI makes new data center commitments, AI policy recommendations",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa25BbC1BRkxLVW96Wkx6YlFOSlVrMWVwcHFrSHp3MkxqTHM0aThkTjlwdFJrelFNRFd1TnRidy1BbEljRGY5VmUtMnMway1BeENwRXVJV2hHVVhobTljWWgtdnVTTk9QWlBsMHJBYi1CdFNza2UyRjlTbWhzeUYySS1KWmVNNXl6UncxSHZ0SVJpcTdLajJYenFUanVNU05ZRDd0RjlR?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · SiliconANGLE",
+      "sentAt": "2026-11-08"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9ks19qcdexou4yq05fetywrwtjtfjjwfrhngl5z1vivxzxukjwzlvhbk5zohljt0rsr2t3vwrene9iedratulymznmoup1cda",
       "title": "2026 HEAL Fellowship: Global Undergraduate Students Invited to Lead Health Equity Projects Through Mentorship, Leadership Training and SEED Funding",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KS19QcDExOU4yQ05feTYwRWtJTFJJWFRhNGl5Z1VIVXZxUkJWZlVHbk5zOHlJT0RsR2t3VWRENE9IeDRaTUlYMzNmOUp1cDA2QW1qRC1uTWhYU3pFWTBRLS1iMGRRNXpmMEZXcmhoZTU2QmswX1E?oc=5",
@@ -3960,46 +4000,6 @@
       "section": "ai",
       "source": "OpenAI Research",
       "sentAt": "2026-09-05"
-    },
-    {
-      "key": "Hacker News:terpstrakeyboard-com",
-      "title": "Terpstra Keyboard | 280 Color Changing Continuous Controllers",
-      "url": "http://terpstrakeyboard.com/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiy0fvx3lxte01rmjozkdzmwfnul82z183qmnvrxy2mfntu185ofbgx05zedv5dzvfannnvzjxy0p2sju5x0dhceitawlxcvzxevv2ada1v0z",
-      "title": "The Fight for Serious AI Regulation Just Won a Big Victory in Massachusetts",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01RmJoZkdZMWFnUl82Z183QmNvRXY2MFNtU185OFBGX05zeDV5dzVFanNnVzJxY0p2SjU5X0dHcEItaWlXcVZxeVV2aDA1V0ZjLWNzbk5icjZYV2VsckpkTmFMRdIBfkFVX3lxTE5MdjJpSV9zTkhlX0tJbkladXZNLThsTmJKWGppMUNXNEk5WXN6bGpFNWwxUklTc3R5SFNvY0Y0Zk5nZkdaZWczWFNGOHgxRy10UnlQWEtfVjF1aVRfZ21oaFprTzl6T0dEak0yUFQwUFNNVEsxdWZGVlFiak1aZw?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · The Nation",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-sierra-149f368c-52d5-408f-ba26-ad888f318a00",
-      "title": "Software Engineer, Agent (New Grad 2027)",
-      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
-      "section": "opportunities",
-      "source": "Opportunity · Sierra",
-      "sentAt": "2026-09-04"
-    },
-    {
-      "key": "github:magnitudedev/magnitude",
-      "title": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-04"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-playco-game-prototyping-with-astra",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-04"
     }
   ]
 }
