@@ -2,6 +2,54 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiiwfbvv95cuxqdgm3bjngrem1vkpmngltely1ugvkn1i4wdfmyvjlotjoekitmnpxcfl2n1z5ykc5axborhzwthhcqur1ofv1owhhrzvnagd",
+      "title": "Stripe’s Collison Calls AI’s Upside Case Strangely Opaque",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGM3bjNGREM1VkpMNGltelY1UGVKN1I4WDFmYVJLOTJoekItMnpXcFl2N1Z5Ykc5aXBORHZwTHhCQUR1OFV1OWhHRzVnaGdfMkNCdjJOaC1zbmg3Q2dRN0ZMR09MdEVzcGZzWlNYcTFEbmhDdU1tNXZZVTMwVW16eU5KbDFPUS05LVd3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · FourWeekMBA",
+      "sentAt": "2026-11-09"
+    },
+    {
+      "key": "github:meta/astryx",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-09"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2610-35959",
+      "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks",
+      "url": "https://huggingface.co/papers/2610.35959",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-09"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-11-09"
+    },
+    {
+      "key": "Hacker News:news-ycombinator-com-item-id-50422628",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-09"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiiwfbvv95cuxptwpgneh5dxflvvrvsgk3c3a2lw1nnuv5wetimddwuhngodvzvxzcwkthnjfmwxpvvs1jztl4snvrthnxmlvjrjdrtkj2a19",
+      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWpGNEh5dXFLVVRVSGk3c3A2LW1NNUV5WEtIMDdwUHNGODVZVXZCWktHNjFMWXpVVS1JZTl4SnVrTHNXMlVJRjdrTkJ2a19MQUNzSEVGWjJTbDQzbVR6bnhQUWk2cGEtT0xNVkcxRlpBWmRtWWVydzU5Z3JMUlZJUnBsdmRxWXJFMzBr?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · CNBC",
+      "sentAt": "2026-11-09"
+    },
+    {
       "key": "github:thedaviddias/Front-End-Checklist",
       "title": "thedaviddias/Front-End-Checklist",
       "url": "https://github.com/thedaviddias/Front-End-Checklist",
@@ -3951,54 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlU1azM2LVZXOS1xQ2hIc1pLY0tiTHJqOFliS0xKNnFhbjJhWWxzRXFaQkVXYnhWTVdJYmkxb042OUdET2E1YjBmNXp4YnFfeWZ4X2RjNkJ1YWZOVTdMZ3NQUHl6a2RTdE9JTVZPMDhPUDB6a0MzMW5NNE5Uakk1UWF1SXhyUEd0ZHhmNWdVaHhodw?oc=5",
       "section": "opportunities",
       "source": "Opportunity · techpolicy.press",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxtfbfcjnkmeldm1bjoeexskt1albnzhlawjgxu1pywdm0odvmdtjryuhsxzrlsznbautesglgmnhvctbzmy1hddbmcm13ofn2cfi",
-      "title": "How to Apply for the FASPE Journalism Fellowship 2027: Fully Funded Two-Week Ethics and Leadership Program for Journalists",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcjNKMElDM1BjOEExSkt1alBnZHlaWjgxU1pyWDM0ODVMdTJrYUhsXzRlSzNBaUtESGlGMnhvcTBZMy1HdDBmcm13OFN2cFI0d1NQX2dHVHlVUGdqLThtSW8zY0lqVXBKVGowZw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxozw1wdtfvujdem2ywm1l2dktizfo0nhm2relxdfppbektwi1vc25mbg8ys2zgstzwagdncmtuuzdxzzhnsu4wqljpegfxmdb",
-      "title": "FAU Shapes local students' futures by paying for tuition in emerging scholars program",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZW1wdTFVUjdEM2YwM1l2dktIZFo0NHM2RElXdFppbEktWi1Vc25mbG8yS2ZGSTZwaGdncmtuUzdXZzhnSU4wQlJPeGFXMDBlWHktMXZrR0trR25aUjRHSk5nVFllZW1LVHFDc0NTZ0dCdmo3QWh6bnpscC1rSFRuNmtQU0UxZ243eUpDM0ZfNTFxU1U3XzR0Z2tkZTQwOWliZzVMZ0pqOGl6b1U?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · WPEC",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnmxh4tu5gs2dooxbkczn3y1npc1hrv0prvze2akrlujnuslhqcvj5bwnqowjsamdurxhknm4yqzzeduzxm3nau3pecllymv9",
-      "title": "Fall scholarships for veterinary and veterinary technician students",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXh4TU5GS2dOOXBKczN3Y1Npc1hrV0pRVzE2akRLUjNuSlhQcVJ5bWNQOWJSamdURXhKNm4yQzZEdUZxM3NaU3pEcllyMV9SVUljYU5aYTBSaThXYWhmR0t1YVFyX3RlVG9IbzBUV3p6RXF1VkZ2b2haUkN6SVVONVNFa21TT2gyLWNlNzdDazd4VmpfZm1VNXRQOA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · DVM360",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "github:ruvnet/ruflo",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-formalizing-fermats-last-theorem",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "section": "ai",
-      "source": "Anthropic Research",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-gpt-6-astra",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
       "sentAt": "2026-09-05"
     }
   ]
