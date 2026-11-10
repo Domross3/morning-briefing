@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxpb1dxwvhumdlhsjzpel83blu2dgwwrglxddlqbwljugk1qvrbzxjomvbletbqsl9pel95x2nzujjhbexgzfdgndhsy2y3smv",
+      "title": "Airtel Africa Foundation Tech Fellowship 2026/2027 Undergraduate Scholarship for young Nigerians. (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1dXWVhUMDlhSjZPel83blU2dGwwRGlxdDlQbWlJUGk1QVRBZXJoMVBleTBqSl9Pel95X2NzUjJHbExGZFdGNDhsY2Y3SmV5X2N2VER5TXdQd19KblBScmlQYl9oNVFVdzk4THA2M2h1Snp3bFNoSHFOWU5QZWVNVms2cTdOQlE3MHhjNFZPc3FzR3R3WW5SWEM2TWpzWU5zdk1IaHFndURYVTJIOWtUVGJYVGNHQXBxc3c?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte9ybzhhsejpzldpttvfre5yrkrlq3rmrfu3a3dumevwzhzumgrzq05id0s1zxzjutjybvhusxhyx3fjx2jndw9muwfjlteyukh",
+      "title": "Apply for the Fully funded African Wildlife Foundation (AWF) Geospatial Leaders Fellowship 2027",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbzhHSEJpZldpTTVFRE5YRkRLQ3RmRFU3a3dUMEVwZHZUMGRZQ05Id0s1ZXZJUTJybVhUSXhyX3FjX2JNdW9mUWFjLTEyUkh6ck5rMkhrakpZOEFRMHUycXdTODZqcVdUSFhXQXVwd3VrTk5xeXc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Global South Opportunities",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "github:addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-coderabbit-codex-daybreak",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-claude-electronics-design",
+      "title": "Claude can design electronic prototypes from start to finish",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "Hacker News:neuracryption-com-research",
+      "title": "SPECTRA: Architecture for Hardware-Saturated Edge Inference",
+      "url": "https://neuracryption.com/research",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-10"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiowfbvv95cuxonufplxl4u3vtzuphsmvurkpttvv3shnbnmpntkl6otk5yxrhztvfb3lwcehqa2n3eng3twdkylbnv1vvtxfia2dhqtffwdj",
+      "title": "Enterprises Say AI Regulation Won’t Stop Corporate Innovation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONUFPLXl4U3VtZUpHSmVuRkpTTVV3SHNBNmpnTkl6OTk5YXRhZTVFb3lwcEhqa2N3eng3TWdkYlBNV1VvTXFIa2dhQTFfWDJmOThTT3o2anBxakt6N3dBQVh6WmF4V29FQld1d1A2VFFMUTVxdENFRTRVX0t2bDFEUVhTRFZHbldoX3FzNzdmQlY4S09qUV9tWGxpelpBRDNiWk5R?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · WSJ",
+      "sentAt": "2026-11-10"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiiwfbvv95cuxqdgm3bjngrem1vkpmngltely1ugvkn1i4wdfmyvjlotjoekitmnpxcfl2n1z5ykc5axborhzwthhcqur1ofv1owhhrzvnagd",
       "title": "Stripe’s Collison Calls AI’s Upside Case Strangely Opaque",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGM3bjNGREM1VkpMNGltelY1UGVKN1I4WDFmYVJLOTJoekItMnpXcFl2N1Z5Ykc5aXBORHZwTHhCQUR1OFV1OWhHRzVnaGdfMkNCdjJOaC1zbmg3Q2dRN0ZMR09MdEVzcGZzWlNYcTFEbmhDdU1tNXZZVTMwVW16eU5KbDFPUS05LVd3?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "opportunities",
       "source": "Opportunity · Sierra",
       "sentAt": "2026-09-06"
-    },
-    {
-      "key": "github:DietrichGebert/ponytail",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-06"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-04172",
-      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "url": "https://huggingface.co/papers/2609.04172",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-06"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-daybreak-for-frontline-defenders",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-06"
-    },
-    {
-      "key": "Hacker News:dub-uu-nl-en-column-pencil-case-model-creativity",
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-06"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmic0fvx3lxte40m0j4ztzhblzwqllbmmu1mkn2ewffzuyty1uymzl5qmtxugt2r2zpvhjjdujdtne5zwjdy3jvn24ywdzjvznoz0syoddwcc1",
-      "title": "Exclusive: New bill cracks down on AI agents after Hugging Face breach",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M0J4ZTZhblZWQllBMmU1MkN2eWFFZUYtY1UyMzl5QmtxUGt2R2ZPVHJJdUJDTnE5ZWJDY3JVN24yWDZJVzNOZ0syODdWcC1oRXZMNVNuVE4tMWZDVVF3cHNaMjhsdmp4VWUtdFA3aGtLLTg?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Congressman Mike Lawler (.gov)",
-      "sentAt": "2026-09-06"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmirafbvv95cuxqtmdfx2lga1zxdfv3ctbkmnnzznhkntjbykj1vgzmcuw2eehmqmn1exg4vdzwwvlkwljfnznuz3jxswnzmfjydle0vwzsbxz",
-      "title": "Open Call for Proposals for Pulitzer Center’s AI Accountability Fellowships (2026–2027)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmdfX2lGa1ZxdFV3cTBKMnNzZnhkNTJBYkJ1VGZMcUw2eEhmQmN1eXg4VDZwWVlKWlJFNzNuZ3JXSWNZMFJYdlE0VWZsbXZPOHhaNnVFUDVkRzR1VEtlUjZjbTc0NWUzaHRIMjFCS0oyYUUtVGdIYkFwQlJncFoxNUtDc2RDU1ZvcWIxYlhpRGo2cmxHOE11clg1RURSOWk5VTVwakVUaERZZUE1?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Pulitzer Center",
-      "sentAt": "2026-09-05"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxnmlu1azm2lvzxos1xq2hic1ply0tithjqoflis0xknnfhbjjhwwxzrxfaqkvxynhwtvdjymkxb042oudet2e1yjbmnxp4ynf",
-      "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlU1azM2LVZXOS1xQ2hIc1pLY0tiTHJqOFliS0xKNnFhbjJhWWxzRXFaQkVXYnhWTVdJYmkxb042OUdET2E1YjBmNXp4YnFfeWZ4X2RjNkJ1YWZOVTdMZ3NQUHl6a2RTdE9JTVZPMDhPUDB6a0MzMW5NNE5Uakk1UWF1SXhyUEd0ZHhmNWdVaHhodw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · techpolicy.press",
-      "sentAt": "2026-09-05"
     }
   ]
 }
