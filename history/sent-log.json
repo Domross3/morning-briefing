@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxoadl5rktuwg5zqxhin21wbndglxu2nvhjvzrkz1l3qjvoodddbmdmr0pyaxdtcgx3u3z2dxfuekryrjn0efjxrvb0bkhnu1j",
+      "title": "Apply Now: NTU AI-for-X Postdoctoral Fellowship - fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDl5RktUWG5zQXhIN21WbndGLXU2NVhJVzRkZ1l3QjVOODdDbmdMR0pyaXdTcGx3U3Z2dXFUekRyRjN0eFJxRVB0bkhnU1JqcXY4VlJRSm1lV3dRWmoyVldMQWVLMjEzRUt1MU5HZ2ZpYnZjUmg3cXBCc085angxVGFXcjQ2eEVxRXlXXzN6d25zcjDSAZgBQVVfeXFMTmYtaGhSckVmajhOUnhtdHVxZW1kdmxfdVJBS01PdmpvejBfWklTb0Q1UENUQ1d0SXA3Qlh6X0k3YXFyMjZ4TWF6NU05R3FKUm8tZUgxaGJIcXYtSVhXZTlkd0NyYUpfdUNCdFN1ZFFJZU5JVzE2dXBqcWl0ZTV0ZVU3STRKek9qb3BwY3k4c0VWV3NYWk9uNno?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs - Grants and Resources for Sustainability",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxpev9moxv4svzqvzlntuxoww9bqxrbnjhvr1l5nxi1bkfrbdvybun4mtdzsuw4exhmtercctrwlurfexlqz2xvmvb6a1jhou1",
+      "title": "Terminal buys Stationed AI to take forward-deployed engineers downmarket",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeV9mOXV4SVZQVzlNTUxOWW9BQXRBNjhVR1l5NXI1bkFRbDVybUN4MTdZSUw4eXhMTERCcTRWLURfeXlQZ2xvMVB6a1JHOU1UOWx1NFZiUEFwMks2Wmc0UWszVTA3cTRNVWlVbGhHa205bjZmcjhxdnE2Vl95LWhsWks2cE9SaHBCdVZBOTBUYk1RdzNiQ2k0TktnTW1SS2xxXzRraXByODFRQQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Dealroom",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmihafbvv95cuxpttm1ynrvmtqwmkhqck5wcvu1cndiy3jrszrinlywzupqu1zxuvu5q2lclxd4nlfgawthujnrttrxnedtlwjetzrwmhzjvur",
+      "title": "How Older Adults Can Get Help Paying for Housing",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTM1YnRVMTQwMkhQck5WcVU1cndIY3JRSzRINlYwZUpQU1ZXUVU5Q2lCLXd4NlFGaWthUjNRTTRXNEdtLWJETzRwMHZJVURTRm5xZzVmOE9GeXV1SE1WNEI1VlFzYS1aUm5ISVdqcUo3RFpRaGw2VlBJemFiTnliYjRRbUQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The National Council on Aging (NCOA)",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "github:openai/codex-security",
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "Hacker News:www-curtin-edu-au-news-media-release-researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes",
+      "title": "Researchers discover rare star system that emits radio signals every eight minutes",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-12"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmixwfbvv95cuxpwkpmqlqxa3pvb0d5tm9kx3rvumfkmjy2mvjfqktpc2k4b2xqtug5sg9wtnkxbepfvc1cd182ugrgztc4m1m5dmfuykhnuxe",
+      "title": "INSS Addresses Military AI Governance and Command Accountability at World AI Regulation Summit 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkpMQlQxa3pvb0d5Tm9kX3RvUmFkMjY2MVJFQktPc2k4b2xQTUg5SG9wTnkxbEpFVC1Cd182UGRGZTc4M1M5dmFUYkhnUXEyUTZ6d0lEcU9pOWNoeDNQWlZ1TVVwMXN2eEUwX0R0UzU1V1FKUU01cDZDRVo2SmVnTVI0VF9HTUl1OFVDd1BmRzBpcTFleGE1Mmc3TUNiN0JYVVZla1Z2QnBKMlk3UGR0Q2E4VTdXZklsd1RIZ1BfM3F6STBEZUIw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Institute for National Strategic Studies (INSS)",
+      "sentAt": "2026-11-12"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmi0afbvv95cuxpsklqyzvsdkxfqno5netzdzdfwjhlzv9rskrtbna0d3joaw5vmhfuauiynwiyt1y2qnu3qtlrdzktb2xhdfvum2kzdetqeuf",
       "title": "Call for Applications: Airtel Africa Foundation Tech Fellowship ( Scholarship Support for 100 Undergraduates)",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSklQYzVsdkxFQno5NEtzdzdfWjhlZV9rSkRTbnA0d3JOaW5VMHFuaUIyNWIyT1Y2QnU3QTlrdzktb2xHdFVuM2kzdEtqeUFRYll6TWtIenBSUGpxTEs2Y2xJcnBna1ZzWDZ3Y1RZVzY4UXZzQ2hEeURlRzNvTHlzbzBoUW1LN3Zfc0pXWHczMHBuY2RiSXFJb3VhR0V6WmNvVmtubTBzN3BWNFYyUXI5UmxSX09aREtDR3JsbzJQaENMSHF2ZTllWmNHSDBMektW?oc=5",
@@ -3935,70 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYS09fdUh3MGRDakt6R2RUVlA5MlZ2UVNoTGF5Y005SV9pQmZxQmdXLWRzSXdzalBjNV84Y1ZPMllMTVVSeXg0dkhnaVRGYi1xVWtlejFIYUZnY0puMm1VS0l3UllIV3FnUlZBQw?oc=5",
       "section": "opportunities",
       "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmidkfvx3lxte41cumtd3byrwnnz3pxcvf5wmkzr0tanfcxd1l1nfe3cgvynvfjyjbwtenpsdu5u2ewbghqbuzflus4vwlfmufkvla2xzzqc0r",
-      "title": "IAPS AI Policy Fellowship Spring 2027: Fully Funded Global Opportunity for Emerging AI Policy Leaders",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41cUMtd3BYRWNNZ3pXcVF5WmkzR0taNFcxd1l1NFE3cGVYNVFJYjBwTENpSDU5U2EwbGhQbUZFLUs4VWlfMUFKVlA2XzZqc0RBSnZuc2Z6bVpXNkdwSzNBZkx0clA1RVo5VUw4Z3dqU1ZWdExLTmc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxqbmjfcwzzu1fcczlkbm9eatc1agxnqwrbytvkuuvprkngn0juuufszdlwnmrloezrbddivi0tbxoyc2net1h0qnnmblrrbwl",
-      "title": "Animation Educators Forum Opens Student Scholarship & Faculty Grant Submissions; Virtual AI Discussion This Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmJfcWZzU1FCczlkbm9EaTc1aGxnQWRBYTVkUUVpRkNGN0JuUUFSZDlwNmRlOEZrbDdIVi0tbXoyc2NET1h0QnNmblRrbWlmeHh2RzZtZmkyblI0NlhQMEJ0VUx0R2pDa1JHNkxVcGo1cjBpVU1wMW1GdE1vdW05V3QxYW05UGVVM3MwQmFpUnNDajNLbG9JU3VDelNnUzhObGdiRGZvZm5xWkJ2TzhrZ2ZkVEV1WXhSX0tXUnlWSVBCMUFk?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Animation Magazine",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi5gfbvv95cuxpehr4v0f2oge1su81whdaewfpymhocnpcslfjds1st0risuexlxzbbudnslnsmy0ztwlwvvlay1m4zgzmrxgyc0vqs3rkuhr",
-      "title": "One of the fastest-growing jobs in Silicon Valley sends engineers straight to customers’ offices to get AI up and running—and pays more than $188,000",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeHR4V0F2OGE1SU81WHdaeWFpYmhocnpCSlFJdS1ST0RiSUExLXZBbUdnSlNsMy0zTWlWVVlaY1M4ZGZmRXgyc0VqS3RkUHRJMF9FYmZhZ2w5RzdISDlNQ2x3NG5ZNEoxQW9nUU02ZkpBUldmajd5QW1SeVNNLXI3WUUyQ2Q1aTFwRkZZY3hfY0ZFRy1mUjJUUUwwTmZhZnVIckNzbnJ2ckpzWmVaeGtyRmw2MzhTN3JGVHMxY3NXVWkwblpOX0JzVTROSzNJTVY4UnlvaDFuZU13aUp3T2EtbjR4dGlXdw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Fortune",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi9afbvv95cuxntgrxz3nvddhhedkxbg04chbpqv9pm0rgbznltwtin0xrovbdymv3r3o3n0xvy2v5qndrvk5aae9hq2hwsjhzxzddqwrtuvo",
-      "title": "Celebrating 10 Years of Excellence in Tampa – The Pipelines 2025 Conference",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGRXZ3NVdDhheDkxbG04cHBpQV9PM0RGbzNLTWtiN0xROVBDYmV3R3o3N0xvY2V5QndRVk5aaE9hQ2hWSjhzXzdDQWRTUVo0d0lxcnhfakNJRUtlSjR2ZzFKMmVqVkQySl8yTFpWc0RTVVdrLXJoMnVJeUw4OVgyUGxDNkhrQTBJSHBHYUVqQnVoX3NrQ3FULUE5dFQzSUZVUHhXc2tvYy02SENFT1pWbDZ0MnpTRWVVYmR2Szk1UWVOdHE2UmU5V1c2M3RPNjduU0RIbEotN0lJZjBQQ2FPeXozVDVOMU5YcXhDSFAtT05kVFNN?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · American Society of Civil Engineers (ASCE)",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikafbvv95cuxoefp3x25wr29dutzutvviek1vwnnnylhfsgltu3hsmw5rmkv5mtbfzlpjd2pyzkx1bk5kt05fq1n6blfhrfjnturmbm5pruj",
-      "title": "Unlock Top Opportunities for Educational Funding",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFp3X25WR29DUTZUTVViek1VWnNnYlhFSGlTU3hSMW5RMkV5MTBFZlpJd2pYZkx1bk5kT05FQ1N6blFHRFJnTURmbm5PRUJXdkVHeHBuZzVkVFRFVy1VOXV6c19NNEt1MTkwSzBwcWdJeC1KQkR3M1JlMFZPUGJhaVhlUlpqWjRPNG9jd183cm7SAZYBQVVfeXFMTTVOV05HTUw3SkpkRnJhYTd4cTQxa1hLREpFSDdRRUJUSjJLS2tJVHhtdFp0ZktJWkh1LWdMaEd5Ny00Nk01eXB6NTdzdE1XVnlSTDdDX21Oc1IyUEFodUFuYU1lMGxNUllxSVp3Qms4eW9Xck5fZzI3WTlNcExOQ3B1dVpJR3B6OC10M2xUb3lCVGM1MVd3?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · fundsforNGOs",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "github:ayghri/i-have-adhd",
-      "title": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-03241",
-      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
-      "url": "https://huggingface.co/papers/2609.03241",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-08"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-01281",
-      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
-      "url": "https://huggingface.co/papers/2609.01281",
-      "section": "ai",
-      "source": "HF Daily Papers",
       "sentAt": "2026-09-08"
     }
   ]
