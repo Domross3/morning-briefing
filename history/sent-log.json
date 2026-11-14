@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiigfbvv95cuxprw5mdzflujbez3njqtfms1joefrfx0pznuxous0zdnlvbdq1ogo2s2tcrvdzz0eytu00cnixuzrnc3hkqmpld2j6qnrmwkn",
+      "title": "Apply now: NHS Fellowship in Clinical AI opens for new cohort",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRW5MdzFLUjBEZ3NjQTFMS1JOeFRfX0pZNUxOUS0zdnlVbDQ1OGo2S2tCRVdzZ0EyTU00cnIxUzRnc3hKQmpLd2J6QnRmWkNFNGFtZjN4dkx4R2lob2l6ejVjUXVwSXJhU0dlb3hpanVTb1ZNdWxFb1pTdWRqQ3VhcmNOTjdKaVhmdUE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Society of Radiographers",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxnmxh4tu5gs2dooxbkczn3y1npc1hrv0prvze2akrlujnuslhqcvj5bwnqowjsamdurxhknm4yqzzeduzxm3nau3pecllymv9",
+      "title": "Fall scholarships for veterinary and veterinary technician students",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXh4TU5GS2dOOXBKczN3Y1Npc1hrV0pRVzE2akRLUjNuSlhQcVJ5bWNQOWJSamdURXhKNm4yQzZEdUZxM3NaU3pEcllyMV9SVUljYU5aYTBSaThXYWhmR0t1YVFyX3RlVG9IbzBUV3p6RXF1VkZ2b2haUkN6SVVONVNFa21TT2gyLWNlNzdDazd4VmpfZm1VNXRQOA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · DVM360",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "github:Tencent/LoopForge",
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-building-strong-safety-evaluations",
+      "title": "Building strong safety evaluations",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "Hacker News:research-google-blog-advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-14"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmifkfvx3lxtfbeyvnxq2zlzkztczjzvgfnetnjoxfumnfxru1jttfpvjfjbfqyawtpytzerwf1ngh2axk3qjd4shrmtk9arl9mujziumjgt1b",
+      "title": "AI Engineer / Senior AI Engineer, AI Policy Lab",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEYVNXQ2ZLZkZTczJzVGFneTNjOXFUMnFxRU1JTTFpVjFJbFQyaWtpYTZERWF1NGh2aXk3Qjd4SHRMTk9aRl9MUjZiUmJGT1BSX1Ayd1pBVVUwNENjRnJoZFdlMTlrSkpmSDNXZTcyN0JHazd6UEhnTGJucDkyUQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Center for a New American Security | CNAS",
+      "sentAt": "2026-11-14"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxte5ia19sshbozlv0wdhevevfykjkzmlpdffpwjj3tmfvcku5vmzqb1rkq3jfr2dfyzbiq2w0ndnnswh5vwznq2hwq1vuyzy4dkx",
       "title": "Fully Funded Summer Undergraduate Research Fellowship (SURF) 2026 – INSAIT: Open to Undergraduate Students Worldwide",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ia19sSHBoZlV0WDhEVEVfYkJkZmlPdFFPWjJ3TmFvckU5VmZqb1RkQ3JFR2dFYzBiQ2w0NDNnSWh5VWZNQ2hwQ1VUYzY4dkxlU2drSW40NzBGNWFscGtzSndCZmdkdkJK?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "opportunities",
       "source": "Opportunity · fundsforNGOs",
       "sentAt": "2026-09-11"
-    },
-    {
-      "key": "github:melgarafael/DeskcommCRM",
-      "title": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-intelligence-targeting-conventional-weapons-capabilities",
-      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "section": "ai",
-      "source": "Anthropic Research",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "Hacker News:twitter-com-davidagranovich-status-2098168522862215449",
-      "title": "David Agranovich (@DavidAgranovich) on X",
-      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmic0fvx3lxtfbncu9ib0dlahzeek1fnzhtmglbafrpbwd6r2pndlawr1uzwuv2nvrybm9rtheybhjuug9md19xa0e1y3bjsm9kzflfsephn0d",
-      "title": "Inside AI Policy: Gottheimer-Lawler bill rejects self-attestation alone in call for agentic AI standards",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNcU9ib0dLaHZEek1FNzhTMGlBaFRPbWd6R2pndlAwR1UzWUV2NVRYbm9RTHEybHJUUG9md19Xa0E1Y3BJSm9kZFlfSEphN0dyWVpYVE0yTmVMay0wY05nUEdUMWFZaDNNVFFDY09GQVd6bEU?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Congressman Mike Lawler (.gov)",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxqazdrqklxwmdolxziy2t1a0pvwjzlzwffeme1snvqr1fjaldioefqwgfac2ppbzr4vepgbk8wnxzqunbpcedayus1vffcnnj",
-      "title": "Wipro’s AI push frees capacity equivalent to 20,000 workers, CTO says",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazdrQklXWmdoLXZiY2t1a0pvWjZLZWFfemE1SnVQR1FjaldiOEFqWGFac2pPbzR4VEpGbk8wNXZQUnBpcEdaYUs1VFFCNnJuQjZQRlJET3VUcG50WVdZNEd3ZS1MLS1Ic19aS0FvQ3BKbEVQaTF3NE9iRlB1ZWFnckhOWVEwZmQ2em5QZ01VY09BdTEwNy1kME1FSQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · The Mighty 790 KFGO",
-      "sentAt": "2026-09-10"
-    },
-    {
-      "key": "github:AlexsJones/llmfit",
-      "title": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-10"
     }
   ]
 }
