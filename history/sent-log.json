@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqrw1qzxfaeljra2prxzdmv2m2ewxsq25regp0rhv0y2r6ntnlzw5slu5pzvhprwppuwtguvvtt0nwytu2t2drvgytmwu5em5",
+      "title": "What a Fellowship Is and Why You Might Want One | Education | U.S. News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW1qZXFaelJra2pRXzdMV2M2eWxsQ25reGp0RHV0Y2R6NTNlZW5sLU5pZVhpRWppUWtGUVVtT0NwYTU2T2drVGYtMWU5em5zV2lxN3JYXzV2WU54QVM5cXY2aXY0S1QxWk9Tak5QN2w4M2REcGR0ZjN1SFRDODJYTHk1LXZjRlR0NURHQUFraXRHTzQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · U.S. News & World Report",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiiwfbvv95cuxpaflxmc1uvjldujjyzfa4lta3ql8zrkvedupxbvpmcljlawnmtlzyy3qyuenicme0ae5tv3pzreyymw54quc5bvjxmmvjvfd",
+      "title": "Top 10 IT certifications in demand today",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFlxMC1UVjlDUjJyZFA4LTA3Ql8zRkVEdUpxbVpMclJLaWNMTlZYY3QyUENIcmE0aE5TV3pZREYyMW54QUc5bVJXMmVJVFdyLTU0R1l3OTljSmVVUThDSFBFb29NM09rYVdFSEpJWl9yVEplMEVnU0V0cDA4UUlickN0eDRqMVFVSW5B?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · CIO",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "github:google-labs-code/stitch-skills",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-partnerships",
+      "title": "Partnerships",
+      "url": "https://www.anthropic.com/news/partnerships",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "Hacker News:prog21-dadgum-com-116-html",
+      "title": "Things That Turbo Pascal is Smaller Than",
+      "url": "https://prog21.dadgum.com/116.html",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-15"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmikwfbvv95cuxpa3ftzhlyogv1dmjtbu5unensn3yybdv3benydmremkq5u0m0wg5omlrxaut2rjzsbmpla1p6akyxshh2dxm5duhqrvcwsed",
+      "title": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FTZHlYOGV1dmJtbU5uNENSN3YybDV3bENYdmREMkQ5U0M0WG5oMlRxaUt2RjZSbmpla1p6akYxSHh2dXM5dUhQRVcwSEdEZEh2YzBYS21HYnRkd2pwanZnRFo2VlFEQmJ1V1ZPc09BMUUtTWgtQ1Vaa0oxMzhQWkVqSUZMdUN1aUJFOWJ1NmZkWFU?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Cato Institute",
+      "sentAt": "2026-11-15"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiigfbvv95cuxprw5mdzflujbez3njqtfms1joefrfx0pznuxous0zdnlvbdq1ogo2s2tcrvdzz0eytu00cnixuzrnc3hkqmpld2j6qnrmwkn",
       "title": "Apply now: NHS Fellowship in Clinical AI opens for new cohort",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRW5MdzFLUjBEZ3NjQTFMS1JOeFRfX0pZNUxOUS0zdnlVbDQ1OGo2S2tCRVdzZ0EyTU00cnIxUzRnc3hKQmpLd2J6QnRmWkNFNGFtZjN4dkx4R2lob2l6ejVjUXVwSXJhU0dlb3hpanVTb1ZNdWxFb1pTdWRqQ3VhcmNOTjdKaVhmdUE?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "legislation",
       "source": "AI Policy · WMTV 15 NEWS",
       "sentAt": "2026-09-12"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmia0fvx3lxte4xddzlmhvuxzddyvpmbwnwukq5ek5czflqamdyqzbzu0qybk9mykjsv1nvb0nymxfvac1onk9sz1f5ekhrtmc1ywuyr215ylv",
-      "title": "EPFL AI Center Postdoctoral Fellowship 2026: Fully Funded Research Opportunity in Switzerland for Global AI Researchers",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xdDZlMHVuXzdDYVpmbWNwUkQ5ek5CZFlQamdYQzBzU0Qybk9mYkJsV1Nvb0NyMXFvaC1ONk9sZ1F5ekhrTmc1YWUyR215YlVYSVprZk9XQnhyb2VEWHY1RkVxdUFodkI3UVdB?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiqwfbvv95cuxpz2e0b29evxhtajuxzu5wdw1ocvpja21mvllryw5roejaqknfafdrwkhmtnl2vtzveujpulbqefbqy194nwtxswcyci1yqwv",
-      "title": "OpenAI Launches AI Economic Research Program",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2E0b29EVXhTajUxZU5wdW1OcVpJa21MVllRYW5rOEJaQkNfaFdRWkhMTnl2VTZVeUJpUlBQeFBqY194NWtXSWcyci1YQWVCc0xuem9qci1pRmlnZ0pzelBFVGZzSjVoTnF6b05PaXVQOHhkenZBVU5UaVVZY19SNHluOGcwcmxVdEowZno2Z0YzQ0VDaUtvRENQX1FzRkNyQUZMclMzVlprN3M?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · StartupHub.ai",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte5ucw1swgheykfct1qwmlc5mzddykvuqte4cly5cdnpq210rki5tf9ftk9xm0lsz2lklvjqmzb5re41z0hjbeezzghkr3psnme",
-      "title": "First Gen Fund Fellowship 2026: Apply for a Fellowship Supporting First-Generation Leaders and Changemakers",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UcW1SWGhEYkFCT1QwMlc5MzdDYkVUQTE4clY5cDNpQ210RkI5TF9fTk9XM0lsZ2lkLVJQMzB5RE41Z0hJbEEzZGhKR3pSNmE0RUtLU05XV09QVXpKamJzMHJQcTVneVlYWXhEOQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiuafbvv95cuxocgjfcuxsv2nju193s0psnme1vgjvd3beznrxvflgsdlramlesna2rfznvfhjznbxyzlhx3fuuy1sdff2m0fpweyyvug4txo",
-      "title": "Neural Concept Targets West Coast Growth With Solutions Engineer Hire",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGJFcUxsV2NJU193S0pSNmE1VGJvd3BEZnRXVFlGSDlramlESnA2RFZNVFhJZnBxYzlHX3FUUy1SdFF2M0FpWEYyVUg4TXowcG9uTjN6X28wczVDYVJQLWxmb09rR3BWdlhFeUVDM3pxY0k3TzJ2cHM1OUM5WWxjb1l2WWx0S3V3Y3U0U0R3QTdzM1RaUlpnblNJalFMNXI2ZzRQQ3ZVX1I5Q0wwYjJaN3kzRWRjeDIz?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · TipRanks",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi3gfbvv95cuxpcfgyshhpv3kya0hvyum0tvfoallovgp4oxbudwzinllvlw0xmmxcrw5wweg2odd6ng1hzhloyzqzzgfqt3u2sjldvmpjzc0",
-      "title": "Mark Cuban Foundation Brings Free AI Bootcamp to Eastern Kentucky Teens",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcFgySHhPV3kya0hVYUM0TVFoallOVGp4OXBUdWZINllVLW0xMmxCRW5WWEg2ODd6NG1hZHlOYzQzZGFqT3U2SjlDVmpjZC0wS0pkS05ReFVNZUh0UHpQVjlVMU9XdmhhOWNhaFM5NDlsQ1FlS0F0MUpMSV8tb0o1djNRYXVXTXFHc3RKY1VwZ3FxZi1INjdITW9VS1JkelhNYkxRejhNS09QTFlNcWhyMWRZZDVjYjI2ZjJqQVdjbHBrVFpibVd3bG03SWNvdC1Wdk5pSFBNbWtnTl9uMnfSAeMBQVVfeXFMUFFMdWJNWV9fUFhJbTZ1VlBYeWJCN1VDeEllLW9RVkc1VC0yOWhKWnlrcWNHUzJiYWIyaHgtQWpod3BvTjV1RlJVZWZ2b3hNeWhMWFhNbTNsVzM0TFNoLS03aUprWmxZYXFLdXNLYzdVanFSLU1YRjZ4ZkduRUtCaHJZdEpTOUtTVjJlRmxTcjg0UjZ1VlEwT0Z3eEhPNmNCZTVCam1HckNNZHVvWkFJUDdLLWctdlY5eUpGQllqOHE2U1lMYTNDN25lWVlsRXB0RFVFUXN3YjBHOG5Za1ZoUkpMR3M?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · The Manila Times",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmingfbvv95cuxodmptxy1kuklvu3zzzdhrazdpwg1fnvrsslpxthptzdbuufrszuxsntvjtvq4vk9hugzytlhdtgvqwjrvsgdqnlm1n2vwngz",
-      "title": "Wipro’s AI push frees capacity equivalent to 20,000 workers, CTO says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmptXy1kUklvU3ZZZDhrazdPWG1FNVRsSlpxTHpTZDBUUFRSZUxsNTVjTVQ4Vk9hUGZYTlhDTGVQWjRvSGdqNlM1N2VWNGZNcTNjVFRCS25lazZMU1hfVy1jRWwwWEN2MTFucmFtRjFrT01tTnRkRkJRbDdTY1g4VjZpMDF5Z2Q3b0F1SWl5ZGM0OERxaEp1bkNHS0RCQQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · WTVB",
-      "sentAt": "2026-09-11"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxqx0dga1m0vwtgs042deuxofb5zkz4cgfnvuw1qwjwrhjqynhkrwfum0hmnc1lnnjwmhv3mw8zodjdt3lgsvkyvxd6ukrgwmr",
-      "title": "Applications open for Fourth Global Innovation Challenge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0dGa1M0VWtGS042dEUxOFB5ZkZ4cGFNVUw1QWJWRHJQYnhkRWFuM0hmNC1LNnJwMHV3MW8zODJDT3lGSVkyVXd6UkRGWmRQdjk1WldHMklXVEpRNlBqNXFKZTluMzhKelB1Z2cwcGZITDJvRUZ3QnFfSlMxLUhYNnd5QkViN3hrcGlmRGhsYWM1dGt4M3hEOUNVQ2J3cWPSAaQBQVVfeXFMTy1FNFk4Y3Y5NUJEOHpGd2c5TmFHV2M3c1pqWkhrSTB3NzBkUHl1cWFad2dheFlQeWdtM25mU3JSNTRleWtCZHJRVWFTM0xteFJaUlJwSW1EUURLcDhuS2EtSFNSSzlLTkVpVmFfV1ZQeFExRHd5RnZ2SElTN251Vm5OTENOemdfdExDaG5VaTFLMkJQUXFHQ0dCSnk2OEd1UTBLNHE?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · fundsforNGOs",
-      "sentAt": "2026-09-11"
     }
   ]
 }
