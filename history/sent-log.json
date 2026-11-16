@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxnndf4dtlysm5wwwjculpiakhqulhiof9omvdgn3lkeho4mfoxznlsuju1aevhq0h1x1dyc2z2zgvvq0q2d0vjr0vqwwxlckd",
+      "title": "Apply for UK Summer Fellowship Research Track Program - fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDF4dTlYSm5WWWJCUlpiakhqUlhIOF9oMVdGN3lKeHo4MFoxZnlsUjU1aEVhQ0h1X1dyc2Z2ZGVVQ0Q2d0VJR0VqWWxLckdfR3dXam5KNUZ0UGpnWVRGc3RPN1VmYmptbUhYT3k1aG8xdnd5ZHNjRDg1YzdwRUlzdGw4R2hVelhta1Z5amIxSzlVYWdYQlhJODVfSW9Jb3FNajNv0gGoAUFVX3lxTE5VamwwRDV2Z1RxQnhtbHRWd1NPYUxiOExDU090clNtRU9QTXlhdC1oSGpySEtGTnp0cC1BbkF5dGpTWXhWbkY3YVhvU2szOEwyYTRMR3BDYVcxaHFvSThMbmpmNHYxWl9yZkpRdGYwOHJZOG9weWY1UzdiazRoOGwwVThBQnhRQ29lRlJxX2lVdDRyYzFyRHZvVDVvcHhSZ204T3FDTUZNcw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · fundsforNGOs - Grants and Resources for Sustainability",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiq0fvx3lxte9osufqrnnmb0m3vnrbdf9jbw0wx3a1yxc3ekpyefzvb3pdaepuuvbmtc1uwtvdzzhtwhuxagq1ww1mafu-oc-5",
+      "title": "Scholarships for College - Apply Now",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oSUFqRnNmb0M3VnRBdF9JbW0wX3A1YXc3ekpyeFZVb3pDaEpuUVBMTC1UWTVDZzhTWHUxaGQ1WW1MaFU?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · UNCF",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmixafbvv95cuxobvhieuixmmfsrfvuekjfwtzbyk9ctfbbexj6cehuv0rftxvlmujsau1fshjure9fwul5dmw4oxbsdmftum1qdxdizgxis2v",
+      "title": "💻 Wilmington, DE Tech Hiring Now: Multiple IT & AI Roles",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVhIeUIxMmFsRFVuekJfWTZBYk9CTFBBeXJ6cEhuV0RFTXVlMUJsaU1FSHJURE9fWUl5dmw4OXBSdmFtUm1qdXdIZGxIS2VqZnR5T1dDbjhWODJBWVhJb05WSElCeVZqaU4xaXdNZ2pYTDgxSTdnQzdYaHRFRVd3NVJ2SHFZMXVoal9DZ3ZpaU1POWpGeWVrcENUUVp6NVo0b3lxWGlQS3BZVnBLQkE4M0dvQTE2RnMyNDRGVE9aMVpOMmY5?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · NewsBreak: Local News & Alerts",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "github:kajisho5/ffmpeg-skill",
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2611-18397",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "url": "https://huggingface.co/papers/2611.18397",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-16"
+    },
+    {
+      "key": "Hacker News:masnick-com-posts-the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life",
+      "title": "The Secret Thinkpad Powerbutton Code To Bring Dead Laptops Back To Life",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-16"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxqrw1qzxfaeljra2prxzdmv2m2ewxsq25regp0rhv0y2r6ntnlzw5slu5pzvhprwppuwtguvvtt0nwytu2t2drvgytmwu5em5",
       "title": "What a Fellowship Is and Why You Might Want One | Education | U.S. News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW1qZXFaelJra2pRXzdMV2M2eWxsQ25reGp0RHV0Y2R6NTNlZW5sLU5pZVhpRWppUWtGUVVtT0NwYTU2T2drVGYtMWU5em5zV2lxN3JYXzV2WU54QVM5cXY2aXY0S1QxWk9Tak5QN2w4M2REcGR0ZjN1SFRDODJYTHk1LXZjRlR0NURHQUFraXRHTzQ?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-09-13"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmi5afbvv95cuxqu25gzkryem03m2x0n0q4ouz3vzfazudpa2zxtgnoruflog5jqnjtv2dnvmy3ls1gnhhuwetvrll1zlc2cf9mellyt09swnp",
-      "title": "Lawmakers clash on safety testing language for in-development AI legislation, people familiar say",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU25GZkRyem03M2x0N0Q4OUZ3VzFaZUdpa2ZxTGNoRUFLOG5JQnJTV2dNVmY3LS1GNHhUWEtVRll1Zlc2cF9MellyT09SWnp4clljOHZUOThaeE5JaVNXaHc4c25PeDdHUXNqQzNPWnRYSUtKTlRBb3J3S2pDNEZJdjU4R19wWVIyZ1ZsaFRiWFhlakZGNENvd2hNVnJtUnRfV1BIYzVVUy0xS2daR3hCMjZMSkRuVFJLV2o0bURPZzBDNllSWlR5cVFacTlGMU9rcmdHWkRuYW1STmp4R3VyUnpMNDk?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · nextgov.com",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi6wfbvv95cuxochnmvvzdmllgqzn1ejrtt2vkmi1fxzvtyxqwtuv5sjrkajvxvtb2snjzew5rvkruu1dadmppbnkxc28wsk00cvllrvf4yvn",
-      "title": "UP Divyangjan Sashaktikaran Yojana 2026: Objective, Benefits, Eligibility, Required Documents & How to Apply",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcHNMVVZDMllGQzN1ejRTT2VkMi1FXzVtYXQwTUV5SjRKajVXVTB2SnJzeW5RVkRuU1dadmpPbnkxc28wSk00cVlLRVF4YVNHYlZNOHo1WXpDYzJnZDNWRUJqTE5leFRwYVlLYWcyMlJaNW5KSU83SjJBTzcwUVVGc1pnVjJIbFlkOXd2aElYVV9JS2xRQXpEaF9oWmRzSUd0bDViV3RXWXdGQlphR204RkpjVWZCUGd0UEEzVUg5a3BJVkczcEhjTGpMSlY5T1llY1Y3QTB1XzRnRGVCZ1lmTk45cnotc1FiMFo00gHyAUFVX3lxTE43VGZkVmZKdkxXR0dKQnRocjVJUm5WUUJBVy15R25IRjctYTliSkZPTkF3XzdfalZxckNna1JhVy16VXdTUGUwRDNKOVZvNzdqYXF3TWJuVWRocjFwRTJHdGkyS2tsdDR6LXZBNHZWbnZYS2otbGxJcFExV3V2bkZJQUFtV0p1SUt1ZW5kWGlSMVBOT1A1cGduZ05SM25HU0wtYWxMeWk2SE9wUTdUWXZvRWdyQk9vdE9JcDdzWjB4RnV6djFyV01YYjhncUJFajNhc1JCZDBUUUx3dkd3dzhlaTJFeWlvcHhteTJ0a1NkQ1BB?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Jagran Josh",
-      "sentAt": "2026-09-12"
-    },
-    {
-      "key": "github:max-sixty/worktrunk",
-      "title": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-12"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity trusts GPT-6 Astra with end-to",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-12"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-introducing-chatgpt-financial-services",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-12"
-    },
-    {
-      "key": "Hacker News:www-reuters-com-world-americas-hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12",
-      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-      "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-12"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmikwfbvv95cuxncv9oak1nawnrru5pznhylwo1be9gwgtueep2oefwdupield3xy1psghyswvrnedvwxzszgxjqzjutnnwd0nvogvmajdicur",
-      "title": "Wisconsin lawmakers weigh AI regulation in healthcare",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcV9oak1naWNRRU5PZnhYLWo1bE9GWGtueEp2OEFWdUpIeld3Xy1pSGhySWVrNEdvWXZSZGxjQzJUTnNWd0NvOGVmajdIcURwUHVXX0EwR0gtek5uRk8zbGNwT1JOenR5SjVxQ2N1NmFnbDdxVU14VFJrdEV0RjRJVno2YjFDYS05NlJyUWlmSXN4RUXSAacBQVVfeXFMTlVUdjR1OHRkSmtkeUhaZXFsUnVvMGZtQmx0Zy1mQ0RCVnh3RzZlS2lDZTB6ME5MZEJoQ2RncUJ5TzFKOWlmdWxzNndDQ19tRjN1cGtQSWgxbF9vdDYwOEF5cWROQUI1MzhuSG4yeTV4ZnY5bGVkRjAtZk0tTXVRRDFVZXJIRGVqVzE2anN5S1RXLWdCOUNLSEZrTndkVkxyelY3Rlo0TVU?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · WMTV 15 NEWS",
-      "sentAt": "2026-09-12"
     }
   ]
 }
