@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxqafrynzzornhlogtzt0l5yumxr3zwzxrry3o1vhlprjrqy1u4ul9fdhvwsmu5m09trflvmunroe80uzjyci00ektpq3hwc2c",
+      "title": "The Brandtech Group AI for Good Scholarship to attend 2026 One Young World Summit in CapeTown, South Africa (Fully Funded)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFRyNzZORnhLOGtzT0l5YUMxR3ZWZXRRY3o1VHlpRjRqY1U4Ul9fdHVWSmU5M09TRFlvMUNrOE80UzJyci00ektpQ3hwc2c5OU1FVmh3MG1ldzFVNlhMOTE0Rmc0b0dHU2hiSDFIalI3VGFJOWhJZFBpMGw2MHRFYnViY1NwWTlDT1ljVFlrSTIyUXR4cjlIOGxtbTNxcjZMOWc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Opportunities For Africans",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxqbvn1strfttu4vljivdb4x05vvfvlalzfuwr5cwixnxpfzk0xn1ktadlmqkx4vkvozuprznb1vtznntrxzllqufq3yzrtxzj",
+      "title": "Applications Open for Airtel Foundation’s N100m Tech Scholarship",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVN1STRFTTU4VlJIVDB4X05vVFVLalZfUWR5cWIxNXpfZk0xN1ktaDlMQkx4VkVOZUprZnB1VTZNNTRXZllqUFQ3YzRTXzJCT1psWGo4UUhtRzFoT3ByRzd0bXJtcWxSQTdnbjJwaGpfbnNzZ0hneFZMNzNOdjBUb3c1V2lRRlVibldhblpGcDZscG9CRW9CT3d1VlU0ZEU?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Business Post Nigeria",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmisafbvv95cuxquzjsbzhplvjfedvnd2rrvlu0rg9gqln2lxhzd0dcmlf2tuzvwul2udz1owh1nfvjylruqm9wlvjcvw1db3z4mm5ym09csen",
+      "title": "Airtel Raises Tech Scholarship to ₦100 Million as Applications Open for New Beneficiaries",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzJsbzhpLVJfeDVnd2RrVlU0RG9GQlN2LXhZd0dCMlF2TUZvWUl2UDZ1OWh1NFVJYlRuQm9WLVJCVW1Db3Z4Mm5YM09CSENoS01YNXh3eHN6ZUhEM3hHWWxCSEpZMDhIOHE3bld2cXJTSVhpbERyZzJzR2VjR0dEVE52Y3lqcndId1N1aGFxVU05MDd6SWtabmtIZDVHaUtaUFV2NkJZbExDTmFEWGNMeg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Techeconomy",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-revolut",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-coordinated-vulnerability-disclosure-timelines",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "Hacker News:apnews-com-article-south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-17"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmidefvx3lxte5pz1k1wdrlqwyyumg5r0xouepuzgwxtevun3jrdi1gcxpnzuczmktotk5yvfrldlvialpxdejwswp4x0thudnuu0rezefydgt",
+      "title": "AI-BOMs: A Practical Guide to AI Bills of Materials",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZ1k1WDRLQWYyUmg5R0xoUEpuZGwxTEVuN3Jrdi1GcXpNZUczMktoTk5yVFRLdlVIalpxdEJWSWp4X0thUDNUU0REZEFYdGtLSDgtYS1rREo1WW81MGx6SE1nSFZvU2V0bU9kcHVMdmxlR0JY?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · wiz.io",
+      "sentAt": "2026-11-17"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxnndf4dtlysm5wwwjculpiakhqulhiof9omvdgn3lkeho4mfoxznlsuju1aevhq0h1x1dyc2z2zgvvq0q2d0vjr0vqwwxlckd",
       "title": "Apply for UK Summer Fellowship Research Track Program - fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDF4dTlYSm5WWWJCUlpiakhqUlhIOF9oMVdGN3lKeHo4MFoxZnlsUjU1aEVhQ0h1X1dyc2Z2ZGVVQ0Q2d0VJR0VqWWxLckdfR3dXam5KNUZ0UGpnWVRGc3RPN1VmYmptbUhYT3k1aG8xdnd5ZHNjRDg1YzdwRUlzdGw4R2hVelhta1Z5amIxSzlVYWdYQlhJODVfSW9Jb3FNajNv0gGoAUFVX3lxTE5VamwwRDV2Z1RxQnhtbHRWd1NPYUxiOExDU090clNtRU9QTXlhdC1oSGpySEtGTnp0cC1BbkF5dGpTWXhWbkY3YVhvU2szOEwyYTRMR3BDYVcxaHFvSThMbmpmNHYxWl9yZkpRdGYwOHJZOG9weWY1UzdiazRoOGwwVThBQnhRQ29lRlJxX2lVdDRyYzFyRHZvVDVvcHhSZ204T3FDTUZNcw?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "ai",
       "source": "OpenAI Research",
       "sentAt": "2026-09-14"
-    },
-    {
-      "key": "Hacker News:tenderlovemaking-com-2026-09-11-what-a-time-to-be-alive",
-      "title": "What a time to be alive",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmicefvx3lxte41snfln0c4vhnwa2tnrk1wvjy5budwcllatnnqmudluu9csvhjexvzrxplzjlgznrpzvnoawtbak45odfrwglwznozrvfswui",
-      "title": "Yenching Academy of Peking University 2027 Fully Funded Master’s Fellowship for International Students",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41SnFlN0c4VHNWa2tnRk1wVjY5bUdwcllaTnNQMUdlUU9CSVhJeXVZRXplZjlGZnRPZVNOaWtBak45ODFRWGlwZnozRVFSWUIzY0RXamRvVmNmbnR1TzVJXzRFSEtoUWI5MDR1WTA4aDA?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · globalsouthopportunities.com",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimwfbvv95cuxqsgdsbhlkz1jdvg5sngfnwwrjb2rirvrnmvzsrzrnrtlyrna4u1bpnnywq0fty2fynxlkqjfbmglkze81y2c0v0ljadqzmld",
-      "title": "Top 10 Forward Deployed Engineering Courses in 2026",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGdsbHlKZ1JDVG5sNGFNWWRJb2RiRVRNMVZsRzRNRTlyRnA4U1BpNnYwQ0FTY2FYNXlKQjFBMGlkZE81Y2c0V0lJaDQzMldtTW9sUUZJNnlWeGhaVVdlVkdUUXppQWlJRkhfcHBsVzhkWDZabWpBS3pJUzFSbDZ4S1dneExvSW1ZWXJlYVZ4NjVrcUV1MTF0UjFJUQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · analyticsindiamag.com",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxnuvbiww5qcjfflwnhshg0dfmzbl9tyuoyumjzrghotxprqjm1u3bju2u2r3o0dvlszjf6m3rzrenlrmtwtuxktg03andsnwl",
-      "title": "Mark Cuban Foundation to host free AI bootcamp for Columbus high school students",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVBiWW5QcjFfLWNhSHg0dFMzbl9tYUoyUmJzRGhOTXprQjM1U3BjU2U2R3o0dVlSZjF6M3RzRENlRmtwTUxkTG03andSNWlZWmN3SjE1dTlCcHZSSDJZMFcxeTd5ODRUYXB0X250dGp2dXRmZVVWZ2hGZlA5MEx4VWpEMkxnb3lSMEh6dC1Lc0NyWDQ0Y21nNXZ6UDI3MnBRY0drRkRoNm1MQ3RJeGhvYVhueFBDS3B2anc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · WSYX",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "github:alibaba/open-code-review",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-introducing-the-agents-api",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-05903",
-      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-      "url": "https://huggingface.co/papers/2609.05903",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-13"
-    },
-    {
-      "key": "Hacker News:ras-ac-uk-news-and-press-research-highlights-fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-13"
     }
   ]
 }
