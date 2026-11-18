@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiqgfbvv95cuxnbedmnjvwsjfqszj3qtdldm9kewt5rulgew82yvh0y0kzrwjqt296r1jibhnnq0njevlac2jcanpfc3jntly3dulxtu5vq2r",
+      "title": "Oakland high school students: apply for The Oaklandside student reporting fellowship",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEdmNjVWSjFqSzJ3QTdldm9keWt5RUlGeW82YVh0Y0kzRWJqT296R1JIbHNNQ0NJeVlac2JCanpFc3JNTlY3dUlxTU5VQ2R5Rkp6TXBNRkwxSGUySkg2LWNDcHRPZW1CQ0w1cDE3NmliQzU0RWprQ1YycDhtMHJKc1NzVWtmS0lEN2hWNXhsRlN6ZjRFT0JjWTBoQ1BnQzd0c3RseTNuWjVsUQ?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Oaklandside",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmilgfbvv95cuxoc2hldkjodmfkcnjtbzvfsghivg9wbvpiouv3a0w0yxn1velinwljblhywk1obv9uq3f3tfvyv1zoufbjbutatff3qnpbbxb",
+      "title": "The rise of specialized jobs in the AI era",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2hldkJOdmFKcnJtbzVfSGhiVG9WbVpIOUV3a0w0YXN1VEliNWlJblhyWk1obV9uQ3F3TFVYV1ZOUFBJbUtaTFF3QnpBbXBlUUFJNjFXclRGWHVja0U1dG9NeFA4QklyMlh3OHEyYjdzbFMtUFlIMHp4b2ZraEE1dWlKN1hGMXc5TVhWd183YTFNYWstcEE?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Kenbridge Victoria Dispatch",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "github:HKUDS/CLI-Anything",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-our-first-phase-of-embedded-assessments",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "Hacker News:typefighter2-com",
+      "title": "Type Fighter II",
+      "url": "https://typefighter2.com/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-18"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiswfbvv95cuxqdgjpwmp4vfuwv3j3ewrku0juufnibkjftmf4efpxbzfvsurkywjuc0rjd2hrc1rgs2dbdgvfcxjjnm9idldyugxxtzu2um1",
+      "title": "Priorities and Prospects for AI Legislation in the New Congress",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGJpWmp4VFUwV3J3eWRkU0JUUFNIbkJFTmF4eFpXbzFvSURkYWJuc0Rjd2hrc1RGS2dBdGVfcXJJNm9IdldyUGxxTzU2Um1TSmttZWdWS0s0eW14aFFYVEZtRVk1NERRN3pNdE1mMGcyUlFKMzUtRjNnZXJESGpqR2U4R1AzNi1qLWp0NVdtdUhwTEt5NDlGQk9lU3dZRUlPVXpFOXBRMHR5Wks5WnZvNVU3bw?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Crowell & Moring LLP",
+      "sentAt": "2026-11-18"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxqafrynzzornhlogtzt0l5yumxr3zwzxrry3o1vhlprjrqy1u4ul9fdhvwsmu5m09trflvmunroe80uzjyci00ektpq3hwc2c",
       "title": "The Brandtech Group AI for Good Scholarship to attend 2026 One Young World Summit in CapeTown, South Africa (Fully Funded)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFRyNzZORnhLOGtzT0l5YUMxR3ZWZXRRY3o1VHlpRjRqY1U4Ul9fdHVWSmU5M09TRFlvMUNrOE80UzJyci00ektpQ3hwc2c5OU1FVmh3MG1ldzFVNlhMOTE0Rmc0b0dHU2hiSDFIalI3VGFJOWhJZFBpMGw2MHRFYnViY1NwWTlDT1ljVFlrSTIyUXR4cjlIOGxtbTNxcjZMOWc?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-09-15"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiigfbvv95cuxncmdwagowz1vtyv9oy2ttvgs3ngdid3zjr29zchz0bnhdywfld29nwuz0wmdzawtmx2ppuudqdupscjmxyknnahbyclp4zzd",
-      "title": "The Unlikely Political Bedfellows on A.I. Regulation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmdWaGowZ1VTYV9oY2tTVGs3NGdId3ZjR29ZcHZ0bnhDYWFld29NWUZ0WmdZaWtMX2pPUUdQdUpScjMxYkNNaHBYclp4ZzdjcWhGTjVhX3F3MUVGd29XUzZKWkZOakNSVENqcDZUMUFia1RyVzRqS241OXVvc1NsRjItbHRydFBKWEE?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · The New York Times",
-      "sentAt": "2026-09-15"
-    },
-    {
-      "key": "hunter:jobs-lever-co-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
-      "title": "Palantir Technologies - Forward Deployed Software Engineer, New Grad",
-      "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
-      "section": "opportunities",
-      "source": "Opportunity · Palantir Technologies",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5183051008",
-      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "section": "opportunities",
-      "source": "Opportunity · Anthropic",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "hunter:job-boards-greenhouse-io-anthropic-jobs-5183053008",
-      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-      "section": "opportunities",
-      "source": "Opportunity · Anthropic",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "github:debpalash/VoiceStudio",
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-09-14"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-14"
     }
   ]
 }
