@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmigafbvv95cuxosuh4cknin0nly3hzltrroge1m0w4uwq0dhj2vvf0sw1wa01lnjz2mfrbdevdytrkmfpabnfkwtvywlc4netfrm1yvxnklvj",
+      "title": "Twenty-Ninth AAAI/SIGAI Doctoral Consortium: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUh4ckNIN0NLY3hZLTRrOGE1M0w4UWQ0dHJ2VVF0SW1wa01LNjZ2MFRBdEVDYTRKMFpabnFKWTVYWlc4NEtFRm1yVXNkLVJCRlcxdGx3M2NlMXpxTUQ4bFdlWFJSVVRJS3JCaHpVclRBR1lVYU9yOGlxSTVpSjBnZg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The Association for the Advancement of Artificial Intelligence",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmisgfbvv95cuxpugnhaglvqurxmudmntjlr1zmzgvwvec1ouraohbfvu9wyi1qcwexmjdpbekydkpmzhb0vudizkhqcnv6qkswrjj3vdfhb1d",
+      "title": "These 6-Figure Tech Roles Barely Existed a Few Years Ago and 'Pay Far More Than the Typical U.S. Job'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNhaGlVQURxMUdMNTJlR1ZMZGVwVEc1OURaOHBFVU9WYi1qcWExMjdpbEkydkpmZHB0VUdIZkhqcnV6QkswRjJ3VDFHb1dOM2lvUXdxSlU0UnAxYWpscEJHTHZCZ2JDRC1MV29VT2QtaU51dWJieGtjVzYtVWpTQ0kwdG9tb2xtdXRXSkpYd2gwbi1ibzBTNjN2R1FIZ2VxTm9Fa1lHQ1NfOUNuVEEtTllR?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Entrepreneur",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "github:elementalsouls/Claude-BugHunter",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "Hacker News:ricapar-net-clawdos",
+      "title": "ClawDOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-21"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmidkfvx3lxte5aywpprv90d05qdws5tgc1qudkzfewatflmwhzm2izn1ljogliv0jgcve5uhhxt3rha2tprtr5uu9vmuh0uhfmskptz2hotes",
+      "title": "Climate Disinformation and AI Policy Platform",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYWppRV90d05QdWs5TGc1QUdKZFEwaTFlMWhZM2IzN1lJOGlIV0JGcVE5UHhXT3RHa2tpRTR5UU9vMUh0UHFMSkptZ2hoTEsyZktIcXJNQXVDaWhvTlowU1c5VWJUaEctQ3hrWllnYnduaU1aRkE?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Friends of the Earth",
+      "sentAt": "2026-11-21"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmirgfbvv95cuxptwp4x2p2bfm1wi10t0lobvl2ehpncux2alj5tlg3wnvnbulomm1iynq3zny5u0nbrexvblf2x0e5vmzveenhcmxnqkqzunz",
       "title": "Call for Applications: World Bank GovTech AI Bootcamp 2026 (Fully Funded Training)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWp4X2p2bFM1Wi10T0lobVl2eHpNcUx2alJ5Tlg3WnVNbUlOMm1IYnQ3ZnY5U0NBRExvblF2X0E5VmZVeENhcmxnQkQzUnZ3X0gzcnBqeGdaQUtJdXdiWGJrUDNhdncxOGNKZDBFSHJVaHBOTlVrOFVpTnd2bGZndGY3Nzh2TFluVlhxbzd6YTl6anpYUUlzUHRIQnpBZ2dWZU15VnVld29mM0dyRXc?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-09-18"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiswfbvv95cuxpmggwvnjtdm5lrkdxr3fcsupoalbqtflumuk0dvlute9fwu5iajv1yv94surkvuc5d0xkrjlxtlp2vgnsnwtqmnjtuy1tuk1",
-      "title": "State Board of Education to review AI policy for Florida colleges",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGgwVnJtdm5lRkdxR3FCSUpoalBqTFlUMUk0dVluTE9FWU5IajV1YV94SURkVUc5d0xKRjlXTlp2VGNsNWtQMnJTUy1TUk1FQllEaThEcFJDUGRNQlZoRUkwMWc5a0pPWGFOV0hSdzZnQy14WUE3UHdkampvczF0bS16TERkR2dhQW9IenRBRVJuTWF3T0IwNTNQNmFLOGQ0WG9EdmNhXzVUUnhMaEdJbXJfRQ?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Spectrum News 13",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "hunter:scale-com-careers-new-grad-strategic-projects",
-      "title": "Careers at Scale AI",
-      "url": "https://scale.com/careers/new-grad/strategic-projects",
-      "section": "opportunities",
-      "source": "Opportunity · Scale AI",
-      "sentAt": "2026-09-17"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-modal-9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
-      "title": "Forward Deployed Engineer - ML",
-      "url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
-      "section": "opportunities",
-      "source": "Opportunity · Modal Labs",
-      "sentAt": "2026-09-17"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-cohere",
-      "title": "Cohere Jobs",
-      "url": "https://jobs.ashbyhq.com/cohere",
-      "section": "opportunities",
-      "source": "Opportunity · Cohere",
-      "sentAt": "2026-09-17"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-openai",
-      "title": "OpenAI Jobs",
-      "url": "https://jobs.ashbyhq.com/openai",
-      "section": "opportunities",
-      "source": "Opportunity · OpenAI",
-      "sentAt": "2026-09-17"
-    },
-    {
-      "key": "github:Tencent/BrowserSkill",
-      "title": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-17"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-reimagining-advertising-with-ai",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-17"
     }
   ]
 }
