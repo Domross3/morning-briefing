@@ -2,6 +2,38 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:cursor/plugins",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-22"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-news-ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "section": "ai",
+      "source": "Anthropic News",
+      "sentAt": "2026-11-22"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-22"
+    },
+    {
+      "key": "Hacker News:arstechnica-com-tech-policy-2026-11-prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-22"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmigafbvv95cuxosuh4cknin0nly3hzltrroge1m0w4uwq0dhj2vvf0sw1wa01lnjz2mfrbdevdytrkmfpabnfkwtvywlc4netfrm1yvxnklvj",
       "title": "Twenty-Ninth AAAI/SIGAI Doctoral Consortium: Call for Proposals - The Association for the Advancement of Artificial Intelligence",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUh4ckNIN0NLY3hZLTRrOGE1M0w4UWQ0dHJ2VVF0SW1wa01LNjZ2MFRBdEVDYTRKMFpabnFKWTVYWlc4NEtFRm1yVXNkLVJCRlcxdGx3M2NlMXpxTUQ4bFdlWFJSVVRJS3JCaHpVclRBR1lVYU9yOGlxSTVpSjBnZg?oc=5",
@@ -3967,38 +3999,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ed3lGYThLcXZvMzBoV2pod2JIeHE5QnM5Sm1vbGROWV84SlM5TDAxb2tUQlBRMFVUbk1Fc3RhV3laeTJUSzlfdUlET080YzhKRnJBU2tsOG9RODM5TWJoVzA5dWFhU2Y0X2FlVQ?oc=5",
       "section": "opportunities",
       "source": "Opportunity · Built In",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "github:coder/coder",
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-research-claude-uplifts-biomolecular-modeling",
-      "title": "How Claude is uplifting biomolecular modeling",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "section": "ai",
-      "source": "Anthropic Research",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-20519",
-      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-      "url": "https://huggingface.co/papers/2609.20519",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "Hacker News:tokenstead-ai-guides-zcode-silent-git-history-upload",
-      "title": "ZCode uploads your git history; Z.ai holds the only key",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "section": "tech",
-      "source": "Hacker News",
       "sentAt": "2026-09-18"
     }
   ]
