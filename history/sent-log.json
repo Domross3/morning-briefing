@@ -2,6 +2,78 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxnmlu1azm2lvzxos1xq2hic1ply0tithjqoflis0xknnfhbjjhwwxzrxfaqkvxynhwtvdjymkxb042oudet2e1yjbmnxp4ynf",
+      "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlU1azM2LVZXOS1xQ2hIc1pLY0tiTHJqOFliS0xKNnFhbjJhWWxzRXFaQkVXYnhWTVdJYmkxb042OUdET2E1YjBmNXp4YnFfeWZ4X2RjNkJ1YWZOVTdMZ3NQUHl6a2RTdE9JTVZPMDhPUDB6a0MzMW5NNE5Uakk1UWF1SXhyUEd0ZHhmNWdVaHhodw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Tech Policy Press",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiogfbvv95cuxodvitzxphclfsmmvac0n0unztzurswdawzwewwxy0x1o2ugd0blfqtfvyamrncflragxceephowswzjfvb1p2mzlftmnidjr",
+      "title": "Airtel Raises Tech Scholarship to N100m as Applications Open",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVItZXpHclFsMmVac0N0UnZTZURSWDAwZWEwWXY0X1o2UGd0blFQTFVyamRncFlRaGxCeEphOWswZjFVb1p2MzlfTmNidjRldlowdGw0Qm9XMjhHamJRTE00bGV4MVVkbGZGRDMtdURMaWxsaVFrSnV1WkticEg0REtNeXpRMGVzaXlfa0dLb19LbXRrTDBjVTZndVlTN2hKdHc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · THISDAYLIVE",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminafbvv95cuxot0dsqwpks3fqsnhknzm4dw81qjnpzgp5wdbky3i3ehzhm0l4btc5ww1zrjjpcgoywu1maujyrktsu24zuejir3dgcxrkcmf",
+      "title": "Every Forward-Deployed Engineer Is a Bug Report About Your Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0dsQWpKS3FQSnhKNzM4dW81QjNpZGp5WDBKY3I3eHZHM0l4bTc5WW1ZRjJpcGoyWU1MaUJyRktSU24zUEJiR3dGcXRkcmFYRk8tcEk2ZkpBWWUwaGg0NnlDOHczWmZ5V2V0Sk1BVUhPRTBsSWJFT09LNHZXSjJFeEd3Y3ZSMFdpWnRDNTBheFdBblZxcXpoeFFpQms?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · HackerNoon",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmi4wfbvv95cuxocmfosuxmcupwymnjyljms2zbsw5wsxoxwnjzsnhmx3jec1lhztg5owjtzexordfhwxvvctmzmhvrq0pfegfuutd0ddcwdth",
+      "title": "AI Safety Summit Monday: Only Six Low-Income Countries Have Cyber Incident Teams in Global Network",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmFoSUxMcUpwYmNjYlJMS2ZBSW5wSXoxWnJzSnhmX3JEc1lHZTg5OWJTZExoRDFhWXVvcTMzMHVRQ0pfeGFUUTd0dDcwdThVM0hzOVlHWGF0aXJJZUhkWWNzWDRlN05fM29pOUhaNnJRMTBwd2xiZDNUa3ZFRTRJMEkwV051eHFLcVI4d0xKZEpTQWZvbUUwVDdlVW0zVlVmTmRWVUZvR1VNZTBtM09TaXNldGhQTEkxQm9tLU1fYjNybVBYTlRLUlZTYldTRzQxZFktMWJSa1JkOFZ6UWU4RmVSdw?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Tech Times",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "github:nginx/nginx",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-index-perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-learn-deploying-daybreak-red",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "Hacker News:nvidianews-nvidia-com-news-nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-23"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmikgfbvv95cuxpm0danjj4mtzuyzrvrvdvbjbcethwskj5vlotenfobgmxu0rzulzfedmznhvrwgrrvuw1yw1jzw1fculkvfherhnkswttcuq",
+      "title": "American bishops plan for ‘groundswell’ of political action for AI regulation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0daNjJ4MTZuYzRVRVdvbjBCeThWSkJ5VlotenFObGMxU0RzUlZFeDMzNHVRWGRRVUw1YW1JZW1FcUlkVFhERHNKSWtTcUQxZk1lbkllMjJzSFJzeWVFamlSQWc5MG9nMjhsVnQySDB0WE1jOHhfZDZYVndkYjk0cmR5dGctVjJZdVN6aUxzcTJZQQ?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · Politico",
+      "sentAt": "2026-11-23"
+    },
+    {
       "key": "github:cursor/plugins",
       "title": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
@@ -3928,78 +4000,6 @@
       "section": "tech",
       "source": "Hacker News",
       "sentAt": "2026-09-19"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmipwfbvv95cuxnwuxebtnpoghvmznfrmnsnxh3smntoghom0lwnevvvezpalbxn2psazk2whqzehexvvfvtjl3nmhkmwfhmhfjr1zkau8zynd",
-      "title": "You Don't Have to Sell It to Be Bound by It: GPAI and the EU AI Act",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUxEbTNpOGhVMzNfRmNsNXh3SmNtOGhOM0lWNEVvVEZpalBXN2pSazk2WHQzeHExVVFVTjl3NmhKMWFHMHFJR1ZkaU8zYndET2FnR2hYY2dXZEFvX2pTVmpzWlpPTEF5cV9LYm5VMGxpODFabEJ2Vm1lcWxoNFppTGlJQXU3Y2dxVnZ4VHVlV0dIWjFRem9MX0h5S1REZE81aDhSaDFoSQ?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Lawfare",
-      "sentAt": "2026-09-19"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte50vffmturhc051rm9ltk8wtlm0wxznal83t1ptrtlkzmlxlwv5ce96axvoshnwrjhtt0tryv95mwnvv0zmbg55zw9wb01dnl9",
-      "title": "Constellation Astra Fellowship 2026: Fully Funded AI Safety Fellowship in Berkeley with US$8,400 Monthly Stipend",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VFFMTURHc051Rm9lTk8wTlM0WXZnal83T1ptRTlKZmlxLWV5cE96aXVoSHNwRjhTT0tRYV95MWNvV0ZmbG55ZW9Wb01DNl9SU2VGeEUtZDRhbG8zaVlneDBDaHFJQTFQRlpGLQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · globalsouthopportunities.com",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte4wx2xlwlbkwuzjttf0ovftykpwdestsxjunurrrhvuskzocenrzxzcb3d1vkswovpjegxkrgtun3zacxjlenjkdwjjsujxt2j",
-      "title": "Solutions Architect Salary: Your 2026 Guide",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wX2xLWlBKWUZjTTF0OVFtYkpWdEstSXJuNURRRHVUSkZocENrZXZCb3d1VkswOVpJeGxkRGtuN3ZacXJLenJkdWJJSUJXT2JlZXgzSHBnZzZhYUlWbW9hMTRTRFRnLUhBUUMzWg?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Coursera",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmi8wfbvv95cuxpmg5wvza2rmxgtvfynevxdxlccjnfctfywvrdzzlxv2vzqnrpmghomfvxovdqd2dtcjnyttvruwlhykvfmf90n2rhys1qyuz",
-      "title": "Phenom Unveils Agenda for AI Day 2026, Its Annual Technical Showcase Behind Applied AI & Agents for HR",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMG5WVzA2RmxGTVFYNEVXdXlCcjNfcTFYWVRDZzlxV2VZQnRPMGhoMFVxOVdqd2dtcjNYTTVrUWlhYkVfMF90N2RHYS1qYUZCMTdmVUNhWXZuc2VOS0Y3dUdxWUhNZ0F1RllaNERqZUFUWTVPVzdtTktGOEcyWjcyQVBGMGhzY1czdVhzS19iTDc1WE93MnhJV2phUDFUd29kWVRFZkhuQWVWbUtkaWFTZ2lpWUk4UkxzaWNzc1c4cENwZ0tRaDV0eE1VTEtpNXNMaWprR1FvT0JvcnNvdjNDVFRvUGFsRllXSGhDU0pJaV9nSHc?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Morningstar",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmivgfbvv95cuxnshh2vneytm45cl80mk5iwmfvtmfbnwxyowjrsmktve1rzennredacnhisvi0nk1ht2zenjcyv1lioefjsmrbrvlkswvwouf",
-      "title": "UAlbany to Host National Summer Research Programs in Emerging Tech and RNA Science",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHh2VnEyTm45cl80Mk5iWmFVTmFBNWxYOWJrSmktVE1RZENnREdacnhiSVI0Nk1HT2ZENjcyV1liOEFJSmRBRVlkSWVwOUFjY0tCNmJTeGpyN0hBNUw0a0VTR0NvTE5WclBISUpwc3BwZlpGLUF5YjJZVWYzTDdubi02dlNzNXJ3ZTZ2alpScllhWl9XOFU1UEo0WWUwczlOd1NvYVNfcVhNTTMxejRMZUxid2V3R1VBV21seHNB?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · University at Albany",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmieefvx3lxtfbpuuxrx0i5ulk3mug3cjfmcjzbmdzvv2noa3pvdu5yr3hzwhlqanvsofzrrvz4djn5ndlucgppzlzxak5sd2oyrlnwrwmtoex",
-      "title": "10 Scholarships And Grants For Adults Going Back To School",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUUxrX0I5Ulk3MUg3cjFMcjZBMDZvV2Noa3pvdU5YR3hZWHlQanVsOFZRRVZ4djN5NDlUcGppZlZXak5Sd2oyRlNwRWMtOExuS1NBY182ek5odVRsWGotQVJDOUhzWV9iQ2tOMnJTR0VZdWNHMThlMg?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Forbes",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmimafbvv95cuxqq2tsrnqzmur2njc2dtljm2zjcvnwdefmsmwwdw8ymc1jq0xkz010mws5vudzdjjvrjb4wg5mrdrxuuyzmuktd09fsf9mmzk",
-      "title": "Application period opening for veterinary scholarships and grants",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2tSRnQzMUR2Njc2dTljM2ZJcVNWdEFMSmwwdW8yMC1JQ0xkZ010MWs5VUdzdjJVRjB4WG5mRDRXUUYzMUktd09FSF9MMzktdFlleDh2SnZpc3RfUW5Tc204TDZYWUN5ejZHdUFMRTJ0VTlvOTBHT3RIaFhpSkhOcEY0RTZRMm9VNEhkU3NlTjJuaXN6anhQVg?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · DVM360",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmitwfbvv95cuxoatzjuhrkruhos2jka0vqbwmycwhrd0jumjmydzfhltlmstjrzutprnzhexzqaxflmm8zru5yzmswdddhmdjnmhltztlunen",
-      "title": "Safaricom Hiring Senior Solutions Architect (Digital Platforms)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaTZjUHRkRUhoS2Jka0VqbWMycWhrd0JuMjMydzFhLTlmSTJRZUtpRnZHeXZQaXFlMm8zRU5yZmswdDdHMDJnMHltZTlUNENNaTZBTjNfVlRkXzRTYll2Q2JVbzVubnFaWExxa3hVX1NQU29hVkdSeGdFVmUyVVBpeDRIZEdMa3pJbG5TbnJJTldQcVBSLXFrb1VoRjkwVXhnUG1XV3BhQWliOElDR1dhX2JHQ3E1QWs?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Opportunities for Young Kenyans",
-      "sentAt": "2026-09-18"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmibefvx3lxte9ed3lgythlcxzvmzbov2pod2jiehe5qnm5sm1vbgrowv84slm5tdaxb2tuqlbrmfvubk1fc3rhv3laetjuszlfdulet080yzh",
-      "title": "Optum to Hold Virtual Hiring Event For Engineering Talent",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ed3lGYThLcXZvMzBoV2pod2JIeHE5QnM5Sm1vbGROWV84SlM5TDAxb2tUQlBRMFVUbk1Fc3RhV3laeTJUSzlfdUlET080YzhKRnJBU2tsOG9RODM5TWJoVzA5dWFhU2Y0X2FlVQ?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Built In",
-      "sentAt": "2026-09-18"
     }
   ]
 }
