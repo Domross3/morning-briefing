@@ -2,6 +2,30 @@
   "version": 1,
   "sent": [
     {
+      "key": "github:openvinotoolkit/openvino",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-24"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-working-with-ai",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-24"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-24"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxnmlu1azm2lvzxos1xq2hic1ply0tithjqoflis0xknnfhbjjhwwxzrxfaqkvxynhwtvdjymkxb042oudet2e1yjbmnxp4ynf",
       "title": "Call for Applications: 2027 Tech Policy Press Fellowship Program",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlU1azM2LVZXOS1xQ2hIc1pLY0tiTHJqOFliS0xKNnFhbjJhWWxzRXFaQkVXYnhWTVdJYmkxb042OUdET2E1YjBmNXp4YnFfeWZ4X2RjNkJ1YWZOVTdMZ3NQUHl6a2RTdE9JTVZPMDhPUDB6a0MzMW5NNE5Uakk1UWF1SXhyUEd0ZHhmNWdVaHhodw?oc=5",
@@ -3975,30 +3999,6 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "section": "github",
       "source": "GitHub Trending",
-      "sentAt": "2026-09-19"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-hex-gpt-6-astra",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-19"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-20784",
-      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.20784",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-19"
-    },
-    {
-      "key": "Hacker News:med-stanford-edu-news-all-news-2026-09-two-separate-brains-html",
-      "title": "Human brain is two separate organs, Stanford Medicine",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "section": "tech",
-      "source": "Hacker News",
       "sentAt": "2026-09-19"
     }
   ]
