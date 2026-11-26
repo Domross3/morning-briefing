@@ -2,6 +2,70 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmivafbvv95cuxndf9nme11lwtuq2ryvfnyowl3zgzpvkfqyleta3dxmjfcqxn6c2l1njqxakthqvpqsenbc0pvzxndwvdfde9zdmfocxvztjz",
+      "title": "Call for Applications: Microsoft Datacenter Academy Skilling Bootcamp ( Free 12-Weeks Program)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdF9nME11LWtuQ2RYVFNyOWl3ZGZpVkFqYlEta3dXMjFCQXN6c2l1NjQxakthQVpqSENBc0pVZXNDWVdFdE9zdmFOcXVzTjZVZDlVRVAzLUF0M3ZKT1g4ZHN1dkNXRHhfSnZmVjJNczJoVWRKNTZDUkFnTHNwdE4zYW42YVQ2NU5SV1FmdDVJZnBnMTZCYjhKd0xDaXIxbldjcVd0MlNsdzBHMW1fcjlWb3RfbkZNRkJNZ0Vqeg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · MSME Africa",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmitafbvv95cuxoznnsnjl1aghvndzystzhdty4z1vsc1bym3vhvdfinmnhutrzr3f6uhhwmjdmuwdsmmhibgpgzvrfrxdhq016bjbssxjsmez",
+      "title": "Forward deployed engineers arrived in 2026 to help deliver on AI’s promises",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnNSNjl1aGhVNDZySTZhdTY4Z1Vsc1ByM3VHVDFiNmNhUTRzR3F6UHhwMjdmUWdsMmhIbGpGZVRFRXdhQ016bjBSSXJsMEZyZkNyQnhCUXRYWGxLMk1wV1JQOExZZWdBTlZuOHYyY0JYM29CWWFiNzFmRWtEelJlX0NpeUlLRDAxbnI4aUNYV3VlWElLSnpubUpoUDZaeERXMHNFTTVfaDJPOEZHUzN2eHJ2bng?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Channel Dive",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiugfbvv95cuxnuvbiww5qcjfflwnhshg0dfmzbl9tyuoyumjzrghotxprqjm1u3bju2u2r3o0dvlszjf6m3rzrenlrmtwtuxktg03andsnwl",
+      "title": "Mark Cuban Foundation to host free AI bootcamp for Columbus high school students",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVBiWW5QcjFfLWNhSHg0dFMzbl9tYUoyUmJzRGhOTXprQjM1U3BjU2U2R3o0dVlSZjF6M3RzRENlRmtwTUxkTG03andSNWlZWmN3SjE1dTlCcHZSSDJZMFcxeTd5ODRUYXB0X250dGp2dXRmZVVWZ2hGZlA5MEx4VWpEMkxnb3lSMEh6dC1Lc0NyWDQ0Y21nNXZ6UDI3MnBRY0drRkRoNm1MQ3RJeGhvYVhueFBDS3B2anc?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · WSYX",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmikwfbvv95cuxpwnbcqzhxvfzry0zaekzjqurjavp0us1nv2pxejfmodbwmgo1nlv1qvvhnezxn2toutbjewtzm1bis181rndqbzrycfnjwll",
+      "title": "Undergraduate research shapes this future physician",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBCQzhXVFZRY0ZaekZjQURJaVp0US1nV2pxejFmODBwMGo1NlV1QVVHNEZXN2toUTBJeWtZM1BiS181RndqbzRycFNjWllsMTBpeGNBN3UySHB5SDVNYkNSei1oRm5TaUNveXZZbWdib0h2dzF3b0owaHpYQUM3RHRDdjU0VFBHRVhyTTVHdmpfZDA?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · The University of North Carolina at Chapel Hill",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "github:toeverything/AFFiNE",
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "anthropic:www-anthropic-com-research-migrating-api-to-rust",
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "section": "ai",
+      "source": "Anthropic Research",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-clay-plugins-openai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-26"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmi1gfbvv95cuxnylnjagn3zhjreknzq1k1r0lgbhhktxlywxfzaetguuzayw1plxvws3i0svbwved5r0dmwwvsvmdfrnjmmtjabjyxqjd1t1h",
+      "title": "AI regulation will be a key topic in State of the State address, Hochul says",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlNjaGN3ZHJrekNZQ1k1R0lGbHhKTXlyWXFzaEtGUUZaYW1pLXVwS3I0SVBWVEd5R0dMWWVSVmdfRnJmMTJabjYxQjd1T1hfcVZLNFFvNGtGeUhfR3FrQ0Z2aEsxdlRnQVZad0JGU1dfWEhvc0lfSF9fU2hnUTdBQ2pVX0NrUEVWcHJQM0F6NDB0a0FWOWlTV01JOHhudE1YTnJULVRqMEZWZ28yUFByOFV0R2h6ZnNZUi1DcklmNDlFa1A5cnRiQmlJNWVzYkRKMy0tRHVB?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · City & State New York",
+      "sentAt": "2026-11-26"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxptmrkxzdtrzvyqudgz0fju05grvgyv1zvag1mmhvvqjhqyjborkxlu2xtwjzfmmdwafvktkrtbl9vevhivhz3lvnraxp3alj",
       "title": "DAAD Heilbronn AI Fellowship 2027: Get €2,800 Monthly to Research in Germany",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmRkXzdtRzVyQUdGZ0FJU05GRVgyV1ZVaG1mMHVvQjhqYjBORkxLU2xTWjZFMmdWaFVkTkRtbl9VeVhIVHZ3LVNRaXp3alJrMkRxY0FvZUtKYVlNcUxjclJTY3JScGtZN0F1ODA5ZmM1NG5yZnBwUFB3T1hHYXNpV3hRTmlscnFHbXJWaWZFUWRwZnFWRGJHZ3pfbU1WX3IxOHlN?oc=5",
@@ -3936,70 +4000,6 @@
       "section": "ai",
       "source": "HF Daily Papers",
       "sentAt": "2026-09-22"
-    },
-    {
-      "key": "anthropic:www-anthropic-com-news-life-sciences-verification-program",
-      "title": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "section": "ai",
-      "source": "Anthropic News",
-      "sentAt": "2026-09-22"
-    },
-    {
-      "key": "Hacker News:albertoarena-it-posts-will-open-source-survive-the-agents-that-replaced-it",
-      "title": "Will Open Source Survive the Agents That Replaced It?",
-      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-22"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmic0fvx3lxtfbzu0ittxhwexdnbws1ulfuotzbaw8ya3g4wgczuwtwrglvb1i5a2pfmhyzzjjhvlzyzjrsmtvoek1ltezfwfnrvuzzb0oymjn",
-      "title": "Reps. Lawler, Gottheimer Introduce Bipartisan Bill to Stop Rogue AI Agents and Keep People In Control",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZU0ItTXhWeXdNbWs1UlFuOTZBaW8ya3g4WGczUWtWRGlvb1I5a2pFMHYzZjJHVlZYZjRsMTVoek1lTEZFWFNrVUZZb0oyMjNYTXV5TnJwVjRkeEN0RHpuYVYxZlVMOVlPS1JBaVlHclozOUU?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Congressman Mike Lawler (.gov)",
-      "sentAt": "2026-09-22"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmisgfbvv95cuxnujvtum14t1rhwjnveeiybhn3bzjzvdnyszz0mflxt2jowetfukxmm0pawu94zvjybznxcelael85tzlls3psd2h3mdlyvta",
-      "title": "Call For Applications: Citizen AI Arts & Technology Fellowship 2026-2027 | $3,000 Stipend",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVtUm14T1RhWjNVeEIybHN3bzJZVDNySzZ0MFlXT2JoWEtfUkxMM0paWU94ZVJybzNXcElael85TzllS3pSd2h3MDlYVTA3aGNVMS1LTGtKS0Q1TG9JT2FmNHBMOFlrbHlxSVhXQV93UmEtZ0daeVphNkI0N3ZFRllGNkZOSWIzSDN4QTZSMlRfNW5WUzlNcmlYNUI1Zlg0WVp5bzhhLUxBMEFtOXB0X0lB?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · MSME Africa",
-      "sentAt": "2026-09-21"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiaefvx3lxtfbnsxi5endzumlwz212ahr4dc1zaxhzsglgzhhbshpod1vprenox1dqtmvyvwjeze03snjym3rkrg1yznvta1fytw02bxrpwjj",
-      "title": "Apply for the Cambridge Boston Alignment Initiative (CBAI) Fall Research Fellowship in AI Safety 2026: Fully Funded 10-Week Research Opportunity in the USA",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSXI5endZUmlwZ212aHR4dC1zaXhzSGlGZHhBSHpOd1VPRENOX1dqTmVYVWJEZE03SnJYM3RKRG1yZnVta1FYTW02bXRPWjJ1VF9zTjhXdmw0VzlrVDZWVWJCM01ja1h1?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · Global South Opportunities",
-      "sentAt": "2026-09-21"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmikgfbvv95cuxqwunptvm0vgzvb2nfqlztovffm0dmyw5rwejuykpfdnjpou9mrxr3szzoq2hoqvu1vgtjos1yn0houg1qb25kcldsvfh1d0f",
-      "title": "MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUNPTVM0VGZvb2NFQlZTOVFfM0dMYW5rWEJuYkpfdnJPOU9MRXR3SzZoQ2hOQVU1VGtJOS1yN0hoUG1qb25kcldSVFh1d0FiZ201TU1pakJRYi1vVGFqdlFCQ195OHhkc0o1Wk1QMmlNdUI4UDBZSVJRVlpjUWtKd3dqZENHRzFlOVdMdkZLblhRZw?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · opportunitydesk.org",
-      "sentAt": "2026-09-21"
-    },
-    {
-      "key": "github:Crosstalk-Solutions/project-nomad",
-      "title": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-21"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-v7",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-21"
     }
   ]
 }
