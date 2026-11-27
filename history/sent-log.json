@@ -2,6 +2,62 @@
   "version": 1,
   "sent": [
     {
+      "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxowxk3alrwujjxv3rprfvrrlnvcmhbnexjbwjockt0wtzlwlp6bjaxzfbttkntdvqyv2f1z0rkaufksxditww1njd6zhnna2c",
+      "title": "Aula Fellowship Global Call for AI Professionals 2026: Remote and Open Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXk3alRwUjJXV3RPRFVrRlNVcmhBNExjbWJockt0WTZLWlp6bjAxZFBtTkNtdVQyV2F1Z0RKaUFkSXdITWw1Njd6ZHNNa2cyVlF5NjcxcHJneTRaaEhPeEEtdEZ4Yk0zaUpuX3ZMQnlYYWUtNUtLblpiSk5RZ2V0NWs0YWF4ZWRaZXZmaHdHaTZlOVh3MWhFUktaSFJxT0hnVGl3?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · aksfellowship.com",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbmiuwfbvv95cuxnmejnx1ptmljuy2fbewrgu0ftn3pes2jrus1ucgcxnwt1snpnxzu2s29zbxo5q3nyqkp6ytutx05pdjg0zw1wslnutxfvuzd",
+      "title": "Scholarship Opportunity – WSEHA Cind M. Treser Memorial Student Scholarship",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEJNX1pTMlJUY2FBeWRGU0FTN3pES2JrUS1ucGcxNWt1SnpNXzU2S29zbXo5Q3NYQkp6YTUtX05pdjg0ZW1wSlNuTXFVUzdnZktXMmM3dktHcGVzSF9PTW9CYVdSMGNFcDZNQjFCT3JralpBdjUxSWZIT3hTdnVkTlZ5M19aWU1VbEVuWWg5ZWc4a1BOMlhVaEt5U3RmQjU1czV6endmd0c0MTZ1bkZGc0VzV2JQcGktcElr?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Pacific Lutheran University",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "opportunity:news-google-com-rss-articles-cbminwfbvv95cuxpq2xpcez2t0szbkz4yjzws1bhzlzxvuv0uwpvz1dkmznld18tnxe2zfrmngnovljgn1z6v1potlvun3lzs1fcb2o4mwxpnnh",
+      "title": "New Mexico Launches Rulemaking for Broadband Affordability Program",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2xpcEZ2T0szbkZ4YjZWS1BHZlZxVUV0UWpVZ1dKMzNld18tNXE2ZFRMNGNOVlJGN1Z6V1pOTlVuN3lzS1FCb2o4MWxpNnhUNUh6NDFzalBEd0stQnBCaDd6V09mU0lJVkRSUVNDUHVNZ3dqOHUwYU83ek9BX0VYRGJqc2dzRk44ZG1zeFFMRmlDSlJCX09rTWlPaGZtazg?oc=5",
+      "section": "opportunities",
+      "source": "Opportunity · Broadband Breakfast",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "github:mjmirza/app-store-compliance",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "section": "github",
+      "source": "GitHub Trending",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2611-34813",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "url": "https://huggingface.co/papers/2611.34813",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "hf:huggingface-co-papers-2611-34852",
+      "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "url": "https://huggingface.co/papers/2611.34852",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-27"
+    },
+    {
+      "key": "Hacker News:www-theguardian-com-business-2026-nov-27-ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-27"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmivafbvv95cuxndf9nme11lwtuq2ryvfnyowl3zgzpvkfqyleta3dxmjfcqxn6c2l1njqxakthqvpqsenbc0pvzxndwvdfde9zdmfocxvztjz",
       "title": "Call for Applications: Microsoft Datacenter Academy Skilling Bootcamp ( Free 12-Weeks Program)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdF9nME11LWtuQ2RYVFNyOWl3ZGZpVkFqYlEta3dXMjFCQXN6c2l1NjQxakthQVpqSENBc0pVZXNDWVdFdE9zdmFOcXVzTjZVZDlVRVAzLUF0M3ZKT1g4ZHN1dkNXRHhfSnZmVjJNczJoVWRKNTZDUkFnTHNwdE4zYW42YVQ2NU5SV1FmdDVJZnBnMTZCYjhKd0xDaXIxbldjcVd0MlNsdzBHMW1fcjlWb3RfbkZNRkJNZ0Vqeg?oc=5",
@@ -3944,62 +4000,6 @@
       "section": "github",
       "source": "GitHub Trending",
       "sentAt": "2026-09-23"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-parallel-cuts-time-and-cost-with-astra",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-23"
-    },
-    {
-      "key": "OpenAI Research:openai-com-index-introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "section": "ai",
-      "source": "OpenAI Research",
-      "sentAt": "2026-09-23"
-    },
-    {
-      "key": "Hacker News:filmstudio-rxlab-app",
-      "title": "RxFilmStudio",
-      "url": "https://filmstudio.rxlab.app",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-23"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmiugfbvv95cuxnencxqnvwyvdfnuteq3fkzi1zbfvbmvczwmryme4wvlbizgh0mev2eey3rxngdmotmkrfeuxaafnnd2j5rdrvnvd6efpwvgh",
-      "title": "The SANDBOX Act Uses AI Policy as a Trojan Horse for Unfettered Deregulation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNencxQnVwYVdFNUtEQ3FKZi1zbFVBMVczWmRYME4wVlBIZGh0MEV2eEY3RXNGdmotMkRfeUxaaFNNd2J5RDRVNVd6eFpWVGhJZ01kdkxiRjQ3TS0xRVNKYTN3ejZObkpQM1ozNmEtSmxndkVVN1BESkJDNlY2WU9KVXpRbm0tWUhJSWZsN1Ntek51X01CMFVZSUxuVnNGemxkSHZSOEotQTYxcUxEQnZjbzVpOW9qckFpVmc?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · Center for American Progress",
-      "sentAt": "2026-09-23"
-    },
-    {
-      "key": "opportunity:news-google-com-rss-articles-cbmiekfvx3lxte9pvulwum10mhc1s2vcntlqadzqtgzptwnwdxhystv2b3zballuttbesvfhr1l6zu5ynhd0t3nmb0xrsmg5z3hxwvi3c0rorhg",
-      "title": "Infor Uses Forward-Deployed Engineering To Move AI Into ERP Execution",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pVUlWUm10MHc1S2VCNTlqaDZQTGZpTWNwdXhYSTV2b3ZBallUTTBESVFHR1l6ZU5YNHd0T3NMb0xRSmg5Z3hxWVI3c0RoRHg3VEkwSWNUU3poMVdzMU1pczUycjdEdFJnMWF1SlN2SVFsc0M2bkVIbkV3?oc=5",
-      "section": "opportunities",
-      "source": "Opportunity · ERP Today",
-      "sentAt": "2026-09-22"
-    },
-    {
-      "key": "github:CherryHQ/cherry-studio",
-      "title": "CherryHQ/cherry-studio",
-      "url": "https://github.com/CherryHQ/cherry-studio",
-      "section": "github",
-      "source": "GitHub",
-      "sentAt": "2026-09-22"
-    },
-    {
-      "key": "hf:huggingface-co-papers-2609-24983",
-      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-      "url": "https://huggingface.co/papers/2609.24983",
-      "section": "ai",
-      "source": "HF Daily Papers",
-      "sentAt": "2026-09-22"
     }
   ]
 }
