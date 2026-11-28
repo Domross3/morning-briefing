@@ -2,6 +2,38 @@
   "version": 1,
   "sent": [
     {
+      "key": "hf:huggingface-co-papers-2611-32238",
+      "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+      "url": "https://huggingface.co/papers/2611.32238",
+      "section": "ai",
+      "source": "HF Daily Papers",
+      "sentAt": "2026-11-28"
+    },
+    {
+      "key": "OpenAI Research:openai-com-business-customer-stories-intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "section": "ai",
+      "source": "OpenAI Research",
+      "sentAt": "2026-11-28"
+    },
+    {
+      "key": "Hacker News:malspark-com-blog-malicious-gguf-models-hugging-face",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400+ Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "section": "tech",
+      "source": "Hacker News",
+      "sentAt": "2026-11-28"
+    },
+    {
+      "key": "legislation:news-google-com-rss-articles-cbmiqafbvv95cuxndmnszus4rvbfaji0rwizsxjyufzisuf2n0rnbgnmce1ru2hemgs5ewntazb2vdhjchc5yxlfa3pjzkxbnlpwnxzmq3hxrdn",
+      "title": "Governors Call for Increased, Aligned AI Policy Regulation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmNSZUs4RVBfajI0RWIzSXJyUFZiSUF2N0RnbGNmcE1rU2hEMGs5eWNtazB2VDhJcHc5YXlfa3pJZkxBNlpwNXZMQ3hXRDNaeXc3cTdzX1dBZ0tEX3lXRFhoQmZONkZVVFRNUWlvU05qZWNXWXR2STNLZm5oSzB0blJrZmFjYjY1bWwwekFuSUZTZ3M4dDRneFB0Z3laYWdfNFU1eTQ2blM?oc=5",
+      "section": "legislation",
+      "source": "AI Policy · GovTech",
+      "sentAt": "2026-11-28"
+    },
+    {
       "key": "opportunity:news-google-com-rss-articles-cbmiowfbvv95cuxowxk3alrwujjxv3rprfvrrlnvcmhbnexjbwjockt0wtzlwlp6bjaxzfbttkntdvqyv2f1z0rkaufksxditww1njd6zhnna2c",
       "title": "Aula Fellowship Global Call for AI Professionals 2026: Remote and Open Worldwide",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXk3alRwUjJXV3RPRFVrRlNVcmhBNExjbWJockt0WTZLWlp6bjAxZFBtTkNtdVQyV2F1Z0RKaUFkSXdITWw1Njd6ZHNNa2cyVlF5NjcxcHJneTRaaEhPeEEtdEZ4Yk0zaUpuX3ZMQnlYYWUtNUtLblpiSk5RZ2V0NWs0YWF4ZWRaZXZmaHdHaTZlOVh3MWhFUktaSFJxT0hnVGl3?oc=5",
@@ -3968,38 +4000,6 @@
       "section": "ai",
       "source": "OpenAI Research",
       "sentAt": "2026-09-24"
-    },
-    {
-      "key": "Hacker News:transluce-org-agent-activity",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "section": "tech",
-      "source": "Hacker News",
-      "sentAt": "2026-09-24"
-    },
-    {
-      "key": "legislation:news-google-com-rss-articles-cbmilafbvv95cuxnvnazy0c3nu5qtey4alnmwem0aji4qlh0tkrwyk9fnvnhdjqwcnlut1b3yjvgckjcc2g3atj2t0vavwtzlwxzd2zuam55r01",
-      "title": "Maryland moves forward with AI regulation plan focused on worker and child protections",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnAzY0c3NU5QTEY4alNMWEM0ajI4Qlh0TkRWYk9fNVNHdjQwcnluT1B3YjVGckJCc2g3aTJ2T0VaVWtzLWxZd2ZUam55R01kMW05bm5ySUF5MU1Cbnh0dFBSZGN3ZG9CNFY4TUxSc2YxYkwyemdKekcxNjFfaUZZNzVOTG9weGRyM3RCOGdWZEI5U3Nh?oc=5",
-      "section": "legislation",
-      "source": "AI Policy · WBAL-TV",
-      "sentAt": "2026-09-24"
-    },
-    {
-      "key": "hunter:jobs-ashbyhq-com-retell-ai-161bcfc9-56dd-4d0c-869d-e5de1431a940",
-      "title": "Forward Deployed Engineer, New Grad",
-      "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940",
-      "section": "opportunities",
-      "source": "Opportunity · Retell AI",
-      "sentAt": "2026-09-23"
-    },
-    {
-      "key": "github:davila7/claude-code-templates",
-      "title": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "section": "github",
-      "source": "GitHub Trending",
-      "sentAt": "2026-09-23"
     }
   ]
 }
